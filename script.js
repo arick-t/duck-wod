@@ -1,193 +1,128 @@
-// ===============================
-// DUCK-WOD Frontend Logic
-// ===============================
+const DATA_URL = "data/wods.json";
 
-const DATA_URL =
-  "https://raw.githubusercontent.com/arick-t/duck-wod/main/data/wods.json";
+let allData = null;
+let selectedDate = new Date().toISOString().slice(0, 10);
+let enabledSources = new Set();
 
-let allWods = [];
-let selectedDate = null;
-let selectedSources = new Set();
+document.addEventListener("DOMContentLoaded", () => {
+  loadData();
+});
 
-// -------------------------------
-// Utils
-// -------------------------------
-function todayISO() {
-  return new Date().toISOString().split("T")[0];
-}
-
-function addDays(dateStr, delta) {
-  const d = new Date(dateStr);
-  d.setDate(d.getDate() + delta);
-  return d.toISOString().split("T")[0];
-}
-
-function formatDayLabel(dateStr) {
-  const d = new Date(dateStr);
-  return d.toLocaleDateString("he-IL", {
-    weekday: "short",
-    day: "numeric",
-    month: "numeric",
-  });
-}
-
-// -------------------------------
-// Load data
-// -------------------------------
-async function loadWods() {
+async function loadData() {
   try {
     const res = await fetch(DATA_URL);
-    if (!res.ok) throw new Error("Failed to load wods.json");
+    if (!res.ok) throw new Error("Fetch failed");
+    allData = await res.json();
 
-    allWods = await res.json();
-
-    init();
-  } catch (err) {
-    console.error(err);
-    document.getElementById("app").innerHTML =
+    initSources();
+    initDatePicker();
+    render();
+  } catch (e) {
+    document.getElementById("content").innerHTML =
       "❌ שגיאה בטעינת אימונים";
+    console.error(e);
   }
 }
 
-// -------------------------------
-// Init
-// -------------------------------
-function init() {
-  selectedDate = todayISO();
+/* ---------- SOURCES ---------- */
 
-  buildLayout();
-  buildSourceSelector();
-  buildWeekSelector();
-  renderWods();
-}
+function initSources() {
+  const container = document.getElementById("sources");
+  container.innerHTML = "";
 
-// -------------------------------
-// Layout
-// -------------------------------
-function buildLayout() {
-  const app = document.getElementById("app");
+  allData.sources.forEach(src => {
+    enabledSources.add(src.id);
 
-  app.innerHTML = `
-    <div id="sources-bar"></div>
-    <div id="week-bar"></div>
-    <div id="wods-container"></div>
-  `;
-}
+    const label = document.createElement("label");
+    label.style.marginRight = "12px";
 
-// -------------------------------
-// Sources selector
-// -------------------------------
-function buildSourceSelector() {
-  const bar = document.getElementById("sources-bar");
+    const cb = document.createElement("input");
+    cb.type = "checkbox";
+    cb.checked = true;
+    cb.onchange = () => {
+      cb.checked ? enabledSources.add(src.id) : enabledSources.delete(src.id);
+      render();
+    };
 
-  const sources = [...new Set(allWods.map(w => w.source))];
-
-  sources.forEach(src => selectedSources.add(src));
-
-  bar.innerHTML = `
-    <h3>מקורות</h3>
-    ${sources
-      .map(
-        src => `
-        <label>
-          <input type="checkbox" checked data-source="${src}" />
-          ${src}
-        </label>
-      `
-      )
-      .join("")}
-  `;
-
-  bar.querySelectorAll("input").forEach(cb => {
-    cb.addEventListener("change", e => {
-      const src = e.target.dataset.source;
-      e.target.checked
-        ? selectedSources.add(src)
-        : selectedSources.delete(src);
-      renderWods();
-    });
+    label.appendChild(cb);
+    label.append(" " + src.name);
+    container.appendChild(label);
   });
 }
 
-// -------------------------------
-// Week selector
-// -------------------------------
-function buildWeekSelector() {
-  const bar = document.getElementById("week-bar");
+/* ---------- DATE PICKER ---------- */
 
-  const days = [];
+function initDatePicker() {
+  const container = document.getElementById("dates");
+  container.innerHTML = "";
+
+  const today = new Date(selectedDate);
+
   for (let i = -3; i <= 3; i++) {
-    days.push(addDays(selectedDate, i));
+    const d = new Date(today);
+    d.setDate(today.getDate() + i);
+    const iso = d.toISOString().slice(0, 10);
+
+    const btn = document.createElement("button");
+    btn.textContent = iso === selectedDate ? "היום" : iso.slice(5);
+    btn.className = iso === selectedDate ? "active" : "";
+
+    btn.onclick = () => {
+      selectedDate = iso;
+      initDatePicker();
+      render();
+    };
+
+    container.appendChild(btn);
   }
+}
 
-  bar.innerHTML = `
-    <h3>בחר יום</h3>
-    <div class="week">
-      ${days
-        .map(
-          d => `
-          <button class="day ${
-            d === selectedDate ? "active" : ""
-          }" data-date="${d}">
-            ${formatDayLabel(d)}
-          </button>
-        `
-        )
-        .join("")}
-    </div>
-  `;
+/* ---------- RENDER ---------- */
 
-  bar.querySelectorAll(".day").forEach(btn => {
-    btn.addEventListener("click", e => {
-      selectedDate = e.target.dataset.date;
-      buildWeekSelector();
-      renderWods();
+function render() {
+  const container = document.getElementById("content");
+  container.innerHTML = "";
+
+  let foundAny = false;
+
+  allData.sources.forEach(src => {
+    if (!enabledSources.has(src.id)) return;
+
+    const wod = src.wods.find(w => w.date === selectedDate);
+    if (!wod) return;
+
+    foundAny = true;
+
+    const block = document.createElement("div");
+    block.className = "wod";
+
+    const title = document.createElement("h2");
+    title.textContent = src.name;
+    block.appendChild(title);
+
+    wod.sections.forEach(sec => {
+      const secEl = document.createElement("div");
+      secEl.className = "section";
+
+      const h3 = document.createElement("h3");
+      h3.textContent = sec.title;
+      secEl.appendChild(h3);
+
+      const ul = document.createElement("ul");
+      sec.lines.forEach(line => {
+        const li = document.createElement("li");
+        li.textContent = line;
+        ul.appendChild(li);
+      });
+
+      secEl.appendChild(ul);
+      block.appendChild(secEl);
     });
+
+    container.appendChild(block);
   });
-}
 
-// -------------------------------
-// Render WODs
-// -------------------------------
-function renderWods() {
-  const container = document.getElementById("wods-container");
-
-  const wods = allWods.filter(
-    w =>
-      w.date === selectedDate &&
-      selectedSources.has(w.source)
-  );
-
-  if (wods.length === 0) {
-    container.innerHTML =
-      "<p>אין אימונים זמינים ליום זה עבור המקורות שנבחרו</p>";
-    return;
+  if (!foundAny) {
+    container.innerHTML = "❌ אין אימונים ליום זה";
   }
-
-  container.innerHTML = wods
-    .map(
-      wod => `
-      <div class="wod-card">
-        <h4>${wod.source}</h4>
-        ${wod.sections
-          .map(
-            s => `
-            <div class="section">
-              <strong>${s.title}</strong>
-              <ul>
-                ${s.lines.map(l => `<li>${l}</li>`).join("")}
-              </ul>
-            </div>
-          `
-          )
-          .join("")}
-      </div>
-    `
-    )
-    .join("");
 }
-
-// -------------------------------
-// Start
-// -------------------------------
-document.addEventListener("DOMContentLoaded", loadWods);
