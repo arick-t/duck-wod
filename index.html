@@ -2,33 +2,61 @@
 <html lang="he">
 <head>
   <meta charset="UTF-8" />
-  <title>Duck WOD</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link rel="stylesheet" href="style.css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>DUCK-WOD 🦆</title>
+
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🦆</text></svg>">
+
+  <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
+
+<div class="container">
+
+  <!-- HEADER -->
   <header>
-    <h1>Duck WOD 🦆</h1>
+    <div class="logo">
+      <h1>DUCK-WOD 🦆</h1>
+    </div>
+
+    <!-- SOURCES FILTER -->
+    <div id="sources-filter" class="tabs">
+      <!-- נטען דינמית -->
+    </div>
+
+    <!-- DAYS PICKER -->
+    <div id="days-picker" class="tabs">
+      <!-- נטען דינמית -->
+    </div>
   </header>
 
-  <!-- SOURCE SELECTOR -->
-  <section>
-    <h2>מקורות</h2>
-    <div id="sources"></div>
-  </section>
+  <!-- ADD SOURCE -->
+  <section id="add-source" class="form-section">
+    <h2>➕ הוספת מקור אימונים</h2>
 
-  <!-- DAY SELECTOR -->
-  <section>
-    <h2>ימים</h2>
-    <div id="days" class="days"></div>
+    <div class="form-row">
+      <label>שם המקור</label>
+      <input id="source-name" placeholder="לדוגמה: CrossFit Postal">
+    </div>
+
+    <div class="form-row">
+      <label>כתובת האתר</label>
+      <input id="source-url" placeholder="https://example.com/wod">
+    </div>
+
+    <button class="btn-primary" onclick="addSource()">הוסף מקור</button>
+
+    <div id="add-source-status"></div>
   </section>
 
   <!-- WODS -->
-  <main>
-    <div id="wods">טוען אימונים…</div>
+  <main id="wods-container" class="wods-container">
+    <div id="loading">⏳ טוען אימונים…</div>
   </main>
 
-  <script src="script.js"></script>
+</div>
+
+<script src="script.js"></script>
 </body>
 </html>
