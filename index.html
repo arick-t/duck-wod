@@ -2,152 +2,35 @@
 <html lang="he">
 <head>
   <meta charset="UTF-8" />
-  <title>🦆 DUCK-WOD</title>
+  <title>DUCK-WOD 🦆</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-  <style>
-    body {
-      margin: 0;
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-      background: #0f172a;
-      color: #e5e7eb;
-    }
-
-    header {
-      padding: 16px;
-      text-align: center;
-      background: #020617;
-      border-bottom: 1px solid #1e293b;
-    }
-
-    h1 {
-      margin: 0;
-      font-size: 24px;
-    }
-
-    .container {
-      padding: 16px;
-      max-width: 900px;
-      margin: auto;
-    }
-
-    .status {
-      text-align: center;
-      margin-top: 40px;
-      opacity: 0.8;
-    }
-
-    .wod-card {
-      background: #020617;
-      border: 1px solid #1e293b;
-      border-radius: 12px;
-      padding: 16px;
-      margin-bottom: 16px;
-    }
-
-    .wod-header {
-      display: flex;
-      justify-content: space-between;
-      margin-bottom: 12px;
-      font-weight: bold;
-    }
-
-    .wod-source {
-      color: #38bdf8;
-    }
-
-    .wod-date {
-      opacity: 0.7;
-    }
-
-    .wod-section {
-      margin-top: 12px;
-    }
-
-    .section-title {
-      font-weight: bold;
-      margin-bottom: 4px;
-      color: #facc15;
-    }
-
-    ul {
-      margin: 0;
-      padding-left: 18px;
-    }
-
-    li {
-      margin-bottom: 4px;
-    }
-  </style>
+  <link rel="stylesheet" href="style.css" />
 </head>
-
 <body>
 
 <header>
   <h1>🦆 DUCK-WOD</h1>
-  <div>האימונים היומיים – מכל המקורות</div>
+  <p>אימונים יומיים ממועדוני CrossFit</p>
 </header>
 
-<div class="container">
-  <div id="status" class="status">טוען אימונים…</div>
-  <div id="wods"></div>
-</div>
+<section class="controls">
+  <label>
+    מקור:
+    <select id="sourceFilter">
+      <option value="all">כל המקורות</option>
+    </select>
+  </label>
 
-<script>
-async function loadWods() {
-  const status = document.getElementById('status');
-  const container = document.getElementById('wods');
+  <label>
+    תאריך:
+    <input type="date" id="dateFilter" />
+  </label>
+</section>
 
-  try {
-    const res = await fetch('data/wods.json');
-    if (!res.ok) throw new Error('HTTP ' + res.status);
+<main id="wods">
+  <p class="loading">טוען אימונים…</p>
+</main>
 
-    const data = await res.json();
-
-    if (!data.sources || data.sources.length === 0) {
-      status.textContent = 'לא נמצאו מקורות 🤷‍♂️';
-      return;
-    }
-
-    status.remove();
-
-    data.sources.forEach(source => {
-      source.wods.forEach(wod => {
-        const card = document.createElement('div');
-        card.className = 'wod-card';
-
-        card.innerHTML = `
-          <div class="wod-header">
-            <div class="wod-source">${source.name}</div>
-            <div class="wod-date">${wod.date}</div>
-          </div>
-        `;
-
-        wod.sections.forEach(section => {
-          const sec = document.createElement('div');
-          sec.className = 'wod-section';
-
-          sec.innerHTML = `
-            <div class="section-title">${section.title}</div>
-            <ul>
-              ${section.lines.map(line => `<li>${line}</li>`).join('')}
-            </ul>
-          `;
-
-          card.appendChild(sec);
-        });
-
-        container.appendChild(card);
-      });
-    });
-
-  } catch (err) {
-    status.textContent = '❌ שגיאה בטעינת האימונים';
-  }
-}
-
-loadWods();
-</script>
-
+<script src="script.js"></script>
 </body>
 </html>
