@@ -1,25 +1,20 @@
-{
-  "sources": [
-    {
-      "id": "myleo",
-      "name": "myleo CrossFit",
-      "base_url": "https://myleo.de/en/wods/",
-      "has_archive": true,
-      "active": true
-    },
-    {
-      "id": "crossfit",
-      "name": "CrossFit.com",
-      "base_url": "https://www.crossfit.com/",
-      "has_archive": true,
-      "active": true
-    },
-    {
-      "id": "linchpin",
-      "name": "CrossFit Linchpin",
-      "base_url": "https://crossfitlinchpin.com/pages/workout-of-the-day",
-      "has_archive": false,
-      "active": true
-    }
-  ]
-}
+[
+  {
+    "id": "myleo",
+    "name": "myleo CrossFit",
+    "url": "https://myleo.de/en/wods/",
+    "enabled": true
+  },
+  {
+    "id": "crossfit",
+    "name": "CrossFit.com",
+    "url": "https://www.crossfit.com/",
+    "enabled": true
+  },
+  {
+    "id": "linchpin",
+    "name": "CrossFit Linchpin",
+    "url": "https://crossfitlinchpin.com/pages/workout-of-the-day",
+    "enabled": true
+  }
+]

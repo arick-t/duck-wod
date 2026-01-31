@@ -1,103 +1,138 @@
 """
-myleo CrossFit Scraper
-Fetches WODs from myleo.de/en/wods/
+myleo CrossFit Scraper - V2.0
+Extracts ONLY workout content with structured sections
 """
 
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
-import time
+import re
+
+
+def clean_line(text):
+    """Clean a single line of text"""
+    text = re.sub(r'\s+', ' ', text).strip()
+    return text
+
+
+def parse_workout_sections(raw_text):
+    """
+    Parse workout into structured sections
+    Returns: [{'title': str, 'lines': [str, str, ...]}, ...]
+    """
+    sections = []
+    current_section = None
+    
+    lines = [line.strip() for line in raw_text.split('\n') if line.strip()]
+    
+    for line in lines:
+        # Pattern 1: a) warm up, b) strength, etc.
+        match = re.match(r'^([a-z])\)\s*(.+)', line, re.IGNORECASE)
+        if match:
+            # Save previous section
+            if current_section and current_section['lines']:
+                sections.append(current_section)
+            
+            # Start new section
+            title = clean_line(match.group(2))
+            current_section = {'title': title, 'lines': []}
+            continue
+        
+        # Pattern 2: Short line that looks like a header (less than 30 chars, contains keywords)
+        if len(line) < 30 and not re.search(r'\d+\s*(reps|rounds|min|sec|kg|lbs)', line.lower()):
+            keywords = ['warm', 'strength', 'conditioning', 'metcon', 'skill', 'mobility', 'wod']
+            if any(kw in line.lower() for kw in keywords):
+                if current_section and current_section['lines']:
+                    sections.append(current_section)
+                current_section = {'title': clean_line(line), 'lines': []}
+                continue
+        
+        # Regular line - add to current section
+        if current_section is not None:
+            cleaned = clean_line(line)
+            if cleaned and len(cleaned) > 1:
+                current_section['lines'].append(cleaned)
+        else:
+            # No section yet, create default "Workout" section
+            if not sections:
+                current_section = {'title': 'Workout', 'lines': [clean_line(line)]}
+    
+    # Add last section
+    if current_section and current_section['lines']:
+        sections.append(current_section)
+    
+    return sections
 
 
 def fetch_wod(date):
-    """
-    Fetch a single WOD from myleo for a specific date
-    
-    Args:
-        date: datetime object
-        
-    Returns:
-        dict with WOD data or None if not found
-    """
+    """Fetch WOD from myleo - returns structured data"""
     date_str = date.strftime('%Y-%m-%d')
     url = f'https://myleo.de/en/wods/{date_str}/'
     
     try:
-        print(f"  Fetching myleo for {date_str}...")
+        print(f"  Fetching myleo {date_str}...")
         response = requests.get(url, timeout=10)
         response.raise_for_status()
         
         soup = BeautifulSoup(response.text, 'html.parser')
         
-        # Find the main WOD section
-        wod_content = None
+        # Remove noise
+        for tag in soup.find_all(['script', 'style', 'nav', 'footer', 'header', 'form']):
+            tag.decompose()
         
-        # Try to find the article content
-        article = soup.find('article', class_='post')
+        # Find workout content
+        content = None
+        
+        # Try article > entry-content
+        article = soup.find('article')
         if article:
-            # Get all text content, preserving structure
-            content_div = article.find('div', class_='entry-content')
-            if content_div:
-                # Extract text with proper formatting
-                wod_content = content_div.get_text(separator='\n', strip=True)
-        
-        # Alternative: look for specific WOD sections
-        if not wod_content:
-            wod_section = soup.find('div', class_='wod-single')
-            if wod_section:
-                wod_content = wod_section.get_text(separator='\n', strip=True)
-        
-        # Last resort: find any content that looks like a WOD
-        if not wod_content:
-            # Look for content between headers
-            content_area = soup.find('main') or soup.find('article')
-            if content_area:
-                wod_content = content_area.get_text(separator='\n', strip=True)
-        
-        if wod_content:
-            # Clean up the content
-            lines = [line.strip() for line in wod_content.split('\n') if line.strip()]
-            # Filter out navigation/footer elements
-            filtered_lines = [
-                line for line in lines 
-                if not any(skip in line.lower() for skip in [
-                    'cookie', 'privacy', 'login', 'weekly overview',
-                    'post your score', 'navigation', 'menu'
-                ])
-            ]
-            wod_content = '\n'.join(filtered_lines[:100])  # Limit to first 100 lines
+            for unwanted in article.find_all(class_=['post-navigation', 'comments', 'share', 'tags']):
+                unwanted.decompose()
             
-            if len(wod_content) > 50:  # Must have substantial content
-                return {
-                    'date': date_str,
-                    'source': 'myleo CrossFit',
-                    'full_text': wod_content,
-                    'url': url,
-                    'fetched_at': datetime.now().isoformat()
-                }
+            entry = article.find('div', class_='entry-content')
+            if entry:
+                content = entry.get_text(separator='\n', strip=True)
         
-        print(f"  ⚠️  No WOD content found for {date_str}")
-        return None
+        if not content:
+            # Fallback
+            main = soup.find('main') or soup.find('div', class_='wod')
+            if main:
+                content = main.get_text(separator='\n', strip=True)
         
-    except requests.RequestException as e:
-        print(f"  ❌ Error fetching myleo for {date_str}: {e}")
-        return None
+        if not content or len(content) < 30:
+            return None
+        
+        # Filter unwanted lines
+        skip = ['weekly overview', 'post your score', 'compare to', 'skill class', 
+                'cookie', 'privacy', 'login', 'register', 'comments']
+        
+        lines = [l.strip() for l in content.split('\n') if l.strip()]
+        filtered = [l for l in lines if not any(s in l.lower() for s in skip)]
+        
+        clean_content = '\n'.join(filtered)
+        
+        # Parse sections
+        sections = parse_workout_sections(clean_content)
+        
+        if not sections:
+            return None
+        
+        return {
+            'date': date_str,
+            'sections': sections,
+            'url': url
+        }
+        
     except Exception as e:
-        print(f"  ❌ Unexpected error for {date_str}: {e}")
+        print(f"  ❌ myleo error: {e}")
         return None
-
-
-def test():
-    """Test the scraper with today's date"""
-    print("Testing myleo scraper...")
-    result = fetch_wod(datetime.now())
-    if result:
-        print(f"✅ Success! Fetched {len(result['full_text'])} characters")
-        print(f"Preview: {result['full_text'][:200]}...")
-    else:
-        print("❌ Failed to fetch WOD")
-    return result
 
 
 if __name__ == '__main__':
-    test()
+    result = fetch_wod(datetime.now())
+    if result:
+        print(f"✅ {len(result['sections'])} sections")
+        for s in result['sections']:
+            print(f"  [{s['title']}] {len(s['lines'])} lines")
+    else:
+        print("❌ Failed")

@@ -1,39 +1,27 @@
 <!DOCTYPE html>
-<html lang="he" dir="rtl">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DUCK-WOD 🦆 - אימוני קרוספיט יומיים</title>
+    <title>DUCK-WOD 🦆</title>
     <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🦆</text></svg>">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Assistant:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
         body {
-            font-family: 'Assistant', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
             background: #0d0d0d;
-            min-height: 100vh;
-            padding: 20px;
             color: #e0e0e0;
+            padding: 20px;
         }
 
-        .container {
-            max-width: 1400px;
-            margin: 0 auto;
-        }
+        .container { max-width: 1400px; margin: 0 auto; }
 
         /* Header */
         header {
             background: #1a1a1a;
             padding: 30px;
             border-radius: 12px;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.3);
             margin-bottom: 30px;
             border: 1px solid #2a2a2a;
         }
@@ -43,32 +31,16 @@
             align-items: center;
             justify-content: center;
             gap: 15px;
-            margin-bottom: 25px;
+            margin-bottom: 20px;
         }
 
-        .logo-icon {
-            font-size: 3em;
-        }
-
-        h1 {
-            color: #dc2626;
-            font-size: 2.5em;
-            font-weight: 800;
-            letter-spacing: 2px;
-        }
-
-        .tagline {
-            text-align: center;
-            color: #888;
-            font-size: 0.9em;
-            margin-top: 5px;
-        }
+        h1 { color: #dc2626; font-size: 2.5em; font-weight: 800; }
 
         /* Tabs */
         .tabs {
             display: flex;
             gap: 10px;
-            margin-bottom: 25px;
+            margin-top: 20px;
             flex-wrap: wrap;
             justify-content: center;
         }
@@ -80,161 +52,20 @@
             border: 1px solid #3a3a3a;
             border-radius: 8px;
             cursor: pointer;
-            font-size: 1em;
             font-weight: 600;
             transition: all 0.2s;
         }
 
-        .tab-btn:hover {
-            background: #3a3a3a;
-            border-color: #dc2626;
-        }
+        .tab-btn:hover { background: #3a3a3a; border-color: #dc2626; }
+        .tab-btn.active { background: #dc2626; color: white; }
 
-        .tab-btn.active {
-            background: #dc2626;
-            border-color: #dc2626;
-            color: white;
-        }
-
-        /* Tab Content */
-        .tab-content {
-            display: none;
-        }
-
-        .tab-content.active {
-            display: block;
-        }
-
-        /* Browse Tab */
-        .date-selector {
-            display: flex;
-            justify-content: center;
-            gap: 10px;
-            flex-wrap: wrap;
-            margin-bottom: 15px;
-        }
-
-        .date-btn {
-            padding: 10px 20px;
-            background: #2a2a2a;
-            color: #e0e0e0;
-            border: 1px solid #3a3a3a;
-            border-radius: 8px;
-            cursor: pointer;
-            font-size: 0.95em;
-            transition: all 0.2s;
-            font-weight: 600;
-        }
-
-        .date-btn:hover {
-            background: #3a3a3a;
-            border-color: #dc2626;
-        }
-
-        .date-btn.active {
-            background: #dc2626;
-            border-color: #dc2626;
-            color: white;
-        }
-
-        .selected-date {
-            text-align: center;
-            font-size: 1.1em;
-            color: #b0b0b0;
-            margin-top: 15px;
-            font-weight: 600;
-        }
-
-        /* Find Workout Tab */
-        .find-workout-form {
-            background: #1a1a1a;
-            padding: 30px;
-            border-radius: 12px;
-            border: 1px solid #2a2a2a;
-            max-width: 800px;
-            margin: 0 auto 30px;
-        }
-
-        .form-group {
-            margin-bottom: 25px;
-        }
-
-        .form-group label {
-            display: block;
-            color: #dc2626;
-            font-weight: 700;
-            margin-bottom: 10px;
-            font-size: 1.1em;
-        }
-
-        .form-group input[type="number"] {
-            width: 100%;
-            padding: 12px;
-            background: #2a2a2a;
-            border: 1px solid #3a3a3a;
-            border-radius: 8px;
-            color: #e0e0e0;
-            font-size: 1.1em;
-            font-family: 'Assistant', sans-serif;
-        }
-
-        .equipment-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
-            gap: 10px;
-        }
-
-        .equipment-item {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            padding: 10px;
-            background: #2a2a2a;
-            border-radius: 6px;
-            cursor: pointer;
-            transition: all 0.2s;
-        }
-
-        .equipment-item:hover {
-            background: #3a3a3a;
-        }
-
-        .equipment-item input[type="checkbox"] {
-            width: 18px;
-            height: 18px;
-            cursor: pointer;
-            accent-color: #dc2626;
-        }
-
-        .equipment-item label {
-            cursor: pointer;
-            font-weight: 500;
-            margin: 0 !important;
-        }
-
-        .find-btn {
-            width: 100%;
-            padding: 15px;
-            background: #dc2626;
-            color: white;
-            border: none;
-            border-radius: 8px;
-            font-size: 1.2em;
-            font-weight: 700;
-            cursor: pointer;
-            transition: all 0.2s;
-            margin-top: 10px;
-        }
-
-        .find-btn:hover {
-            background: #b91c1c;
-            transform: translateY(-2px);
-        }
+        .tab-content { display: none; }
+        .tab-content.active { display: block; }
 
         /* WOD Cards */
         .wods-container {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
             gap: 25px;
             margin-top: 30px;
         }
@@ -243,19 +74,13 @@
             background: #1a1a1a;
             border-radius: 12px;
             padding: 25px;
-            box-shadow: 0 2px 8px rgba(0,0,0,0.3);
-            transition: transform 0.2s, box-shadow 0.2s;
             border: 1px solid #2a2a2a;
+            transition: all 0.2s;
         }
 
         .wod-card:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 4px 12px rgba(0,0,0,0.4);
             border-color: #dc2626;
-        }
-
-        .wod-card.match-result {
-            border: 2px solid #dc2626;
+            transform: translateY(-2px);
         }
 
         .wod-header {
@@ -268,15 +93,45 @@
             font-size: 1.3em;
             font-weight: 700;
             color: #dc2626;
-            margin-bottom: 8px;
+            margin-bottom: 5px;
         }
 
-        .wod-date {
-            color: #888;
-            font-size: 0.9em;
-            font-weight: 500;
+        .wod-date { color: #888; font-size: 0.9em; }
+
+        /* Sections with bullets */
+        .wod-section {
+            margin-bottom: 20px;
+            text-align: left;
         }
 
+        .section-title {
+            font-weight: 700;
+            color: #dc2626;
+            text-decoration: underline;
+            margin-bottom: 10px;
+            font-size: 1.1em;
+        }
+
+        .section-lines {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .section-lines li {
+            padding: 4px 0 4px 20px;
+            position: relative;
+            font-weight: normal;
+        }
+
+        .section-lines li:before {
+            content: "•";
+            position: absolute;
+            left: 0;
+            color: #dc2626;
+            font-weight: bold;
+        }
+
+        /* Match score badge */
         .match-score {
             display: inline-block;
             background: #dc2626;
@@ -284,33 +139,97 @@
             padding: 5px 15px;
             border-radius: 20px;
             font-weight: 700;
-            margin-right: 10px;
+            margin-left: 10px;
             font-size: 0.9em;
         }
 
-        .wod-content {
-            color: #d0d0d0;
-            line-height: 1.8;
-            white-space: pre-wrap;
-            font-size: 0.95em;
-        }
-
-        .wod-link {
-            display: block;
-            margin-top: 15px;
-            color: #dc2626;
-            text-decoration: none;
-            font-weight: 600;
-            font-size: 0.9em;
-        }
-
-        .wod-link:hover {
-            color: #f87171;
-        }
-
-        /* Manage Sources Tab */
-        .sources-list {
+        /* Forms */
+        .form-section {
+            background: #1a1a1a;
+            padding: 30px;
+            border-radius: 12px;
+            border: 1px solid #2a2a2a;
             max-width: 800px;
+            margin: 0 auto 30px;
+        }
+
+        .form-row {
+            margin-bottom: 20px;
+        }
+
+        .form-row label {
+            display: block;
+            color: #dc2626;
+            font-weight: 600;
+            margin-bottom: 8px;
+            font-size: 1.1em;
+        }
+
+        .form-row input {
+            width: 100%;
+            padding: 12px;
+            background: #2a2a2a;
+            border: 1px solid #3a3a3a;
+            border-radius: 6px;
+            color: #e0e0e0;
+            font-size: 1em;
+        }
+
+        /* Equipment grid */
+        .equipment-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: 10px;
+            margin-top: 10px;
+        }
+
+        .equipment-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 10px;
+            background: #2a2a2a;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+
+        .equipment-item:hover { background: #3a3a3a; }
+
+        .equipment-item input {
+            width: 18px;
+            height: 18px;
+            cursor: pointer;
+            accent-color: #dc2626;
+        }
+
+        .equipment-item label {
+            cursor: pointer;
+            flex: 1;
+            font-weight: 500;
+        }
+
+        /* Buttons */
+        .btn-primary {
+            padding: 14px 28px;
+            background: #dc2626;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 1.1em;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .btn-primary:hover {
+            background: #b91c1c;
+            transform: translateY(-2px);
+        }
+
+        /* Sources list */
+        .sources-list {
+            max-width: 900px;
             margin: 0 auto;
         }
 
@@ -323,84 +242,84 @@
             display: flex;
             justify-content: space-between;
             align-items: center;
+            gap: 20px;
+        }
+
+        .source-info {
+            flex: 1;
         }
 
         .source-info h3 {
             color: #dc2626;
             margin-bottom: 5px;
+            font-size: 1.2em;
         }
 
         .source-info p {
             color: #888;
             font-size: 0.9em;
+            word-break: break-all;
         }
 
         .source-controls {
             display: flex;
-            gap: 10px;
+            gap: 15px;
+            align-items: center;
         }
 
-        .toggle-btn {
+        /* Toggle switch */
+        .toggle-switch {
+            position: relative;
+            width: 60px;
+            height: 30px;
+            background: #4a4a4a;
+            border-radius: 15px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+
+        .toggle-switch.active { background: #16a34a; }
+
+        .toggle-switch .slider {
+            position: absolute;
+            top: 3px;
+            left: 3px;
+            width: 24px;
+            height: 24px;
+            background: white;
+            border-radius: 50%;
+            transition: transform 0.3s;
+        }
+
+        .toggle-switch.active .slider {
+            transform: translateX(30px);
+        }
+
+        .delete-btn {
             padding: 8px 16px;
+            background: #7f1d1d;
+            color: white;
             border: none;
             border-radius: 6px;
             cursor: pointer;
             font-weight: 600;
-            transition: all 0.2s;
+            transition: background 0.2s;
         }
 
-        .toggle-btn.active {
-            background: #16a34a;
-            color: white;
-        }
+        .delete-btn:hover { background: #991b1b; }
 
-        .toggle-btn.inactive {
-            background: #6b7280;
-            color: white;
-        }
-
-        .add-source-btn {
-            padding: 15px 30px;
-            background: #dc2626;
-            color: white;
-            border: none;
-            border-radius: 8px;
-            font-size: 1.1em;
-            font-weight: 700;
-            cursor: pointer;
-            margin-top: 20px;
-            width: 100%;
-            max-width: 400px;
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-        }
-
-        /* Loading & Messages */
-        .loading, .error, .no-results {
+        .loading, .error {
             text-align: center;
             padding: 40px;
-            font-size: 1.2em;
             color: #888;
+            font-size: 1.1em;
         }
 
-        .error {
-            color: #dc2626;
-        }
+        .error { color: #dc2626; }
 
-        /* Responsive */
         @media (max-width: 768px) {
-            .wods-container {
-                grid-template-columns: 1fr;
-            }
-            
-            h1 {
-                font-size: 1.8em;
-            }
-            
-            .equipment-grid {
-                grid-template-columns: 1fr;
-            }
+            .wods-container { grid-template-columns: 1fr; }
+            .source-item { flex-direction: column; align-items: flex-start; }
         }
     </style>
 </head>
@@ -408,436 +327,504 @@
     <div class="container">
         <header>
             <div class="logo">
-                <span class="logo-icon">🦆</span>
-                <div>
-                    <h1>DUCK-WOD</h1>
-                    <p class="tagline">אימוני קרוספיט יומיים - בחירה חכמה</p>
-                </div>
+                <span style="font-size: 3em;">🦆</span>
+                <h1>DUCK-WOD</h1>
             </div>
-
             <div class="tabs">
-                <button class="tab-btn active" onclick="switchTab('browse')">🗓️ עיון באימונים</button>
-                <button class="tab-btn" onclick="switchTab('find')">🔍 מצא אימון</button>
-                <button class="tab-btn" onclick="switchTab('sources')">⚙️ ניהול מקורות</button>
+                <button class="tab-btn active" onclick="switchTab('browse')">Browse Workouts</button>
+                <button class="tab-btn" onclick="switchTab('find')">Find Workout</button>
+                <button class="tab-btn" onclick="switchTab('sources')">Manage Sources</button>
             </div>
         </header>
 
-        <!-- Browse Tab -->
+        <!-- BROWSE TAB -->
         <div id="browse-tab" class="tab-content active">
-            <div class="date-selector" id="dateSelector"></div>
-            <div class="selected-date" id="selectedDate"></div>
             <div class="wods-container" id="wodsContainer">
-                <div class="loading">טוען אימונים...</div>
+                <div class="loading">Loading workouts...</div>
             </div>
         </div>
 
-        <!-- Find Workout Tab -->
+        <!-- FIND WORKOUT TAB -->
         <div id="find-tab" class="tab-content">
-            <div class="find-workout-form">
-                <div class="form-group">
-                    <label for="duration">⏱️ זמן פנוי (בדקות)</label>
-                    <input type="number" id="duration" min="1" max="180" value="20" placeholder="20">
+            <div class="form-section">
+                <h2 style="color: #dc2626; margin-bottom: 25px; text-align: center;">🎯 Find Your Perfect Workout</h2>
+                
+                <div class="form-row">
+                    <label>⏱️ Available Time (minutes)</label>
+                    <input type="number" id="findTime" min="1" max="180" value="20">
                 </div>
 
-                <div class="form-group">
-                    <label>🏋️ ציוד זמין</label>
-                    <div class="equipment-grid" id="equipmentGrid">
-                        <div class="equipment-item">
-                            <input type="checkbox" id="eq-run" value="RUN">
-                            <label for="eq-run">ריצה</label>
-                        </div>
-                        <div class="equipment-item">
-                            <input type="checkbox" id="eq-wallball" value="WALL-BALL">
-                            <label for="eq-wallball">וול-בול</label>
-                        </div>
-                        <div class="equipment-item">
-                            <input type="checkbox" id="eq-pullup" value="PULL-UP">
-                            <label for="eq-pullup">מתח</label>
-                        </div>
-                        <div class="equipment-item">
-                            <input type="checkbox" id="eq-pushup" value="PUSH-UP">
-                            <label for="eq-pushup">שכיבות סמיכה</label>
-                        </div>
-                        <div class="equipment-item">
-                            <input type="checkbox" id="eq-wallwalk" value="WALL-WALK">
-                            <label for="eq-wallwalk">וול-ווק</label>
-                        </div>
-                        <div class="equipment-item">
-                            <input type="checkbox" id="eq-hspu" value="HAND-STAND PUSHUP">
-                            <label for="eq-hspu">דחיפת יד</label>
-                        </div>
-                        <div class="equipment-item">
-                            <input type="checkbox" id="eq-barbell" value="BARBELL">
-                            <label for="eq-barbell">מוט</label>
-                        </div>
-                        <div class="equipment-item">
-                            <input type="checkbox" id="eq-kettlebell" value="KETTLEBELL">
-                            <label for="eq-kettlebell">קטלבל</label>
-                        </div>
-                        <div class="equipment-item">
-                            <input type="checkbox" id="eq-dumbbell" value="DUMBBELL">
-                            <label for="eq-dumbbell">משקולות יד</label>
-                        </div>
-                        <div class="equipment-item">
-                            <input type="checkbox" id="eq-bike" value="BIKE">
-                            <label for="eq-bike">אופניים</label>
-                        </div>
-                        <div class="equipment-item">
-                            <input type="checkbox" id="eq-ski" value="SKI">
-                            <label for="eq-ski">סקי ארג</label>
-                        </div>
-                        <div class="equipment-item">
-                            <input type="checkbox" id="eq-row" value="ROW">
-                            <label for="eq-row">חתירה</label>
-                        </div>
-                        <div class="equipment-item">
-                            <input type="checkbox" id="eq-sandbag" value="SANDBAG">
-                            <label for="eq-sandbag">שק חול</label>
-                        </div>
+                <div class="form-row">
+                    <label>🏋️ Available Equipment (select all that apply)</label>
+                    <div class="equipment-grid">
+                        <label class="equipment-item">
+                            <input type="checkbox" value="RUN">
+                            <span>RUN</span>
+                        </label>
+                        <label class="equipment-item">
+                            <input type="checkbox" value="WALL-BALL">
+                            <span>WALL-BALL</span>
+                        </label>
+                        <label class="equipment-item">
+                            <input type="checkbox" value="PULL-UP">
+                            <span>PULL-UP</span>
+                        </label>
+                        <label class="equipment-item">
+                            <input type="checkbox" value="PUSH-UP">
+                            <span>PUSH-UP</span>
+                        </label>
+                        <label class="equipment-item">
+                            <input type="checkbox" value="WALL-WALK">
+                            <span>WALL-WALK</span>
+                        </label>
+                        <label class="equipment-item">
+                            <input type="checkbox" value="HAND-STAND PUSHUP">
+                            <span>HAND-STAND PUSHUP</span>
+                        </label>
+                        <label class="equipment-item">
+                            <input type="checkbox" value="BARBELL">
+                            <span>BARBELL</span>
+                        </label>
+                        <label class="equipment-item">
+                            <input type="checkbox" value="KETTLEBELL">
+                            <span>KETTLEBELL</span>
+                        </label>
+                        <label class="equipment-item">
+                            <input type="checkbox" value="DUMBBELL">
+                            <span>DUMBBELL</span>
+                        </label>
+                        <label class="equipment-item">
+                            <input type="checkbox" value="BIKE">
+                            <span>BIKE</span>
+                        </label>
+                        <label class="equipment-item">
+                            <input type="checkbox" value="SKI">
+                            <span>SKI</span>
+                        </label>
+                        <label class="equipment-item">
+                            <input type="checkbox" value="ROW">
+                            <span>ROW</span>
+                        </label>
+                        <label class="equipment-item">
+                            <input type="checkbox" value="SANDBAG">
+                            <span>SANDBAG</span>
+                        </label>
                     </div>
                 </div>
 
-                <button class="find-btn" onclick="findWorkout()">🎯 מצא אימון מתאים</button>
+                <button class="btn-primary" style="width: 100%; margin-top: 10px;" onclick="findWorkout()">
+                    Find Best Match
+                </button>
             </div>
 
             <div class="wods-container" id="findResults"></div>
         </div>
 
-        <!-- Manage Sources Tab -->
+        <!-- MANAGE SOURCES TAB -->
         <div id="sources-tab" class="tab-content">
-            <div class="sources-list" id="sourcesList">
-                <div class="loading">טוען מקורות...</div>
+            <div class="form-section">
+                <h2 style="color: #dc2626; margin-bottom: 25px; text-align: center;">➕ Add New Source</h2>
+                
+                <div class="form-row">
+                    <label>Source Name</label>
+                    <input type="text" id="newSourceName" placeholder="e.g., My CrossFit Box">
+                </div>
+                
+                <div class="form-row">
+                    <label>Source URL (must support at least 14 days archive)</label>
+                    <input type="url" id="newSourceUrl" placeholder="https://example.com/wods/">
+                    <small style="color: #888; display: block; margin-top: 5px;">
+                        ⚠️ Note: URL will be validated before adding
+                    </small>
+                </div>
+                
+                <button class="btn-primary" style="width: 100%;" onclick="addSource()">
+                    Add Source
+                </button>
             </div>
-            <button class="add-source-btn" onclick="alert('פיצ\'ר הוספת מקור יהיה זמין בקרוב!')">➕ הוסף מקור חדש</button>
+
+            <div class="sources-list" id="sourcesList">
+                <div class="loading">Loading sources...</div>
+            </div>
         </div>
     </div>
 
     <script>
-        // Configuration
-        const DAYS_TO_SHOW = 14;
-        let allWods = {};
-        let allSources = {};
+        let allData = null;
+        let sourcesConfig = [];
 
-        // Equipment keywords for matching
-        const EQUIPMENT_KEYWORDS = {
-            'RUN': ['run', 'running', 'meter', 'mile', 'km'],
-            'WALL-BALL': ['wall ball', 'wallball', 'wall-ball'],
-            'PULL-UP': ['pull-up', 'pullup', 'pull up', 'chest-to-bar', 'c2b'],
-            'PUSH-UP': ['push-up', 'pushup', 'push up', 'hspu'],
-            'WALL-WALK': ['wall walk', 'wallwalk', 'wall-walk'],
-            'HAND-STAND PUSHUP': ['handstand push', 'hspu', 'hand-stand'],
-            'BARBELL': ['barbell', 'clean', 'snatch', 'deadlift', 'squat', 'press'],
-            'KETTLEBELL': ['kettlebell', 'kb'],
-            'DUMBBELL': ['dumbbell', 'db'],
-            'BIKE': ['bike', 'assault bike', 'echo bike', 'cal bike'],
-            'SKI': ['ski', 'ski erg'],
-            'ROW': ['row', 'rowing', 'rower', 'cal row'],
-            'SANDBAG': ['sandbag', 'sand bag']
-        };
-
-        // Load data on page load
+        // Initialize
         document.addEventListener('DOMContentLoaded', async () => {
-            await loadWods();
-            await loadSources();
-            initDateSelector();
+            await loadData();
+            await loadSourcesConfig();
+            displayWorkouts();
             displaySources();
         });
 
         // Tab switching
         function switchTab(tab) {
-            // Update buttons
             document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
             event.target.classList.add('active');
-
-            // Update content
+            
             document.querySelectorAll('.tab-content').forEach(content => content.classList.remove('active'));
             document.getElementById(`${tab}-tab`).classList.add('active');
         }
 
-        // Load WODs from JSON
-        async function loadWods() {
+        // Load WODs data
+        async function loadData() {
             try {
-                const response = await fetch('data/wods.json');
-                const data = await response.json();
-                allWods = data.wods || {};
+                const response = await fetch('../data/wods.json');
+                allData = await response.json();
+                console.log('Loaded data:', allData);
             } catch (error) {
-                console.error('Error loading WODs:', error);
-                allWods = {};
+                console.error('Error loading data:', error);
+                allData = { sources: [] };
             }
         }
 
-        // Load sources from JSON
-        async function loadSources() {
+        // Load sources config
+        async function loadSourcesConfig() {
             try {
-                const response = await fetch('data/sources.json');
-                const data = await response.json();
-                allSources = data.sources || [];
+                const response = await fetch('../data/sources.json');
+                sourcesConfig = await response.json();
+                console.log('Loaded sources:', sourcesConfig);
             } catch (error) {
                 console.error('Error loading sources:', error);
-                allSources = [];
+                sourcesConfig = [];
             }
         }
 
-        // Generate dates for selector
-        function generateDates() {
-            const dates = [];
-            const today = new Date();
-            
-            for (let i = 0; i < DAYS_TO_SHOW; i++) {
-                const date = new Date(today);
-                date.setDate(date.getDate() - i);
-                dates.push(date);
-            }
-            
-            return dates;
-        }
-
-        // Format date for display
-        function formatDateHebrew(date) {
-            const days = ['ראשון', 'שני', 'שלישי', 'רביעי', 'חמישי', 'שישי', 'שבת'];
-            const dayName = days[date.getDay()];
-            const day = date.getDate().toString().padStart(2, '0');
-            const month = (date.getMonth() + 1).toString().padStart(2, '0');
-            
-            if (isToday(date)) return 'היום';
-            if (isYesterday(date)) return 'אתמול';
-            
-            return `${dayName} ${day}/${month}`;
-        }
-
-        // Format date for URL
-        function formatDateForUrl(date) {
-            const year = date.getFullYear();
-            const month = (date.getMonth() + 1).toString().padStart(2, '0');
-            const day = date.getDate().toString().padStart(2, '0');
-            return `${year}-${month}-${day}`;
-        }
-
-        function isToday(date) {
-            const today = new Date();
-            return date.toDateString() === today.toDateString();
-        }
-
-        function isYesterday(date) {
-            const yesterday = new Date();
-            yesterday.setDate(yesterday.getDate() - 1);
-            return date.toDateString() === yesterday.toDateString();
-        }
-
-        // Initialize date selector
-        function initDateSelector() {
-            const dates = generateDates();
-            const selector = document.getElementById('dateSelector');
-            
-            selector.innerHTML = dates.map((date, index) => `
-                <button class="date-btn ${index === 0 ? 'active' : ''}" 
-                        onclick="selectDate(${index})"
-                        id="date-btn-${index}">
-                    ${formatDateHebrew(date)}
-                </button>
-            `).join('');
-            
-            selectDate(0);
-        }
-
-        // Select a specific date
-        function selectDate(index) {
-            const dates = generateDates();
-            const selectedDate = dates[index];
-            
-            // Update active button
-            document.querySelectorAll('.date-btn').forEach((btn, i) => {
-                btn.classList.toggle('active', i === index);
-            });
-            
-            // Update selected date display
-            const dateDisplay = document.getElementById('selectedDate');
-            const fullDate = selectedDate.toLocaleDateString('he-IL', { 
-                weekday: 'long', 
-                year: 'numeric', 
-                month: 'long', 
-                day: 'numeric' 
-            });
-            dateDisplay.textContent = fullDate;
-            
-            // Display WODs
-            displayWods(selectedDate);
-        }
-
-        // Display WODs for a date
-        function displayWods(date) {
+        // Display workouts (Browse tab)
+        function displayWorkouts() {
             const container = document.getElementById('wodsContainer');
-            const dateStr = formatDateForUrl(date);
             
-            const wods = allWods[dateStr] || [];
-            
-            // Filter by active sources
-            const activeSources = allSources.filter(s => s.active).map(s => s.name);
-            const filteredWods = wods.filter(wod => activeSources.includes(wod.source));
-            
-            if (filteredWods.length === 0) {
-                container.innerHTML = '<div class="no-results">לא נמצאו אימונים לתאריך זה</div>';
+            if (!allData || !allData.sources || allData.sources.length === 0) {
+                container.innerHTML = '<div class="loading">No workouts available</div>';
                 return;
             }
+
+            let html = '';
             
-            container.innerHTML = filteredWods.map(wod => `
+            // Filter by enabled sources
+            const enabledIds = sourcesConfig.filter(s => s.enabled).map(s => s.id);
+            const enabledSources = allData.sources.filter(s => enabledIds.includes(s.id));
+
+            if (enabledSources.length === 0) {
+                container.innerHTML = '<div class="loading">No enabled sources. Please enable sources in Manage Sources tab.</div>';
+                return;
+            }
+
+            // Show recent WODs from each source
+            enabledSources.forEach(source => {
+                const recentWods = source.wods.slice(0, 3);
+                recentWods.forEach(wod => {
+                    html += renderWodCard(source.name, wod);
+                });
+            });
+
+            container.innerHTML = html || '<div class="loading">No workouts found</div>';
+        }
+
+        // Render a single WOD card
+        function renderWodCard(sourceName, wod, matchScore = null) {
+            let card = `
                 <div class="wod-card">
                     <div class="wod-header">
-                        <div class="wod-source">${wod.source}</div>
-                        <div class="wod-date">${formatDateHebrew(date)}</div>
+                        <div class="wod-source">
+                            ${sourceName}
+                            ${matchScore ? `<span class="match-score">${matchScore}% Match</span>` : ''}
+                        </div>
+                        <div class="wod-date">${wod.date}</div>
                     </div>
-                    <div class="wod-content">${wod.full_text}</div>
-                    ${wod.url ? `<a href="${wod.url}" target="_blank" class="wod-link">צפייה באתר המקורי →</a>` : ''}
-                </div>
-            `).join('');
+            `;
+
+            // Render sections with bullets
+            if (wod.sections && wod.sections.length > 0) {
+                wod.sections.forEach(section => {
+                    card += `
+                        <div class="wod-section">
+                            <div class="section-title">${escapeHtml(section.title)}</div>
+                            <ul class="section-lines">
+                                ${section.lines.map(line => `<li>${escapeHtml(line)}</li>`).join('')}
+                            </ul>
+                        </div>
+                    `;
+                });
+            } else {
+                card += '<div class="loading">No workout data</div>';
+            }
+
+            if (wod.url) {
+                card += `<a href="${wod.url}" target="_blank" style="color: #dc2626; font-weight: 600; text-decoration: none;">View Original →</a>`;
+            }
+
+            card += `</div>`;
+            return card;
         }
 
-        // Find Workout logic
+        // Escape HTML
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        // ==================== FIND WORKOUT ====================
+
         function findWorkout() {
-            const duration = parseInt(document.getElementById('duration').value);
-            const selectedEquipment = Array.from(document.querySelectorAll('#equipmentGrid input:checked'))
+            const time = parseInt(document.getElementById('findTime').value);
+            const selectedEquipment = Array.from(document.querySelectorAll('.equipment-item input:checked'))
                 .map(cb => cb.value);
-            
-            if (!duration || selectedEquipment.length === 0) {
-                alert('אנא בחר זמן וציוד');
+
+            if (!time || selectedEquipment.length === 0) {
+                alert('Please enter time and select at least one equipment type');
                 return;
             }
-            
-            // Get all WODs from last 14 days
-            const allAvailableWods = [];
-            Object.entries(allWods).forEach(([date, wods]) => {
-                wods.forEach(wod => {
-                    // Only active sources
-                    const source = allSources.find(s => s.name === wod.source);
-                    if (source && source.active) {
-                        allAvailableWods.push({...wod, date});
+
+            const results = [];
+            const cutoffDate = new Date();
+            cutoffDate.setDate(cutoffDate.getDate() - 14);
+
+            // Search all enabled sources
+            const enabledIds = sourcesConfig.filter(s => s.enabled).map(s => s.id);
+            const enabledSources = allData.sources.filter(s => enabledIds.includes(s.id));
+
+            enabledSources.forEach(source => {
+                source.wods.forEach(wod => {
+                    const wodDate = new Date(wod.date);
+                    if (wodDate < cutoffDate) return; // Skip old WODs
+
+                    const score = calculateMatchScore(wod, time, selectedEquipment);
+                    if (score > 0) {
+                        results.push({
+                            source: source.name,
+                            wod: wod,
+                            score: score
+                        });
                     }
                 });
             });
+
+            // Sort by score (best first)
+            results.sort((a, b) => b.score - a.score);
+
+            const container = document.getElementById('findResults');
             
-            // Score each WOD
-            const scoredWods = allAvailableWods.map(wod => {
-                const score = calculateMatch(wod, duration, selectedEquipment);
-                return {...wod, matchScore: score};
-            });
-            
-            // Sort by score
-            scoredWods.sort((a, b) => b.matchScore - a.matchScore);
-            
-            // Display top result
-            const resultsContainer = document.getElementById('findResults');
-            
-            if (scoredWods.length === 0 || scoredWods[0].matchScore === 0) {
-                resultsContainer.innerHTML = '<div class="no-results">לא נמצא אימון מתאים. נסה להוסיף עוד ציוד.</div>';
+            if (results.length === 0) {
+                container.innerHTML = '<div class="error">No matching workouts found in the last 14 days.<br>Try selecting more equipment or adjusting the time.</div>';
                 return;
             }
-            
-            const topWod = scoredWods[0];
-            resultsContainer.innerHTML = `
-                <div class="wod-card match-result">
-                    <div class="wod-header">
-                        <div class="wod-source">
-                            <span class="match-score">${topWod.matchScore}% התאמה</span>
-                            ${topWod.source}
-                        </div>
-                        <div class="wod-date">${topWod.date}</div>
-                    </div>
-                    <div class="wod-content">${topWod.full_text}</div>
-                    ${topWod.url ? `<a href="${topWod.url}" target="_blank" class="wod-link">צפייה באתר המקורי →</a>` : ''}
-                </div>
-            `;
+
+            // Show best match
+            const best = results[0];
+            container.innerHTML = renderWodCard(best.source, best.wod, best.score);
         }
 
-        // Calculate match score (0-100%)
-        function calculateMatch(wod, duration, selectedEquipment) {
+        function calculateMatchScore(wod, targetTime, equipment) {
             let score = 0;
-            const text = wod.full_text.toLowerCase();
             
-            // Equipment match (60% of score)
+            // Combine all workout text
+            const allText = wod.sections
+                .map(s => s.title + ' ' + s.lines.join(' '))
+                .join(' ')
+                .toLowerCase();
+
+            // Equipment keywords mapping
+            const equipmentKeywords = {
+                'RUN': ['run', 'running', 'meter', 'mile', 'km'],
+                'WALL-BALL': ['wall ball', 'wallball', 'wall-ball'],
+                'PULL-UP': ['pull-up', 'pullup', 'pull up', 'chest-to-bar', 'c2b'],
+                'PUSH-UP': ['push-up', 'pushup', 'push up'],
+                'WALL-WALK': ['wall walk', 'wallwalk', 'wall-walk'],
+                'HAND-STAND PUSHUP': ['handstand push', 'hspu', 'hand-stand'],
+                'BARBELL': ['barbell', 'clean', 'snatch', 'deadlift', 'squat', 'press', 'jerk'],
+                'KETTLEBELL': ['kettlebell', 'kb'],
+                'DUMBBELL': ['dumbbell', 'db'],
+                'BIKE': ['bike', 'assault bike', 'echo bike', 'cal bike'],
+                'SKI': ['ski', 'ski erg'],
+                'ROW': ['row', 'rowing', 'rower', 'cal row'],
+                'SANDBAG': ['sandbag', 'sand bag']
+            };
+
+            // Equipment matching (60% of score)
             let equipmentMatches = 0;
-            selectedEquipment.forEach(equipment => {
-                const keywords = EQUIPMENT_KEYWORDS[equipment] || [];
-                if (keywords.some(keyword => text.includes(keyword.toLowerCase()))) {
+            equipment.forEach(eq => {
+                const keywords = equipmentKeywords[eq] || [];
+                if (keywords.some(kw => allText.includes(kw))) {
                     equipmentMatches++;
                 }
             });
-            
-            const equipmentScore = (equipmentMatches / selectedEquipment.length) * 60;
+
+            const equipmentScore = (equipmentMatches / equipment.length) * 60;
             score += equipmentScore;
-            
-            // Duration estimation (40% of score)
-            // Simple heuristic: count rounds, reps, etc.
-            const hasRounds = /\d+\s*(rounds|round)/i.test(text);
-            const hasTime = /\d+\s*(min|minute|minutes)/i.test(text);
-            const hasAMRAP = /amrap/i.test(text);
-            const hasEMOM = /emom/i.test(text);
-            
-            // Rough duration estimation
-            if (hasAMRAP || hasEMOM) {
-                // Extract time
-                const timeMatch = text.match(/(\d+)\s*(min|minute)/i);
-                if (timeMatch) {
-                    const wodDuration = parseInt(timeMatch[1]);
-                    const durationDiff = Math.abs(wodDuration - duration);
-                    const durationScore = Math.max(0, 40 - (durationDiff * 2));
-                    score += durationScore;
-                }
-            } else if (hasTime || hasRounds) {
-                // Assume moderate match
-                score += 20;
-            } else {
-                // Unknown duration
-                score += 10;
-            }
-            
+
+            // Time estimation (40% of score)
+            const estimatedTime = estimateWorkoutTime(allText);
+            const timeDiff = Math.abs(estimatedTime - targetTime);
+            const timeScore = Math.max(0, 40 - (timeDiff * 1.5));
+            score += timeScore;
+
             return Math.round(score);
         }
 
-        // Display sources
+        function estimateWorkoutTime(text) {
+            // Try to find explicit time mentions
+            const timeMatch = text.match(/(\d+)\s*(min|minute)/i);
+            if (timeMatch) {
+                return parseInt(timeMatch[1]);
+            }
+
+            // Heuristics based on workout type
+            if (/amrap/i.test(text)) {
+                const amrapMatch = text.match(/amrap\s*(\d+)/i);
+                return amrapMatch ? parseInt(amrapMatch[1]) : 15;
+            }
+
+            if (/emom/i.test(text)) {
+                const emomMatch = text.match(/emom\s*(\d+)/i);
+                return emomMatch ? parseInt(emomMatch[1]) : 15;
+            }
+
+            if (/for time/i.test(text)) {
+                // Count rounds
+                const roundsMatch = text.match(/(\d+)\s*round/i);
+                if (roundsMatch) {
+                    const rounds = parseInt(roundsMatch[1]);
+                    return rounds * 3; // Estimate 3 min per round
+                }
+                return 20; // Default for time
+            }
+
+            // Count number of movements as rough estimate
+            const movements = text.split('\n').filter(line => /\d+/.test(line)).length;
+            return Math.min(movements * 2, 30);
+        }
+
+        // ==================== SOURCE MANAGEMENT ====================
+
         function displaySources() {
             const container = document.getElementById('sourcesList');
             
-            if (allSources.length === 0) {
-                container.innerHTML = '<div class="no-results">לא נמצאו מקורות</div>';
+            if (sourcesConfig.length === 0) {
+                container.innerHTML = '<div class="loading">No sources configured</div>';
                 return;
             }
-            
-            container.innerHTML = allSources.map(source => `
-                <div class="source-item">
-                    <div class="source-info">
-                        <h3>${source.name}</h3>
-                        <p>${source.base_url}</p>
-                        <p>${source.has_archive ? '✅ יש ארכיון' : '⚠️ אין ארכיון'}</p>
+
+            let html = '';
+            sourcesConfig.forEach((source, index) => {
+                html += `
+                    <div class="source-item">
+                        <div class="source-info">
+                            <h3>${escapeHtml(source.name)}</h3>
+                            <p>${escapeHtml(source.url)}</p>
+                            ${source.added_at ? `<small style="color: #666;">Added: ${new Date(source.added_at).toLocaleDateString()}</small>` : ''}
+                        </div>
+                        <div class="source-controls">
+                            <div class="toggle-switch ${source.enabled ? 'active' : ''}" 
+                                 onclick="toggleSource(${index})"
+                                 title="${source.enabled ? 'Enabled' : 'Disabled'}">
+                                <div class="slider"></div>
+                            </div>
+                            <button class="delete-btn" onclick="deleteSource(${index})">Delete</button>
+                        </div>
                     </div>
-                    <div class="source-controls">
-                        <button class="toggle-btn ${source.active ? 'active' : 'inactive'}" 
-                                onclick="toggleSource('${source.id}')">
-                            ${source.active ? 'פעיל' : 'לא פעיל'}
-                        </button>
-                    </div>
-                </div>
-            `).join('');
+                `;
+            });
+
+            container.innerHTML = html;
         }
 
-        // Toggle source active state
-        async function toggleSource(sourceId) {
-            const source = allSources.find(s => s.id === sourceId);
-            if (source) {
-                source.active = !source.active;
-                
-                // Save to file (in real app, this would be an API call)
-                // For now, just update UI
+        function toggleSource(index) {
+            sourcesConfig[index].enabled = !sourcesConfig[index].enabled;
+            saveSourcesConfig();
+            displaySources();
+            displayWorkouts(); // Refresh workout display
+        }
+
+        function deleteSource(index) {
+            const source = sourcesConfig[index];
+            if (confirm(`Delete source "${source.name}"?\n\nThis will remove it from the list but won't delete any fetched workouts.`)) {
+                sourcesConfig.splice(index, 1);
+                saveSourcesConfig();
                 displaySources();
-                
-                // Refresh current view if on browse tab
-                const activeTab = document.querySelector('.tab-content.active');
-                if (activeTab.id === 'browse-tab') {
-                    const activeBtn = document.querySelector('.date-btn.active');
-                    if (activeBtn) {
-                        const index = parseInt(activeBtn.id.split('-')[2]);
-                        selectDate(index);
-                    }
+                displayWorkouts();
+            }
+        }
+
+        function addSource() {
+            const name = document.getElementById('newSourceName').value.trim();
+            const url = document.getElementById('newSourceUrl').value.trim();
+
+            if (!name || !url) {
+                alert('Please fill in both name and URL');
+                return;
+            }
+
+            if (!url.startsWith('http://') && !url.startsWith('https://')) {
+                alert('URL must start with http:// or https://');
+                return;
+            }
+
+            // Generate ID
+            const id = name.toLowerCase().replace(/[^a-z0-9]+/g, '_');
+
+            // Check if exists
+            if (sourcesConfig.some(s => s.id === id)) {
+                alert('A source with this name already exists');
+                return;
+            }
+
+            // Add source
+            sourcesConfig.push({
+                id: id,
+                name: name,
+                url: url,
+                enabled: true,
+                added_at: new Date().toISOString()
+            });
+
+            saveSourcesConfig();
+            displaySources();
+
+            // Clear form
+            document.getElementById('newSourceName').value = '';
+            document.getElementById('newSourceUrl').value = '';
+
+            alert(`✅ Source "${name}" added successfully!\n\n⚠️ Note: You'll need to create a scraper module for this source to fetch workouts.\n\nSee documentation for adding custom scrapers.`);
+        }
+
+        function saveSourcesConfig() {
+            // Save to localStorage (client-side only)
+            // In production with backend, this would POST to API
+            localStorage.setItem('duck-wod-sources', JSON.stringify(sourcesConfig));
+            console.log('Sources saved to localStorage');
+            
+            // Note: For GitHub Pages, changes won't persist to the repo
+            // You'd need to manually update data/sources.json
+        }
+
+        // Try to load from localStorage first
+        async function loadSourcesConfig() {
+            // Try localStorage first
+            const cached = localStorage.getItem('duck-wod-sources');
+            if (cached) {
+                try {
+                    sourcesConfig = JSON.parse(cached);
+                    console.log('Loaded sources from localStorage');
+                    return;
+                } catch (e) {
+                    console.error('Error parsing cached sources');
                 }
+            }
+
+            // Fallback to JSON file
+            try {
+                const response = await fetch('../data/sources.json');
+                sourcesConfig = await response.json();
+                console.log('Loaded sources from file');
+            } catch (error) {
+                console.error('Error loading sources:', error);
+                sourcesConfig = [];
             }
         }
     </script>
