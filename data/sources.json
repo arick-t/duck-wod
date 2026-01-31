@@ -1,0 +1,25 @@
+{
+  "sources": [
+    {
+      "id": "myleo",
+      "name": "myleo CrossFit",
+      "base_url": "https://myleo.de/en/wods/",
+      "has_archive": true,
+      "active": true
+    },
+    {
+      "id": "crossfit",
+      "name": "CrossFit.com",
+      "base_url": "https://www.crossfit.com/",
+      "has_archive": true,
+      "active": true
+    },
+    {
+      "id": "linchpin",
+      "name": "CrossFit Linchpin",
+      "base_url": "https://crossfitlinchpin.com/pages/workout-of-the-day",
+      "has_archive": false,
+      "active": true
+    }
+  ]
+}

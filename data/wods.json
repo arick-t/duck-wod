@@ -1,0 +1,23 @@
+{
+  "last_updated": "2026-01-31T06:00:00",
+  "wods": {
+    "2026-01-30": [
+      {
+        "id": "myleo_2026-01-30",
+        "date": "2026-01-30",
+        "source": "myleo CrossFit",
+        "full_text": "Fri 30. Jan\n\na) warm up 6min\nline drills\n\nb) deadlifts 12min\non the 3:00 x 4 sets\n4 sumo deadlifts + 8 conventional deadlifts\n@ 50% of 1rm deadlift\nabsolute strength\n\nc) conditioning 15min\n8 x 1:00 amrap:\n10 x 10m shuttle runs\ndb snatches in remaining time 22,5/15kg\n• rest 1:00 between amraps\n\nscore: total db snatches\naerobic power [vo2 max]",
+        "url": "https://myleo.de/en/wods/2026-01-30/",
+        "fetched_at": "2026-01-30T06:00:00"
+      },
+      {
+        "id": "crossfit_2026-01-30",
+        "date": "2026-01-30",
+        "source": "CrossFit.com",
+        "full_text": "Friday 260130\n\nPre- and post-workout accessory:\nMax set of strict pull-ups\n*Complete 1 set before and 1 set after the workout.\n\n3 rounds for time of:\n400/500-meter row\n40 AbMat sit-ups\n30 alternating dumbbell snatches\n\n♀ 35-lb dumbbell\n♂ 50-lb dumbbell\n\nStimulus and Strategy:\nToday's workout is simple, yet challenging, with a goal time of 13-18 minutes.",
+        "url": "https://www.crossfit.com/260130",
+        "fetched_at": "2026-01-30T06:00:00"
+      }
+    ]
+  }
+}

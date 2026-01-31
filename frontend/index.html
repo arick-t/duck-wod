@@ -1,0 +1,845 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DUCK-WOD 🦆 - אימוני קרוספיט יומיים</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🦆</text></svg>">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Assistant:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Assistant', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: #0d0d0d;
+            min-height: 100vh;
+            padding: 20px;
+            color: #e0e0e0;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        /* Header */
+        header {
+            background: #1a1a1a;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+            margin-bottom: 30px;
+            border: 1px solid #2a2a2a;
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 15px;
+            margin-bottom: 25px;
+        }
+
+        .logo-icon {
+            font-size: 3em;
+        }
+
+        h1 {
+            color: #dc2626;
+            font-size: 2.5em;
+            font-weight: 800;
+            letter-spacing: 2px;
+        }
+
+        .tagline {
+            text-align: center;
+            color: #888;
+            font-size: 0.9em;
+            margin-top: 5px;
+        }
+
+        /* Tabs */
+        .tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 25px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .tab-btn {
+            padding: 12px 24px;
+            background: #2a2a2a;
+            color: #e0e0e0;
+            border: 1px solid #3a3a3a;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 1em;
+            font-weight: 600;
+            transition: all 0.2s;
+        }
+
+        .tab-btn:hover {
+            background: #3a3a3a;
+            border-color: #dc2626;
+        }
+
+        .tab-btn.active {
+            background: #dc2626;
+            border-color: #dc2626;
+            color: white;
+        }
+
+        /* Tab Content */
+        .tab-content {
+            display: none;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        /* Browse Tab */
+        .date-selector {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin-bottom: 15px;
+        }
+
+        .date-btn {
+            padding: 10px 20px;
+            background: #2a2a2a;
+            color: #e0e0e0;
+            border: 1px solid #3a3a3a;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 0.95em;
+            transition: all 0.2s;
+            font-weight: 600;
+        }
+
+        .date-btn:hover {
+            background: #3a3a3a;
+            border-color: #dc2626;
+        }
+
+        .date-btn.active {
+            background: #dc2626;
+            border-color: #dc2626;
+            color: white;
+        }
+
+        .selected-date {
+            text-align: center;
+            font-size: 1.1em;
+            color: #b0b0b0;
+            margin-top: 15px;
+            font-weight: 600;
+        }
+
+        /* Find Workout Tab */
+        .find-workout-form {
+            background: #1a1a1a;
+            padding: 30px;
+            border-radius: 12px;
+            border: 1px solid #2a2a2a;
+            max-width: 800px;
+            margin: 0 auto 30px;
+        }
+
+        .form-group {
+            margin-bottom: 25px;
+        }
+
+        .form-group label {
+            display: block;
+            color: #dc2626;
+            font-weight: 700;
+            margin-bottom: 10px;
+            font-size: 1.1em;
+        }
+
+        .form-group input[type="number"] {
+            width: 100%;
+            padding: 12px;
+            background: #2a2a2a;
+            border: 1px solid #3a3a3a;
+            border-radius: 8px;
+            color: #e0e0e0;
+            font-size: 1.1em;
+            font-family: 'Assistant', sans-serif;
+        }
+
+        .equipment-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+            gap: 10px;
+        }
+
+        .equipment-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 10px;
+            background: #2a2a2a;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .equipment-item:hover {
+            background: #3a3a3a;
+        }
+
+        .equipment-item input[type="checkbox"] {
+            width: 18px;
+            height: 18px;
+            cursor: pointer;
+            accent-color: #dc2626;
+        }
+
+        .equipment-item label {
+            cursor: pointer;
+            font-weight: 500;
+            margin: 0 !important;
+        }
+
+        .find-btn {
+            width: 100%;
+            padding: 15px;
+            background: #dc2626;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 1.2em;
+            font-weight: 700;
+            cursor: pointer;
+            transition: all 0.2s;
+            margin-top: 10px;
+        }
+
+        .find-btn:hover {
+            background: #b91c1c;
+            transform: translateY(-2px);
+        }
+
+        /* WOD Cards */
+        .wods-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 25px;
+            margin-top: 30px;
+        }
+
+        .wod-card {
+            background: #1a1a1a;
+            border-radius: 12px;
+            padding: 25px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+            transition: transform 0.2s, box-shadow 0.2s;
+            border: 1px solid #2a2a2a;
+        }
+
+        .wod-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.4);
+            border-color: #dc2626;
+        }
+
+        .wod-card.match-result {
+            border: 2px solid #dc2626;
+        }
+
+        .wod-header {
+            border-bottom: 2px solid #dc2626;
+            padding-bottom: 15px;
+            margin-bottom: 20px;
+        }
+
+        .wod-source {
+            font-size: 1.3em;
+            font-weight: 700;
+            color: #dc2626;
+            margin-bottom: 8px;
+        }
+
+        .wod-date {
+            color: #888;
+            font-size: 0.9em;
+            font-weight: 500;
+        }
+
+        .match-score {
+            display: inline-block;
+            background: #dc2626;
+            color: white;
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-weight: 700;
+            margin-right: 10px;
+            font-size: 0.9em;
+        }
+
+        .wod-content {
+            color: #d0d0d0;
+            line-height: 1.8;
+            white-space: pre-wrap;
+            font-size: 0.95em;
+        }
+
+        .wod-link {
+            display: block;
+            margin-top: 15px;
+            color: #dc2626;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 0.9em;
+        }
+
+        .wod-link:hover {
+            color: #f87171;
+        }
+
+        /* Manage Sources Tab */
+        .sources-list {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .source-item {
+            background: #1a1a1a;
+            padding: 20px;
+            border-radius: 8px;
+            border: 1px solid #2a2a2a;
+            margin-bottom: 15px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .source-info h3 {
+            color: #dc2626;
+            margin-bottom: 5px;
+        }
+
+        .source-info p {
+            color: #888;
+            font-size: 0.9em;
+        }
+
+        .source-controls {
+            display: flex;
+            gap: 10px;
+        }
+
+        .toggle-btn {
+            padding: 8px 16px;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: 600;
+            transition: all 0.2s;
+        }
+
+        .toggle-btn.active {
+            background: #16a34a;
+            color: white;
+        }
+
+        .toggle-btn.inactive {
+            background: #6b7280;
+            color: white;
+        }
+
+        .add-source-btn {
+            padding: 15px 30px;
+            background: #dc2626;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 1.1em;
+            font-weight: 700;
+            cursor: pointer;
+            margin-top: 20px;
+            width: 100%;
+            max-width: 400px;
+            display: block;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        /* Loading & Messages */
+        .loading, .error, .no-results {
+            text-align: center;
+            padding: 40px;
+            font-size: 1.2em;
+            color: #888;
+        }
+
+        .error {
+            color: #dc2626;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .wods-container {
+                grid-template-columns: 1fr;
+            }
+            
+            h1 {
+                font-size: 1.8em;
+            }
+            
+            .equipment-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">
+                <span class="logo-icon">🦆</span>
+                <div>
+                    <h1>DUCK-WOD</h1>
+                    <p class="tagline">אימוני קרוספיט יומיים - בחירה חכמה</p>
+                </div>
+            </div>
+
+            <div class="tabs">
+                <button class="tab-btn active" onclick="switchTab('browse')">🗓️ עיון באימונים</button>
+                <button class="tab-btn" onclick="switchTab('find')">🔍 מצא אימון</button>
+                <button class="tab-btn" onclick="switchTab('sources')">⚙️ ניהול מקורות</button>
+            </div>
+        </header>
+
+        <!-- Browse Tab -->
+        <div id="browse-tab" class="tab-content active">
+            <div class="date-selector" id="dateSelector"></div>
+            <div class="selected-date" id="selectedDate"></div>
+            <div class="wods-container" id="wodsContainer">
+                <div class="loading">טוען אימונים...</div>
+            </div>
+        </div>
+
+        <!-- Find Workout Tab -->
+        <div id="find-tab" class="tab-content">
+            <div class="find-workout-form">
+                <div class="form-group">
+                    <label for="duration">⏱️ זמן פנוי (בדקות)</label>
+                    <input type="number" id="duration" min="1" max="180" value="20" placeholder="20">
+                </div>
+
+                <div class="form-group">
+                    <label>🏋️ ציוד זמין</label>
+                    <div class="equipment-grid" id="equipmentGrid">
+                        <div class="equipment-item">
+                            <input type="checkbox" id="eq-run" value="RUN">
+                            <label for="eq-run">ריצה</label>
+                        </div>
+                        <div class="equipment-item">
+                            <input type="checkbox" id="eq-wallball" value="WALL-BALL">
+                            <label for="eq-wallball">וול-בול</label>
+                        </div>
+                        <div class="equipment-item">
+                            <input type="checkbox" id="eq-pullup" value="PULL-UP">
+                            <label for="eq-pullup">מתח</label>
+                        </div>
+                        <div class="equipment-item">
+                            <input type="checkbox" id="eq-pushup" value="PUSH-UP">
+                            <label for="eq-pushup">שכיבות סמיכה</label>
+                        </div>
+                        <div class="equipment-item">
+                            <input type="checkbox" id="eq-wallwalk" value="WALL-WALK">
+                            <label for="eq-wallwalk">וול-ווק</label>
+                        </div>
+                        <div class="equipment-item">
+                            <input type="checkbox" id="eq-hspu" value="HAND-STAND PUSHUP">
+                            <label for="eq-hspu">דחיפת יד</label>
+                        </div>
+                        <div class="equipment-item">
+                            <input type="checkbox" id="eq-barbell" value="BARBELL">
+                            <label for="eq-barbell">מוט</label>
+                        </div>
+                        <div class="equipment-item">
+                            <input type="checkbox" id="eq-kettlebell" value="KETTLEBELL">
+                            <label for="eq-kettlebell">קטלבל</label>
+                        </div>
+                        <div class="equipment-item">
+                            <input type="checkbox" id="eq-dumbbell" value="DUMBBELL">
+                            <label for="eq-dumbbell">משקולות יד</label>
+                        </div>
+                        <div class="equipment-item">
+                            <input type="checkbox" id="eq-bike" value="BIKE">
+                            <label for="eq-bike">אופניים</label>
+                        </div>
+                        <div class="equipment-item">
+                            <input type="checkbox" id="eq-ski" value="SKI">
+                            <label for="eq-ski">סקי ארג</label>
+                        </div>
+                        <div class="equipment-item">
+                            <input type="checkbox" id="eq-row" value="ROW">
+                            <label for="eq-row">חתירה</label>
+                        </div>
+                        <div class="equipment-item">
+                            <input type="checkbox" id="eq-sandbag" value="SANDBAG">
+                            <label for="eq-sandbag">שק חול</label>
+                        </div>
+                    </div>
+                </div>
+
+                <button class="find-btn" onclick="findWorkout()">🎯 מצא אימון מתאים</button>
+            </div>
+
+            <div class="wods-container" id="findResults"></div>
+        </div>
+
+        <!-- Manage Sources Tab -->
+        <div id="sources-tab" class="tab-content">
+            <div class="sources-list" id="sourcesList">
+                <div class="loading">טוען מקורות...</div>
+            </div>
+            <button class="add-source-btn" onclick="alert('פיצ\'ר הוספת מקור יהיה זמין בקרוב!')">➕ הוסף מקור חדש</button>
+        </div>
+    </div>
+
+    <script>
+        // Configuration
+        const DAYS_TO_SHOW = 14;
+        let allWods = {};
+        let allSources = {};
+
+        // Equipment keywords for matching
+        const EQUIPMENT_KEYWORDS = {
+            'RUN': ['run', 'running', 'meter', 'mile', 'km'],
+            'WALL-BALL': ['wall ball', 'wallball', 'wall-ball'],
+            'PULL-UP': ['pull-up', 'pullup', 'pull up', 'chest-to-bar', 'c2b'],
+            'PUSH-UP': ['push-up', 'pushup', 'push up', 'hspu'],
+            'WALL-WALK': ['wall walk', 'wallwalk', 'wall-walk'],
+            'HAND-STAND PUSHUP': ['handstand push', 'hspu', 'hand-stand'],
+            'BARBELL': ['barbell', 'clean', 'snatch', 'deadlift', 'squat', 'press'],
+            'KETTLEBELL': ['kettlebell', 'kb'],
+            'DUMBBELL': ['dumbbell', 'db'],
+            'BIKE': ['bike', 'assault bike', 'echo bike', 'cal bike'],
+            'SKI': ['ski', 'ski erg'],
+            'ROW': ['row', 'rowing', 'rower', 'cal row'],
+            'SANDBAG': ['sandbag', 'sand bag']
+        };
+
+        // Load data on page load
+        document.addEventListener('DOMContentLoaded', async () => {
+            await loadWods();
+            await loadSources();
+            initDateSelector();
+            displaySources();
+        });
+
+        // Tab switching
+        function switchTab(tab) {
+            // Update buttons
+            document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
+
+            // Update content
+            document.querySelectorAll('.tab-content').forEach(content => content.classList.remove('active'));
+            document.getElementById(`${tab}-tab`).classList.add('active');
+        }
+
+        // Load WODs from JSON
+        async function loadWods() {
+            try {
+                const response = await fetch('data/wods.json');
+                const data = await response.json();
+                allWods = data.wods || {};
+            } catch (error) {
+                console.error('Error loading WODs:', error);
+                allWods = {};
+            }
+        }
+
+        // Load sources from JSON
+        async function loadSources() {
+            try {
+                const response = await fetch('data/sources.json');
+                const data = await response.json();
+                allSources = data.sources || [];
+            } catch (error) {
+                console.error('Error loading sources:', error);
+                allSources = [];
+            }
+        }
+
+        // Generate dates for selector
+        function generateDates() {
+            const dates = [];
+            const today = new Date();
+            
+            for (let i = 0; i < DAYS_TO_SHOW; i++) {
+                const date = new Date(today);
+                date.setDate(date.getDate() - i);
+                dates.push(date);
+            }
+            
+            return dates;
+        }
+
+        // Format date for display
+        function formatDateHebrew(date) {
+            const days = ['ראשון', 'שני', 'שלישי', 'רביעי', 'חמישי', 'שישי', 'שבת'];
+            const dayName = days[date.getDay()];
+            const day = date.getDate().toString().padStart(2, '0');
+            const month = (date.getMonth() + 1).toString().padStart(2, '0');
+            
+            if (isToday(date)) return 'היום';
+            if (isYesterday(date)) return 'אתמול';
+            
+            return `${dayName} ${day}/${month}`;
+        }
+
+        // Format date for URL
+        function formatDateForUrl(date) {
+            const year = date.getFullYear();
+            const month = (date.getMonth() + 1).toString().padStart(2, '0');
+            const day = date.getDate().toString().padStart(2, '0');
+            return `${year}-${month}-${day}`;
+        }
+
+        function isToday(date) {
+            const today = new Date();
+            return date.toDateString() === today.toDateString();
+        }
+
+        function isYesterday(date) {
+            const yesterday = new Date();
+            yesterday.setDate(yesterday.getDate() - 1);
+            return date.toDateString() === yesterday.toDateString();
+        }
+
+        // Initialize date selector
+        function initDateSelector() {
+            const dates = generateDates();
+            const selector = document.getElementById('dateSelector');
+            
+            selector.innerHTML = dates.map((date, index) => `
+                <button class="date-btn ${index === 0 ? 'active' : ''}" 
+                        onclick="selectDate(${index})"
+                        id="date-btn-${index}">
+                    ${formatDateHebrew(date)}
+                </button>
+            `).join('');
+            
+            selectDate(0);
+        }
+
+        // Select a specific date
+        function selectDate(index) {
+            const dates = generateDates();
+            const selectedDate = dates[index];
+            
+            // Update active button
+            document.querySelectorAll('.date-btn').forEach((btn, i) => {
+                btn.classList.toggle('active', i === index);
+            });
+            
+            // Update selected date display
+            const dateDisplay = document.getElementById('selectedDate');
+            const fullDate = selectedDate.toLocaleDateString('he-IL', { 
+                weekday: 'long', 
+                year: 'numeric', 
+                month: 'long', 
+                day: 'numeric' 
+            });
+            dateDisplay.textContent = fullDate;
+            
+            // Display WODs
+            displayWods(selectedDate);
+        }
+
+        // Display WODs for a date
+        function displayWods(date) {
+            const container = document.getElementById('wodsContainer');
+            const dateStr = formatDateForUrl(date);
+            
+            const wods = allWods[dateStr] || [];
+            
+            // Filter by active sources
+            const activeSources = allSources.filter(s => s.active).map(s => s.name);
+            const filteredWods = wods.filter(wod => activeSources.includes(wod.source));
+            
+            if (filteredWods.length === 0) {
+                container.innerHTML = '<div class="no-results">לא נמצאו אימונים לתאריך זה</div>';
+                return;
+            }
+            
+            container.innerHTML = filteredWods.map(wod => `
+                <div class="wod-card">
+                    <div class="wod-header">
+                        <div class="wod-source">${wod.source}</div>
+                        <div class="wod-date">${formatDateHebrew(date)}</div>
+                    </div>
+                    <div class="wod-content">${wod.full_text}</div>
+                    ${wod.url ? `<a href="${wod.url}" target="_blank" class="wod-link">צפייה באתר המקורי →</a>` : ''}
+                </div>
+            `).join('');
+        }
+
+        // Find Workout logic
+        function findWorkout() {
+            const duration = parseInt(document.getElementById('duration').value);
+            const selectedEquipment = Array.from(document.querySelectorAll('#equipmentGrid input:checked'))
+                .map(cb => cb.value);
+            
+            if (!duration || selectedEquipment.length === 0) {
+                alert('אנא בחר זמן וציוד');
+                return;
+            }
+            
+            // Get all WODs from last 14 days
+            const allAvailableWods = [];
+            Object.entries(allWods).forEach(([date, wods]) => {
+                wods.forEach(wod => {
+                    // Only active sources
+                    const source = allSources.find(s => s.name === wod.source);
+                    if (source && source.active) {
+                        allAvailableWods.push({...wod, date});
+                    }
+                });
+            });
+            
+            // Score each WOD
+            const scoredWods = allAvailableWods.map(wod => {
+                const score = calculateMatch(wod, duration, selectedEquipment);
+                return {...wod, matchScore: score};
+            });
+            
+            // Sort by score
+            scoredWods.sort((a, b) => b.matchScore - a.matchScore);
+            
+            // Display top result
+            const resultsContainer = document.getElementById('findResults');
+            
+            if (scoredWods.length === 0 || scoredWods[0].matchScore === 0) {
+                resultsContainer.innerHTML = '<div class="no-results">לא נמצא אימון מתאים. נסה להוסיף עוד ציוד.</div>';
+                return;
+            }
+            
+            const topWod = scoredWods[0];
+            resultsContainer.innerHTML = `
+                <div class="wod-card match-result">
+                    <div class="wod-header">
+                        <div class="wod-source">
+                            <span class="match-score">${topWod.matchScore}% התאמה</span>
+                            ${topWod.source}
+                        </div>
+                        <div class="wod-date">${topWod.date}</div>
+                    </div>
+                    <div class="wod-content">${topWod.full_text}</div>
+                    ${topWod.url ? `<a href="${topWod.url}" target="_blank" class="wod-link">צפייה באתר המקורי →</a>` : ''}
+                </div>
+            `;
+        }
+
+        // Calculate match score (0-100%)
+        function calculateMatch(wod, duration, selectedEquipment) {
+            let score = 0;
+            const text = wod.full_text.toLowerCase();
+            
+            // Equipment match (60% of score)
+            let equipmentMatches = 0;
+            selectedEquipment.forEach(equipment => {
+                const keywords = EQUIPMENT_KEYWORDS[equipment] || [];
+                if (keywords.some(keyword => text.includes(keyword.toLowerCase()))) {
+                    equipmentMatches++;
+                }
+            });
+            
+            const equipmentScore = (equipmentMatches / selectedEquipment.length) * 60;
+            score += equipmentScore;
+            
+            // Duration estimation (40% of score)
+            // Simple heuristic: count rounds, reps, etc.
+            const hasRounds = /\d+\s*(rounds|round)/i.test(text);
+            const hasTime = /\d+\s*(min|minute|minutes)/i.test(text);
+            const hasAMRAP = /amrap/i.test(text);
+            const hasEMOM = /emom/i.test(text);
+            
+            // Rough duration estimation
+            if (hasAMRAP || hasEMOM) {
+                // Extract time
+                const timeMatch = text.match(/(\d+)\s*(min|minute)/i);
+                if (timeMatch) {
+                    const wodDuration = parseInt(timeMatch[1]);
+                    const durationDiff = Math.abs(wodDuration - duration);
+                    const durationScore = Math.max(0, 40 - (durationDiff * 2));
+                    score += durationScore;
+                }
+            } else if (hasTime || hasRounds) {
+                // Assume moderate match
+                score += 20;
+            } else {
+                // Unknown duration
+                score += 10;
+            }
+            
+            return Math.round(score);
+        }
+
+        // Display sources
+        function displaySources() {
+            const container = document.getElementById('sourcesList');
+            
+            if (allSources.length === 0) {
+                container.innerHTML = '<div class="no-results">לא נמצאו מקורות</div>';
+                return;
+            }
+            
+            container.innerHTML = allSources.map(source => `
+                <div class="source-item">
+                    <div class="source-info">
+                        <h3>${source.name}</h3>
+                        <p>${source.base_url}</p>
+                        <p>${source.has_archive ? '✅ יש ארכיון' : '⚠️ אין ארכיון'}</p>
+                    </div>
+                    <div class="source-controls">
+                        <button class="toggle-btn ${source.active ? 'active' : 'inactive'}" 
+                                onclick="toggleSource('${source.id}')">
+                            ${source.active ? 'פעיל' : 'לא פעיל'}
+                        </button>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        // Toggle source active state
+        async function toggleSource(sourceId) {
+            const source = allSources.find(s => s.id === sourceId);
+            if (source) {
+                source.active = !source.active;
+                
+                // Save to file (in real app, this would be an API call)
+                // For now, just update UI
+                displaySources();
+                
+                // Refresh current view if on browse tab
+                const activeTab = document.querySelector('.tab-content.active');
+                if (activeTab.id === 'browse-tab') {
+                    const activeBtn = document.querySelector('.date-btn.active');
+                    if (activeBtn) {
+                        const index = parseInt(activeBtn.id.split('-')[2]);
+                        selectDate(index);
+                    }
+                }
+            }
+        }
+    </script>
+</body>
+</html>
