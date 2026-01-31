@@ -1,244 +1,153 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="he">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DUCK-WOD 🦆</title>
-    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🦆</text></svg>">
-    <style>
-        * { margin: 0; padding: 0; box-sizing: border-box; }
+  <meta charset="UTF-8" />
+  <title>🦆 DUCK-WOD</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-        body {
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            background: #0d0d0d;
-            color: #e0e0e0;
-            padding: 20px;
-        }
+  <style>
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+      background: #0f172a;
+      color: #e5e7eb;
+    }
 
-        .container { max-width: 1400px; margin: 0 auto; }
+    header {
+      padding: 16px;
+      text-align: center;
+      background: #020617;
+      border-bottom: 1px solid #1e293b;
+    }
 
-        /* Header */
-        header {
-            background: #1a1a1a;
-            padding: 30px;
-            border-radius: 12px;
-            margin-bottom: 30px;
-            border: 1px solid #2a2a2a;
-        }
+    h1 {
+      margin: 0;
+      font-size: 24px;
+    }
 
-        .logo {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            gap: 15px;
-            margin-bottom: 20px;
-        }
+    .container {
+      padding: 16px;
+      max-width: 900px;
+      margin: auto;
+    }
 
-        h1 { color: #dc2626; font-size: 2.5em; font-weight: 800; }
+    .status {
+      text-align: center;
+      margin-top: 40px;
+      opacity: 0.8;
+    }
 
-        /* Tabs */
-        .tabs {
-            display: flex;
-            gap: 10px;
-            margin-top: 20px;
-            flex-wrap: wrap;
-            justify-content: center;
-        }
+    .wod-card {
+      background: #020617;
+      border: 1px solid #1e293b;
+      border-radius: 12px;
+      padding: 16px;
+      margin-bottom: 16px;
+    }
 
-        .tab-btn {
-            padding: 12px 24px;
-            background: #2a2a2a;
-            color: #e0e0e0;
-            border: 1px solid #3a3a3a;
-            border-radius: 8px;
-            cursor: pointer;
-            font-weight: 600;
-            transition: all 0.2s;
-        }
+    .wod-header {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 12px;
+      font-weight: bold;
+    }
 
-        .tab-btn:hover { background: #3a3a3a; border-color: #dc2626; }
-        .tab-btn.active { background: #dc2626; color: white; }
+    .wod-source {
+      color: #38bdf8;
+    }
 
-        .tab-content { display: none; }
-        .tab-content.active { display: block; }
+    .wod-date {
+      opacity: 0.7;
+    }
 
-        /* WOD Cards */
-        .wods-container {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-            gap: 25px;
-            margin-top: 30px;
-        }
+    .wod-section {
+      margin-top: 12px;
+    }
 
-        .wod-card {
-            background: #1a1a1a;
-            border-radius: 12px;
-            padding: 25px;
-            border: 1px solid #2a2a2a;
-            transition: all 0.2s;
-        }
+    .section-title {
+      font-weight: bold;
+      margin-bottom: 4px;
+      color: #facc15;
+    }
 
-        .wod-card:hover {
-            border-color: #dc2626;
-            transform: translateY(-2px);
-        }
+    ul {
+      margin: 0;
+      padding-left: 18px;
+    }
 
-        .wod-header {
-            border-bottom: 2px solid #dc2626;
-            padding-bottom: 15px;
-            margin-bottom: 20px;
-        }
+    li {
+      margin-bottom: 4px;
+    }
+  </style>
+</head>
 
-        .wod-source {
-            font-size: 1.3em;
-            font-weight: 700;
-            color: #dc2626;
-            margin-bottom: 5px;
-        }
+<body>
 
-        .wod-date { color: #888; font-size: 0.9em; }
+<header>
+  <h1>🦆 DUCK-WOD</h1>
+  <div>האימונים היומיים – מכל המקורות</div>
+</header>
 
-        /* Sections */
-        .wod-section {
-            margin-bottom: 20px;
-            text-align: center; /* CENTER TEXT */
-        }
+<div class="container">
+  <div id="status" class="status">טוען אימונים…</div>
+  <div id="wods"></div>
+</div>
 
-        .section-title {
-            font-weight: 800;
-            color: #dc2626;
-            text-decoration: underline;
-            margin-bottom: 10px;
-            font-size: 1.2em;
-        }
+<script>
+async function loadWods() {
+  const status = document.getElementById('status');
+  const container = document.getElementById('wods');
 
-        .section-lines {
-            list-style: none;
-            padding-left: 0;
-            text-align: center; /* CENTER TEXT */
-        }
+  try {
+    const res = await fetch('data/wods.json');
+    if (!res.ok) throw new Error('HTTP ' + res.status);
 
-        .section-lines li {
-            padding: 4px 0;
-            font-weight: normal;
-        }
+    const data = await res.json();
 
-        /* Match score badge */
-        .match-score {
-            display: inline-block;
-            background: #dc2626;
-            color: white;
-            padding: 5px 15px;
-            border-radius: 20px;
-            font-weight: 700;
-            margin-left: 10px;
-            font-size: 0.9em;
-        }
+    if (!data.sources || data.sources.length === 0) {
+      status.textContent = 'לא נמצאו מקורות 🤷‍♂️';
+      return;
+    }
 
-        /* Forms */
-        .form-section {
-            background: #1a1a1a;
-            padding: 30px;
-            border-radius: 12px;
-            border: 1px solid #2a2a2a;
-            max-width: 800px;
-            margin: 0 auto 30px;
-        }
+    status.remove();
 
-        .form-row {
-            margin-bottom: 20px;
-        }
+    data.sources.forEach(source => {
+      source.wods.forEach(wod => {
+        const card = document.createElement('div');
+        card.className = 'wod-card';
 
-        .form-row label {
-            display: block;
-            color: #dc2626;
-            font-weight: 600;
-            margin-bottom: 8px;
-            font-size: 1.1em;
-        }
+        card.innerHTML = `
+          <div class="wod-header">
+            <div class="wod-source">${source.name}</div>
+            <div class="wod-date">${wod.date}</div>
+          </div>
+        `;
 
-        .form-row input {
-            width: 100%;
-            padding: 12px;
-            background: #2a2a2a;
-            border: 1px solid #3a3a3a;
-            border-radius: 6px;
-            color: #e0e0e0;
-            font-size: 1em;
-        }
+        wod.sections.forEach(section => {
+          const sec = document.createElement('div');
+          sec.className = 'wod-section';
 
-        /* Equipment grid */
-        .equipment-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-            gap: 10px;
-            margin-top: 10px;
-        }
+          sec.innerHTML = `
+            <div class="section-title">${section.title}</div>
+            <ul>
+              ${section.lines.map(line => `<li>${line}</li>`).join('')}
+            </ul>
+          `;
 
-        .equipment-item {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            padding: 10px;
-            background: #2a2a2a;
-            border-radius: 6px;
-            cursor: pointer;
-            transition: background 0.2s;
-        }
+          card.appendChild(sec);
+        });
 
-        .equipment-item:hover { background: #3a3a3a; }
+        container.appendChild(card);
+      });
+    });
 
-        .equipment-item input {
-            width: 18px;
-            height: 18px;
-            cursor: pointer;
-            accent-color: #dc2626;
-        }
+  } catch (err) {
+    status.textContent = '❌ שגיאה בטעינת האימונים';
+  }
+}
 
-        .equipment-item label {
-            cursor: pointer;
-            flex: 1;
-            font-weight: 500;
-        }
+loadWods();
+</script>
 
-        /* Buttons */
-        .btn-primary {
-            padding: 14px 28px;
-            background: #dc2626;
-            color: white;
-            border: none;
-            border-radius: 8px;
-            font-size: 1.1em;
-            font-weight: 700;
-            cursor: pointer;
-            transition: all 0.2s;
-        }
-
-        .btn-primary:hover {
-            background: #b91c1c;
-            transform: translateY(-2px);
-        }
-
-        /* Sources list */
-        .sources-list {
-            max-width: 900px;
-            margin: 0 auto;
-        }
-
-        .source-item {
-            background: #1a1a1a;
-            padding: 20px;
-            border-radius: 8px;
-            border: 1px solid #2a2a2a;
-            margin-bottom: 15px;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            gap: 20px;
-        }
-
-        .source-info {
-            flex: 1;
-        }
-
-        .source-info h3 {
+</body>
+</html>
