@@ -1,143 +1,144 @@
-const DATA_URL = "data/wods.json";
+/* DUCK-WOD Frontend – Stable v1 */
 
-let allSources = [];
-let activeSources = new Set();
+const DATA_URL = './data/wods.json';
+
+const sourcesDiv = document.getElementById('sources');
+const datesDiv = document.getElementById('dates');
+const contentDiv = document.getElementById('content');
+
+let allData = null;
 let selectedDate = null;
+let enabledSources = new Set();
 
-// ---------- INIT ----------
-fetch(DATA_URL)
-  .then(res => {
-    if (!res.ok) throw new Error("Failed to load wods.json");
-    return res.json();
-  })
-  .then(data => {
-    allSources = data.sources || [];
-    if (!allSources.length) {
-      showError("אין מקורות");
-      return;
-    }
+/* ---------- Helpers ---------- */
 
-    allSources.forEach(s => activeSources.add(s.id));
-    selectedDate = today();
-
-    renderSourceSelector();
-    renderDateSelector();
-    renderWods();
-  })
-  .catch(err => {
-    console.error(err);
-    showError("❌ שגיאה בטעינת אימונים");
-  });
-
-// ---------- HELPERS ----------
-function today() {
-  return new Date().toISOString().slice(0, 10);
+function formatDate(date) {
+  return date.toISOString().split('T')[0];
 }
 
-function getWeekDates(baseDate) {
-  const base = new Date(baseDate);
-  const start = new Date(base);
-  start.setDate(base.getDate() - base.getDay());
-
-  return Array.from({ length: 7 }).map((_, i) => {
-    const d = new Date(start);
-    d.setDate(start.getDate() + i);
-    return d.toISOString().slice(0, 10);
-  });
+function getLast7Days() {
+  const days = [];
+  const today = new Date();
+  for (let i = 0; i < 7; i++) {
+    const d = new Date(today);
+    d.setDate(today.getDate() - i);
+    days.push(formatDate(d));
+  }
+  return days;
 }
 
-function showError(msg) {
-  document.getElementById("content").innerText = msg;
-}
+/* ---------- Render Sources ---------- */
 
-// ---------- UI ----------
-function renderSourceSelector() {
-  const el = document.getElementById("sources");
-  el.innerHTML = "";
+function renderSources() {
+  sourcesDiv.innerHTML = '';
 
-  allSources.forEach(src => {
-    const label = document.createElement("label");
-    label.style.marginRight = "12px";
+  allData.sources.forEach(src => {
+    enabledSources.add(src.id);
 
-    const cb = document.createElement("input");
-    cb.type = "checkbox";
-    cb.checked = activeSources.has(src.id);
+    const label = document.createElement('label');
+    label.style.display = 'block';
+
+    const cb = document.createElement('input');
+    cb.type = 'checkbox';
+    cb.checked = true;
 
     cb.onchange = () => {
-      cb.checked ? activeSources.add(src.id) : activeSources.delete(src.id);
+      if (cb.checked) enabledSources.add(src.id);
+      else enabledSources.delete(src.id);
       renderWods();
     };
 
     label.appendChild(cb);
-    label.append(" " + src.name);
-    el.appendChild(label);
+    label.append(' ' + src.name);
+    sourcesDiv.appendChild(label);
   });
 }
 
-function renderDateSelector() {
-  const el = document.getElementById("dates");
-  el.innerHTML = "";
+/* ---------- Render Dates ---------- */
 
-  getWeekDates(selectedDate).forEach(date => {
-    const btn = document.createElement("button");
-    btn.textContent = date.slice(5);
-    if (date === selectedDate) btn.classList.add("active");
+function renderDates() {
+  const days = getLast7Days();
+  selectedDate = days[0];
+
+  datesDiv.innerHTML = '';
+
+  days.forEach(day => {
+    const btn = document.createElement('button');
+    btn.textContent = day;
+    btn.className = day === selectedDate ? 'active' : '';
 
     btn.onclick = () => {
-      selectedDate = date;
-      renderDateSelector();
+      selectedDate = day;
+      renderDates();
       renderWods();
     };
 
-    el.appendChild(btn);
+    datesDiv.appendChild(btn);
   });
 }
 
-// ---------- WODS ----------
+/* ---------- Render WODs ---------- */
+
 function renderWods() {
-  const container = document.getElementById("content");
-  container.innerHTML = "";
+  contentDiv.innerHTML = '';
 
-  let found = false;
+  let foundAny = false;
 
-  allSources.forEach(src => {
-    if (!activeSources.has(src.id)) return;
+  allData.sources.forEach(src => {
+    if (!enabledSources.has(src.id)) return;
 
-    const wod = (src.wods || []).find(w => w.date === selectedDate);
+    const wod = src.wods.find(w => w.date === selectedDate);
     if (!wod) return;
 
-    found = true;
+    foundAny = true;
 
-    const card = document.createElement("div");
-    card.className = "wod";
+    const box = document.createElement('div');
+    box.className = 'wod';
 
-    const title = document.createElement("h2");
-    title.textContent = src.name + " – " + wod.date;
-    card.appendChild(title);
+    const title = document.createElement('h2');
+    title.textContent = src.name + ' – ' + wod.date;
+    box.appendChild(title);
 
     wod.sections.forEach(sec => {
-      const secDiv = document.createElement("div");
-      secDiv.className = "section";
+      const section = document.createElement('div');
+      section.className = 'section';
 
-      const h3 = document.createElement("h3");
+      const h3 = document.createElement('h3');
       h3.textContent = sec.title;
-      secDiv.appendChild(h3);
+      section.appendChild(h3);
 
-      const ul = document.createElement("ul");
+      const ul = document.createElement('ul');
       sec.lines.forEach(line => {
-        const li = document.createElement("li");
+        const li = document.createElement('li');
         li.textContent = line;
         ul.appendChild(li);
       });
 
-      secDiv.appendChild(ul);
-      card.appendChild(secDiv);
+      section.appendChild(ul);
+      box.appendChild(section);
     });
 
-    container.appendChild(card);
+    contentDiv.appendChild(box);
   });
 
-  if (!found) {
-    container.innerText = "אין אימונים ליום זה";
+  if (!foundAny) {
+    contentDiv.textContent = 'אין אימונים ליום הנבחר';
   }
 }
+
+/* ---------- Init ---------- */
+
+fetch(DATA_URL)
+  .then(res => {
+    if (!res.ok) throw new Error('Failed to load wods.json');
+    return res.json();
+  })
+  .then(data => {
+    allData = data;
+    renderSources();
+    renderDates();
+    renderWods();
+  })
+  .catch(err => {
+    contentDiv.textContent = '❌ שגיאה בטעינת אימונים';
+  });
