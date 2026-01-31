@@ -1,112 +1,127 @@
 const DATA_URL = "data/wods.json";
 
-let allData = null;
-let selectedDate = new Date().toISOString().slice(0, 10);
-let enabledSources = new Set();
+let allSources = [];
+let activeSources = new Set();
+let selectedDate = null;
 
-document.addEventListener("DOMContentLoaded", () => {
-  loadData();
-});
+// ---------- INIT ----------
+fetch(DATA_URL)
+  .then(res => {
+    if (!res.ok) throw new Error("Failed to load wods.json");
+    return res.json();
+  })
+  .then(data => {
+    allSources = data.sources || [];
+    if (!allSources.length) {
+      showError("אין מקורות");
+      return;
+    }
 
-async function loadData() {
-  try {
-    const res = await fetch(DATA_URL);
-    if (!res.ok) throw new Error("Fetch failed");
-    allData = await res.json();
+    allSources.forEach(s => activeSources.add(s.id));
+    selectedDate = today();
 
-    initSources();
-    initDatePicker();
-    render();
-  } catch (e) {
-    document.getElementById("content").innerHTML =
-      "❌ שגיאה בטעינת אימונים";
-    console.error(e);
-  }
+    renderSourceSelector();
+    renderDateSelector();
+    renderWods();
+  })
+  .catch(err => {
+    console.error(err);
+    showError("❌ שגיאה בטעינת אימונים");
+  });
+
+// ---------- HELPERS ----------
+function today() {
+  return new Date().toISOString().slice(0, 10);
 }
 
-/* ---------- SOURCES ---------- */
+function getWeekDates(baseDate) {
+  const base = new Date(baseDate);
+  const start = new Date(base);
+  start.setDate(base.getDate() - base.getDay());
 
-function initSources() {
-  const container = document.getElementById("sources");
-  container.innerHTML = "";
+  return Array.from({ length: 7 }).map((_, i) => {
+    const d = new Date(start);
+    d.setDate(start.getDate() + i);
+    return d.toISOString().slice(0, 10);
+  });
+}
 
-  allData.sources.forEach(src => {
-    enabledSources.add(src.id);
+function showError(msg) {
+  document.getElementById("content").innerText = msg;
+}
 
+// ---------- UI ----------
+function renderSourceSelector() {
+  const el = document.getElementById("sources");
+  el.innerHTML = "";
+
+  allSources.forEach(src => {
     const label = document.createElement("label");
     label.style.marginRight = "12px";
 
     const cb = document.createElement("input");
     cb.type = "checkbox";
-    cb.checked = true;
+    cb.checked = activeSources.has(src.id);
+
     cb.onchange = () => {
-      cb.checked ? enabledSources.add(src.id) : enabledSources.delete(src.id);
-      render();
+      cb.checked ? activeSources.add(src.id) : activeSources.delete(src.id);
+      renderWods();
     };
 
     label.appendChild(cb);
     label.append(" " + src.name);
-    container.appendChild(label);
+    el.appendChild(label);
   });
 }
 
-/* ---------- DATE PICKER ---------- */
+function renderDateSelector() {
+  const el = document.getElementById("dates");
+  el.innerHTML = "";
 
-function initDatePicker() {
-  const container = document.getElementById("dates");
-  container.innerHTML = "";
-
-  const today = new Date(selectedDate);
-
-  for (let i = -3; i <= 3; i++) {
-    const d = new Date(today);
-    d.setDate(today.getDate() + i);
-    const iso = d.toISOString().slice(0, 10);
-
+  getWeekDates(selectedDate).forEach(date => {
     const btn = document.createElement("button");
-    btn.textContent = iso === selectedDate ? "היום" : iso.slice(5);
-    btn.className = iso === selectedDate ? "active" : "";
+    btn.textContent = date.slice(5);
+    if (date === selectedDate) btn.classList.add("active");
 
     btn.onclick = () => {
-      selectedDate = iso;
-      initDatePicker();
-      render();
+      selectedDate = date;
+      renderDateSelector();
+      renderWods();
     };
 
-    container.appendChild(btn);
-  }
+    el.appendChild(btn);
+  });
 }
 
-/* ---------- RENDER ---------- */
-
-function render() {
+// ---------- WODS ----------
+function renderWods() {
   const container = document.getElementById("content");
   container.innerHTML = "";
 
-  let foundAny = false;
+  let found = false;
 
-  allData.sources.forEach(src => {
-    if (!enabledSources.has(src.id)) return;
+  allSources.forEach(src => {
+    if (!activeSources.has(src.id)) return;
 
-    const wod = src.wods.find(w => w.date === selectedDate);
+    const wod = (src.wods || []).find(w => w.date === selectedDate);
     if (!wod) return;
 
-    foundAny = true;
+    found = true;
 
-    const block = document.createElement("div");
-    block.className = "wod";
+    const card = document.createElement("div");
+    card.className = "wod";
 
     const title = document.createElement("h2");
-    title.textContent = src.name;
-    block.appendChild(title);
+    title.textContent = src.name + " – " + wod.date;
+    card.appendChild(title);
 
     wod.sections.forEach(sec => {
-      const secEl = document.createElement("div");
-      secEl.className = "section";
+      const secDiv = document.createElement("div");
+      secDiv.className = "section";
 
       const h3 = document.createElement("h3");
       h3.textContent = sec.title;
-      secEl.appendChild(h3);
+      secDiv.appendChild(h3);
 
       const ul = document.createElement("ul");
       sec.lines.forEach(line => {
@@ -115,14 +130,14 @@ function render() {
         ul.appendChild(li);
       });
 
-      secEl.appendChild(ul);
-      block.appendChild(secEl);
+      secDiv.appendChild(ul);
+      card.appendChild(secDiv);
     });
 
-    container.appendChild(block);
+    container.appendChild(card);
   });
 
-  if (!foundAny) {
-    container.innerHTML = "❌ אין אימונים ליום זה";
+  if (!found) {
+    container.innerText = "אין אימונים ליום זה";
   }
 }
