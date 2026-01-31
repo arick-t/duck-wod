@@ -1,158 +1,113 @@
-/* ===== Reset ===== */
+/* ===== Reset בסיסי ===== */
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
-/* ===== Page ===== */
+/* ===== גוף האתר ===== */
 body {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-    Roboto, Helvetica, Arial, sans-serif;
-  background: #eef1f4;
-  color: #222;
+  background-color: #e5e7eb; /* אפור בהיר */
+  color: #ffffff;
+  min-height: 100vh;
 }
 
-/* ===== Header ===== */
-h1 {
+/* ===== מעטפת מרכזית ===== */
+#app {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
   text-align: center;
-  margin: 20px 0;
 }
 
-/* ===== Controls ===== */
-#controls {
-  background: #ffffff;
-  padding: 12px;
-  border-bottom: 1px solid #ddd;
-  position: sticky;
-  top: 0;
-  z-index: 10;
+/* ===== כותרת ראשית ===== */
+h1 {
+  color: #111827;
+  margin-bottom: 20px;
 }
 
-#sources,
-#days {
-  display: flex;
-  justify-content: center;
-  gap: 8px;
-  flex-wrap: wrap;
+/* ===== אזור בוררים (מקורות + ימים) ===== */
+.controls {
+  margin-bottom: 25px;
+}
+
+.controls h2 {
+  color: #111827;
   margin-bottom: 10px;
 }
 
-/* ===== Buttons ===== */
+/* ===== כפתורים כלליים ===== */
 button {
-  background: #fff;
-  border: 1px solid #ccc;
-  padding: 6px 10px;
+  background-color: #1f2933;
+  color: #ffffff;
+  border: 1px solid #ffffff;
   border-radius: 6px;
+  padding: 6px 12px;
+  margin: 4px;
   cursor: pointer;
-  font-size: 14px;
 }
 
 button:hover {
-  background: #f0f0f0;
+  background-color: #374151;
 }
 
 button.active {
-  background: #007bff;
-  color: #fff;
-  border-color: #007bff;
+  background-color: #2563eb;
 }
 
-/* ===== Days ===== */
-.day-btn {
+/* ===== מכולת אימונים ===== */
+#wods-container {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  min-width: 64px;
+  gap: 24px;
+  margin-top: 20px;
 }
 
-.day-btn .day-name {
-  font-weight: 600;
-  font-size: 13px;
-}
-
-.day-btn .day-date {
-  font-size: 11px;
-  opacity: 0.7;
-}
-
-.day-btn.today {
-  border: 2px solid #007bff;
-}
-
-/* ===== Main content ===== */
-#content {
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 20px 12px;
-}
-
-/* ===== Source Card ===== */
-.source-card {
-  background: #ffffff;
-  border-radius: 12px;
-  padding: 18px 20px;
-  margin-bottom: 24px;
-  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.08);
-  border-top: 6px solid #007bff;
+/* ===== כרטיס של אתר / אימון ===== */
+.wod-card {
+  background-color: #0f172a; /* כחול כהה */
+  border: 2px solid #ffffff;
+  border-radius: 14px;
+  padding: 20px;
   text-align: center;
 }
 
-/* Accent per source */
-.source-card[data-source="myleo"] {
-  border-top-color: #28a745;
+/* ===== שם המקור ===== */
+.wod-source {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 10px;
 }
 
-.source-card[data-source="crossfit"] {
-  border-top-color: #dc3545;
-}
-
-.source-card[data-source="linchpin"] {
-  border-top-color: #6f42c1;
-}
-
-/* ===== Source header ===== */
-.source-title {
-  font-size: 20px;
-  font-weight: 700;
-  margin-bottom: 4px;
-}
-
-.source-date {
-  font-size: 13px;
-  opacity: 0.6;
+/* ===== תאריך ===== */
+.wod-date {
+  font-size: 0.9rem;
+  opacity: 0.8;
   margin-bottom: 16px;
 }
 
-/* ===== Sections ===== */
-.section {
-  margin-bottom: 16px;
+/* ===== מקטע בתוך אימון ===== */
+.wod-section {
+  margin-bottom: 18px;
 }
 
-.section-title {
-  font-weight: 600;
+.wod-section-title {
+  font-weight: bold;
   margin-bottom: 6px;
-  text-transform: capitalize;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
 }
 
-.section-lines {
-  max-width: 500px;
-  margin: 0 auto;
+/* ===== שורות אימון ===== */
+.wod-line {
+  margin: 3px 0;
+  font-size: 0.95rem;
 }
 
-.section-lines div {
-  font-size: 14px;
-  margin-bottom: 4px;
-}
-
-/* ===== States ===== */
-.loading,
-.error {
-  text-align: center;
-  padding: 40px;
-  font-size: 16px;
-}
-
-.error {
-  color: #c00;
+/* ===== הודעות מערכת ===== */
+.status {
+  color: #111827;
+  margin-top: 30px;
+  font-size: 1rem;
 }
