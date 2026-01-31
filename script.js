@@ -1,136 +1,177 @@
-const DATA_URL = './data/wods.json';
-
-let allData = null;
-let selectedDate = null;
+let allWods = [];
+let activeDate = null;
 let enabledSources = new Set();
 
-// ---------- utils ----------
-function formatDate(date) {
-  return date.toISOString().split('T')[0];
+/* ---------- Date helpers ---------- */
+
+const WEEKDAYS_HE = [
+  "ראשון",
+  "שני",
+  "שלישי",
+  "רביעי",
+  "חמישי",
+  "שישי",
+  "שבת"
+];
+
+function isToday(dateStr) {
+  const d = new Date(dateStr);
+  const t = new Date();
+  return (
+    d.getFullYear() === t.getFullYear() &&
+    d.getMonth() === t.getMonth() &&
+    d.getDate() === t.getDate()
+  );
 }
 
-function todayDate() {
-  return formatDate(new Date());
+function formatDayLabel(dateStr) {
+  const date = new Date(dateStr);
+
+  const dayName = isToday(dateStr)
+    ? "היום"
+    : WEEKDAYS_HE[date.getDay()];
+
+  const shortDate = `${date.getDate()}/${date.getMonth() + 1}`;
+
+  return { dayName, shortDate };
 }
 
-// ---------- load ----------
-async function loadData() {
+/* ---------- Load data ---------- */
+
+async function loadWods() {
   try {
-    const res = await fetch(DATA_URL);
-    if (!res.ok) throw new Error('Fetch failed');
-    allData = await res.json();
-    init();
+    const res = await fetch("data/wods.json");
+    if (!res.ok) throw new Error("HTTP error");
+
+    const data = await res.json();
+    allWods = data.sources || [];
+
+    enabledSources.clear();
+    allWods.forEach(s => enabledSources.add(s.id));
+
+    buildSourceFilter();
+    buildDaySelector();
+    renderWods();
   } catch (e) {
-    document.getElementById('wods').innerText = '❌ שגיאה בטעינת אימונים';
+    document.getElementById("wods").innerText = "❌ שגיאה בטעינת אימונים";
     console.error(e);
   }
 }
 
-// ---------- init ----------
-function init() {
-  selectedDate = todayDate();
+/* ---------- UI builders ---------- */
 
-  allData.sources.forEach(src => {
-    enabledSources.add(src.id);
-  });
+function buildSourceFilter() {
+  const container = document.getElementById("sources");
+  container.innerHTML = "";
 
-  renderSources();
-  renderDays();
-  renderWods();
-}
+  allWods.forEach(source => {
+    const label = document.createElement("label");
+    label.className = "source-checkbox";
 
-// ---------- sources ----------
-function renderSources() {
-  const el = document.getElementById('sources');
-  el.innerHTML = '';
-
-  allData.sources.forEach(src => {
-    const label = document.createElement('label');
-    label.className = 'source-toggle';
-
-    const cb = document.createElement('input');
-    cb.type = 'checkbox';
+    const cb = document.createElement("input");
+    cb.type = "checkbox";
     cb.checked = true;
-
     cb.onchange = () => {
-      cb.checked ? enabledSources.add(src.id) : enabledSources.delete(src.id);
+      cb.checked
+        ? enabledSources.add(source.id)
+        : enabledSources.delete(source.id);
       renderWods();
     };
 
-    label.append(cb, ' ', src.name);
-    el.appendChild(label);
+    label.appendChild(cb);
+    label.append(" " + source.name);
+    container.appendChild(label);
   });
 }
 
-// ---------- days ----------
-function renderDays() {
-  const el = document.getElementById('days');
-  el.innerHTML = '';
+function buildDaySelector() {
+  const container = document.getElementById("days");
+  container.innerHTML = "";
 
   const dates = new Set();
+  allWods.forEach(src =>
+    src.wods.forEach(w => dates.add(w.date))
+  );
 
-  allData.sources.forEach(src => {
-    src.wods?.forEach(w => dates.add(w.date));
-  });
+  const sortedDates = Array.from(dates).sort().reverse();
 
-  [...dates].sort().forEach(date => {
-    const btn = document.createElement('button');
-    btn.innerText = date;
-    btn.className = date === selectedDate ? 'active' : '';
+  if (!activeDate) {
+    activeDate =
+      sortedDates.find(isToday) || sortedDates[0];
+  }
+
+  sortedDates.forEach(date => {
+    const { dayName, shortDate } = formatDayLabel(date);
+
+    const btn = document.createElement("button");
+    btn.className = "day-btn";
+    if (isToday(date)) btn.classList.add("today");
+    if (date === activeDate) btn.classList.add("active");
+
+    btn.innerHTML = `
+      <div class="day-name">${dayName}</div>
+      <div class="day-date">${shortDate}</div>
+    `;
 
     btn.onclick = () => {
-      selectedDate = date;
-      renderDays();
+      activeDate = date;
+      buildDaySelector();
       renderWods();
     };
 
-    el.appendChild(btn);
+    container.appendChild(btn);
   });
 }
 
-// ---------- wods ----------
+/* ---------- Render ---------- */
+
 function renderWods() {
-  const el = document.getElementById('wods');
-  el.innerHTML = '';
+  const container = document.getElementById("wods");
+  container.innerHTML = "";
 
   let found = false;
 
-  allData.sources.forEach(src => {
-    if (!enabledSources.has(src.id)) return;
+  allWods.forEach(source => {
+    if (!enabledSources.has(source.id)) return;
 
-    const wod = src.wods?.find(w => w.date === selectedDate);
-    if (!wod) return;
+    source.wods.forEach(wod => {
+      if (wod.date !== activeDate) return;
 
-    found = true;
+      found = true;
 
-    const box = document.createElement('div');
-    box.className = 'wod';
+      const card = document.createElement("div");
+      card.className = "wod-card";
 
-    const h = document.createElement('h3');
-    h.innerText = `${src.name} — ${selectedDate}`;
-    box.appendChild(h);
+      card.innerHTML = `
+        <div class="wod-header">
+          <div class="wod-source">${source.name}</div>
+          <div class="wod-date">${wod.date}</div>
+        </div>
+      `;
 
-    wod.sections.forEach(sec => {
-      const t = document.createElement('h4');
-      t.innerText = sec.title;
-      box.appendChild(t);
+      wod.sections.forEach(sec => {
+        const section = document.createElement("div");
+        section.className = "wod-section";
 
-      const ul = document.createElement('ul');
-      sec.lines.forEach(line => {
-        const li = document.createElement('li');
-        li.innerText = line;
-        ul.appendChild(li);
+        section.innerHTML = `
+          <div class="section-title">${sec.title}</div>
+          <ul class="section-lines">
+            ${sec.lines.map(l => `<li>${l}</li>`).join("")}
+          </ul>
+        `;
+
+        card.appendChild(section);
       });
-      box.appendChild(ul);
-    });
 
-    el.appendChild(box);
+      container.appendChild(card);
+    });
   });
 
   if (!found) {
-    el.innerText = 'אין אימונים ליום הנבחר';
+    container.innerText = "אין אימונים ליום הזה";
   }
 }
 
-// ---------- start ----------
-loadData();
+/* ---------- Init ---------- */
+
+document.addEventListener("DOMContentLoaded", loadWods);
