@@ -34,9 +34,9 @@ jobs:
         cd backend/scraper
         python run_scraper.py
     
-    - name: 💾 Commit and push if changes
-      run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "DUCK-WOD Bot 🦆"
-        git add data/wods.json
-        git diff --quiet && git diff --staged --quiet || (git commit -m "🦆 Update WODs - $(date +'%Y-%m-%d %H:%M')" && git push)
+    # - name: 💾 Commit and push if changes
+    #   run: |
+    #     git config --local user.email "github-actions[bot]@users.noreply.github.com"
+    #     git config --local user.name "DUCK-WOD Bot 🦆"
+    #     git add data/wods.json
+    #     git diff --quiet && git diff --staged --quiet || (git commit -m "🦆 Update WODs - $(date +'%Y-%m-%d %H:%M')" && git push)
