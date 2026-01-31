@@ -1,82 +1,58 @@
-// DUCK-WOD Frontend Script v1.0
-// Simple, stable, GitHub Pages compatible
+// ===============================
+// DUCK-WOD Frontend Logic
+// ===============================
 
-document.addEventListener("DOMContentLoaded", () => {
-  loadWods();
-});
+const DATA_URL =
+  "https://raw.githubusercontent.com/arick-t/duck-wod/main/data/wods.json";
 
+let allWods = [];
+let selectedDate = null;
+let selectedSources = new Set();
+
+// -------------------------------
+// Utils
+// -------------------------------
+function todayISO() {
+  return new Date().toISOString().split("T")[0];
+}
+
+function addDays(dateStr, delta) {
+  const d = new Date(dateStr);
+  d.setDate(d.getDate() + delta);
+  return d.toISOString().split("T")[0];
+}
+
+function formatDayLabel(dateStr) {
+  const d = new Date(dateStr);
+  return d.toLocaleDateString("he-IL", {
+    weekday: "short",
+    day: "numeric",
+    month: "numeric",
+  });
+}
+
+// -------------------------------
+// Load data
+// -------------------------------
 async function loadWods() {
-  const container = document.getElementById("wods");
-  if (!container) {
-    console.error("❌ Element #wods not found in index.html");
-    return;
-  }
-
-  container.innerHTML = "⏳ טוען אימונים...";
-
   try {
-    const response = await fetch("./data/wods.json", { cache: "no-store" });
+    const res = await fetch(DATA_URL);
+    if (!res.ok) throw new Error("Failed to load wods.json");
 
-    if (!response.ok) {
-      throw new Error(`HTTP ${response.status}`);
-    }
+    allWods = await res.json();
 
-    const data = await response.json();
-
-    if (!data.sources || data.sources.length === 0) {
-      container.innerHTML = "⚠️ אין מקורות זמינים";
-      return;
-    }
-
-    container.innerHTML = "";
-
-    data.sources.forEach(source => {
-      if (!source.wods || source.wods.length === 0) return;
-
-      const sourceBlock = document.createElement("div");
-      sourceBlock.className = "source";
-
-      const sourceTitle = document.createElement("h2");
-      sourceTitle.textContent = source.name;
-      sourceBlock.appendChild(sourceTitle);
-
-      source.wods.forEach(wod => {
-        const wodCard = document.createElement("div");
-        wodCard.className = "wod";
-
-        const dateEl = document.createElement("h3");
-        dateEl.textContent = wod.date;
-        wodCard.appendChild(dateEl);
-
-        wod.sections.forEach(section => {
-          const sectionTitle = document.createElement("h4");
-          sectionTitle.textContent = section.title;
-          wodCard.appendChild(sectionTitle);
-
-          const ul = document.createElement("ul");
-          section.lines.forEach(line => {
-            const li = document.createElement("li");
-            li.textContent = line;
-            ul.appendChild(li);
-          });
-
-          wodCard.appendChild(ul);
-        });
-
-        const link = document.createElement("a");
-        link.href = wod.url;
-        link.textContent = "🔗 למקור המקורי";
-        link.target = "_blank";
-        wodCard.appendChild(link);
-
-        sourceBlock.appendChild(wodCard);
-      });
-
-      container.appendChild(sourceBlock);
-    });
-
+    init();
   } catch (err) {
-    console.error("❌ Failed loading WODs:", err);
-    container.innerHTML = "❌ שגיאה בטעינת אימונים";
+    console.error(err);
+    document.getElementById("app").innerHTML =
+      "❌ שגיאה בטעינת אימונים";
   }
 }
+
+// -------------------------------
+// Init
+// -------------------------------
+function init() {
+  selectedDate = todayISO();
+
+  buildLay
