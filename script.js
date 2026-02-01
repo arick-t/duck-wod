@@ -1,22 +1,26 @@
-async function addSource() {
-  const name = document.getElementById("source-name").value.trim();
-  const url = document.getElementById("source-url").value.trim();
-  const status = document.getElementById("add-source-status");
+// PATH: /script.js
+// שלב 1 – טעינת WODs מ־data/wods.json והדפסה לקונסול
 
-  if (!name || !url) {
-    status.textContent = "❌ נא למלא שם ו־URL";
-    return;
-  }
+const DATA_URL = './data/wods.json';
 
-  status.textContent = "⏳ בודק מקור...";
-
+async function loadWods() {
   try {
-    // GitHub Pages limitation:
-    // This simulates backend add via GitHub commit flow
-    status.textContent =
-      "✅ מקור נוסף לקובץ sources.json. הרצת Fetch תכניס את האימונים.";
+    const response = await fetch(DATA_URL);
 
-  } catch (e) {
-    status.textContent = "❌ שגיאה בהוספת מקור";
+    if (!response.ok) {
+      throw new Error(`HTTP error: ${response.status}`);
+    }
+
+    const data = await response.json();
+
+    console.log('WODS DATA LOADED:', data);
+
+    // זמנית – רק בדיקה
+    console.log('Sources:', data.sources);
+
+  } catch (error) {
+    console.error('Failed to load wods.json:', error);
   }
 }
+
+document.addEventListener('DOMContentLoaded', loadWods);
