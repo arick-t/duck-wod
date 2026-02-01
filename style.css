@@ -1,113 +1,232 @@
-/* ===== Reset בסיסי ===== */
+/* ===============================
+   DUCK-WOD 🦆 – Base Styles
+   =============================== */
+
 * {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
-/* ===== גוף האתר ===== */
 body {
-  background-color: #e5e7eb; /* אפור בהיר */
-  color: #ffffff;
-  min-height: 100vh;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Helvetica, Arial, sans-serif;
+  background: #f7f7f8;
+  color: #111;
+  line-height: 1.6;
 }
 
-/* ===== מעטפת מרכזית ===== */
-#app {
+/* ===============================
+   Layout
+   =============================== */
+
+.container {
   max-width: 900px;
   margin: 0 auto;
-  padding: 20px;
-  text-align: center;
+  padding: 16px;
 }
 
-/* ===== כותרת ראשית ===== */
-h1 {
-  color: #111827;
-  margin-bottom: 20px;
-}
+/* ===============================
+   Header
+   =============================== */
 
-/* ===== אזור בוררים (מקורות + ימים) ===== */
-.controls {
-  margin-bottom: 25px;
-}
-
-.controls h2 {
-  color: #111827;
-  margin-bottom: 10px;
-}
-
-/* ===== כפתורים כלליים ===== */
-button {
-  background-color: #1f2933;
-  color: #ffffff;
-  border: 1px solid #ffffff;
-  border-radius: 6px;
-  padding: 6px 12px;
-  margin: 4px;
-  cursor: pointer;
-}
-
-button:hover {
-  background-color: #374151;
-}
-
-button.active {
-  background-color: #2563eb;
-}
-
-/* ===== מכולת אימונים ===== */
-#wods-container {
+header {
   display: flex;
   flex-direction: column;
-  gap: 24px;
-  margin-top: 20px;
+  gap: 16px;
+  margin-bottom: 24px;
 }
 
-/* ===== כרטיס של אתר / אימון ===== */
-.wod-card {
-  background-color: #0f172a; /* כחול כהה */
-  border: 2px solid #ffffff;
-  border-radius: 14px;
-  padding: 20px;
+.logo h1 {
+  font-size: 2rem;
   text-align: center;
 }
 
-/* ===== שם המקור ===== */
-.wod-source {
-  font-size: 1.2rem;
-  font-weight: bold;
-  margin-bottom: 10px;
+/* ===============================
+   Tabs (sources / days)
+   =============================== */
+
+.tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
 }
 
-/* ===== תאריך ===== */
-.wod-date {
+.tabs button {
+  padding: 6px 12px;
+  border-radius: 999px;
+  border: 1px solid #ddd;
+  background: white;
+  cursor: pointer;
   font-size: 0.9rem;
-  opacity: 0.8;
-  margin-bottom: 16px;
 }
 
-/* ===== מקטע בתוך אימון ===== */
-.wod-section {
-  margin-bottom: 18px;
+.tabs button.active {
+  background: #111;
+  color: white;
+  border-color: #111;
 }
 
-.wod-section-title {
-  font-weight: bold;
-  margin-bottom: 6px;
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
+/* ===============================
+   Add Source Section
+   =============================== */
+
+.form-section {
+  background: white;
+  border-radius: 12px;
+  padding: 16px;
+  margin-bottom: 24px;
+  border: 1px solid #e5e5e5;
 }
 
-/* ===== שורות אימון ===== */
-.wod-line {
-  margin: 3px 0;
+.form-section h2 {
+  margin-bottom: 12px;
+  font-size: 1.2rem;
+}
+
+.form-row {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-bottom: 12px;
+}
+
+.form-row label {
+  font-size: 0.85rem;
+  color: #555;
+}
+
+.form-row input {
+  padding: 8px 10px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
   font-size: 0.95rem;
 }
 
-/* ===== הודעות מערכת ===== */
-.status {
-  color: #111827;
-  margin-top: 30px;
+.btn-primary {
+  background: #111;
+  color: white;
+  border: none;
+  padding: 10px 14px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 0.95rem;
+}
+
+.btn-primary:hover {
+  opacity: 0.9;
+}
+
+#add-source-status {
+  margin-top: 8px;
+  font-size: 0.85rem;
+}
+
+/* ===============================
+   WODs Container
+   =============================== */
+
+.wods-container {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+/* ===============================
+   Day Card
+   =============================== */
+
+.wod-day {
+  background: white;
+  border-radius: 16px;
+  padding: 20px;
+  border: 1px solid #e5e5e5;
+}
+
+.wod-day + .wod-day {
+  margin-top: 8px;
+}
+
+/* ===============================
+   Date Header
+   =============================== */
+
+.wod-date {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-bottom: 12px;
+}
+
+.wod-source {
+  font-size: 0.8rem;
+  color: #666;
+  margin-bottom: 16px;
+}
+
+/* ===============================
+   WOD Sections
+   =============================== */
+
+.wod-section {
+  margin-bottom: 16px;
+}
+
+.wod-section h3 {
   font-size: 1rem;
+  margin-bottom: 6px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.wod-section p,
+.wod-section li {
+  font-size: 0.95rem;
+  margin-bottom: 4px;
+}
+
+/* ===============================
+   Lists inside WOD
+   =============================== */
+
+.wod-section ul {
+  padding-left: 18px;
+  margin-top: 6px;
+}
+
+.wod-section li {
+  margin-bottom: 4px;
+}
+
+/* ===============================
+   Emphasis for MyLoe style
+   =============================== */
+
+.wod-section strong {
+  font-weight: 700;
+}
+
+/* ===============================
+   Loading
+   =============================== */
+
+#loading {
+  text-align: center;
+  font-size: 1.1rem;
+  padding: 40px 0;
+  color: #666;
+}
+
+/* ===============================
+   Responsive
+   =============================== */
+
+@media (max-width: 600px) {
+  .logo h1 {
+    font-size: 1.6rem;
+  }
+
+  .wod-date {
+    font-size: 1.2rem;
+  }
 }
