@@ -1,26 +1,26 @@
-// PATH: /script.js
-// שלב 1 – טעינת WODs מ־data/wods.json והדפסה לקונסול
+fetch('./data/wods.json')
+  .then(response => response.json())
+  .then(data => {
+    // שליפה בסיסית – המקור הראשון
+    const source = data.sources[0];
 
-const DATA_URL = './data/wods.json';
+    // יצירת HTML פשוט
+    let html = `<h1>${source.name}</h1>`;
 
-async function loadWods() {
-  try {
-    const response = await fetch(DATA_URL);
+    source.wods.forEach(wod => {
+      html += `<h2>${wod.date}</h2>`;
 
-    if (!response.ok) {
-      throw new Error(`HTTP error: ${response.status}`);
-    }
+      wod.sections.forEach(section => {
+        html += `<h3>${section.title}</h3><ul>`;
+        section.lines.forEach(line => {
+          html += `<li>${line}</li>`;
+        });
+        html += `</ul>`;
+      });
+    });
 
-    const data = await response.json();
-
-    console.log('WODS DATA LOADED:', data);
-
-    // זמנית – רק בדיקה
-    console.log('Sources:', data.sources);
-
-  } catch (error) {
-    console.error('Failed to load wods.json:', error);
-  }
-}
-
-document.addEventListener('DOMContentLoaded', loadWods);
+    document.body.innerHTML = html;
+  })
+  .catch(err => {
+    document.body.innerHTML = '<h1>שגיאה בטעינת הנתונים</h1>';
+  });
