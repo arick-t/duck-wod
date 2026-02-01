@@ -1,10 +1,60 @@
 {
+  "last_updated": "2026-02-01T06:32:29.946428",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-02-01",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Heute ist der letzte Tag der HiLife Challenge 2026. HERZLICHEN GLÜCKWUNSCH an alle Teilnehmenden! Seid stolz auf Euch!"
+              ]
+            },
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "instep rotation",
+                "lat stretch",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "30sec on / 15sec off x2 rounds",
+                "1. scap. push ups",
+                "2. row",
+                "3. ring rows",
+                "4. box step ups"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "emom 35min (7 rounds)",
+                "1. 10-15 bench dips",
+                "2. 10-15cal row",
+                "3. 8-10 strict pull ups",
+                "4. 12-16 db box step ups",
+                "5. rest",
+                "Sunday Endurance for Open Gym",
+                "“norwegian 4x4 intervals”",
+                "• choose: run, bike, row, or ski",
+                "4 sets:",
+                "4:00 hard [rpe 8-9]",
+                "3:00 easy or rest [rpe 1-2]",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-02-01/"
+        },
         {
           "date": "2026-01-31",
           "sections": [
@@ -603,57 +653,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-01-19/"
-        },
-        {
-          "date": "2026-01-18",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "lying hip cross over",
-                "calf stretch",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "30sec on / 15sec off x2 rounds",
-                "1. plank hold",
-                "2. bike/ski",
-                "3. box step ups",
-                "4. ring rows"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "emom 35min (7 rounds)",
-                "1. 15-20 russian twists",
-                "2. 10-15cal bike/ski",
-                "3. 15-20 box jumps",
-                "4. 16-20 gorilla rows",
-                "5. rest",
-                "Sunday Endurance for Open Gym",
-                "[wave 1]",
-                "2:00 at rpe 5, 1:00 easy",
-                "1:30 at rpe 6, 1:00 easy",
-                "1:00 at rpe 7, 1:00 easy",
-                "0:30 at rpe 8",
-                "5:00 easy between waves",
-                "[wave 2]",
-                "2:00 at rpe 6, 1:00 easy",
-                "1:30 at rpe 7, 1:00 easy",
-                "1:00 at rpe 8, 1:00 easy",
-                "0:30 at rpe 9",
-                "choose: run, bike, row, or ski",
-                "aerobic power [lactate threshold]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-01-18/"
         }
       ]
     },
@@ -662,6 +661,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-02-01",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "The Illusion of Fitness and Earning Intensity: How CrossFit Breaks the Comfort Trap",
+                "Intensity is the key to CrossFit's life-changing results, but most people avoid it because discomfort hurts. The truth? If you're staying comfortable in your workouts, you're not chasing fitness â you're clinging to mediocrity. Here's why embracing the struggle is the only path to real results.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260201"
+        },
         {
           "date": "2026-01-31",
           "sections": [
@@ -707,31 +721,14 @@
           "url": "https://www.crossfit.com/260130"
         },
         {
-          "date": "2026-01-29",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Your CrossFit Open Game Plan: Four Movements and the Mindset To Master Them",
-                "The 2026 CrossFit Open, presented by Air National Guard, is coming, along with the nervous excitement, uncertainty, and that critical voice in your head when you can't do a programmed movement or see better scores on the leaderboard. Here's how to overcome common movement faults, develop smarter strategies, and give yourself the tools for a better Open experience this year and for many years to come.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260129"
-        },
-        {
           "date": "2026-01-28",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Deadlift 5-5-5-5-5 reps",
-                "Compare to",
-                "250429",
-                ".",
-                "Post loads to the comments."
+                "Wednesday",
+                "260128",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -743,9 +740,14 @@
             {
               "title": "Workout",
               "lines": [
-                "Tuesday",
-                "260127",
-                "Practice the Movement â"
+                "Complete as many reps as possible in 3 minutes of:",
+                "200-meter run",
+                "50-foot handstand walk",
+                "Max kettlebell swings",
+                "Rest 1 minute between sets. Repeat for a total of 4 sets.",
+                "â 35-lb kettlebell",
+                "â 53-lb kettlebell",
+                "Post reps to the comments."
               ]
             }
           ],
@@ -821,18 +823,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Every minute on the minute for 8 minutes:",
-                "2 shoulder presses",
-                "Add weight every 2 minutes. Use 50-60% of the heaviest set for the workout.",
-                "Then,"
-              ]
-            },
-            {
-              "title": "4 rounds for time of:",
-              "lines": [
-                "400-meter run",
-                "12 shoulder presses",
-                "Post loads and time to comments."
+                "Wednesday",
+                "260121",
+                "Drill the Movement â"
               ]
             }
           ],
@@ -844,11 +837,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Front squat 3-3-3-3-3 reps",
-                "Compare to",
-                "251114",
-                ".",
-                "Post loads to comments."
+                "Tuesday",
+                "260120",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -858,14 +849,11 @@
           "date": "2026-01-19",
           "sections": [
             {
-              "title": "7 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "7 deadlifts",
-                "5 hang power cleans",
-                "3 bar muscle-ups",
-                "â 105 lb",
-                "â 155 lb",
-                "Post time to comments."
+                "Monday",
+                "260119",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -873,6 +861,5 @@
         }
       ]
     }
-  ],
-  "last_updated": "2026-01-31T17:53:15.831127"
+  ]
 }
