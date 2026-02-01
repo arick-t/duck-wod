@@ -1,13 +1,13 @@
 fetch('./data/wods.json')
   .then(response => response.json())
   .then(data => {
-    // שליפה בסיסית – המקור הראשון
-    const source = data.sources[0];
+    const source = data.sources[0]; // MYLEO כרגע
+    const container = document.getElementById('wods');
 
-    // יצירת HTML פשוט
-    let html = `<h1>${source.name}</h1>`;
+    let html = '';
 
     source.wods.forEach(wod => {
+      html += `<section>`;
       html += `<h2>${wod.date}</h2>`;
 
       wod.sections.forEach(section => {
@@ -17,10 +17,13 @@ fetch('./data/wods.json')
         });
         html += `</ul>`;
       });
+
+      html += `</section>`;
     });
 
-    document.body.innerHTML = html;
+    container.innerHTML = html;
   })
   .catch(err => {
-    document.body.innerHTML = '<h1>שגיאה בטעינת הנתונים</h1>';
+    document.getElementById('wods').innerHTML =
+      '<p>שגיאה בטעינת האימונים</p>';
   });
