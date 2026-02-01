@@ -12,51 +12,60 @@
 
 <body>
 
-<div class="container">
+  <main style="max-width: 900px; margin: 0 auto; padding: 20px;">
+    <h1>MYLEO – אימונים אחרונים</h1>
 
-  <!-- HEADER -->
-  <header>
-    <div class="logo">
-      <h1>DUCK-WOD 🦆</h1>
+    <div id="wods">
+      טוען אימונים…
     </div>
-
-    <!-- SOURCES FILTER -->
-    <div id="sources-filter" class="tabs">
-      <!-- נטען דינמית -->
-    </div>
-
-    <!-- DAYS PICKER -->
-    <div id="days-picker" class="tabs">
-      <!-- נטען דינמית -->
-    </div>
-  </header>
-
-  <!-- ADD SOURCE -->
-  <section id="add-source" class="form-section">
-    <h2>➕ הוספת מקור אימונים</h2>
-
-    <div class="form-row">
-      <label>שם המקור</label>
-      <input id="source-name" placeholder="לדוגמה: CrossFit Postal">
-    </div>
-
-    <div class="form-row">
-      <label>כתובת האתר</label>
-      <input id="source-url" placeholder="https://example.com/wod">
-    </div>
-
-    <button class="btn-primary" onclick="addSource()">הוסף מקור</button>
-
-    <div id="add-source-status"></div>
-  </section>
-
-  <!-- WODS -->
-  <main id="wods-container" class="wods-container">
-    <div id="loading">⏳ טוען אימונים…</div>
   </main>
 
-</div>
+  <script>
+    fetch("data/wods.json")
+      .then(res => res.json())
+      .then(data => {
+        const myleo = data.sources.find(s => s.id === "myleo");
+        const container = document.getElementById("wods");
 
-<script src="script.js"></script>
+        if (!myleo) {
+          container.innerHTML = "❌ מקור MYLEO לא נמצא";
+          return;
+        }
+
+        container.innerHTML = "";
+
+        myleo.wods.forEach(wod => {
+          const block = document.createElement("div");
+          block.style.marginBottom = "32px";
+
+          const date = document.createElement("h2");
+          date.textContent = wod.date;
+          block.appendChild(date);
+
+          wod.sections.forEach(section => {
+            const title = document.createElement("div");
+            title.textContent = section.title;
+            title.style.fontWeight = "bold";
+            title.style.marginTop = "8px";
+            block.appendChild(title);
+
+            section.lines.forEach(line => {
+              const p = document.createElement("div");
+              p.textContent = line;
+              p.style.fontWeight = "bold";
+              block.appendChild(p);
+            });
+          });
+
+          container.appendChild(block);
+        });
+      })
+      .catch(err => {
+        document.getElementById("wods").innerHTML =
+          "❌ שגיאה בטעינת הנתונים";
+        console.error(err);
+      });
+  </script>
+
 </body>
 </html>
