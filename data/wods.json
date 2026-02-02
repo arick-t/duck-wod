@@ -1,11 +1,64 @@
 {
-  "last_updated": "2026-02-01T06:32:29.946428",
+  "last_updated": "2026-02-02T07:35:32.061347",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-02-02",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "lat stretch",
+                "hand walk",
+                "instep rotations",
+                "lying hip cross over"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 clean grip deadlifts",
+                "10 hang high pulls",
+                "10 elbow rotations"
+              ]
+            },
+            {
+              "title": "skill 5min",
+              "lines": [
+                "(hang) power clean"
+              ]
+            },
+            {
+              "title": "clean 12min",
+              "lines": [
+                "find a heavy complex",
+                "3 deadlifts",
+                "2 power cleans",
+                "1 hang clean",
+                "explosive power"
+              ]
+            },
+            {
+              "title": "conditioning 15min",
+              "lines": [
+                "HiLife Challenge Benchmark WOD",
+                "amrap 15min",
+                "5 burpees",
+                "10 sit ups",
+                "15 air squats",
+                "aerobic capacity (lactate threshold)",
+                "power clean",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-02-02/"
+        },
         {
           "date": "2026-02-01",
           "sections": [
@@ -606,53 +659,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-01-20/"
-        },
-        {
-          "date": "2026-01-19",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "scorpions",
-                "lat stretch",
-                "instep rotation"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 cossack squats",
-                "10 push ups",
-                "10 good mornings"
-              ]
-            },
-            {
-              "title": "deadlift 13min",
-              "lines": [
-                "on the 2:30 x 5 sets",
-                "3 sumo deadlifts + 6 conventional deadlifts",
-                "barbell: 55% of 1rm deadlift"
-              ]
-            },
-            {
-              "title": "conditioning 15min",
-              "lines": [
-                "3 rounds for time",
-                "20 db push press 2x22,5/15kg *",
-                "15 v-ups",
-                "20 db reverse lunges",
-                "15 sit-ups",
-                "*rx+ option: handstand push ups",
-                "muscular endurance & vo2 max",
-                "deadlift + push press",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-01-19/"
         }
       ]
     },
@@ -662,19 +668,21 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
-          "date": "2026-02-01",
+          "date": "2026-02-02",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Rest Day",
-                "The Illusion of Fitness and Earning Intensity: How CrossFit Breaks the Comfort Trap",
-                "Intensity is the key to CrossFit's life-changing results, but most people avoid it because discomfort hurts. The truth? If you're staying comfortable in your workouts, you're not chasing fitness â you're clinging to mediocrity. Here's why embracing the struggle is the only path to real results.",
-                "View the CrossFit map"
+                "30 box jump-overs",
+                "150 air squats",
+                "1,600-meter run",
+                "â 24-inch box",
+                "â 30-inch box",
+                "Post time to the comments."
               ]
             }
           ],
-          "url": "https://www.crossfit.com/260201"
+          "url": "https://www.crossfit.com/260202"
         },
         {
           "date": "2026-01-31",
@@ -700,25 +708,30 @@
           "date": "2026-01-30",
           "sections": [
             {
-              "title": "Pre- and post-workout accessory:*",
+              "title": "Workout",
               "lines": [
-                "Max set of strict pull-ups",
-                "*Complete 1 set before and 1 set after the workout."
-              ]
-            },
-            {
-              "title": "3 rounds for time of:",
-              "lines": [
-                "400/500-meter row",
-                "40 AbMat sit-ups",
-                "30 alternating dumbbell snatches",
-                "â 35-lb dumbbell",
-                "â 50-lb dumbbell",
-                "Post time and total strict pull-ups to the comments."
+                "Friday",
+                "260130",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260130"
+        },
+        {
+          "date": "2026-01-29",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Your CrossFit Open Game Plan: Four Movements and the Mindset To Master Them",
+                "The 2026 CrossFit Open, presented by Air National Guard, is coming, along with the nervous excitement, uncertainty, and that critical voice in your head when you can't do a programmed movement or see better scores on the leaderboard. Here's how to overcome common movement faults, develop smarter strategies, and give yourself the tools for a better Open experience this year and for many years to come.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260129"
         },
         {
           "date": "2026-01-28",
@@ -726,9 +739,11 @@
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260128",
-                "Learn the Movement â"
+                "Deadlift 5-5-5-5-5 reps",
+                "Compare to",
+                "250429",
+                ".",
+                "Post loads to the comments."
               ]
             }
           ],
@@ -770,6 +785,21 @@
           "url": "https://www.crossfit.com/260126"
         },
         {
+          "date": "2026-01-25",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Mastering CrossFit Gymnastics: How to Build Strength, Stability, and Confidence",
+                "The first workout of the 2026 CrossFit Open, presented by Air National Guard, is just about five weeks away. And while thereâs no such thing as cramming for the Open, you can brush up on some skills to feel more prepared. In this article, we share an action plan for leveling up your gymnastics skills.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260125"
+        },
+        {
           "date": "2026-01-24",
           "sections": [
             {
@@ -804,20 +834,6 @@
           "url": "https://www.crossfit.com/260123"
         },
         {
-          "date": "2026-01-22",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "At 73, Nancy Hoshaw had survived a heart attack and breast cancer â and then she took on the CrossFit Open. While elite athletes compete to be named Fittest on Earth, athletes like Hoshaw compete with time and age itself, determined to stay independent and inspire others to refuse the slow slide into decline. Her journey from reluctant participant to global inspiration proves it's never too late to open new doors.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260122"
-        },
-        {
           "date": "2026-01-21",
           "sections": [
             {
@@ -844,20 +860,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260120"
-        },
-        {
-          "date": "2026-01-19",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Monday",
-                "260119",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260119"
         }
       ]
     }
