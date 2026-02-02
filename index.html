@@ -6,66 +6,26 @@
   <title>DUCK-WOD 🦆</title>
 
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🦆</text></svg>">
-
   <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
+<div class="container">
 
-  <main style="max-width: 900px; margin: 0 auto; padding: 20px;">
-    <h1>MYLEO – אימונים אחרונים</h1>
+  <header>
+    <h1>DUCK-WOD 🦆</h1>
 
-    <div id="wods">
-      טוען אימונים…
+    <div class="tabs">
+      <button id="today-btn">היום</button>
     </div>
+  </header>
+
+  <main id="wods-container">
+    <div id="loading">⏳ טוען אימונים…</div>
   </main>
 
-  <script>
-    fetch("data/wods.json")
-      .then(res => res.json())
-      .then(data => {
-        const myleo = data.sources.find(s => s.id === "myleo");
-        const container = document.getElementById("wods");
+</div>
 
-        if (!myleo) {
-          container.innerHTML = "❌ מקור MYLEO לא נמצא";
-          return;
-        }
-
-        container.innerHTML = "";
-
-        myleo.wods.forEach(wod => {
-          const block = document.createElement("div");
-          block.style.marginBottom = "32px";
-
-          const date = document.createElement("h2");
-          date.textContent = wod.date;
-          block.appendChild(date);
-
-          wod.sections.forEach(section => {
-            const title = document.createElement("div");
-            title.textContent = section.title;
-            title.style.fontWeight = "bold";
-            title.style.marginTop = "8px";
-            block.appendChild(title);
-
-            section.lines.forEach(line => {
-              const p = document.createElement("div");
-              p.textContent = line;
-              p.style.fontWeight = "bold";
-              block.appendChild(p);
-            });
-          });
-
-          container.appendChild(block);
-        });
-      })
-      .catch(err => {
-        document.getElementById("wods").innerHTML =
-          "❌ שגיאה בטעינת הנתונים";
-        console.error(err);
-      });
-  </script>
-
+<script src="script.js"></script>
 </body>
 </html>
