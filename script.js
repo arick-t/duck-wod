@@ -1,29 +1,42 @@
-fetch('./data/wods.json')
-  .then(response => response.json())
+const container = document.getElementById("wods-container");
+const loading = document.getElementById("loading");
+const todayBtn = document.getElementById("today-btn");
+
+let allWods = [];
+
+fetch("data/wods.json")
+  .then(res => res.json())
   .then(data => {
-    const source = data.sources[0]; // MYLEO כרגע
-    const container = document.getElementById('wods');
+    loading.remove();
 
-    let html = '';
-
-    source.wods.forEach(wod => {
-      html += `<section>`;
-      html += `<h2>${wod.date}</h2>`;
-
-      wod.sections.forEach(section => {
-        html += `<h3>${section.title}</h3><ul>`;
-        section.lines.forEach(line => {
-          html += `<li>${line}</li>`;
-        });
-        html += `</ul>`;
-      });
-
-      html += `</section>`;
-    });
-
-    container.innerHTML = html;
-  })
-  .catch(err => {
-    document.getElementById('wods').innerHTML =
-      '<p>שגיאה בטעינת האימונים</p>';
+    // רק MYLOE
+    allWods = data.filter(w => w.source === "MYLOE");
+    renderWods(allWods);
   });
+
+function renderWods(wods) {
+  container.innerHTML = "";
+
+  wods.forEach(wod => {
+    const day = document.createElement("div");
+    day.className = "wod-day";
+    day.dataset.date = wod.date;
+
+    day.innerHTML = `
+      <div class="wod-date">${wod.date}</div>
+      <pre class="wod-text">${wod.content}</pre>
+    `;
+
+    container.appendChild(day);
+  });
+}
+
+// כפתור היום
+todayBtn.addEventListener("click", () => {
+  const today = new Date().toISOString().split("T")[0];
+
+  document.querySelectorAll(".wod-day").forEach(day => {
+    day.style.display =
+      day.dataset.date === today ? "block" : "none";
+  });
+});
