@@ -1,11 +1,48 @@
 {
-  "last_updated": "2026-02-02T07:35:32.061347",
+  "last_updated": "2026-02-03T06:12:16.593374",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-02-03",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "lat stretch on box",
+                "calf stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 squat jumps",
+                "10 ring rows",
+                "30sec. hollow hold",
+                "*remaining time row"
+              ]
+            },
+            {
+              "title": "conditioning 32min",
+              "lines": [
+                "2:00 on /3:00 off x 7 rounds",
+                "6 strict pull-ups",
+                "18 box jumps 60/50cm",
+                "cal row in remaining time",
+                "score: total row cal",
+                "anaerobic capacity",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-02-03/"
+        },
         {
           "date": "2026-02-02",
           "sections": [
@@ -614,51 +651,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-01-21/"
-        },
-        {
-          "date": "2026-01-20",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "thoracic rotation",
-                "scorpions",
-                "lat stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 scap. pull ups",
-                "10 push ups",
-                "10 ring rows",
-                "*remaining time bike/ski"
-              ]
-            },
-            {
-              "title": "conditioning 27min",
-              "lines": [
-                "4 rounds",
-                "3:00 amrap: cal bike/ski",
-                "2:00 amrap: burpee to target",
-                "1:00 amrap: strict pull-ups",
-                "• rest 1:00 between rounds",
-                "score: total reps",
-                "aerobic power [lactate threshold]"
-              ]
-            },
-            {
-              "title": "stability 4min",
-              "lines": [
-                "tabata (20sec on/10sec off) x 8 rounds",
-                "single leg wall sit",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-01-20/"
         }
       ]
     },
@@ -667,6 +659,22 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-02-03",
+          "sections": [
+            {
+              "title": "5 rounds for time of:",
+              "lines": [
+                "5 rope climbs to 15 feet",
+                "200-foot Zercher carry",
+                "â 105-lb barbell",
+                "â 155-lb barbell",
+                "Post time to the comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260203"
+        },
         {
           "date": "2026-02-02",
           "sections": [
@@ -683,6 +691,21 @@
             }
           ],
           "url": "https://www.crossfit.com/260202"
+        },
+        {
+          "date": "2026-02-01",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "The Illusion of Fitness and Earning Intensity: How CrossFit Breaks the Comfort Trap",
+                "Intensity is the key to CrossFit's life-changing results, but most people avoid it because discomfort hurts. The truth? If you're staying comfortable in your workouts, you're not chasing fitness â you're clinging to mediocrity. Here's why embracing the struggle is the only path to real results.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260201"
         },
         {
           "date": "2026-01-31",
@@ -708,11 +731,21 @@
           "date": "2026-01-30",
           "sections": [
             {
-              "title": "Workout",
+              "title": "Pre- and post-workout accessory:*",
               "lines": [
-                "Friday",
-                "260130",
-                "Learn the Movement â"
+                "Max set of strict pull-ups",
+                "*Complete 1 set before and 1 set after the workout."
+              ]
+            },
+            {
+              "title": "3 rounds for time of:",
+              "lines": [
+                "400/500-meter row",
+                "40 AbMat sit-ups",
+                "30 alternating dumbbell snatches",
+                "â 35-lb dumbbell",
+                "â 50-lb dumbbell",
+                "Post time and total strict pull-ups to the comments."
               ]
             }
           ],
@@ -834,32 +867,41 @@
           "url": "https://www.crossfit.com/260123"
         },
         {
+          "date": "2026-01-22",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "At 73, Nancy Hoshaw had survived a heart attack and breast cancer â and then she took on the CrossFit Open. While elite athletes compete to be named Fittest on Earth, athletes like Hoshaw compete with time and age itself, determined to stay independent and inspire others to refuse the slow slide into decline. Her journey from reluctant participant to global inspiration proves it's never too late to open new doors.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260122"
+        },
+        {
           "date": "2026-01-21",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260121",
-                "Drill the Movement â"
+                "Every minute on the minute for 8 minutes:",
+                "2 shoulder presses",
+                "Add weight every 2 minutes. Use 50-60% of the heaviest set for the workout.",
+                "Then,"
+              ]
+            },
+            {
+              "title": "4 rounds for time of:",
+              "lines": [
+                "400-meter run",
+                "12 shoulder presses",
+                "Post loads and time to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260121"
-        },
-        {
-          "date": "2026-01-20",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Tuesday",
-                "260120",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260120"
         }
       ]
     }
