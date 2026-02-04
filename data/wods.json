@@ -1,11 +1,59 @@
 {
-  "last_updated": "2026-02-03T06:12:16.593374",
+  "last_updated": "2026-02-04T06:09:56.334364",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-02-04",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "thoracic rotations",
+                "scorpions",
+                "samson stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 prone snow angels",
+                "10 push ups",
+                "10 air squats",
+                "*remaining time bike/ski"
+              ]
+            },
+            {
+              "title": "push press 15min",
+              "lines": [
+                "find a heavy set of",
+                "5 push press"
+              ]
+            },
+            {
+              "title": "conditioning 16min",
+              "lines": [
+                "for time",
+                "36/30cal ski/bike",
+                "into…",
+                "6 rounds",
+                "12 lateral burpees over bar",
+                "12 push press 40/30kg",
+                "into…",
+                "36/30cal bike/ski",
+                "aerobic power [lactate threshold]",
+                "push press",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-02-04/"
+        },
         {
           "date": "2026-02-03",
           "sections": [
@@ -605,52 +653,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-01-22/"
-        },
-        {
-          "date": "2026-01-21",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "scorpions",
-                "instep rotation"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 db deadlifts",
-                "10 push ups",
-                "30sec plank hold",
-                "*remaining time row"
-              ]
-            },
-            {
-              "title": "bench press 13min",
-              "lines": [
-                "on the 2:30 x 5 sets",
-                "3 close-grip bench press + 6 bench press",
-                "barbell: 55% of 1rm bench press"
-              ]
-            },
-            {
-              "title": "conditioning 17min",
-              "lines": [
-                "for time",
-                "1500/1350m row",
-                "every 3:00 (starting at 0:00):",
-                "20 push-ups",
-                "2 rounds farmer’s carry 2x22,5/15kg",
-                "aerobic power [vo2 max]",
-                "head stand / hand stand / hand stand push ups",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-01-21/"
         }
       ]
     },
@@ -659,6 +661,26 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-02-04",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "30-24-18 reps",
+                "GHD hip extensions",
+                "30-24-18 reps",
+                "GHD sit-ups",
+                "15-12-9 reps",
+                "Power snatches",
+                "â 105-lb barbell",
+                "â 155-lb barbell",
+                "Post time to the comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260204"
+        },
         {
           "date": "2026-02-03",
           "sections": [
@@ -679,49 +701,25 @@
           "date": "2026-02-02",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "30 box jump-overs",
-                "150 air squats",
-                "1,600-meter run",
-                "â 24-inch box",
-                "â 30-inch box",
-                "Post time to the comments."
+                "Monday",
+                "260202",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260202"
         },
         {
-          "date": "2026-02-01",
+          "date": "2026-01-31",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "The Illusion of Fitness and Earning Intensity: How CrossFit Breaks the Comfort Trap",
-                "Intensity is the key to CrossFit's life-changing results, but most people avoid it because discomfort hurts. The truth? If you're staying comfortable in your workouts, you're not chasing fitness â you're clinging to mediocrity. Here's why embracing the struggle is the only path to real results.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260201"
-        },
-        {
-          "date": "2026-01-31",
-          "sections": [
-            {
-              "title": "For time:",
-              "lines": [
-                "10-8-6-4-2 reps",
-                "Front squats",
-                "20-16-12-8-4 reps",
-                "Lateral burpees over the bar",
-                "10-8-6-4-2 reps",
-                "Power cleans",
-                "â 125-lb barbell",
-                "â 185-lb barbell",
-                "Post time to the comments."
+                "Saturday",
+                "260131",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -805,13 +803,11 @@
           "date": "2026-01-26",
           "sections": [
             {
-              "title": "21-15-9 reps for time of:",
+              "title": "Workout",
               "lines": [
-                "Dumbbell box step-overs",
-                "Chest-to-bar pull-ups",
-                "â 35-lb dumbbells and a 20-inch box",
-                "â 50-lb dumbbells and a 20-inch box",
-                "Post time to the comments."
+                "Monday",
+                "260126",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -879,29 +875,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260122"
-        },
-        {
-          "date": "2026-01-21",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Every minute on the minute for 8 minutes:",
-                "2 shoulder presses",
-                "Add weight every 2 minutes. Use 50-60% of the heaviest set for the workout.",
-                "Then,"
-              ]
-            },
-            {
-              "title": "4 rounds for time of:",
-              "lines": [
-                "400-meter run",
-                "12 shoulder presses",
-                "Post loads and time to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260121"
         }
       ]
     }
