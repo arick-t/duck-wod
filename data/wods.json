@@ -1,11 +1,61 @@
 {
-  "last_updated": "2026-02-05T06:41:42.696739",
+  "last_updated": "2026-02-06T06:37:01.672707",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-02-06",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "lat stretch",
+                "hand walk",
+                "instep rotations",
+                "calf stretch"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "20 single under",
+                "10 box step ups",
+                "10 db deadlifts"
+              ]
+            },
+            {
+              "title": "bulgarian split squats 15min",
+              "lines": [
+                "3-4 sets",
+                "5 db bulgarian split squats (heavy)"
+              ]
+            },
+            {
+              "title": "conditioning 15min",
+              "lines": [
+                "for time",
+                "3 rounds:",
+                "32 double unders",
+                "16 single db box step-ups 60/50cm",
+                "16 alt. db hang snatches",
+                "rest 2:00",
+                "3 rounds:",
+                "32 double unders",
+                "16 single db box step-ups 60/50cm",
+                "16 alt. db hang snatches",
+                "dumbbell: 22,5/15kg",
+                "score: total time (including rest)",
+                "aerobic power [vo2 max]",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-02-06/"
+        },
         {
           "date": "2026-02-05",
           "sections": [
@@ -603,61 +653,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-01-24/"
-        },
-        {
-          "date": "2026-01-23",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "instep rotation",
-                "hand walk",
-                "lat stretch on box"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "40sec on /20sec off",
-                "1. bike",
-                "2. box step ups",
-                "3. ski",
-                "4. burpees",
-                "5. row"
-              ]
-            },
-            {
-              "title": "squat 13min",
-              "lines": [
-                "on the 2:30 x 5 sets",
-                "3 front squats + 6 back squats",
-                "barbell: 55% of 1rm back squat"
-              ]
-            },
-            {
-              "title": "conditioning 15min",
-              "lines": [
-                "2:00 amrap: bike ski",
-                "rest 1:00",
-                "2:00 amrap:",
-                "10 single db box step-ups 22,5/15kg",
-                "10 burpee box jumps 60/50cm",
-                "rest 1:00",
-                "2:00 amrap: ski bike",
-                "rest 1:00",
-                "2:00 amrap:",
-                "10 single db box step-ups",
-                "10 burpee box jumps",
-                "rest 1:00",
-                "2:00 amrap: row cal",
-                "score: total reps",
-                "aerobic power [vo2 max]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-01-23/"
         }
       ]
     },
@@ -667,35 +662,30 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
-          "date": "2026-02-05",
+          "date": "2026-02-06",
           "sections": [
             {
-              "title": "Workout",
+              "title": "10 rounds for time of:",
               "lines": [
-                "Rest Day",
-                "Coaching the Mental Side of CrossFit",
-                "The greatest adaptation to CrossFit happens between the ears. In this article, CrossFit pioneer Greg Amundson reveals how elite athletes use positive self-talk and strategic goal-setting to unlock their full potential, and how coaches can harness these mental skills to transform their athletes' performance in the gym and beyond. With the Open just days away, this is a great reminder to get your self-talk in order.",
-                "View the CrossFit map"
+                "5 back squats",
+                "3 muscle-ups",
+                "â 155-lb barbell",
+                "â 225-lb barbell",
+                "Post time to the comments."
               ]
             }
           ],
-          "url": "https://www.crossfit.com/260205"
+          "url": "https://www.crossfit.com/260206"
         },
         {
           "date": "2026-02-04",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "30-24-18 reps",
-                "GHD hip extensions",
-                "30-24-18 reps",
-                "GHD sit-ups",
-                "15-12-9 reps",
-                "Power snatches",
-                "â 105-lb barbell",
-                "â 155-lb barbell",
-                "Post time to the comments."
+                "Wednesday",
+                "260204",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -721,33 +711,15 @@
           "date": "2026-02-02",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "30 box jump-overs",
-                "150 air squats",
-                "1,600-meter run",
-                "â 24-inch box",
-                "â 30-inch box",
-                "Post time to the comments."
+                "Monday",
+                "260202",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260202"
-        },
-        {
-          "date": "2026-02-01",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "The Illusion of Fitness and Earning Intensity: How CrossFit Breaks the Comfort Trap",
-                "Intensity is the key to CrossFit's life-changing results, but most people avoid it because discomfort hurts. The truth? If you're staying comfortable in your workouts, you're not chasing fitness â you're clinging to mediocrity. Here's why embracing the struggle is the only path to real results.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260201"
         },
         {
           "date": "2026-01-31",
@@ -886,25 +858,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260124"
-        },
-        {
-          "date": "2026-01-23",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Complete as many rounds and reps as possible in 9 minutes of:",
-                "12 alternating dumbbell hang snatches",
-                "6 dumbbell overhead squats, left arm",
-                "6 dumbbell overhead squats, right arm",
-                "12 lateral jumps over the dumbbell",
-                "â 35-lb dumbbell",
-                "â 50-lb dumbbell",
-                "Post reps to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260123"
         }
       ]
     }
