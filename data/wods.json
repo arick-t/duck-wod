@@ -1,11 +1,51 @@
 {
-  "last_updated": "2026-02-06T06:37:01.672707",
+  "last_updated": "2026-02-07T06:01:01.471753",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-02-07",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "sumo squat stretch",
+                "scorpions",
+                "lat stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "amrap 5min",
+                "10 push ups",
+                "10 air squats",
+                "10 ring rows",
+                "*partner is holding plank position"
+              ]
+            },
+            {
+              "title": "conditioning 30min",
+              "lines": [
+                "in teams of 2",
+                "for max reps/cals",
+                "2:00 on/ 00:30 off x 12 rounds",
+                "1. cal ski",
+                "2. pull ups",
+                "3. wall balls",
+                "4. sit ups",
+                "score: lowest reps per station",
+                "lactate threshold & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-02-07/"
+        },
         {
           "date": "2026-02-06",
           "sections": [
@@ -600,59 +640,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-01-25/"
-        },
-        {
-          "date": "2026-01-24",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "lying hip cross over",
-                "instep rotation"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "amrap 5min",
-                "10 prone Snow Angels",
-                "10 db deadlifts",
-                "*partner is biking"
-              ]
-            },
-            {
-              "title": "conditioning 30min",
-              "lines": [
-                "in teams of 2",
-                "for time",
-                "4 rounds",
-                "10 synchro single db hang snatches 22,5/15kg",
-                "10 synchro suitcase deadlifts",
-                "into",
-                "80/72/64 bike",
-                "3 rounds",
-                "10 synchro single db hang snatches 22,5/15kg",
-                "10 synchro suitcase deadlifts",
-                "into",
-                "60/54/48cal bike",
-                "2 rounds",
-                "10 synchro single db hang snatches 22,5/15kg",
-                "10 synchro suitcase deadlifts",
-                "into",
-                "40/36/32cal bike",
-                "1 round",
-                "10 synchro single db hang snatches 22,5/15kg",
-                "10 synchro suitcase deadlifts",
-                "into",
-                "20/18/16cal bike",
-                "aerobic power [lactate threshold]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-01-24/"
         }
       ]
     },
@@ -661,6 +648,22 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-02-07",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Split jerk 3-3-3-1-1-1-1 reps",
+                "Compare to",
+                "221013",
+                ".",
+                "Post loads to the comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260207"
+        },
         {
           "date": "2026-02-06",
           "sections": [
@@ -678,14 +681,35 @@
           "url": "https://www.crossfit.com/260206"
         },
         {
-          "date": "2026-02-04",
+          "date": "2026-02-05",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260204",
-                "Learn the Movement â"
+                "Rest Day",
+                "Coaching the Mental Side of CrossFit",
+                "The greatest adaptation to CrossFit happens between the ears. In this article, CrossFit pioneer Greg Amundson reveals how elite athletes use positive self-talk and strategic goal-setting to unlock their full potential, and how coaches can harness these mental skills to transform their athletes' performance in the gym and beyond. With the Open just days away, this is a great reminder to get your self-talk in order.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260205"
+        },
+        {
+          "date": "2026-02-04",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "30-24-18 reps",
+                "GHD hip extensions",
+                "30-24-18 reps",
+                "GHD sit-ups",
+                "15-12-9 reps",
+                "Power snatches",
+                "â 105-lb barbell",
+                "â 155-lb barbell",
+                "Post time to the comments."
               ]
             }
           ],
@@ -711,11 +735,14 @@
           "date": "2026-02-02",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Monday",
-                "260202",
-                "Learn the Movement â"
+                "30 box jump-overs",
+                "150 air squats",
+                "1,600-meter run",
+                "â 24-inch box",
+                "â 30-inch box",
+                "Post time to the comments."
               ]
             }
           ],
@@ -725,17 +752,11 @@
           "date": "2026-01-31",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "10-8-6-4-2 reps",
-                "Front squats",
-                "20-16-12-8-4 reps",
-                "Lateral burpees over the bar",
-                "10-8-6-4-2 reps",
-                "Power cleans",
-                "â 125-lb barbell",
-                "â 185-lb barbell",
-                "Post time to the comments."
+                "Saturday",
+                "260131",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -786,11 +807,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Deadlift 5-5-5-5-5 reps",
-                "Compare to",
-                "250429",
-                ".",
-                "Post loads to the comments."
+                "Wednesday",
+                "260128",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -802,14 +821,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Complete as many reps as possible in 3 minutes of:",
-                "200-meter run",
-                "50-foot handstand walk",
-                "Max kettlebell swings",
-                "Rest 1 minute between sets. Repeat for a total of 4 sets.",
-                "â 35-lb kettlebell",
-                "â 53-lb kettlebell",
-                "Post reps to the comments."
+                "Tuesday",
+                "260127",
+                "Practice the Movement â"
               ]
             }
           ],
@@ -819,45 +833,17 @@
           "date": "2026-01-26",
           "sections": [
             {
-              "title": "Workout",
+              "title": "21-15-9 reps for time of:",
               "lines": [
-                "Monday",
-                "260126",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260126"
-        },
-        {
-          "date": "2026-01-25",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Mastering CrossFit Gymnastics: How to Build Strength, Stability, and Confidence",
-                "The first workout of the 2026 CrossFit Open, presented by Air National Guard, is just about five weeks away. And while thereâs no such thing as cramming for the Open, you can brush up on some skills to feel more prepared. In this article, we share an action plan for leveling up your gymnastics skills.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260125"
-        },
-        {
-          "date": "2026-01-24",
-          "sections": [
-            {
-              "title": "2 rounds for time of:",
-              "lines": [
-                "40/50-calorie row",
-                "40 burpees",
-                "30 knees-to-elbows",
+                "Dumbbell box step-overs",
+                "Chest-to-bar pull-ups",
+                "â 35-lb dumbbells and a 20-inch box",
+                "â 50-lb dumbbells and a 20-inch box",
                 "Post time to the comments."
               ]
             }
           ],
-          "url": "https://www.crossfit.com/260124"
+          "url": "https://www.crossfit.com/260126"
         }
       ]
     }
