@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-02-07T06:01:01.471753",
+  "last_updated": "2026-02-08T06:33:41.751037",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-02-08",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "instep rotation",
+                "lat stretch",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "30sec on / 15sec off x2 rounds",
+                "1. scap. push ups",
+                "2. bike/ski",
+                "3. plank hold",
+                "4. box step ups"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "emom 35min (7 rounds)",
+                "1. 3-5 wall walks",
+                "2. 10-15cal bike/ski",
+                "3. 20-30 russian twists",
+                "4. 16-20 box jumps",
+                "5. rest",
+                "Sunday Endurance for Open Gym",
+                "on the 8:00 x 5-10 rounds:",
+                "800m ski",
+                "bike in remaining time [rpe 2-3]",
+                "aerobic endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-02-08/"
+        },
         {
           "date": "2026-02-07",
           "sections": [
@@ -597,49 +639,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-01-26/"
-        },
-        {
-          "date": "2026-01-25",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "sumo squat stretch",
-                "lat stretch",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "30sec on / 15sec off x2 rounds",
-                "1. medball thruster",
-                "2. bike/ski",
-                "3. straight leg sit ups",
-                "4. ring rows"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "emom 35min (7 rounds)",
-                "1. 15-20 wall balls",
-                "2. 10-15cal bike/ski",
-                "3. 8-10 strict toes to bar",
-                "4. 8-10 double db bent over row",
-                "5. rest",
-                "Sunday Endurance for Open Gym",
-                "choose: run, bike, row, or ski",
-                "10 rounds",
-                "2:00 work [rpe 6-7]",
-                "0:30 rest",
-                "aerobic power [lactate threshold]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-01-25/"
         }
       ]
     },
@@ -648,6 +647,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-02-08",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "The CrossFit Open: On Preferring Not To Prefer",
+                "Your favorite movements won't save you in the Open. CrossFit promised to prepare you for the unknown and unknowable, but if you've been quietly avoiding what you don't like, your preferences are about to become your greatest weakness. Hereâs how to prefer not to prefer.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260208"
+        },
         {
           "date": "2026-02-07",
           "sections": [
@@ -668,13 +682,11 @@
           "date": "2026-02-06",
           "sections": [
             {
-              "title": "10 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "5 back squats",
-                "3 muscle-ups",
-                "â 155-lb barbell",
-                "â 225-lb barbell",
-                "Post time to the comments."
+                "Friday",
+                "260206",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -807,9 +819,11 @@
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260128",
-                "Learn the Movement â"
+                "Deadlift 5-5-5-5-5 reps",
+                "Compare to",
+                "250429",
+                ".",
+                "Post loads to the comments."
               ]
             }
           ],
@@ -821,9 +835,14 @@
             {
               "title": "Workout",
               "lines": [
-                "Tuesday",
-                "260127",
-                "Practice the Movement â"
+                "Complete as many reps as possible in 3 minutes of:",
+                "200-meter run",
+                "50-foot handstand walk",
+                "Max kettlebell swings",
+                "Rest 1 minute between sets. Repeat for a total of 4 sets.",
+                "â 35-lb kettlebell",
+                "â 53-lb kettlebell",
+                "Post reps to the comments."
               ]
             }
           ],
