@@ -1,11 +1,56 @@
 {
-  "last_updated": "2026-02-08T06:33:41.751037",
+  "last_updated": "2026-02-09T07:41:16.071471",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-02-09",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "90/90 hip rotation",
+                "lat stretch",
+                "instep rotation"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 cossack squats",
+                "10 burpees",
+                "10/8cal row"
+              ]
+            },
+            {
+              "title": "deadlifts 12min",
+              "lines": [
+                "on the 2:00 x 6 sets:",
+                "2 sumo deadlifts + 4 conventional deadlifts",
+                "@70% of 1rm deadlift"
+              ]
+            },
+            {
+              "title": "conditioning 18min",
+              "lines": [
+                "on the minute x 18min",
+                "minute 1: row cal",
+                "minute 2: burpees over the rower",
+                "score: lowest row round + lowest burpee round",
+                "aerobic power [lactate threshold]",
+                "deadlift",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-02-09/"
+        },
         {
           "date": "2026-02-08",
           "sections": [
@@ -590,55 +635,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-01-27/"
-        },
-        {
-          "date": "2026-01-26",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "instep rotation",
-                "hand walk",
-                "lat stretch",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "40sec on /20sec off",
-                "1. row",
-                "2. push ups",
-                "3. ring rows",
-                "4. prone snow angels"
-              ]
-            },
-            {
-              "title": "bench press 12min",
-              "lines": [
-                "on the 3:00 x 4 sets",
-                "4 close-grip bench press + 8 bench press",
-                "@ 50% of 1rm bench press"
-              ]
-            },
-            {
-              "title": "conditioning 15min",
-              "lines": [
-                "on the minute x 15",
-                "min 1: row cal",
-                "min 2: wall walks",
-                "min 3: rope climbs",
-                "score: lowest row + lowest wall walk + lowest rope climb",
-                "muscular endurance & lactate threshold",
-                "kipping pull up",
-                "STÉPHANE VENNE",
-                "22 Rx",
-                "30. January 2026, 16:40"
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-01-26/"
         }
       ]
     },
@@ -647,6 +643,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-02-09",
+          "sections": [
+            {
+              "title": "3 rounds for time of:",
+              "lines": [
+                "5 wall walks",
+                "25 chest-to-bar pull-ups",
+                "100 double-unders",
+                "Post time to the comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260209"
+        },
         {
           "date": "2026-02-08",
           "sections": [
@@ -668,11 +679,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Split jerk 3-3-3-1-1-1-1 reps",
-                "Compare to",
-                "221013",
-                ".",
-                "Post loads to the comments."
+                "Saturday",
+                "260207",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -711,17 +720,11 @@
           "date": "2026-02-04",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "30-24-18 reps",
-                "GHD hip extensions",
-                "30-24-18 reps",
-                "GHD sit-ups",
-                "15-12-9 reps",
-                "Power snatches",
-                "â 105-lb barbell",
-                "â 155-lb barbell",
-                "Post time to the comments."
+                "Wednesday",
+                "260204",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -747,14 +750,11 @@
           "date": "2026-02-02",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "30 box jump-overs",
-                "150 air squats",
-                "1,600-meter run",
-                "â 24-inch box",
-                "â 30-inch box",
-                "Post time to the comments."
+                "Monday",
+                "260202",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -778,40 +778,15 @@
           "date": "2026-01-30",
           "sections": [
             {
-              "title": "Pre- and post-workout accessory:*",
+              "title": "Workout",
               "lines": [
-                "Max set of strict pull-ups",
-                "*Complete 1 set before and 1 set after the workout."
-              ]
-            },
-            {
-              "title": "3 rounds for time of:",
-              "lines": [
-                "400/500-meter row",
-                "40 AbMat sit-ups",
-                "30 alternating dumbbell snatches",
-                "â 35-lb dumbbell",
-                "â 50-lb dumbbell",
-                "Post time and total strict pull-ups to the comments."
+                "Friday",
+                "260130",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260130"
-        },
-        {
-          "date": "2026-01-29",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Your CrossFit Open Game Plan: Four Movements and the Mindset To Master Them",
-                "The 2026 CrossFit Open, presented by Air National Guard, is coming, along with the nervous excitement, uncertainty, and that critical voice in your head when you can't do a programmed movement or see better scores on the leaderboard. Here's how to overcome common movement faults, develop smarter strategies, and give yourself the tools for a better Open experience this year and for many years to come.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260129"
         },
         {
           "date": "2026-01-28",
@@ -819,11 +794,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Deadlift 5-5-5-5-5 reps",
-                "Compare to",
-                "250429",
-                ".",
-                "Post loads to the comments."
+                "Wednesday",
+                "260128",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -835,34 +808,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Complete as many reps as possible in 3 minutes of:",
-                "200-meter run",
-                "50-foot handstand walk",
-                "Max kettlebell swings",
-                "Rest 1 minute between sets. Repeat for a total of 4 sets.",
-                "â 35-lb kettlebell",
-                "â 53-lb kettlebell",
-                "Post reps to the comments."
+                "Tuesday",
+                "260127",
+                "Practice the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260127"
-        },
-        {
-          "date": "2026-01-26",
-          "sections": [
-            {
-              "title": "21-15-9 reps for time of:",
-              "lines": [
-                "Dumbbell box step-overs",
-                "Chest-to-bar pull-ups",
-                "â 35-lb dumbbells and a 20-inch box",
-                "â 50-lb dumbbells and a 20-inch box",
-                "Post time to the comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260126"
         }
       ]
     }
