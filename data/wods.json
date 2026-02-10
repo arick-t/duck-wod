@@ -1,11 +1,68 @@
 {
-  "last_updated": "2026-02-09T07:41:16.071471",
+  "last_updated": "2026-02-10T07:43:11.063959",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-02-10",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "lat stretch",
+                "hand walk",
+                "instep rotations",
+                "lying hip cross over"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 clean grip deadlifts",
+                "10 hang high pulls",
+                "10 straight leg sit ups"
+              ]
+            },
+            {
+              "title": "power clean 15min",
+              "lines": [
+                "5 sets:",
+                "3 power cleans",
+                "(build to a heavy set)",
+                "score: heaviest load",
+                "explosive power"
+              ]
+            },
+            {
+              "title": "conditioning 12min",
+              "lines": [
+                "12:00 amrap",
+                "21 toes to bar",
+                "21 power cleans 40/30kg",
+                "rest 1:00",
+                "18 toes to bar",
+                "18 power cleans 50/35kg",
+                "rest 1:00",
+                "15 toes to bar",
+                "15 power cleans 60/40kg",
+                "rest 1:00",
+                "12 toes to bar",
+                "12 power cleans 70/50kg",
+                "rest 1:00",
+                "9 toes to bar",
+                "max power cleans in remaining time 80/60kg",
+                "score: total power clean reps",
+                "muscular endurance & vo2 max",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-02-10/"
+        },
         {
           "date": "2026-02-09",
           "sections": [
@@ -591,50 +648,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-01-28/"
-        },
-        {
-          "date": "2026-01-27",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "lat stretch on box",
-                "hand walk",
-                "instep rotations",
-                "calf stretch"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 box step ups",
-                "10 hang high pulls",
-                "10 elbow rotations"
-              ]
-            },
-            {
-              "title": "skill/prep 10min",
-              "lines": [
-                "power clean"
-              ]
-            },
-            {
-              "title": "conditioning 22min",
-              "lines": [
-                "22:00 amrap",
-                "5 deadlifts",
-                "10 power cleans",
-                "15 burpees over the bar",
-                "20 box jumps 60/50cm",
-                "barbell: 70/50kg",
-                "score: rounds + reps",
-                "aerobic power [lactate threshold]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-01-27/"
         }
       ]
     },
@@ -644,15 +657,42 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
+          "date": "2026-02-10",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Fast and Heavy"
+              ]
+            },
+            {
+              "title": "For time:",
+              "lines": [
+                "400-meter run",
+                "21 dumbbell thrusters*",
+                "400-meter run",
+                "18 dumbbell thrusters",
+                "400-meter run",
+                "15 dumbbell thrusters",
+                "*Use two dumbbells.",
+                "Compare to",
+                "010210",
+                ".",
+                "Post time and load to the comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260210"
+        },
+        {
           "date": "2026-02-09",
           "sections": [
             {
-              "title": "3 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "5 wall walks",
-                "25 chest-to-bar pull-ups",
-                "100 double-unders",
-                "Post time to the comments."
+                "Monday",
+                "260209",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -679,9 +719,11 @@
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260207",
-                "Learn the Movement â"
+                "Split jerk 3-3-3-1-1-1-1 reps",
+                "Compare to",
+                "221013",
+                ".",
+                "Post loads to the comments."
               ]
             }
           ],
@@ -691,11 +733,13 @@
           "date": "2026-02-06",
           "sections": [
             {
-              "title": "Workout",
+              "title": "10 rounds for time of:",
               "lines": [
-                "Friday",
-                "260206",
-                "Learn the Movement â"
+                "5 back squats",
+                "3 muscle-ups",
+                "â 155-lb barbell",
+                "â 225-lb barbell",
+                "Post time to the comments."
               ]
             }
           ],
@@ -720,11 +764,17 @@
           "date": "2026-02-04",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Wednesday",
-                "260204",
-                "Learn the Movement â"
+                "30-24-18 reps",
+                "GHD hip extensions",
+                "30-24-18 reps",
+                "GHD sit-ups",
+                "15-12-9 reps",
+                "Power snatches",
+                "â 105-lb barbell",
+                "â 155-lb barbell",
+                "Post time to the comments."
               ]
             }
           ],
@@ -734,13 +784,11 @@
           "date": "2026-02-03",
           "sections": [
             {
-              "title": "5 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "5 rope climbs to 15 feet",
-                "200-foot Zercher carry",
-                "â 105-lb barbell",
-                "â 155-lb barbell",
-                "Post time to the comments."
+                "Tuesday",
+                "260203",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -750,25 +798,49 @@
           "date": "2026-02-02",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Monday",
-                "260202",
-                "Learn the Movement â"
+                "30 box jump-overs",
+                "150 air squats",
+                "1,600-meter run",
+                "â 24-inch box",
+                "â 30-inch box",
+                "Post time to the comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260202"
         },
         {
-          "date": "2026-01-31",
+          "date": "2026-02-01",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260131",
-                "Learn the Movement â"
+                "Rest Day",
+                "The Illusion of Fitness and Earning Intensity: How CrossFit Breaks the Comfort Trap",
+                "Intensity is the key to CrossFit's life-changing results, but most people avoid it because discomfort hurts. The truth? If you're staying comfortable in your workouts, you're not chasing fitness â you're clinging to mediocrity. Here's why embracing the struggle is the only path to real results.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260201"
+        },
+        {
+          "date": "2026-01-31",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "10-8-6-4-2 reps",
+                "Front squats",
+                "20-16-12-8-4 reps",
+                "Lateral burpees over the bar",
+                "10-8-6-4-2 reps",
+                "Power cleans",
+                "â 125-lb barbell",
+                "â 185-lb barbell",
+                "Post time to the comments."
               ]
             }
           ],
@@ -778,15 +850,40 @@
           "date": "2026-01-30",
           "sections": [
             {
-              "title": "Workout",
+              "title": "Pre- and post-workout accessory:*",
               "lines": [
-                "Friday",
-                "260130",
-                "Learn the Movement â"
+                "Max set of strict pull-ups",
+                "*Complete 1 set before and 1 set after the workout."
+              ]
+            },
+            {
+              "title": "3 rounds for time of:",
+              "lines": [
+                "400/500-meter row",
+                "40 AbMat sit-ups",
+                "30 alternating dumbbell snatches",
+                "â 35-lb dumbbell",
+                "â 50-lb dumbbell",
+                "Post time and total strict pull-ups to the comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260130"
+        },
+        {
+          "date": "2026-01-29",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Your CrossFit Open Game Plan: Four Movements and the Mindset To Master Them",
+                "The 2026 CrossFit Open, presented by Air National Guard, is coming, along with the nervous excitement, uncertainty, and that critical voice in your head when you can't do a programmed movement or see better scores on the leaderboard. Here's how to overcome common movement faults, develop smarter strategies, and give yourself the tools for a better Open experience this year and for many years to come.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260129"
         },
         {
           "date": "2026-01-28",
@@ -794,27 +891,15 @@
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260128",
-                "Learn the Movement â"
+                "Deadlift 5-5-5-5-5 reps",
+                "Compare to",
+                "250429",
+                ".",
+                "Post loads to the comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260128"
-        },
-        {
-          "date": "2026-01-27",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Tuesday",
-                "260127",
-                "Practice the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260127"
         }
       ]
     }
