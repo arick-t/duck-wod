@@ -1,11 +1,56 @@
 {
-  "last_updated": "2026-02-11T07:39:40.455970",
+  "last_updated": "2026-02-12T07:36:37.371893",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-02-12",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "lat stretch",
+                "hand walk",
+                "instep rotations",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 hang muscle snatches",
+                "10 step back lunges",
+                "150/125m row"
+              ]
+            },
+            {
+              "title": "skill 5min",
+              "lines": [
+                "hang power snatch"
+              ]
+            },
+            {
+              "title": "conditioning 25min",
+              "lines": [
+                "for time",
+                "1000/900m row",
+                "directly into…",
+                "4 rounds:",
+                "10 hang power snatches 40/30kg",
+                "15 v-ups",
+                "20 jumping lunges",
+                "500/450m row",
+                "aerobic power [lactate threshold]",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-02-12/"
+        },
         {
           "date": "2026-02-11",
           "sections": [
@@ -607,50 +652,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-01-30/"
-        },
-        {
-          "date": "2026-01-29",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "lat stretch",
-                "hand walk",
-                "instep rotations",
-                "calf stretch"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "20 single under",
-                "10/8cal row",
-                "10 ring rows"
-              ]
-            },
-            {
-              "title": "conditioning 28min",
-              "lines": [
-                "10 rounds for time",
-                "30 double unders",
-                "200/180m row",
-                "10-9-8-7-6-5-4-3-2-1 burpee pull-ups",
-                "• rest 30 seconds between rounds",
-                "score: total time (including rest)",
-                "aerobic power [lactate threshold]"
-              ]
-            },
-            {
-              "title": "stability 4min",
-              "lines": [
-                "tabata (20sec on/10sec off) x 8 rounds",
-                "prone press",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-01-29/"
         }
       ]
     },
@@ -659,6 +660,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-02-12",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "The True Measure of Elite Conditioning: Technique Under Fatigue",
+                "What separates champions from competitors isn't just cardiovascular capacity; it's the ability to execute flawless technique when exhaustion screams at you to quit. CrossFit's threshold training develops this critical skill, preparing athletes and tactical professionals alike to perform when it matters most.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260212"
+        },
         {
           "date": "2026-02-11",
           "sections": [
@@ -708,31 +724,15 @@
           "date": "2026-02-09",
           "sections": [
             {
-              "title": "3 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "5 wall walks",
-                "25 chest-to-bar pull-ups",
-                "100 double-unders",
-                "Post time to the comments."
+                "Monday",
+                "260209",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260209"
-        },
-        {
-          "date": "2026-02-08",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "The CrossFit Open: On Preferring Not To Prefer",
-                "Your favorite movements won't save you in the Open. CrossFit promised to prepare you for the unknown and unknowable, but if you've been quietly avoiding what you don't like, your preferences are about to become your greatest weakness. Hereâs how to prefer not to prefer.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260208"
         },
         {
           "date": "2026-02-07",
@@ -767,20 +767,29 @@
           "url": "https://www.crossfit.com/260206"
         },
         {
+          "date": "2026-02-05",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Coaching the Mental Side of CrossFit",
+                "The greatest adaptation to CrossFit happens between the ears. In this article, CrossFit pioneer Greg Amundson reveals how elite athletes use positive self-talk and strategic goal-setting to unlock their full potential, and how coaches can harness these mental skills to transform their athletes' performance in the gym and beyond. With the Open just days away, this is a great reminder to get your self-talk in order.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260205"
+        },
+        {
           "date": "2026-02-04",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "30-24-18 reps",
-                "GHD hip extensions",
-                "30-24-18 reps",
-                "GHD sit-ups",
-                "15-12-9 reps",
-                "Power snatches",
-                "â 105-lb barbell",
-                "â 155-lb barbell",
-                "Post time to the comments."
+                "Wednesday",
+                "260204",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -818,6 +827,21 @@
             }
           ],
           "url": "https://www.crossfit.com/260202"
+        },
+        {
+          "date": "2026-02-01",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "The Illusion of Fitness and Earning Intensity: How CrossFit Breaks the Comfort Trap",
+                "Intensity is the key to CrossFit's life-changing results, but most people avoid it because discomfort hurts. The truth? If you're staying comfortable in your workouts, you're not chasing fitness â you're clinging to mediocrity. Here's why embracing the struggle is the only path to real results.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260201"
         },
         {
           "date": "2026-01-31",
