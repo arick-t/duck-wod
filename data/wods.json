@@ -1,11 +1,62 @@
 {
-  "last_updated": "2026-02-12T07:36:37.371893",
+  "last_updated": "2026-02-13T07:34:40.055164",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-02-13",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "lat stretch",
+                "hand walk",
+                "90/90 hip rotation",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 push ups",
+                "10 scap. pull ups",
+                "10 sumo deadlifts"
+              ]
+            },
+            {
+              "title": "bench press 12min",
+              "lines": [
+                "on the 2:00 x 6 sets:",
+                "2 close-grip bench press + 4 bench press",
+                "@70% of 1rm bench press"
+              ]
+            },
+            {
+              "title": "conditioning 12min",
+              "lines": [
+                "12:00 amrap",
+                "5 strict pull-ups",
+                "10 sumo deadlift high pulls 40/30kg",
+                "15 push-ups",
+                "score: rounds + reps",
+                "lactate threshold & muscular endurance"
+              ]
+            },
+            {
+              "title": "stability 4min",
+              "lines": [
+                "tabata (20sec on/10sec off) x 8 rounds",
+                "prone press",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-02-13/"
+        },
         {
           "date": "2026-02-12",
           "sections": [
@@ -618,40 +669,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-01-31/"
-        },
-        {
-          "date": "2026-01-30",
-          "sections": [
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "line drills"
-              ]
-            },
-            {
-              "title": "deadlifts 12min",
-              "lines": [
-                "on the 3:00 x 4 sets",
-                "4 sumo deadlifts + 8 conventional deadlifts",
-                "@ 50% of 1rm deadlift"
-              ]
-            },
-            {
-              "title": "conditioning 15min",
-              "lines": [
-                "8 x 1:00 amrap:",
-                "10 x 10m shuttle runs",
-                "db snatches in remaining time 22,5/15kg",
-                "• rest 1:00 between amraps",
-                "score: total db snatches",
-                "aerobic power [vo2 max]",
-                "STÉPHANE VENNE",
-                "89 rx",
-                "30. January 2026, 16:18"
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-01-30/"
         }
       ]
     },
@@ -660,6 +677,41 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-02-13",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Open Workout 24.1"
+              ]
+            },
+            {
+              "title": "For time:",
+              "lines": [
+                "21 dumbbell snatches, arm 1",
+                "21 lateral burpees over the dumbbell",
+                "21 dumbbell snatches, arm 2",
+                "21 lateral burpees over the dumbbell",
+                "15 dumbbell snatches, arm 1",
+                "15 lateral burpees over the dumbbell",
+                "15 dumbbell snatches, arm 2",
+                "15 lateral burpees over the dumbbell",
+                "9 dumbbell snatches, arm 1",
+                "9 lateral burpees over the dumbbell",
+                "9 dumbbell snatches, arm 2",
+                "9 lateral burpees over the dumbbell",
+                "â 35-lb dumbbell",
+                "â 50-lb dumbbell",
+                "Compare to",
+                "240301",
+                ".",
+                "Post time to the comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260213"
+        },
         {
           "date": "2026-02-12",
           "sections": [
@@ -724,11 +776,12 @@
           "date": "2026-02-09",
           "sections": [
             {
-              "title": "Workout",
+              "title": "3 rounds for time of:",
               "lines": [
-                "Monday",
-                "260209",
-                "Learn the Movement â"
+                "5 wall walks",
+                "25 chest-to-bar pull-ups",
+                "100 double-unders",
+                "Post time to the comments."
               ]
             }
           ],
@@ -740,11 +793,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Split jerk 3-3-3-1-1-1-1 reps",
-                "Compare to",
-                "221013",
-                ".",
-                "Post loads to the comments."
+                "Saturday",
+                "260207",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -754,13 +805,11 @@
           "date": "2026-02-06",
           "sections": [
             {
-              "title": "10 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "5 back squats",
-                "3 muscle-ups",
-                "â 155-lb barbell",
-                "â 225-lb barbell",
-                "Post time to the comments."
+                "Friday",
+                "260206",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -799,13 +848,11 @@
           "date": "2026-02-03",
           "sections": [
             {
-              "title": "5 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "5 rope climbs to 15 feet",
-                "200-foot Zercher carry",
-                "â 105-lb barbell",
-                "â 155-lb barbell",
-                "Post time to the comments."
+                "Tuesday",
+                "260203",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -815,77 +862,29 @@
           "date": "2026-02-02",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "30 box jump-overs",
-                "150 air squats",
-                "1,600-meter run",
-                "â 24-inch box",
-                "â 30-inch box",
-                "Post time to the comments."
+                "Monday",
+                "260202",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260202"
         },
         {
-          "date": "2026-02-01",
+          "date": "2026-01-31",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "The Illusion of Fitness and Earning Intensity: How CrossFit Breaks the Comfort Trap",
-                "Intensity is the key to CrossFit's life-changing results, but most people avoid it because discomfort hurts. The truth? If you're staying comfortable in your workouts, you're not chasing fitness â you're clinging to mediocrity. Here's why embracing the struggle is the only path to real results.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260201"
-        },
-        {
-          "date": "2026-01-31",
-          "sections": [
-            {
-              "title": "For time:",
-              "lines": [
-                "10-8-6-4-2 reps",
-                "Front squats",
-                "20-16-12-8-4 reps",
-                "Lateral burpees over the bar",
-                "10-8-6-4-2 reps",
-                "Power cleans",
-                "â 125-lb barbell",
-                "â 185-lb barbell",
-                "Post time to the comments."
+                "Saturday",
+                "260131",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260131"
-        },
-        {
-          "date": "2026-01-30",
-          "sections": [
-            {
-              "title": "Pre- and post-workout accessory:*",
-              "lines": [
-                "Max set of strict pull-ups",
-                "*Complete 1 set before and 1 set after the workout."
-              ]
-            },
-            {
-              "title": "3 rounds for time of:",
-              "lines": [
-                "400/500-meter row",
-                "40 AbMat sit-ups",
-                "30 alternating dumbbell snatches",
-                "â 35-lb dumbbell",
-                "â 50-lb dumbbell",
-                "Post time and total strict pull-ups to the comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260130"
         }
       ]
     }
