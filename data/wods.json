@@ -1,11 +1,64 @@
 {
-  "last_updated": "2026-02-13T07:34:40.055164",
+  "last_updated": "2026-02-14T06:04:16.408106",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-02-14",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "sumo squat stretch",
+                "scorpions",
+                "lat stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "amrap 5min",
+                "10 prone snow angel",
+                "10 push ups",
+                "10 squat jumps",
+                "*partner is rowing"
+              ]
+            },
+            {
+              "title": "conditioning 26min",
+              "lines": [
+                "in teams of 2",
+                "8:00 amrap",
+                "60 box jumps",
+                "60 double db thruster",
+                "max cal row",
+                "2:00 rest",
+                "6:00 amrap",
+                "40 box jumps",
+                "40 double db thruster",
+                "max cal row",
+                "2:00 rest",
+                "4:00 amrap",
+                "20 box jumps",
+                "20 double db thruster",
+                "max cal row",
+                "2:00 rest",
+                "2:00 amrap",
+                "10 box jumps",
+                "10 double db thruster",
+                "max cal row",
+                "dumbbells: 2x15/10kg",
+                "lactate threshold & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-02-14/"
+        },
         {
           "date": "2026-02-13",
           "sections": [
@@ -626,49 +679,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-02-01/"
-        },
-        {
-          "date": "2026-01-31",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "sumo squat stretch",
-                "scorpions",
-                "lat stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "amrap 5min",
-                "10 push ups",
-                "10 straight leg sit ups",
-                "*partner is rowing"
-              ]
-            },
-            {
-              "title": "conditioning 30min",
-              "lines": [
-                "in teams of 2",
-                "2 rounds",
-                "5:00 amrap:",
-                "60 toes to bar",
-                "max cal row",
-                "5:00 amrap:",
-                "60 front squats",
-                "max cal row",
-                "5:00 amrap:",
-                "60 push press",
-                "max cal row",
-                "barbell: 40/30kg",
-                "score: total cal",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-01-31/"
         }
       ]
     },
@@ -677,6 +687,23 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-02-14",
+          "sections": [
+            {
+              "title": "5 rounds, each for time, of:",
+              "lines": [
+                "800/1,000-meter standing bike",
+                "Rest 2 minutes between rounds.",
+                "Compare to",
+                "240313",
+                ".",
+                "Post each time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260214"
+        },
         {
           "date": "2026-02-13",
           "sections": [
@@ -788,6 +815,21 @@
           "url": "https://www.crossfit.com/260209"
         },
         {
+          "date": "2026-02-08",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "The CrossFit Open: On Preferring Not To Prefer",
+                "Your favorite movements won't save you in the Open. CrossFit promised to prepare you for the unknown and unknowable, but if you've been quietly avoiding what you don't like, your preferences are about to become your greatest weakness. Hereâs how to prefer not to prefer.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260208"
+        },
+        {
           "date": "2026-02-07",
           "sections": [
             {
@@ -805,11 +847,13 @@
           "date": "2026-02-06",
           "sections": [
             {
-              "title": "Workout",
+              "title": "10 rounds for time of:",
               "lines": [
-                "Friday",
-                "260206",
-                "Learn the Movement â"
+                "5 back squats",
+                "3 muscle-ups",
+                "â 155-lb barbell",
+                "â 225-lb barbell",
+                "Post time to the comments."
               ]
             }
           ],
@@ -834,11 +878,17 @@
           "date": "2026-02-04",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Wednesday",
-                "260204",
-                "Learn the Movement â"
+                "30-24-18 reps",
+                "GHD hip extensions",
+                "30-24-18 reps",
+                "GHD sit-ups",
+                "15-12-9 reps",
+                "Power snatches",
+                "â 105-lb barbell",
+                "â 155-lb barbell",
+                "Post time to the comments."
               ]
             }
           ],
@@ -848,11 +898,13 @@
           "date": "2026-02-03",
           "sections": [
             {
-              "title": "Workout",
+              "title": "5 rounds for time of:",
               "lines": [
-                "Tuesday",
-                "260203",
-                "Learn the Movement â"
+                "5 rope climbs to 15 feet",
+                "200-foot Zercher carry",
+                "â 105-lb barbell",
+                "â 155-lb barbell",
+                "Post time to the comments."
               ]
             }
           ],
@@ -862,29 +914,33 @@
           "date": "2026-02-02",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Monday",
-                "260202",
-                "Learn the Movement â"
+                "30 box jump-overs",
+                "150 air squats",
+                "1,600-meter run",
+                "â 24-inch box",
+                "â 30-inch box",
+                "Post time to the comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260202"
         },
         {
-          "date": "2026-01-31",
+          "date": "2026-02-01",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260131",
-                "Learn the Movement â"
+                "Rest Day",
+                "The Illusion of Fitness and Earning Intensity: How CrossFit Breaks the Comfort Trap",
+                "Intensity is the key to CrossFit's life-changing results, but most people avoid it because discomfort hurts. The truth? If you're staying comfortable in your workouts, you're not chasing fitness â you're clinging to mediocrity. Here's why embracing the struggle is the only path to real results.",
+                "View the CrossFit map"
               ]
             }
           ],
-          "url": "https://www.crossfit.com/260131"
+          "url": "https://www.crossfit.com/260201"
         }
       ]
     }
