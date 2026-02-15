@@ -1,11 +1,54 @@
 {
-  "last_updated": "2026-02-14T06:04:16.408106",
+  "last_updated": "2026-02-15T06:34:42.240075",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-02-15",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "instep rotation",
+                "lat stretch",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "30sec on / 15sec off x2 rounds",
+                "1. plank push ups",
+                "2. bike/ski",
+                "3. ring row",
+                "4. reverse lunges"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "emom 35min (7 rounds)",
+                "1. 10-15 bench dips",
+                "2. 10-15cal bike/ski",
+                "3. 6-10 strict pull ups",
+                "4. 14-20 goblet reverse lunges",
+                "5. rest",
+                "Sunday Endurance for Open Gym",
+                "10-20 rounds:",
+                "0:30 hard [rpe 9]",
+                "0:30 easy [rpe 2-3]",
+                "choose: run, bike, row, or ski",
+                "aerobic power [vo2 max]",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-02-15/"
+        },
         {
           "date": "2026-02-14",
           "sections": [
@@ -630,55 +673,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-02-02/"
-        },
-        {
-          "date": "2026-02-01",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Heute ist der letzte Tag der HiLife Challenge 2026. HERZLICHEN GLÜCKWUNSCH an alle Teilnehmenden! Seid stolz auf Euch!"
-              ]
-            },
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "instep rotation",
-                "lat stretch",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "30sec on / 15sec off x2 rounds",
-                "1. scap. push ups",
-                "2. row",
-                "3. ring rows",
-                "4. box step ups"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "emom 35min (7 rounds)",
-                "1. 10-15 bench dips",
-                "2. 10-15cal row",
-                "3. 8-10 strict pull ups",
-                "4. 12-16 db box step ups",
-                "5. rest",
-                "Sunday Endurance for Open Gym",
-                "“norwegian 4x4 intervals”",
-                "• choose: run, bike, row, or ski",
-                "4 sets:",
-                "4:00 hard [rpe 8-9]",
-                "3:00 easy or rest [rpe 1-2]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-02-01/"
         }
       ]
     },
@@ -691,14 +685,10 @@
           "date": "2026-02-14",
           "sections": [
             {
-              "title": "5 rounds, each for time, of:",
+              "title": "Workout",
               "lines": [
-                "800/1,000-meter standing bike",
-                "Rest 2 minutes between rounds.",
-                "Compare to",
-                "240313",
-                ".",
-                "Post each time to comments."
+                "Saturday",
+                "260214"
               ]
             }
           ],
@@ -710,30 +700,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Open Workout 24.1"
-              ]
-            },
-            {
-              "title": "For time:",
-              "lines": [
-                "21 dumbbell snatches, arm 1",
-                "21 lateral burpees over the dumbbell",
-                "21 dumbbell snatches, arm 2",
-                "21 lateral burpees over the dumbbell",
-                "15 dumbbell snatches, arm 1",
-                "15 lateral burpees over the dumbbell",
-                "15 dumbbell snatches, arm 2",
-                "15 lateral burpees over the dumbbell",
-                "9 dumbbell snatches, arm 1",
-                "9 lateral burpees over the dumbbell",
-                "9 dumbbell snatches, arm 2",
-                "9 lateral burpees over the dumbbell",
-                "â 35-lb dumbbell",
-                "â 50-lb dumbbell",
-                "Compare to",
-                "240301",
-                ".",
-                "Post time to the comments."
+                "Friday",
+                "260213",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -777,23 +746,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Fast and Heavy"
-              ]
-            },
-            {
-              "title": "For time:",
-              "lines": [
-                "21 dumbbell thrusters*",
-                "400-meter run",
-                "18 dumbbell thrusters",
-                "400-meter run",
-                "15 dumbbell thrusters",
-                "400-meter run",
-                "*Use two dumbbells.",
-                "Compare to",
-                "010210",
-                ".",
-                "Post time and load to the comments."
+                "Tuesday",
+                "260210",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -835,9 +790,11 @@
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260207",
-                "Learn the Movement â"
+                "Split jerk 3-3-3-1-1-1-1 reps",
+                "Compare to",
+                "221013",
+                ".",
+                "Post loads to the comments."
               ]
             }
           ],
@@ -926,21 +883,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260202"
-        },
-        {
-          "date": "2026-02-01",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "The Illusion of Fitness and Earning Intensity: How CrossFit Breaks the Comfort Trap",
-                "Intensity is the key to CrossFit's life-changing results, but most people avoid it because discomfort hurts. The truth? If you're staying comfortable in your workouts, you're not chasing fitness â you're clinging to mediocrity. Here's why embracing the struggle is the only path to real results.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260201"
         }
       ]
     }
