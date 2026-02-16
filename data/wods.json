@@ -1,11 +1,64 @@
 {
-  "last_updated": "2026-02-15T06:34:42.240075",
+  "last_updated": "2026-02-16T07:39:08.520952",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-02-16",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "lat stretch",
+                "hand walk",
+                "thoracic rotation",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap",
+                "10 prone snow angels",
+                "10 push ups",
+                "10 kb deadlifts"
+              ]
+            },
+            {
+              "title": "bench press 12min",
+              "lines": [
+                "on the 2:30 x 5 sets",
+                "3 close-grip bench press + 6 bench press",
+                "@ 65% of 1rm bench press"
+              ]
+            },
+            {
+              "title": "conditioning 12min",
+              "lines": [
+                "12:00 amrap",
+                "12 push ups *",
+                "24 kettlebell swings 32/24kg",
+                "36 sit-ups",
+                "*rx+ option: 8 handstand push ups",
+                "score: rounds + reps",
+                "muscular endurance & lactate threshold"
+              ]
+            },
+            {
+              "title": "stability 4min",
+              "lines": [
+                "30sec on/ 30sec off",
+                "wall facing handstand hold",
+                "head stand / hand stand / hand stand push ups",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-02-16/"
+        },
         {
           "date": "2026-02-15",
           "sections": [
@@ -96,7 +149,9 @@
                 "max cal row",
                 "dumbbells: 2x15/10kg",
                 "lactate threshold & muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
+                "STÉPHANE VENNE",
+                "217 RX",
+                "15. February 2026, 10:54"
               ]
             }
           ],
@@ -620,59 +675,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-02-03/"
-        },
-        {
-          "date": "2026-02-02",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "lat stretch",
-                "hand walk",
-                "instep rotations",
-                "lying hip cross over"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 clean grip deadlifts",
-                "10 hang high pulls",
-                "10 elbow rotations"
-              ]
-            },
-            {
-              "title": "skill 5min",
-              "lines": [
-                "(hang) power clean"
-              ]
-            },
-            {
-              "title": "clean 12min",
-              "lines": [
-                "find a heavy complex",
-                "3 deadlifts",
-                "2 power cleans",
-                "1 hang clean",
-                "explosive power"
-              ]
-            },
-            {
-              "title": "conditioning 15min",
-              "lines": [
-                "HiLife Challenge Benchmark WOD",
-                "amrap 15min",
-                "5 burpees",
-                "10 sit ups",
-                "15 air squats",
-                "aerobic capacity (lactate threshold)",
-                "power clean",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-02-02/"
         }
       ]
     },
@@ -682,13 +684,46 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
-          "date": "2026-02-14",
+          "date": "2026-02-16",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260214"
+                "Monday",
+                "260216",
+                "Learn the Movement â"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260216"
+        },
+        {
+          "date": "2026-02-15",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Stop Ripping Your Hands: Prevention and Treatment for CrossFit Athletes",
+                "Hand tears are painful, limit your training, and are completely avoidable. Learn how proper hand maintenance, smart training strategies, and effective treatment protocols can keep you on the bar and out of recovery mode.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260215"
+        },
+        {
+          "date": "2026-02-14",
+          "sections": [
+            {
+              "title": "5 rounds, each for time, of:",
+              "lines": [
+                "800/1,000-meter standing bike",
+                "Rest 2 minutes between rounds.",
+                "Compare to",
+                "240313",
+                ".",
+                "Post each time to comments."
               ]
             }
           ],
@@ -700,9 +735,30 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260213",
-                "Learn the Movement â"
+                "Open Workout 24.1"
+              ]
+            },
+            {
+              "title": "For time:",
+              "lines": [
+                "21 dumbbell snatches, arm 1",
+                "21 lateral burpees over the dumbbell",
+                "21 dumbbell snatches, arm 2",
+                "21 lateral burpees over the dumbbell",
+                "15 dumbbell snatches, arm 1",
+                "15 lateral burpees over the dumbbell",
+                "15 dumbbell snatches, arm 2",
+                "15 lateral burpees over the dumbbell",
+                "9 dumbbell snatches, arm 1",
+                "9 lateral burpees over the dumbbell",
+                "9 dumbbell snatches, arm 2",
+                "9 lateral burpees over the dumbbell",
+                "â 35-lb dumbbell",
+                "â 50-lb dumbbell",
+                "Compare to",
+                "240301",
+                ".",
+                "Post time to the comments."
               ]
             }
           ],
@@ -758,31 +814,15 @@
           "date": "2026-02-09",
           "sections": [
             {
-              "title": "3 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "5 wall walks",
-                "25 chest-to-bar pull-ups",
-                "100 double-unders",
-                "Post time to the comments."
+                "Monday",
+                "260209",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260209"
-        },
-        {
-          "date": "2026-02-08",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "The CrossFit Open: On Preferring Not To Prefer",
-                "Your favorite movements won't save you in the Open. CrossFit promised to prepare you for the unknown and unknowable, but if you've been quietly avoiding what you don't like, your preferences are about to become your greatest weakness. Hereâs how to prefer not to prefer.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260208"
         },
         {
           "date": "2026-02-07",
@@ -790,11 +830,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Split jerk 3-3-3-1-1-1-1 reps",
-                "Compare to",
-                "221013",
-                ".",
-                "Post loads to the comments."
+                "Saturday",
+                "260207",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -804,48 +842,25 @@
           "date": "2026-02-06",
           "sections": [
             {
-              "title": "10 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "5 back squats",
-                "3 muscle-ups",
-                "â 155-lb barbell",
-                "â 225-lb barbell",
-                "Post time to the comments."
+                "Friday",
+                "260206",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260206"
         },
         {
-          "date": "2026-02-05",
+          "date": "2026-02-04",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "Coaching the Mental Side of CrossFit",
-                "The greatest adaptation to CrossFit happens between the ears. In this article, CrossFit pioneer Greg Amundson reveals how elite athletes use positive self-talk and strategic goal-setting to unlock their full potential, and how coaches can harness these mental skills to transform their athletes' performance in the gym and beyond. With the Open just days away, this is a great reminder to get your self-talk in order.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260205"
-        },
-        {
-          "date": "2026-02-04",
-          "sections": [
-            {
-              "title": "For time:",
-              "lines": [
-                "30-24-18 reps",
-                "GHD hip extensions",
-                "30-24-18 reps",
-                "GHD sit-ups",
-                "15-12-9 reps",
-                "Power snatches",
-                "â 105-lb barbell",
-                "â 155-lb barbell",
-                "Post time to the comments."
+                "Wednesday",
+                "260204",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -855,34 +870,15 @@
           "date": "2026-02-03",
           "sections": [
             {
-              "title": "5 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "5 rope climbs to 15 feet",
-                "200-foot Zercher carry",
-                "â 105-lb barbell",
-                "â 155-lb barbell",
-                "Post time to the comments."
+                "Tuesday",
+                "260203",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260203"
-        },
-        {
-          "date": "2026-02-02",
-          "sections": [
-            {
-              "title": "For time:",
-              "lines": [
-                "30 box jump-overs",
-                "150 air squats",
-                "1,600-meter run",
-                "â 24-inch box",
-                "â 30-inch box",
-                "Post time to the comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260202"
         }
       ]
     }
