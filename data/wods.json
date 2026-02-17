@@ -1,11 +1,59 @@
 {
-  "last_updated": "2026-02-16T07:39:08.520952",
+  "last_updated": "2026-02-17T07:34:17.081996",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-02-17",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "scorpions",
+                "samson stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 reverse lunges",
+                "10 double db deadlifts",
+                "5/5 single db hang snatches",
+                "*remaining time bike/ski"
+              ]
+            },
+            {
+              "title": "conditioning 28min",
+              "lines": [
+                "4 x 4:00 amrap",
+                "12/10cal ski/bike",
+                "10 db reverse lunges*",
+                "5 devil press",
+                "rest 4:00 between amraps",
+                "*pick up where you left off",
+                "*rx+ option: db front rack lunges",
+                "dumbbells: 2x22,5/15kg",
+                "score: rounds + reps",
+                "aerobic power [vo2 max]"
+              ]
+            },
+            {
+              "title": "core 4min",
+              "lines": [
+                "tabata (20sec on / 10sec off) x8 rounds",
+                "side plank",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-02-17/"
+        },
         {
           "date": "2026-02-16",
           "sections": [
@@ -638,43 +686,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-02-04/"
-        },
-        {
-          "date": "2026-02-03",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "lat stretch on box",
-                "calf stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 squat jumps",
-                "10 ring rows",
-                "30sec. hollow hold",
-                "*remaining time row"
-              ]
-            },
-            {
-              "title": "conditioning 32min",
-              "lines": [
-                "2:00 on /3:00 off x 7 rounds",
-                "6 strict pull-ups",
-                "18 box jumps 60/50cm",
-                "cal row in remaining time",
-                "score: total row cal",
-                "anaerobic capacity",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-02-03/"
         }
       ]
     },
@@ -684,14 +695,43 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
+          "date": "2026-02-17",
+          "sections": [
+            {
+              "title": "On a 15-minute clock:",
+              "lines": [
+                "Find a heavy single bench press",
+                "Then,",
+                "Bench press 3-3-3-3-3-3-3-3 reps",
+                "Lift 50-60% of heavy single loading.",
+                "Compare to the Other Total on",
+                "250222",
+                "and 1-rep bench press on",
+                "250806",
+                ".",
+                "Post loads to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260217"
+        },
+        {
           "date": "2026-02-16",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Monday",
-                "260216",
-                "Learn the Movement â"
+                "Interval Nancy",
+                "Every 5 minutes for 25 minutes, complete:",
+                "400-meter run",
+                "15 overhead squats",
+                "Rest with the remaining time.",
+                "â 65-lb barbell",
+                "â 95-lb barbell",
+                "Compare to Nancy on",
+                "241026",
+                ".",
+                "Post round times to comments."
               ]
             }
           ],
@@ -716,14 +756,10 @@
           "date": "2026-02-14",
           "sections": [
             {
-              "title": "5 rounds, each for time, of:",
+              "title": "Workout",
               "lines": [
-                "800/1,000-meter standing bike",
-                "Rest 2 minutes between rounds.",
-                "Compare to",
-                "240313",
-                ".",
-                "Post each time to comments."
+                "Saturday",
+                "260214"
               ]
             }
           ],
@@ -735,49 +771,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Open Workout 24.1"
-              ]
-            },
-            {
-              "title": "For time:",
-              "lines": [
-                "21 dumbbell snatches, arm 1",
-                "21 lateral burpees over the dumbbell",
-                "21 dumbbell snatches, arm 2",
-                "21 lateral burpees over the dumbbell",
-                "15 dumbbell snatches, arm 1",
-                "15 lateral burpees over the dumbbell",
-                "15 dumbbell snatches, arm 2",
-                "15 lateral burpees over the dumbbell",
-                "9 dumbbell snatches, arm 1",
-                "9 lateral burpees over the dumbbell",
-                "9 dumbbell snatches, arm 2",
-                "9 lateral burpees over the dumbbell",
-                "â 35-lb dumbbell",
-                "â 50-lb dumbbell",
-                "Compare to",
-                "240301",
-                ".",
-                "Post time to the comments."
+                "Friday",
+                "260213",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260213"
-        },
-        {
-          "date": "2026-02-12",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "The True Measure of Elite Conditioning: Technique Under Fatigue",
-                "What separates champions from competitors isn't just cardiovascular capacity; it's the ability to execute flawless technique when exhaustion screams at you to quit. CrossFit's threshold training develops this critical skill, preparing athletes and tactical professionals alike to perform when it matters most.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260212"
         },
         {
           "date": "2026-02-11",
@@ -785,12 +785,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Complete as many rounds and reps as possible in 10 minutes of:",
-                "5 hang power cleans",
-                "20-second L-sit hold",
-                "â 125-lb barbell",
-                "â 185-lb barbell",
-                "Post total rounds and reps to the comments."
+                "Wednesday",
+                "260211",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -802,9 +799,23 @@
             {
               "title": "Workout",
               "lines": [
-                "Tuesday",
-                "260210",
-                "Learn the Movement â"
+                "Fast and Heavy"
+              ]
+            },
+            {
+              "title": "For time:",
+              "lines": [
+                "21 dumbbell thrusters*",
+                "400-meter run",
+                "18 dumbbell thrusters",
+                "400-meter run",
+                "15 dumbbell thrusters",
+                "400-meter run",
+                "*Use two dumbbells.",
+                "Compare to",
+                "010210",
+                ".",
+                "Post time and load to the comments."
               ]
             }
           ],
@@ -814,15 +825,31 @@
           "date": "2026-02-09",
           "sections": [
             {
-              "title": "Workout",
+              "title": "3 rounds for time of:",
               "lines": [
-                "Monday",
-                "260209",
-                "Learn the Movement â"
+                "5 wall walks",
+                "25 chest-to-bar pull-ups",
+                "100 double-unders",
+                "Post time to the comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260209"
+        },
+        {
+          "date": "2026-02-08",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "The CrossFit Open: On Preferring Not To Prefer",
+                "Your favorite movements won't save you in the Open. CrossFit promised to prepare you for the unknown and unknowable, but if you've been quietly avoiding what you don't like, your preferences are about to become your greatest weakness. Hereâs how to prefer not to prefer.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260208"
         },
         {
           "date": "2026-02-07",
@@ -830,9 +857,11 @@
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260207",
-                "Learn the Movement â"
+                "Split jerk 3-3-3-1-1-1-1 reps",
+                "Compare to",
+                "221013",
+                ".",
+                "Post loads to the comments."
               ]
             }
           ],
@@ -842,11 +871,13 @@
           "date": "2026-02-06",
           "sections": [
             {
-              "title": "Workout",
+              "title": "10 rounds for time of:",
               "lines": [
-                "Friday",
-                "260206",
-                "Learn the Movement â"
+                "5 back squats",
+                "3 muscle-ups",
+                "â 155-lb barbell",
+                "â 225-lb barbell",
+                "Post time to the comments."
               ]
             }
           ],
@@ -865,20 +896,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260204"
-        },
-        {
-          "date": "2026-02-03",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Tuesday",
-                "260203",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260203"
         }
       ]
     }
