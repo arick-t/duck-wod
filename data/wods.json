@@ -1,11 +1,54 @@
 {
-  "last_updated": "2026-02-18T07:35:53.652629",
+  "last_updated": "2026-02-19T07:34:47.271343",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-02-19",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "seated pike stretch",
+                "lat stretch",
+                "samson stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 straight leg sit ups",
+                "10 prone snow angels",
+                "10 double db deadlifts",
+                "*remaining time bike/ski"
+              ]
+            },
+            {
+              "title": "conditioning 34min",
+              "lines": [
+                "16:00 amrap:",
+                "8 toes to bar",
+                "16 double db hang power snatch",
+                "20/16cal ski/bike",
+                "-rest 2:00 -",
+                "16:00 amrap:",
+                "4 toes to bar",
+                "8 double db hang power snatch",
+                "10/8cal bike/ski",
+                "dumbbells: 2x15/10kg",
+                "score: sum total of rounds + reps",
+                "aerobic power [lactate threshold]",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-02-19/"
+        },
         {
           "date": "2026-02-18",
           "sections": [
@@ -634,62 +677,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-02-06/"
-        },
-        {
-          "date": "2026-02-05",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "lat stretch",
-                "hand walk",
-                "lying hip crocs over",
-                "90/90 hip rotation"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10/8cal row",
-                "10 good mornings",
-                "10 straight leg sit ups"
-              ]
-            },
-            {
-              "title": "conditioning 22min",
-              "lines": [
-                "[6:00 amrap]",
-                "18-15-12:",
-                "deadlifts, 80/60kg",
-                "v-ups",
-                "cal row in remaining time",
-                "rest 2:00 -",
-                "[6:00 amrap]",
-                "15-12-9:",
-                "deadlifts, 90/65kg",
-                "v-ups",
-                "cal row in remaining time",
-                "rest 2:00 -",
-                "[6:00 amrap]",
-                "12-9-6:",
-                "deadlifts, 100/70kg",
-                "v-ups",
-                "cal row in remaining time",
-                "score: total row cal",
-                "aerobic power [lactate threshold]"
-              ]
-            },
-            {
-              "title": "posterior chain 6min",
-              "lines": [
-                "3-4 sets",
-                "8-10 hamstring curls on rower",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-02-05/"
         }
       ]
     },
@@ -698,6 +685,19 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-02-19",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260219"
+        },
         {
           "date": "2026-02-18",
           "sections": [
@@ -765,32 +765,13 @@
           "url": "https://www.crossfit.com/260216"
         },
         {
-          "date": "2026-02-15",
+          "date": "2026-02-14",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "Stop Ripping Your Hands: Prevention and Treatment for CrossFit Athletes",
-                "Hand tears are painful, limit your training, and are completely avoidable. Learn how proper hand maintenance, smart training strategies, and effective treatment protocols can keep you on the bar and out of recovery mode.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260215"
-        },
-        {
-          "date": "2026-02-14",
-          "sections": [
-            {
-              "title": "5 rounds, each for time, of:",
-              "lines": [
-                "800/1,000-meter standing bike",
-                "Rest 2 minutes between rounds.",
-                "Compare to",
-                "240313",
-                ".",
-                "Post each time to comments."
+                "Saturday",
+                "260214"
               ]
             }
           ],
@@ -852,12 +833,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Complete as many rounds and reps as possible in 10 minutes of:",
-                "5 hang power cleans",
-                "20-second L-sit hold",
-                "â 125-lb barbell",
-                "â 185-lb barbell",
-                "Post total rounds and reps to the comments."
+                "Wednesday",
+                "260211",
+                "Learn the Movement â"
               ]
             }
           ],
