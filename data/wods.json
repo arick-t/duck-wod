@@ -1,11 +1,62 @@
 {
-  "last_updated": "2026-02-21T06:00:19.781834",
+  "last_updated": "2026-02-22T06:10:09.545595",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-02-22",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "instep rotation",
+                "lat stretch",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "30sec on / 15sec off x2 rounds",
+                "1. ring rows",
+                "2. bike/ski",
+                "3. straight leg sit ups",
+                "4. squat jumps"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "emom 35min (7 rounds)",
+                "1. 10-16 gorilla rows",
+                "2. 10-15cal bike/ski",
+                "3. 6-10 strict toes to bar",
+                "4. 15-20 box jumps",
+                "5. rest",
+                "Sunday Endurance for Open Gym",
+                "choose: run, bike, row, or ski",
+                "[wave 1]",
+                "2:00 at rpe 5, 1:00 easy",
+                "1:30 at rpe 6, 1:00 easy",
+                "1:00 at rpe 7, 1:00 easy",
+                "0:30 at rpe 8",
+                "5:00 easy between waves",
+                "[wave 2]",
+                "2:00 at rpe 6, 1:00 easy",
+                "1:30 at rpe 7, 1:00 easy",
+                "1:00 at rpe 8, 1:00 easy",
+                "0:30 at rpe 9",
+                "aerobic power [lactate threshold]",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-02-22/"
+        },
         {
           "date": "2026-02-21",
           "sections": [
@@ -634,48 +685,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-02-09/"
-        },
-        {
-          "date": "2026-02-08",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "instep rotation",
-                "lat stretch",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "30sec on / 15sec off x2 rounds",
-                "1. scap. push ups",
-                "2. bike/ski",
-                "3. plank hold",
-                "4. box step ups"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "emom 35min (7 rounds)",
-                "1. 3-5 wall walks",
-                "2. 10-15cal bike/ski",
-                "3. 20-30 russian twists",
-                "4. 16-20 box jumps",
-                "5. rest",
-                "Sunday Endurance for Open Gym",
-                "on the 8:00 x 5-10 rounds:",
-                "800m ski",
-                "bike in remaining time [rpe 2-3]",
-                "aerobic endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-02-08/"
         }
       ]
     },
@@ -684,6 +693,19 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-02-22",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "The One-and-Done Approach to CrossFit Open Workouts"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260222"
+        },
         {
           "date": "2026-02-21",
           "sections": [
@@ -741,9 +763,18 @@
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260218",
-                "Learn the Movement â"
+                "Open Workout 18.1",
+                "Complete as many rounds and reps as possible in 20 minutes of:",
+                "8 toes-to-bars",
+                "10 single-dumbbell hang clean and jerks*",
+                "12/14-calorie row",
+                "*Perform 5 clean and jerks with one arm, and then switch.",
+                "â 35-lb dumbbell",
+                "â 50-lb dumbbell",
+                "Compare to",
+                "180223",
+                ".",
+                "Post total reps completed to comments."
               ]
             }
           ],
@@ -817,12 +848,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Complete as many rounds and reps as possible in 10 minutes of:",
-                "5 hang power cleans",
-                "20-second L-sit hold",
-                "â 125-lb barbell",
-                "â 185-lb barbell",
-                "Post total rounds and reps to the comments."
+                "Wednesday",
+                "260211",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -846,11 +874,12 @@
           "date": "2026-02-09",
           "sections": [
             {
-              "title": "Workout",
+              "title": "3 rounds for time of:",
               "lines": [
-                "Monday",
-                "260209",
-                "Learn the Movement â"
+                "5 wall walks",
+                "25 chest-to-bar pull-ups",
+                "100 double-unders",
+                "Post time to the comments."
               ]
             }
           ],
