@@ -1,11 +1,57 @@
 {
-  "last_updated": "2026-02-22T06:10:09.545595",
+  "last_updated": "2026-02-23T07:40:44.573046",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-02-23",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "instep rotation",
+                "sumo squat stretch",
+                "lat stretch",
+                "thoracic rotation"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 reverse lunges",
+                "30sec plank hold",
+                "10 push ups"
+              ]
+            },
+            {
+              "title": "squats 12min",
+              "lines": [
+                "on the 3:00 x 4 sets:",
+                "4 front squats + 8 back squats",
+                "@57% of 1rm back squat"
+              ]
+            },
+            {
+              "title": "conditioning 15min",
+              "lines": [
+                "for time",
+                "5 rounds",
+                "12 double db push press",
+                "20 alternating db hang snatches",
+                "dumbbells: 22,5/15kg",
+                "muscular endurance",
+                "front squat",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-02-23/"
+        },
         {
           "date": "2026-02-22",
           "sections": [
@@ -88,7 +134,10 @@
                 "45/40/35 cal row",
                 "20 hang power cleans 60/40kg",
                 "40 sit ups",
-                "Bisher hat noch niemand einen Score veröffentlicht."
+                "STÉPHANE VENNE",
+                "20:53 RX/SC @50kg Mixed Team",
+                "+100 Push ups (50 each 10 times 5)",
+                "22. February 2026, 15:00"
               ]
             }
           ],
@@ -640,51 +689,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-02-10/"
-        },
-        {
-          "date": "2026-02-09",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "90/90 hip rotation",
-                "lat stretch",
-                "instep rotation"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 cossack squats",
-                "10 burpees",
-                "10/8cal row"
-              ]
-            },
-            {
-              "title": "deadlifts 12min",
-              "lines": [
-                "on the 2:00 x 6 sets:",
-                "2 sumo deadlifts + 4 conventional deadlifts",
-                "@70% of 1rm deadlift"
-              ]
-            },
-            {
-              "title": "conditioning 18min",
-              "lines": [
-                "on the minute x 18min",
-                "minute 1: row cal",
-                "minute 2: burpees over the rower",
-                "score: lowest row round + lowest burpee round",
-                "aerobic power [lactate threshold]",
-                "deadlift",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-02-09/"
         }
       ]
     },
@@ -693,6 +697,25 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-02-23",
+          "sections": [
+            {
+              "title": "2 rounds for total rounds and reps:",
+              "lines": [
+                "Complete as many rounds as possible in 3 minutes of:",
+                "100-meter run",
+                "10 pull-ups",
+                "Followed immediately by as many reps as possible in 3 minutes of:",
+                "Freestanding handstand hold*",
+                "Rest 2 minutes before starting the second round.",
+                "*Every second of the handstand hold is a rep.",
+                "Post rounds and reps to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260223"
+        },
         {
           "date": "2026-02-22",
           "sections": [
@@ -807,9 +830,17 @@
             {
               "title": "Workout",
               "lines": [
-                "Monday",
-                "260216",
-                "Learn the Movement â"
+                "Interval Nancy",
+                "Every 5 minutes for 25 minutes, complete:",
+                "400-meter run",
+                "15 overhead squats",
+                "Rest with the remaining time.",
+                "â 65-lb barbell",
+                "â 95-lb barbell",
+                "Compare to Nancy on",
+                "241026",
+                ".",
+                "Post round times to comments."
               ]
             }
           ],
@@ -862,28 +893,27 @@
             {
               "title": "Workout",
               "lines": [
-                "Tuesday",
-                "260210",
-                "Learn the Movement â"
+                "Fast and Heavy"
+              ]
+            },
+            {
+              "title": "For time:",
+              "lines": [
+                "21 dumbbell thrusters*",
+                "400-meter run",
+                "18 dumbbell thrusters",
+                "400-meter run",
+                "15 dumbbell thrusters",
+                "400-meter run",
+                "*Use two dumbbells.",
+                "Compare to",
+                "010210",
+                ".",
+                "Post time and load to the comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260210"
-        },
-        {
-          "date": "2026-02-09",
-          "sections": [
-            {
-              "title": "3 rounds for time of:",
-              "lines": [
-                "5 wall walks",
-                "25 chest-to-bar pull-ups",
-                "100 double-unders",
-                "Post time to the comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260209"
         }
       ]
     }
