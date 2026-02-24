@@ -1,11 +1,59 @@
 {
-  "last_updated": "2026-02-23T07:40:44.573046",
+  "last_updated": "2026-02-24T07:35:16.250135",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-02-24",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "90/90 hip rotation",
+                "lying hip cross over",
+                "instep rotation"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 cossack squats",
+                "10 burpees",
+                "10/8cal row"
+              ]
+            },
+            {
+              "title": "deadlift 12min",
+              "lines": [
+                "on the 3:00 x 4 sets:",
+                "4 sumo deadlifts + 8 conventional deadlifts",
+                "@ 57% of 1rm deadlift"
+              ]
+            },
+            {
+              "title": "conditioning 16min",
+              "lines": [
+                "3 x 4:00 amrap:",
+                "12/10 cal row",
+                "12 deadlifts 80/60kg *",
+                "12 burpees over bar",
+                "rest 2:00 between amraps",
+                "pick up where you left off",
+                "*rx+ option: 100/70kg",
+                "score: rounds + reps",
+                "aerobic power [vo2 max]",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-02-24/"
+        },
         {
           "date": "2026-02-23",
           "sections": [
@@ -632,63 +680,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-02-11/"
-        },
-        {
-          "date": "2026-02-10",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "lat stretch",
-                "hand walk",
-                "instep rotations",
-                "lying hip cross over"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 clean grip deadlifts",
-                "10 hang high pulls",
-                "10 straight leg sit ups"
-              ]
-            },
-            {
-              "title": "power clean 15min",
-              "lines": [
-                "5 sets:",
-                "3 power cleans",
-                "(build to a heavy set)",
-                "score: heaviest load",
-                "explosive power"
-              ]
-            },
-            {
-              "title": "conditioning 12min",
-              "lines": [
-                "12:00 amrap",
-                "21 toes to bar",
-                "21 power cleans 40/30kg",
-                "rest 1:00",
-                "18 toes to bar",
-                "18 power cleans 50/35kg",
-                "rest 1:00",
-                "15 toes to bar",
-                "15 power cleans 60/40kg",
-                "rest 1:00",
-                "12 toes to bar",
-                "12 power cleans 70/50kg",
-                "rest 1:00",
-                "9 toes to bar",
-                "max power cleans in remaining time 80/60kg",
-                "score: total power clean reps",
-                "muscular endurance & vo2 max",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-02-10/"
         }
       ]
     },
@@ -697,6 +688,26 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-02-24",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "60/75-calorie row",
+                "21 back squats",
+                "60/75-calorie row",
+                "15 back squats",
+                "60/75-calorie row",
+                "9 back squats",
+                "â 125-lb barbell",
+                "â 185-lb barbell",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260224"
+        },
         {
           "date": "2026-02-23",
           "sections": [
@@ -757,28 +768,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Deadlift 1-1-1-1-1 reps",
-                "Compare to",
-                "250729",
-                ".",
-                "Post loads to the comments."
+                "Friday",
+                "260220",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260220"
-        },
-        {
-          "date": "2026-02-19",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260219"
         },
         {
           "date": "2026-02-18",
@@ -786,18 +782,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Open Workout 18.1",
-                "Complete as many rounds and reps as possible in 20 minutes of:",
-                "8 toes-to-bars",
-                "10 single-dumbbell hang clean and jerks*",
-                "12/14-calorie row",
-                "*Perform 5 clean and jerks with one arm, and then switch.",
-                "â 35-lb dumbbell",
-                "â 50-lb dumbbell",
-                "Compare to",
-                "180223",
-                ".",
-                "Post total reps completed to comments."
+                "Wednesday",
+                "260218",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -830,17 +817,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Interval Nancy",
-                "Every 5 minutes for 25 minutes, complete:",
-                "400-meter run",
-                "15 overhead squats",
-                "Rest with the remaining time.",
-                "â 65-lb barbell",
-                "â 95-lb barbell",
-                "Compare to Nancy on",
-                "241026",
-                ".",
-                "Post round times to comments."
+                "Monday",
+                "260216",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -886,34 +865,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260211"
-        },
-        {
-          "date": "2026-02-10",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Fast and Heavy"
-              ]
-            },
-            {
-              "title": "For time:",
-              "lines": [
-                "21 dumbbell thrusters*",
-                "400-meter run",
-                "18 dumbbell thrusters",
-                "400-meter run",
-                "15 dumbbell thrusters",
-                "400-meter run",
-                "*Use two dumbbells.",
-                "Compare to",
-                "010210",
-                ".",
-                "Post time and load to the comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260210"
         }
       ]
     }
