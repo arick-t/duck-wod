@@ -1,11 +1,60 @@
 {
-  "last_updated": "2026-02-24T07:35:16.250135",
+  "last_updated": "2026-02-25T07:36:40.263746",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-02-25",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "thoracic rotation",
+                "lat stretch",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 prone snow angels",
+                "10 plank push ups",
+                "10 ring rows",
+                "*remaining time bike/ski"
+              ]
+            },
+            {
+              "title": "bench press 12min",
+              "lines": [
+                "on the 3:00 x 4 sets:",
+                "4 close-grip bench press + 8 bench press",
+                "@ 57% of 1rm bench press"
+              ]
+            },
+            {
+              "title": "conditioning 16min",
+              "lines": [
+                "for time",
+                "20 ring dips",
+                "25/20cal bike/ski",
+                "25 pull-ups*",
+                "20 diamond push ups",
+                "25 pull-ups*",
+                "25/20cal ski/bike",
+                "20 hand release push ups",
+                "*rx+ option: chest to bar pull ups",
+                "vo2 max & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-02-25/"
+        },
         {
           "date": "2026-02-24",
           "sections": [
@@ -48,7 +97,9 @@
                 "*rx+ option: 100/70kg",
                 "score: rounds + reps",
                 "aerobic power [vo2 max]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
+                "Stephane Venne",
+                "5+21 @90kg",
+                "24. February 2026, 15:17"
               ]
             }
           ],
@@ -632,54 +683,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-02-12/"
-        },
-        {
-          "date": "2026-02-11",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "sumo squat stretch",
-                "scorpions",
-                "samson stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 reverse lunges",
-                "10 prone snow angels",
-                "30sec plank hold",
-                "*remaining time bike/ski"
-              ]
-            },
-            {
-              "title": "squats 12min",
-              "lines": [
-                "on the 2:00 x 6 sets:",
-                "2 front squats + 4 back squats",
-                "@70% of 1rm back squat"
-              ]
-            },
-            {
-              "title": "conditioning 15min",
-              "lines": [
-                "4 x 3:00 amrap:",
-                "30 double unders",
-                "15 push press 40/30kg",
-                "25/20 cal ski/bike",
-                "rest 1:00 between amraps",
-                "* pick up where you left off",
-                "score: rounds + reps",
-                "aerobic power [vo2 max]",
-                "push press + front squat",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-02-11/"
         }
       ]
     },
@@ -688,6 +691,22 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-02-25",
+          "sections": [
+            {
+              "title": "3 rounds for time of:",
+              "lines": [
+                "100 double-unders",
+                "25 burpees to a target",
+                "15 knees-to-elbows",
+                "Use your knees-to-elbows bar as the target for your burpees.",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260225"
+        },
         {
           "date": "2026-02-24",
           "sections": [
@@ -768,13 +787,28 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260220",
-                "Learn the Movement â"
+                "Deadlift 1-1-1-1-1 reps",
+                "Compare to",
+                "250729",
+                ".",
+                "Post loads to the comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260220"
+        },
+        {
+          "date": "2026-02-19",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260219"
         },
         {
           "date": "2026-02-18",
@@ -794,18 +828,11 @@
           "date": "2026-02-17",
           "sections": [
             {
-              "title": "On a 15-minute clock:",
+              "title": "Workout",
               "lines": [
-                "Find a heavy single bench press",
-                "Then,",
-                "Bench press 3-3-3-3-3-3-3-3 reps",
-                "Lift 50-60% of heavy single loading.",
-                "Compare to the Other Total on",
-                "250222",
-                "and 1-rep bench press on",
-                "250806",
-                ".",
-                "Post loads to comments."
+                "Tuesday",
+                "260217",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -851,20 +878,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260213"
-        },
-        {
-          "date": "2026-02-11",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Wednesday",
-                "260211",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260211"
         }
       ]
     }
