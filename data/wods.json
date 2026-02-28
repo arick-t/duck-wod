@@ -1,11 +1,48 @@
 {
-  "last_updated": "2026-02-27T06:35:54.590531",
+  "last_updated": "2026-02-28T05:51:20.971090",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-02-28",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "samson stretch",
+                "thoracic rotation",
+                "lat stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "amrap 5min",
+                "10 prone snow angels",
+                "10 air squats",
+                "10 push press",
+                "*partner is biking"
+              ]
+            },
+            {
+              "title": "conditioning 32min",
+              "lines": [
+                "in teams of 2",
+                "for time",
+                "12 rounds",
+                "20/18/16 cal bike",
+                "10 thrusters 40/30kg",
+                "6 wall walks",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-02-28/"
+        },
         {
           "date": "2026-02-27",
           "sections": [
@@ -634,61 +671,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-02-15/"
-        },
-        {
-          "date": "2026-02-14",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "sumo squat stretch",
-                "scorpions",
-                "lat stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "amrap 5min",
-                "10 prone snow angel",
-                "10 push ups",
-                "10 squat jumps",
-                "*partner is rowing"
-              ]
-            },
-            {
-              "title": "conditioning 26min",
-              "lines": [
-                "in teams of 2",
-                "8:00 amrap",
-                "60 box jumps",
-                "60 double db thruster",
-                "max cal row",
-                "2:00 rest",
-                "6:00 amrap",
-                "40 box jumps",
-                "40 double db thruster",
-                "max cal row",
-                "2:00 rest",
-                "4:00 amrap",
-                "20 box jumps",
-                "20 double db thruster",
-                "max cal row",
-                "2:00 rest",
-                "2:00 amrap",
-                "10 box jumps",
-                "10 double db thruster",
-                "max cal row",
-                "dumbbells: 2x15/10kg",
-                "lactate threshold & muscular endurance",
-                "STÉPHANE VENNE",
-                "217 RX",
-                "15. February 2026, 10:54"
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-02-14/"
         }
       ]
     },
@@ -697,6 +679,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-02-28",
+          "sections": [
+            {
+              "title": "Every 4 minutes for 5 rounds, complete:",
+              "lines": [
+                "400-meter run",
+                "2 legless rope climbs to 15 feet",
+                "Rest in the remaining time.",
+                "Post times to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260228"
+        },
         {
           "date": "2026-02-27",
           "sections": [
@@ -736,31 +733,14 @@
           "url": "https://www.crossfit.com/260227"
         },
         {
-          "date": "2026-02-26",
+          "date": "2026-02-25",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "You Gotta Keep Score: Why You'll Regret Not Recording Your Open Results",
-                "We all want to improve our fitness, but without tracking our results, we're flying blind. The CrossFit Open gives you measurable, objective data on exactly where you stand and how you're progressing year over year, but only if you post your scores. Five years from now, you'll wish you had that record of your fitness journey.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260226"
-        },
-        {
-          "date": "2026-02-25",
-          "sections": [
-            {
-              "title": "3 rounds for time of:",
-              "lines": [
-                "100 double-unders",
-                "25 burpees to a target",
-                "15 knees-to-elbows",
-                "Use your knees-to-elbows bar as the target for your burpees.",
-                "Post time to comments."
+                "Wednesday",
+                "260225",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -770,17 +750,11 @@
           "date": "2026-02-24",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "60/75-calorie row",
-                "21 back squats",
-                "60/75-calorie row",
-                "15 back squats",
-                "60/75-calorie row",
-                "9 back squats",
-                "â 125-lb barbell",
-                "â 185-lb barbell",
-                "Post time to comments."
+                "Tuesday",
+                "260224",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -804,6 +778,19 @@
             }
           ],
           "url": "https://www.crossfit.com/260223"
+        },
+        {
+          "date": "2026-02-22",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "The One-and-Done Approach to CrossFit Open Workouts"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260222"
         },
         {
           "date": "2026-02-21",
@@ -833,28 +820,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Deadlift 1-1-1-1-1 reps",
-                "Compare to",
-                "250729",
-                ".",
-                "Post loads to the comments."
+                "Friday",
+                "260220",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260220"
-        },
-        {
-          "date": "2026-02-19",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260219"
         },
         {
           "date": "2026-02-18",
@@ -862,18 +834,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Open Workout 18.1",
-                "Complete as many rounds and reps as possible in 20 minutes of:",
-                "8 toes-to-bars",
-                "10 single-dumbbell hang clean and jerks*",
-                "12/14-calorie row",
-                "*Perform 5 clean and jerks with one arm, and then switch.",
-                "â 35-lb dumbbell",
-                "â 50-lb dumbbell",
-                "Compare to",
-                "180223",
-                ".",
-                "Post total reps completed to comments."
+                "Wednesday",
+                "260218",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -883,18 +846,11 @@
           "date": "2026-02-17",
           "sections": [
             {
-              "title": "On a 15-minute clock:",
+              "title": "Workout",
               "lines": [
-                "Find a heavy single bench press",
-                "Then,",
-                "Bench press 3-3-3-3-3-3-3-3 reps",
-                "Lift 50-60% of heavy single loading.",
-                "Compare to the Other Total on",
-                "250222",
-                "and 1-rep bench press on",
-                "250806",
-                ".",
-                "Post loads to comments."
+                "Tuesday",
+                "260217",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -906,34 +862,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Interval Nancy",
-                "Every 5 minutes for 25 minutes, complete:",
-                "400-meter run",
-                "15 overhead squats",
-                "Rest with the remaining time.",
-                "â 65-lb barbell",
-                "â 95-lb barbell",
-                "Compare to Nancy on",
-                "241026",
-                ".",
-                "Post round times to comments."
+                "Monday",
+                "260216",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260216"
-        },
-        {
-          "date": "2026-02-14",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Saturday",
-                "260214"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260214"
         }
       ]
     }
