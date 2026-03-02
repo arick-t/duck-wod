@@ -1,11 +1,64 @@
 {
-  "last_updated": "2026-03-01T06:08:29.896545",
+  "last_updated": "2026-03-02T06:39:47.173863",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-03-02",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "OPEN WORKOUT 26.1"
+              ]
+            },
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "lat stretch on box",
+                "calf stretch",
+                "thoracic rotation",
+                "sumo squat stretch"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "40sec on / 20sec off x6",
+                "1. prone snow angels",
+                "2. air squats",
+                "3. mountain climbers"
+              ]
+            },
+            {
+              "title": "conditioning 29min",
+              "lines": [
+                "(heat 1 // 5min break // heat 2)",
+                "for time",
+                "20 wall ball 20/14lbs",
+                "18 box jump overs 60/50cm",
+                "30 wall ball",
+                "18 box jump overs",
+                "40 wall ball",
+                "18 medball box step overs",
+                "66 wall ball",
+                "18 medball box step overs",
+                "40 wall ball",
+                "18 box jump overs",
+                "30 wall ball",
+                "18 box jump overs",
+                "20 wall ball",
+                "time cap 12min",
+                "squat + wall ball",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-03-02/"
+        },
         {
           "date": "2026-03-01",
           "sections": [
@@ -621,59 +674,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-02-17/"
-        },
-        {
-          "date": "2026-02-16",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "lat stretch",
-                "hand walk",
-                "thoracic rotation",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap",
-                "10 prone snow angels",
-                "10 push ups",
-                "10 kb deadlifts"
-              ]
-            },
-            {
-              "title": "bench press 12min",
-              "lines": [
-                "on the 2:30 x 5 sets",
-                "3 close-grip bench press + 6 bench press",
-                "@ 65% of 1rm bench press"
-              ]
-            },
-            {
-              "title": "conditioning 12min",
-              "lines": [
-                "12:00 amrap",
-                "12 push ups *",
-                "24 kettlebell swings 32/24kg",
-                "36 sit-ups",
-                "*rx+ option: 8 handstand push ups",
-                "score: rounds + reps",
-                "muscular endurance & lactate threshold"
-              ]
-            },
-            {
-              "title": "stability 4min",
-              "lines": [
-                "30sec on/ 30sec off",
-                "wall facing handstand hold",
-                "head stand / hand stand / hand stand push ups",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-02-16/"
         }
       ]
     },
@@ -682,6 +682,35 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-03-02",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Quarter Gone Bad"
+              ]
+            },
+            {
+              "title": "5 rounds for max reps of:",
+              "lines": [
+                "15 seconds of thrusters",
+                "45-second rest",
+                "15 seconds of weighted pull-ups",
+                "45-second rest",
+                "15 seconds of burpees",
+                "45-second rest",
+                "â 95-lb barbell and a 35-lb dumbbell",
+                "â 135-lb barbell and a 50-lb dumbbell",
+                "Compare to",
+                "080413",
+                ".",
+                "Post reps to the comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260302"
+        },
         {
           "date": "2026-03-01",
           "sections": [
@@ -701,11 +730,12 @@
           "date": "2026-02-28",
           "sections": [
             {
-              "title": "Workout",
+              "title": "Every 4 minutes for 5 rounds, complete:",
               "lines": [
-                "Saturday",
-                "260228",
-                "Watch the Open Workout 26.1 Live Announcement Replay â"
+                "400-meter run",
+                "2 legless rope climbs to 15 feet",
+                "Rest in the remaining time.",
+                "Post times to comments."
               ]
             }
           ],
@@ -750,16 +780,29 @@
           "url": "https://www.crossfit.com/260227"
         },
         {
+          "date": "2026-02-26",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "You Gotta Keep Score: Why You'll Regret Not Recording Your Open Results",
+                "We all want to improve our fitness, but without tracking our results, we're flying blind. The CrossFit Open gives you measurable, objective data on exactly where you stand and how you're progressing year over year, but only if you post your scores. Five years from now, you'll wish you had that record of your fitness journey.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260226"
+        },
+        {
           "date": "2026-02-25",
           "sections": [
             {
-              "title": "3 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "100 double-unders",
-                "25 burpees to a target",
-                "15 knees-to-elbows",
-                "Use your knees-to-elbows bar as the target for your burpees.",
-                "Post time to comments."
+                "Wednesday",
+                "260225",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -769,17 +812,11 @@
           "date": "2026-02-24",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "60/75-calorie row",
-                "21 back squats",
-                "60/75-calorie row",
-                "15 back squats",
-                "60/75-calorie row",
-                "9 back squats",
-                "â 125-lb barbell",
-                "â 185-lb barbell",
-                "Post time to comments."
+                "Tuesday",
+                "260224",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -789,11 +826,16 @@
           "date": "2026-02-23",
           "sections": [
             {
-              "title": "Workout",
+              "title": "2 rounds for total rounds and reps:",
               "lines": [
-                "Monday",
-                "260223",
-                "Practice the Movement â"
+                "Complete as many rounds as possible in 3 minutes of:",
+                "100-meter run",
+                "10 pull-ups",
+                "Followed immediately by as many reps as possible in 3 minutes of:",
+                "Freestanding handstand hold*",
+                "Rest 2 minutes before starting the second round.",
+                "*Every second of the handstand hold is a rep.",
+                "Post rounds and reps to comments."
               ]
             }
           ],
@@ -828,36 +870,14 @@
           "url": "https://www.crossfit.com/260220"
         },
         {
-          "date": "2026-02-19",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260219"
-        },
-        {
           "date": "2026-02-18",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Open Workout 18.1",
-                "Complete as many rounds and reps as possible in 20 minutes of:",
-                "8 toes-to-bars",
-                "10 single-dumbbell hang clean and jerks*",
-                "12/14-calorie row",
-                "*Perform 5 clean and jerks with one arm, and then switch.",
-                "â 35-lb dumbbell",
-                "â 50-lb dumbbell",
-                "Compare to",
-                "180223",
-                ".",
-                "Post total reps completed to comments."
+                "Wednesday",
+                "260218",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -876,20 +896,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260217"
-        },
-        {
-          "date": "2026-02-16",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Monday",
-                "260216",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260216"
         }
       ]
     }
