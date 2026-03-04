@@ -1,11 +1,66 @@
 {
-  "last_updated": "2026-03-03T05:10:18.148821",
+  "last_updated": "2026-03-04T05:04:06.129256",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-03-04",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "lat stretch",
+                "thoracic rotation",
+                "scorpions",
+                "seated pike stretch"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 straight leg sit ups",
+                "10 push ups",
+                "10 ring rows"
+              ]
+            },
+            {
+              "title": "bench press 15min",
+              "lines": [
+                "build to a heavy 10-rep max",
+                "rest 3-5 minutes between attempts"
+              ]
+            },
+            {
+              "title": "conditioning 15min",
+              "lines": [
+                "for time",
+                "buy-in: 10 wall walks",
+                "3 rounds:",
+                "9 push press",
+                "9 pull-ups",
+                "35 v-ups",
+                "3 rounds:",
+                "7 push press",
+                "7 pull-ups",
+                "35 v-ups",
+                "3 rounds:",
+                "5 push press",
+                "5 pull-ups",
+                "barbell: 40/30kg",
+                "*rx+ option: chest to bar pull ups",
+                "muscular endurance",
+                "pull up",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-03-04/"
+        },
         {
           "date": "2026-03-03",
           "sections": [
@@ -623,56 +678,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-02-19/"
-        },
-        {
-          "date": "2026-02-18",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "90/90 hip rotation",
-                "calf stretch",
-                "instep rotation"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 cossack squats",
-                "10 burpees",
-                "10/8cal row"
-              ]
-            },
-            {
-              "title": "deadlift 12min",
-              "lines": [
-                "on the 2:30 x 5 sets:",
-                "3 sumo deadlifts + 6 conventional deadlifts",
-                "@65% of 1rm deadlift"
-              ]
-            },
-            {
-              "title": "conditioning 15min",
-              "lines": [
-                "for time",
-                "25 box jumps 60/50cm",
-                "25 deadlifts 80/60kg*",
-                "25 burpees over bar",
-                "50/40 cal row",
-                "25 burpees over bar",
-                "25 deadlifts",
-                "25 box jumps",
-                "*rx+ option: 100/70kg",
-                "aerobic power [vo2 max]",
-                "deadlift",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-02-18/"
         }
       ]
     },
@@ -681,6 +686,24 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-03-04",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Back squat 8-8-8-8-8 reps",
+                "Compare to similar",
+                "250211",
+                "and",
+                "251020",
+                ".",
+                "Post loads to the comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260304"
+        },
         {
           "date": "2026-03-03",
           "sections": [
@@ -857,33 +880,15 @@
           "date": "2026-02-23",
           "sections": [
             {
-              "title": "2 rounds for total rounds and reps:",
+              "title": "Workout",
               "lines": [
-                "Complete as many rounds as possible in 3 minutes of:",
-                "100-meter run",
-                "10 pull-ups",
-                "Followed immediately by as many reps as possible in 3 minutes of:",
-                "Freestanding handstand hold*",
-                "Rest 2 minutes before starting the second round.",
-                "*Every second of the handstand hold is a rep.",
-                "Post rounds and reps to comments."
+                "Monday",
+                "260223",
+                "Practice the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260223"
-        },
-        {
-          "date": "2026-02-22",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "The One-and-Done Approach to CrossFit Open Workouts"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260222"
         },
         {
           "date": "2026-02-21",
@@ -912,20 +917,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260220"
-        },
-        {
-          "date": "2026-02-18",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Wednesday",
-                "260218",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260218"
         }
       ]
     }
