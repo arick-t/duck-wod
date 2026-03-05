@@ -1,11 +1,57 @@
 {
-  "last_updated": "2026-03-04T05:04:06.129256",
+  "last_updated": "2026-03-05T05:08:22.798616",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-03-05",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "calf stretch",
+                "samson stretch",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 prone snow angels",
+                "10 db deadlifts",
+                "20 single under",
+                "*remaining time bike/ski"
+              ]
+            },
+            {
+              "title": "conditioning 26min",
+              "lines": [
+                "4 x 5:00 amrap:",
+                "25/20 cal ski/bike",
+                "24 db hang snatches 22,5/15kg",
+                "50 double under",
+                "rest 2:00 between amraps",
+                "*pick up where you left off",
+                "score: total rounds + reps",
+                "aerobic power [lactate threshold]"
+              ]
+            },
+            {
+              "title": "triceps 4min",
+              "lines": [
+                "30sec on/ 1min off x 3 sets",
+                "db overhead triceps extension",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-03-05/"
+        },
         {
           "date": "2026-03-04",
           "sections": [
@@ -635,49 +681,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-02-20/"
-        },
-        {
-          "date": "2026-02-19",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "seated pike stretch",
-                "lat stretch",
-                "samson stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 straight leg sit ups",
-                "10 prone snow angels",
-                "10 double db deadlifts",
-                "*remaining time bike/ski"
-              ]
-            },
-            {
-              "title": "conditioning 34min",
-              "lines": [
-                "16:00 amrap:",
-                "8 toes to bar",
-                "16 double db hang power snatch",
-                "20/16cal ski/bike",
-                "-rest 2:00 -",
-                "16:00 amrap:",
-                "4 toes to bar",
-                "8 double db hang power snatch",
-                "10/8cal bike/ski",
-                "dumbbells: 2x15/10kg",
-                "score: sum total of rounds + reps",
-                "aerobic power [lactate threshold]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-02-19/"
         }
       ]
     },
@@ -686,6 +689,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-03-05",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "You Bombed 26.1. Good. Here's Why.",
+                "You crashed and burned on the first Open workout. Now what? Before you pack up your grips and walk away, consider this: that disaster might be exactly what you needed. Here's how to reframe your worst performance into the fuel that powers your best one.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260305"
+        },
         {
           "date": "2026-03-04",
           "sections": [
@@ -708,21 +726,10 @@
           "date": "2026-03-03",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "5,000-meter air bike",
-                "30 kettlebell hang cleans",
-                "200-meter kettlebell farmers carry",
-                "3,000-meter air bike",
-                "20 kettlebell hang cleans",
-                "100-meter kettlebell farmers carry",
-                "1,000-meter air bike",
-                "10 kettlebell hang cleans",
-                "50-meter kettlebell farmers carry",
-                "500-meter air bike",
-                "â 35-lb kettlebells",
-                "â 53-lb kettlebells",
-                "Post time to the comments."
+                "Tuesday",
+                "260303"
               ]
             }
           ],
@@ -734,96 +741,27 @@
             {
               "title": "Workout",
               "lines": [
-                "Quarter Gone Bad"
-              ]
-            },
-            {
-              "title": "5 rounds for max reps of:",
-              "lines": [
-                "15 seconds of thrusters",
-                "45-second rest",
-                "15 seconds of weighted pull-ups",
-                "45-second rest",
-                "15 seconds of burpees",
-                "45-second rest",
-                "â 95-lb barbell and a 35-lb dumbbell",
-                "â 135-lb barbell and a 50-lb dumbbell",
-                "Compare to",
-                "080413",
-                ".",
-                "Post reps to the comments."
+                "Monday",
+                "260302",
+                "Register for the 2026 CrossFit Open, presented by Air National Guard â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260302"
         },
         {
-          "date": "2026-03-01",
+          "date": "2026-02-28",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "Back Squats Are Not the Enemy",
-                "When experts recommend replacing back squats with single-leg movements to avoid pain, they're treating the symptom, not the cause. Back squats are an essential functional movement that builds capacity across all aspects of fitness. When they cause pain, the solution isn't to abandon them but to scale the load, fix your technique, and address gaps in your overall program. For lifelong health and fitness, the answer is simple: squat more, more often.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260301"
-        },
-        {
-          "date": "2026-02-28",
-          "sections": [
-            {
-              "title": "Every 4 minutes for 5 rounds, complete:",
-              "lines": [
-                "400-meter run",
-                "2 legless rope climbs to 15 feet",
-                "Rest in the remaining time.",
-                "Post times to comments."
+                "Saturday",
+                "260228",
+                "Watch the Open Workout 26.1 Live Announcement Replay â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260228"
-        },
-        {
-          "date": "2026-02-27",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Open Workout 26.1"
-              ]
-            },
-            {
-              "title": "For time:",
-              "lines": [
-                "20 wall-ball shots",
-                "18 box jump-overs",
-                "30 wall-ball shots",
-                "18 box jump-overs",
-                "40 wall-ball shots",
-                "18 medicine-ball box step-overs",
-                "66 wall-ball shots",
-                "18 medicine-ball box step-overs",
-                "40 wall-ball shots",
-                "18 box jump-overs",
-                "30 wall-ball shots",
-                "18 box jump-overs",
-                "20 wall-ball shots",
-                "â 14-lb medicine ball to a 9-foot target and a 20-inch box",
-                "â 20-lb medicine ball to a 10-foot target and a 24-inch box"
-              ]
-            },
-            {
-              "title": "Time cap: 12 minutes",
-              "lines": [
-                "Visit the"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260227"
         },
         {
           "date": "2026-02-26",
@@ -844,13 +782,11 @@
           "date": "2026-02-25",
           "sections": [
             {
-              "title": "3 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "100 double-unders",
-                "25 burpees to a target",
-                "15 knees-to-elbows",
-                "Use your knees-to-elbows bar as the target for your burpees.",
-                "Post time to comments."
+                "Wednesday",
+                "260225",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -860,17 +796,11 @@
           "date": "2026-02-24",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "60/75-calorie row",
-                "21 back squats",
-                "60/75-calorie row",
-                "15 back squats",
-                "60/75-calorie row",
-                "9 back squats",
-                "â 125-lb barbell",
-                "â 185-lb barbell",
-                "Post time to comments."
+                "Tuesday",
+                "260224",
+                "Learn the Movement â"
               ]
             }
           ],
