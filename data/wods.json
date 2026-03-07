@@ -1,11 +1,55 @@
 {
-  "last_updated": "2026-03-06T05:05:01.790709",
+  "last_updated": "2026-03-07T04:54:30.131891",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-03-07",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Heute"
+              ]
+            },
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "samson stretch",
+                "hand walk",
+                "lat stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "amrap 5min",
+                "10 prone snow angels",
+                "6 burpee deadlifts",
+                "*partner is holding plank position"
+              ]
+            },
+            {
+              "title": "conditioning 28min",
+              "lines": [
+                "in teams of 2",
+                "amrap 28min",
+                "(you go, I go)",
+                "6 burpees over db",
+                "12 single db ground to overhead",
+                "3 burpee to target",
+                "6 single db devil press",
+                "dumbbell: 22,5/15kg",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-03-07/"
+        },
         {
           "date": "2026-03-06",
           "sections": [
@@ -637,46 +681,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-02-22/"
-        },
-        {
-          "date": "2026-02-21",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "instep rotation",
-                "hand walk",
-                "lat stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "amrap 5min",
-                "10 hang high pulls",
-                "10 elbow rotations",
-                "30sec plank hold",
-                "*partner is rowing"
-              ]
-            },
-            {
-              "title": "conditioning 30min",
-              "lines": [
-                "in teams of 2",
-                "for time",
-                "5 rounds",
-                "45/40/35 cal row",
-                "20 hang power cleans 60/40kg",
-                "40 sit ups",
-                "STÉPHANE VENNE",
-                "20:53 RX/SC @50kg Mixed Team",
-                "+100 Push ups (50 each 10 times 5)",
-                "22. February 2026, 15:00"
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-02-21/"
         }
       ]
     },
@@ -685,6 +689,32 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-03-07",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "21 hang power cleans, first weight",
+                "15/21-calorie row",
+                "15 hang power cleans, second weight",
+                "10/15-calorie row",
+                "9 hang power cleans, third weight",
+                "7/9-calorie row",
+                "Rest 5 minutes",
+                "21 box jumps",
+                "15/21-calorie row",
+                "15 box jumps",
+                "10/15-calorie row",
+                "9 box jumps",
+                "7/9-calorie row",
+                "â 95/105/120-lb barbell and a 20-inch box",
+                "â 135/155/175-lb barbell and a 24-inch box"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260307"
+        },
         {
           "date": "2026-03-06",
           "sections": [
@@ -740,13 +770,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Back squat 8-8-8-8-8 reps",
-                "Compare to similar",
-                "250211",
-                "and",
-                "251020",
-                ".",
-                "Post loads to the comments."
+                "Wednesday",
+                "260304",
+                "Check the Leaderboard â"
               ]
             }
           ],
@@ -756,21 +782,10 @@
           "date": "2026-03-03",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "5,000-meter air bike",
-                "30 kettlebell hang cleans",
-                "200-meter kettlebell farmers carry",
-                "3,000-meter air bike",
-                "20 kettlebell hang cleans",
-                "100-meter kettlebell farmers carry",
-                "1,000-meter air bike",
-                "10 kettlebell hang cleans",
-                "50-meter kettlebell farmers carry",
-                "500-meter air bike",
-                "â 35-lb kettlebells",
-                "â 53-lb kettlebells",
-                "Post time to the comments."
+                "Tuesday",
+                "260303"
               ]
             }
           ],
@@ -824,12 +839,11 @@
           "date": "2026-02-28",
           "sections": [
             {
-              "title": "Every 4 minutes for 5 rounds, complete:",
+              "title": "Workout",
               "lines": [
-                "400-meter run",
-                "2 legless rope climbs to 15 feet",
-                "Rest in the remaining time.",
-                "Post times to comments."
+                "Saturday",
+                "260228",
+                "Watch the Open Workout 26.1 Live Announcement Replay â"
               ]
             }
           ],
@@ -908,11 +922,17 @@
           "date": "2026-02-24",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Tuesday",
-                "260224",
-                "Learn the Movement â"
+                "60/75-calorie row",
+                "21 back squats",
+                "60/75-calorie row",
+                "15 back squats",
+                "60/75-calorie row",
+                "9 back squats",
+                "â 125-lb barbell",
+                "â 185-lb barbell",
+                "Post time to comments."
               ]
             }
           ],
@@ -931,20 +951,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260223"
-        },
-        {
-          "date": "2026-02-21",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Saturday",
-                "260221",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260221"
         }
       ]
     }
