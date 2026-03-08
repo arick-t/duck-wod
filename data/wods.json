@@ -1,11 +1,55 @@
 {
-  "last_updated": "2026-03-07T04:54:30.131891",
+  "last_updated": "2026-03-08T05:05:31.867625",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-03-08",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Heute feiern wir die Frauen, die unsere Welt stärker machen.",
+                "Happy International Women's Day!"
+              ]
+            },
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "sumo squat stretch",
+                "thoracic rotation",
+                "lat stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "amrap 5min",
+                "20 shoulder taps (push up position)",
+                "10 ring rows",
+                "*partner is holding a deep squat"
+              ]
+            },
+            {
+              "title": "conditioning 32min",
+              "lines": [
+                "\"Team Barbara\"",
+                "in teams of 2",
+                "5 rounds for time",
+                "20 pull ups",
+                "30 push ups",
+                "40 sit ups",
+                "50 air squats",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-03-08/"
+        },
         {
           "date": "2026-03-07",
           "sections": [
@@ -630,57 +674,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-02-23/"
-        },
-        {
-          "date": "2026-02-22",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "instep rotation",
-                "lat stretch",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "30sec on / 15sec off x2 rounds",
-                "1. ring rows",
-                "2. bike/ski",
-                "3. straight leg sit ups",
-                "4. squat jumps"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "emom 35min (7 rounds)",
-                "1. 10-16 gorilla rows",
-                "2. 10-15cal bike/ski",
-                "3. 6-10 strict toes to bar",
-                "4. 15-20 box jumps",
-                "5. rest",
-                "Sunday Endurance for Open Gym",
-                "choose: run, bike, row, or ski",
-                "[wave 1]",
-                "2:00 at rpe 5, 1:00 easy",
-                "1:30 at rpe 6, 1:00 easy",
-                "1:00 at rpe 7, 1:00 easy",
-                "0:30 at rpe 8",
-                "5:00 easy between waves",
-                "[wave 2]",
-                "2:00 at rpe 6, 1:00 easy",
-                "1:30 at rpe 7, 1:00 easy",
-                "1:00 at rpe 8, 1:00 easy",
-                "0:30 at rpe 9",
-                "aerobic power [lactate threshold]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-02-22/"
         }
       ]
     },
@@ -689,6 +682,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-03-08",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "CrossFit Defined Fitness Over 20 Years Ago. Why Is Everyone Still Guessing?",
+                "When fitness experts Andy Galpin and Rich Roll recently spent valuable podcast time trying to define fitness, they came remarkably close to CrossFit's definition â the one we created over 20 years ago when we discovered no suitable definition existed. This article breaks down CrossFit's definition of fitness, the four models that support it, and why it remains the most robust, measurable framework for understanding human performance. If you're still searching for a functional definition of fitness, your search ends here.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260308"
+        },
         {
           "date": "2026-03-07",
           "sections": [
@@ -750,29 +758,18 @@
           "url": "https://www.crossfit.com/260306"
         },
         {
-          "date": "2026-03-05",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "You Bombed 26.1. Good. Here's Why.",
-                "You crashed and burned on the first Open workout. Now what? Before you pack up your grips and walk away, consider this: that disaster might be exactly what you needed. Here's how to reframe your worst performance into the fuel that powers your best one.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260305"
-        },
-        {
           "date": "2026-03-04",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260304",
-                "Check the Leaderboard â"
+                "Back squat 8-8-8-8-8 reps",
+                "Compare to similar",
+                "250211",
+                "and",
+                "251020",
+                ".",
+                "Post loads to the comments."
               ]
             }
           ],
@@ -821,21 +818,6 @@
           "url": "https://www.crossfit.com/260302"
         },
         {
-          "date": "2026-03-01",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Back Squats Are Not the Enemy",
-                "When experts recommend replacing back squats with single-leg movements to avoid pain, they're treating the symptom, not the cause. Back squats are an essential functional movement that builds capacity across all aspects of fitness. When they cause pain, the solution isn't to abandon them but to scale the load, fix your technique, and address gaps in your overall program. For lifelong health and fitness, the answer is simple: squat more, more often.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260301"
-        },
-        {
           "date": "2026-02-28",
           "sections": [
             {
@@ -850,69 +832,14 @@
           "url": "https://www.crossfit.com/260228"
         },
         {
-          "date": "2026-02-27",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Open Workout 26.1"
-              ]
-            },
-            {
-              "title": "For time:",
-              "lines": [
-                "20 wall-ball shots",
-                "18 box jump-overs",
-                "30 wall-ball shots",
-                "18 box jump-overs",
-                "40 wall-ball shots",
-                "18 medicine-ball box step-overs",
-                "66 wall-ball shots",
-                "18 medicine-ball box step-overs",
-                "40 wall-ball shots",
-                "18 box jump-overs",
-                "30 wall-ball shots",
-                "18 box jump-overs",
-                "20 wall-ball shots",
-                "â 14-lb medicine ball to a 9-foot target and a 20-inch box",
-                "â 20-lb medicine ball to a 10-foot target and a 24-inch box"
-              ]
-            },
-            {
-              "title": "Time cap: 12 minutes",
-              "lines": [
-                "Visit the"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260227"
-        },
-        {
-          "date": "2026-02-26",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "You Gotta Keep Score: Why You'll Regret Not Recording Your Open Results",
-                "We all want to improve our fitness, but without tracking our results, we're flying blind. The CrossFit Open gives you measurable, objective data on exactly where you stand and how you're progressing year over year, but only if you post your scores. Five years from now, you'll wish you had that record of your fitness journey.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260226"
-        },
-        {
           "date": "2026-02-25",
           "sections": [
             {
-              "title": "3 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "100 double-unders",
-                "25 burpees to a target",
-                "15 knees-to-elbows",
-                "Use your knees-to-elbows bar as the target for your burpees.",
-                "Post time to comments."
+                "Wednesday",
+                "260225",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -922,17 +849,11 @@
           "date": "2026-02-24",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "60/75-calorie row",
-                "21 back squats",
-                "60/75-calorie row",
-                "15 back squats",
-                "60/75-calorie row",
-                "9 back squats",
-                "â 125-lb barbell",
-                "â 185-lb barbell",
-                "Post time to comments."
+                "Tuesday",
+                "260224",
+                "Learn the Movement â"
               ]
             }
           ],
