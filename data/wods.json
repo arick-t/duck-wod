@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-08T05:05:31.867625",
+  "last_updated": "2026-03-09T05:16:02.693152",
   "sources": [
     {
       "id": "myleo",
@@ -7,12 +7,52 @@
       "url": "https://myleo.de/en/wods/",
       "wods": [
         {
+          "date": "2026-03-09",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "OPEN WORKOUT 26.2"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "40sec on / 20sec off x6",
+                "1. samson stretch",
+                "2. scap. pull ups",
+                "3. db deadlifts"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "(heat 1 // 5min break // heat 2)",
+                "for time",
+                "80-foot db overhead walking lunge 22,5/15kg",
+                "20 alternating db snatches",
+                "20 pull-ups",
+                "80-foot db overhead walking lunge",
+                "20 alternating db snatches",
+                "20 chest-to-bar pull-ups",
+                "80-foot db overhead walking lunge",
+                "20 alternating db snatches",
+                "20 muscle-ups",
+                "time cap 15min",
+                "pull up + kip swing",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-03-09/"
+        },
+        {
           "date": "2026-03-08",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Heute feiern wir die Frauen, die unsere Welt stärker machen.",
+                "Heute feiern wir alle Frauen, weil sie unsere Welt stärker machen.",
                 "Happy International Women's Day!"
               ]
             },
@@ -628,52 +668,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-02-24/"
-        },
-        {
-          "date": "2026-02-23",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "instep rotation",
-                "sumo squat stretch",
-                "lat stretch",
-                "thoracic rotation"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 reverse lunges",
-                "30sec plank hold",
-                "10 push ups"
-              ]
-            },
-            {
-              "title": "squats 12min",
-              "lines": [
-                "on the 3:00 x 4 sets:",
-                "4 front squats + 8 back squats",
-                "@57% of 1rm back squat"
-              ]
-            },
-            {
-              "title": "conditioning 15min",
-              "lines": [
-                "for time",
-                "5 rounds",
-                "12 double db push press",
-                "20 alternating db hang snatches",
-                "dumbbells: 22,5/15kg",
-                "muscular endurance",
-                "front squat",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-02-23/"
         }
       ]
     },
@@ -682,6 +676,22 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-03-09",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Every minute on the minute for 20 minutes, complete:",
+                "Minutes 0-5 - 1 snatch high pull",
+                "Minutes 6-10 - 1 hang squat snatch",
+                "Minutes 11-20 - 1 squat snatch",
+                "Post loads to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260309"
+        },
         {
           "date": "2026-03-08",
           "sections": [
@@ -729,29 +739,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Open Workout 26.2"
-              ]
-            },
-            {
-              "title": "For time:",
-              "lines": [
-                "80-foot dumbbell overhead walking lunge",
-                "20 alternating dumbbell snatches",
-                "20 pull-ups",
-                "80-foot dumbbell overhead walking lunge",
-                "20 alternating dumbbell snatches",
-                "20 chest-to-bar pull-ups",
-                "80-foot dumbbell overhead walking lunge",
-                "20 alternating dumbbell snatches",
-                "20 muscle-ups",
-                "â 35-lb dumbbell",
-                "â 50-lb dumbbell"
-              ]
-            },
-            {
-              "title": "Time cap: 15 minutes",
-              "lines": [
-                "Visit the"
+                "Friday",
+                "260306",
+                "Open 26.2 LIVE Announcement Replay â"
               ]
             }
           ],
@@ -763,13 +753,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Back squat 8-8-8-8-8 reps",
-                "Compare to similar",
-                "250211",
-                "and",
-                "251020",
-                ".",
-                "Post loads to the comments."
+                "Wednesday",
+                "260304",
+                "Check the Leaderboard â"
               ]
             }
           ],
@@ -794,24 +780,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Quarter Gone Bad"
-              ]
-            },
-            {
-              "title": "5 rounds for max reps of:",
-              "lines": [
-                "15 seconds of thrusters",
-                "45-second rest",
-                "15 seconds of weighted pull-ups",
-                "45-second rest",
-                "15 seconds of burpees",
-                "45-second rest",
-                "â 95-lb barbell and a 35-lb dumbbell",
-                "â 135-lb barbell and a 50-lb dumbbell",
-                "Compare to",
-                "080413",
-                ".",
-                "Post reps to the comments."
+                "Monday",
+                "260302",
+                "Register for the 2026 CrossFit Open, presented by Air National Guard â"
               ]
             }
           ],
@@ -830,6 +801,21 @@
             }
           ],
           "url": "https://www.crossfit.com/260228"
+        },
+        {
+          "date": "2026-02-26",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "You Gotta Keep Score: Why You'll Regret Not Recording Your Open Results",
+                "We all want to improve our fitness, but without tracking our results, we're flying blind. The CrossFit Open gives you measurable, objective data on exactly where you stand and how you're progressing year over year, but only if you post your scores. Five years from now, you'll wish you had that record of your fitness journey.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260226"
         },
         {
           "date": "2026-02-25",
@@ -858,20 +844,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260224"
-        },
-        {
-          "date": "2026-02-23",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Monday",
-                "260223",
-                "Practice the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260223"
         }
       ]
     }
