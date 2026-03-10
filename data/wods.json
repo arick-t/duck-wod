@@ -1,11 +1,59 @@
 {
-  "last_updated": "2026-03-09T05:16:02.693152",
+  "last_updated": "2026-03-10T05:05:18.932863",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-03-10",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "thoracic rotation",
+                "scorpions",
+                "lat stretch on box"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 hang high pulls",
+                "10 plank push ups",
+                "10 squat jumps"
+              ]
+            },
+            {
+              "title": "bench press 15min",
+              "lines": [
+                "3 sets",
+                "5 bench press at 78%",
+                "1 drop set",
+                "max reps at 50%"
+              ]
+            },
+            {
+              "title": "conditioning 15min",
+              "lines": [
+                "for time",
+                "9-12-15-12-9",
+                "power cleans",
+                "push press *",
+                "box jumps 60/50cm",
+                "barbell: 40/30kg",
+                "*rx+ option: handstand push ups",
+                "aerobic power [vo2 max]",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-03-10/"
+        },
         {
           "date": "2026-03-09",
           "sections": [
@@ -618,56 +666,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-02-25/"
-        },
-        {
-          "date": "2026-02-24",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "90/90 hip rotation",
-                "lying hip cross over",
-                "instep rotation"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 cossack squats",
-                "10 burpees",
-                "10/8cal row"
-              ]
-            },
-            {
-              "title": "deadlift 12min",
-              "lines": [
-                "on the 3:00 x 4 sets:",
-                "4 sumo deadlifts + 8 conventional deadlifts",
-                "@ 57% of 1rm deadlift"
-              ]
-            },
-            {
-              "title": "conditioning 16min",
-              "lines": [
-                "3 x 4:00 amrap:",
-                "12/10 cal row",
-                "12 deadlifts 80/60kg *",
-                "12 burpees over bar",
-                "rest 2:00 between amraps",
-                "pick up where you left off",
-                "*rx+ option: 100/70kg",
-                "score: rounds + reps",
-                "aerobic power [vo2 max]",
-                "Stephane Venne",
-                "5+21 @90kg",
-                "24. February 2026, 15:17"
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-02-24/"
         }
       ]
     },
@@ -676,6 +674,20 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-03-10",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Tuesday",
+                "260310",
+                "Check the Open Leaderboard â"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260310"
+        },
         {
           "date": "2026-03-09",
           "sections": [
@@ -739,13 +751,48 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260306",
-                "Open 26.2 LIVE Announcement Replay â"
+                "Open Workout 26.2"
+              ]
+            },
+            {
+              "title": "For time:",
+              "lines": [
+                "80-foot dumbbell overhead walking lunge",
+                "20 alternating dumbbell snatches",
+                "20 pull-ups",
+                "80-foot dumbbell overhead walking lunge",
+                "20 alternating dumbbell snatches",
+                "20 chest-to-bar pull-ups",
+                "80-foot dumbbell overhead walking lunge",
+                "20 alternating dumbbell snatches",
+                "20 muscle-ups",
+                "â 35-lb dumbbell",
+                "â 50-lb dumbbell"
+              ]
+            },
+            {
+              "title": "Time cap: 15 minutes",
+              "lines": [
+                "Visit the"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260306"
+        },
+        {
+          "date": "2026-03-05",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "You Bombed 26.1. Good. Here's Why.",
+                "You crashed and burned on the first Open workout. Now what? Before you pack up your grips and walk away, consider this: that disaster might be exactly what you needed. Here's how to reframe your worst performance into the fuel that powers your best one.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260305"
         },
         {
           "date": "2026-03-04",
@@ -753,9 +800,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260304",
-                "Check the Leaderboard â"
+                "Back squat 8-8-8-8-8 reps",
+                "Compare to similar",
+                "250211",
+                "and",
+                "251020",
+                ".",
+                "Post loads to the comments."
               ]
             }
           ],
@@ -765,10 +816,21 @@
           "date": "2026-03-03",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Tuesday",
-                "260303"
+                "5,000-meter air bike",
+                "30 kettlebell hang cleans",
+                "200-meter kettlebell farmers carry",
+                "3,000-meter air bike",
+                "20 kettlebell hang cleans",
+                "100-meter kettlebell farmers carry",
+                "1,000-meter air bike",
+                "10 kettlebell hang cleans",
+                "50-meter kettlebell farmers carry",
+                "500-meter air bike",
+                "â 35-lb kettlebells",
+                "â 53-lb kettlebells",
+                "Post time to the comments."
               ]
             }
           ],
@@ -780,9 +842,24 @@
             {
               "title": "Workout",
               "lines": [
-                "Monday",
-                "260302",
-                "Register for the 2026 CrossFit Open, presented by Air National Guard â"
+                "Quarter Gone Bad"
+              ]
+            },
+            {
+              "title": "5 rounds for max reps of:",
+              "lines": [
+                "15 seconds of thrusters",
+                "45-second rest",
+                "15 seconds of weighted pull-ups",
+                "45-second rest",
+                "15 seconds of burpees",
+                "45-second rest",
+                "â 95-lb barbell and a 35-lb dumbbell",
+                "â 135-lb barbell and a 50-lb dumbbell",
+                "Compare to",
+                "080413",
+                ".",
+                "Post reps to the comments."
               ]
             }
           ],
@@ -803,21 +880,6 @@
           "url": "https://www.crossfit.com/260228"
         },
         {
-          "date": "2026-02-26",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "You Gotta Keep Score: Why You'll Regret Not Recording Your Open Results",
-                "We all want to improve our fitness, but without tracking our results, we're flying blind. The CrossFit Open gives you measurable, objective data on exactly where you stand and how you're progressing year over year, but only if you post your scores. Five years from now, you'll wish you had that record of your fitness journey.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260226"
-        },
-        {
           "date": "2026-02-25",
           "sections": [
             {
@@ -830,20 +892,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260225"
-        },
-        {
-          "date": "2026-02-24",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Tuesday",
-                "260224",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260224"
         }
       ]
     }
