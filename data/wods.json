@@ -1,11 +1,47 @@
 {
-  "last_updated": "2026-03-10T05:05:18.932863",
+  "last_updated": "2026-03-11T05:06:28.650054",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-03-11",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "lat stretch",
+                "seated pike stretch",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 prone snow angels",
+                "10 straight leg sit ups",
+                "*remaining time bike/ski"
+              ]
+            },
+            {
+              "title": "conditioning 30min",
+              "lines": [
+                "amrap 30min",
+                "25/20cal bike/ski",
+                "20 toes to bar",
+                "25/20cal ski/bike",
+                "100m farmers carry 2x32/24kg",
+                "deadlift",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-03-11/"
+        },
         {
           "date": "2026-03-10",
           "sections": [
@@ -617,55 +653,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-02-26/"
-        },
-        {
-          "date": "2026-02-25",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "thoracic rotation",
-                "lat stretch",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 prone snow angels",
-                "10 plank push ups",
-                "10 ring rows",
-                "*remaining time bike/ski"
-              ]
-            },
-            {
-              "title": "bench press 12min",
-              "lines": [
-                "on the 3:00 x 4 sets:",
-                "4 close-grip bench press + 8 bench press",
-                "@ 57% of 1rm bench press"
-              ]
-            },
-            {
-              "title": "conditioning 16min",
-              "lines": [
-                "for time",
-                "20 ring dips",
-                "25/20cal bike/ski",
-                "25 pull-ups*",
-                "20 diamond push ups",
-                "25 pull-ups*",
-                "25/20cal ski/bike",
-                "20 hand release push ups",
-                "*rx+ option: chest to bar pull ups",
-                "vo2 max & muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-02-25/"
         }
       ]
     },
@@ -675,14 +662,39 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
+          "date": "2026-03-11",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "400-meter run",
+                "30 toes-to-bars",
+                "400-meter run",
+                "10 wall walks",
+                "400-meter run",
+                "30 toes-to-bars",
+                "400-meter run",
+                "Post time to the comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260311"
+        },
+        {
           "date": "2026-03-10",
           "sections": [
             {
-              "title": "Workout",
+              "title": "4 rounds for reps of:",
               "lines": [
-                "Tuesday",
-                "260310",
-                "Check the Open Leaderboard â"
+                "40 seconds of dumbbell push presses",
+                "20 seconds of rest",
+                "40 seconds of dumbbell deadlifts",
+                "20 seconds of rest",
+                "40 seconds of double-unders",
+                "20 seconds of rest",
+                "â 35-lb dumbbells",
+                "â 50-lb dumbbells",
+                "Post total reps to the comments."
               ]
             }
           ],
@@ -705,41 +717,14 @@
           "url": "https://www.crossfit.com/260309"
         },
         {
-          "date": "2026-03-08",
+          "date": "2026-03-07",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "CrossFit Defined Fitness Over 20 Years Ago. Why Is Everyone Still Guessing?",
-                "When fitness experts Andy Galpin and Rich Roll recently spent valuable podcast time trying to define fitness, they came remarkably close to CrossFit's definition â the one we created over 20 years ago when we discovered no suitable definition existed. This article breaks down CrossFit's definition of fitness, the four models that support it, and why it remains the most robust, measurable framework for understanding human performance. If you're still searching for a functional definition of fitness, your search ends here.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260308"
-        },
-        {
-          "date": "2026-03-07",
-          "sections": [
-            {
-              "title": "For time:",
-              "lines": [
-                "21 hang power cleans, first weight",
-                "15/21-calorie row",
-                "15 hang power cleans, second weight",
-                "10/15-calorie row",
-                "9 hang power cleans, third weight",
-                "7/9-calorie row",
-                "Rest 5 minutes",
-                "21 box jumps",
-                "15/21-calorie row",
-                "15 box jumps",
-                "10/15-calorie row",
-                "9 box jumps",
-                "7/9-calorie row",
-                "â 95/105/120-lb barbell and a 20-inch box",
-                "â 135/155/175-lb barbell and a 24-inch box"
+                "Saturday",
+                "260307",
+                "Log Your 26.2 Score â"
               ]
             }
           ],
@@ -751,48 +736,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Open Workout 26.2"
-              ]
-            },
-            {
-              "title": "For time:",
-              "lines": [
-                "80-foot dumbbell overhead walking lunge",
-                "20 alternating dumbbell snatches",
-                "20 pull-ups",
-                "80-foot dumbbell overhead walking lunge",
-                "20 alternating dumbbell snatches",
-                "20 chest-to-bar pull-ups",
-                "80-foot dumbbell overhead walking lunge",
-                "20 alternating dumbbell snatches",
-                "20 muscle-ups",
-                "â 35-lb dumbbell",
-                "â 50-lb dumbbell"
-              ]
-            },
-            {
-              "title": "Time cap: 15 minutes",
-              "lines": [
-                "Visit the"
+                "Friday",
+                "260306",
+                "Open 26.2 LIVE Announcement Replay â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260306"
-        },
-        {
-          "date": "2026-03-05",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "You Bombed 26.1. Good. Here's Why.",
-                "You crashed and burned on the first Open workout. Now what? Before you pack up your grips and walk away, consider this: that disaster might be exactly what you needed. Here's how to reframe your worst performance into the fuel that powers your best one.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260305"
         },
         {
           "date": "2026-03-04",
@@ -800,13 +750,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Back squat 8-8-8-8-8 reps",
-                "Compare to similar",
-                "250211",
-                "and",
-                "251020",
-                ".",
-                "Post loads to the comments."
+                "Wednesday",
+                "260304",
+                "Check the Leaderboard â"
               ]
             }
           ],
@@ -816,21 +762,10 @@
           "date": "2026-03-03",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "5,000-meter air bike",
-                "30 kettlebell hang cleans",
-                "200-meter kettlebell farmers carry",
-                "3,000-meter air bike",
-                "20 kettlebell hang cleans",
-                "100-meter kettlebell farmers carry",
-                "1,000-meter air bike",
-                "10 kettlebell hang cleans",
-                "50-meter kettlebell farmers carry",
-                "500-meter air bike",
-                "â 35-lb kettlebells",
-                "â 53-lb kettlebells",
-                "Post time to the comments."
+                "Tuesday",
+                "260303"
               ]
             }
           ],
@@ -869,29 +804,54 @@
           "date": "2026-02-28",
           "sections": [
             {
-              "title": "Workout",
+              "title": "Every 4 minutes for 5 rounds, complete:",
               "lines": [
-                "Saturday",
-                "260228",
-                "Watch the Open Workout 26.1 Live Announcement Replay â"
+                "400-meter run",
+                "2 legless rope climbs to 15 feet",
+                "Rest in the remaining time.",
+                "Post times to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260228"
         },
         {
-          "date": "2026-02-25",
+          "date": "2026-02-27",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260225",
-                "Learn the Movement â"
+                "Open Workout 26.1"
+              ]
+            },
+            {
+              "title": "For time:",
+              "lines": [
+                "20 wall-ball shots",
+                "18 box jump-overs",
+                "30 wall-ball shots",
+                "18 box jump-overs",
+                "40 wall-ball shots",
+                "18 medicine-ball box step-overs",
+                "66 wall-ball shots",
+                "18 medicine-ball box step-overs",
+                "40 wall-ball shots",
+                "18 box jump-overs",
+                "30 wall-ball shots",
+                "18 box jump-overs",
+                "20 wall-ball shots",
+                "â 14-lb medicine ball to a 9-foot target and a 20-inch box",
+                "â 20-lb medicine ball to a 10-foot target and a 24-inch box"
+              ]
+            },
+            {
+              "title": "Time cap: 12 minutes",
+              "lines": [
+                "Visit the"
               ]
             }
           ],
-          "url": "https://www.crossfit.com/260225"
+          "url": "https://www.crossfit.com/260227"
         }
       ]
     }
