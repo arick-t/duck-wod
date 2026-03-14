@@ -1,11 +1,49 @@
 {
-  "last_updated": "2026-03-13T05:08:53.742961",
+  "last_updated": "2026-03-14T05:06:23.034906",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-03-14",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "samson stretch",
+                "thoracic rotation",
+                "lat stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "amrap 5min",
+                "10 scap. push ups",
+                "10 double db deadlifts",
+                "*partner is biking"
+              ]
+            },
+            {
+              "title": "conditioning 29min",
+              "lines": [
+                "in teams of 2",
+                "6 x 4:00 amrap:",
+                "24 db push ups 2x15/10kg",
+                "28 db sit ups 1x15/10kg",
+                "cal bike in remaining time",
+                "rest 1:00 between amraps",
+                "score: total cal",
+                "aerobic power [vo2 max]",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-03-14/"
+        },
         {
           "date": "2026-03-13",
           "sections": [
@@ -610,43 +648,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-03-01/"
-        },
-        {
-          "date": "2026-02-28",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "samson stretch",
-                "thoracic rotation",
-                "lat stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "amrap 5min",
-                "10 prone snow angels",
-                "10 air squats",
-                "10 push press",
-                "*partner is biking"
-              ]
-            },
-            {
-              "title": "conditioning 32min",
-              "lines": [
-                "in teams of 2",
-                "for time",
-                "12 rounds",
-                "20/18/16 cal bike",
-                "10 thrusters 40/30kg",
-                "6 wall walks",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-02-28/"
         }
       ]
     },
@@ -655,6 +656,23 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-03-14",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Complete as many rounds and reps as possible in 8 minutes of:",
+                "8 box jumps",
+                "1 rope climb to 15 feet",
+                "â 20-inch box",
+                "â 24-inch box",
+                "Post rounds and reps to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260314"
+        },
         {
           "date": "2026-03-13",
           "sections": [
@@ -740,17 +758,11 @@
           "date": "2026-03-10",
           "sections": [
             {
-              "title": "4 rounds for reps of:",
+              "title": "Workout",
               "lines": [
-                "40 seconds of dumbbell push presses",
-                "20 seconds of rest",
-                "40 seconds of dumbbell deadlifts",
-                "20 seconds of rest",
-                "40 seconds of double-unders",
-                "20 seconds of rest",
-                "â 35-lb dumbbells",
-                "â 50-lb dumbbells",
-                "Post total reps to the comments."
+                "Tuesday",
+                "260310",
+                "Check the Open Leaderboard â"
               ]
             }
           ],
@@ -762,9 +774,11 @@
             {
               "title": "Workout",
               "lines": [
-                "Monday",
-                "260309",
-                "Watch the 26.2 Live Announcement Replay â"
+                "Every minute on the minute for 20 minutes, complete:",
+                "Minutes 0-5 - 1 snatch high pull",
+                "Minutes 6-10 - 1 hang squat snatch",
+                "Minutes 11-20 - 1 squat snatch",
+                "Post loads to comments."
               ]
             }
           ],
@@ -820,10 +834,21 @@
           "date": "2026-03-03",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Tuesday",
-                "260303"
+                "5,000-meter air bike",
+                "30 kettlebell hang cleans",
+                "200-meter kettlebell farmers carry",
+                "3,000-meter air bike",
+                "20 kettlebell hang cleans",
+                "100-meter kettlebell farmers carry",
+                "1,000-meter air bike",
+                "10 kettlebell hang cleans",
+                "50-meter kettlebell farmers carry",
+                "500-meter air bike",
+                "â 35-lb kettlebells",
+                "â 53-lb kettlebells",
+                "Post time to the comments."
               ]
             }
           ],
@@ -835,27 +860,28 @@
             {
               "title": "Workout",
               "lines": [
-                "Monday",
-                "260302",
-                "Register for the 2026 CrossFit Open, presented by Air National Guard â"
+                "Quarter Gone Bad"
+              ]
+            },
+            {
+              "title": "5 rounds for max reps of:",
+              "lines": [
+                "15 seconds of thrusters",
+                "45-second rest",
+                "15 seconds of weighted pull-ups",
+                "45-second rest",
+                "15 seconds of burpees",
+                "45-second rest",
+                "â 95-lb barbell and a 35-lb dumbbell",
+                "â 135-lb barbell and a 50-lb dumbbell",
+                "Compare to",
+                "080413",
+                ".",
+                "Post reps to the comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260302"
-        },
-        {
-          "date": "2026-02-28",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Saturday",
-                "260228",
-                "Watch the Open Workout 26.1 Live Announcement Replay â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260228"
         }
       ]
     }
