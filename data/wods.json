@@ -1,11 +1,57 @@
 {
-  "last_updated": "2026-03-14T05:06:23.034906",
+  "last_updated": "2026-03-15T05:24:54.808957",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-03-15",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "lat stretch",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "30sec on / 15sec off x2 rounds",
+                "1. scap. push ups",
+                "2. row",
+                "3. kb deadlifts",
+                "4. box step ups"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "emom 35min (7 rounds)",
+                "1. 15-20 wall balls",
+                "2. 10-15cal row",
+                "3. 15-20 kb swings",
+                "4. 15-20 box jumps",
+                "5. rest",
+                "Sunday Endurance for Open Gym",
+                "bike,ski or row",
+                "2:00 work, 1:00 rest",
+                "4:00 work, 1:00 rest",
+                "6:00 work, 1:00 rest",
+                "4:00 work, 1:00 rest",
+                "2:00 work",
+                "rpe: 6-7",
+                "aerobic power [lactate threshold]",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-03-15/"
+        },
         {
           "date": "2026-03-14",
           "sections": [
@@ -602,52 +648,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-03-02/"
-        },
-        {
-          "date": "2026-03-01",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "instep rotation",
-                "lat stretch",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "30sec on / 15sec off x2 rounds",
-                "1. ring rows",
-                "2. bike/ski",
-                "3. straight leg sit ups",
-                "4. squat jumps"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "emom 35min (7 rounds)",
-                "1. 20-30 russian twists",
-                "2. 10-15cal bike/ski",
-                "3. 6-10 strict pull ups",
-                "4. 12-16 double db box step ups (50cm)",
-                "5. rest",
-                "Sunday Endurance for Open Gym",
-                "“threshold pyramids” protocol",
-                "choose: run, bike, row, or ski",
-                "main set",
-                "1-2-3-4-3-2-1 min work",
-                "[rpe 7-8]",
-                "1-2-3-4-3-2-1 min easy",
-                "[rpe 1-2]",
-                "aerobic power [lactate threshold]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-03-01/"
         }
       ]
     },
@@ -656,6 +656,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-03-15",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Safety and Intensity Are NOT At Odds in CrossFit",
+                "\"CrossFit is too dangerous!\" Sound familiar? The truth is, safety and intensity aren't enemies â they're teammates. Discover how the foundation of solid mechanics doesn't just reduce injury risk, it's the key to unlocking your highest performance and sustained gains over time.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260315"
+        },
         {
           "date": "2026-03-14",
           "sections": [
@@ -758,11 +773,17 @@
           "date": "2026-03-10",
           "sections": [
             {
-              "title": "Workout",
+              "title": "4 rounds for reps of:",
               "lines": [
-                "Tuesday",
-                "260310",
-                "Check the Open Leaderboard â"
+                "40 seconds of dumbbell push presses",
+                "20 seconds of rest",
+                "40 seconds of dumbbell deadlifts",
+                "20 seconds of rest",
+                "40 seconds of double-unders",
+                "20 seconds of rest",
+                "â 35-lb dumbbells",
+                "â 50-lb dumbbells",
+                "Post total reps to the comments."
               ]
             }
           ],
@@ -818,13 +839,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Back squat 8-8-8-8-8 reps",
-                "Compare to similar",
-                "250211",
-                "and",
-                "251020",
-                ".",
-                "Post loads to the comments."
+                "Wednesday",
+                "260304",
+                "Check the Leaderboard â"
               ]
             }
           ],
@@ -834,21 +851,10 @@
           "date": "2026-03-03",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "5,000-meter air bike",
-                "30 kettlebell hang cleans",
-                "200-meter kettlebell farmers carry",
-                "3,000-meter air bike",
-                "20 kettlebell hang cleans",
-                "100-meter kettlebell farmers carry",
-                "1,000-meter air bike",
-                "10 kettlebell hang cleans",
-                "50-meter kettlebell farmers carry",
-                "500-meter air bike",
-                "â 35-lb kettlebells",
-                "â 53-lb kettlebells",
-                "Post time to the comments."
+                "Tuesday",
+                "260303"
               ]
             }
           ],
@@ -860,24 +866,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Quarter Gone Bad"
-              ]
-            },
-            {
-              "title": "5 rounds for max reps of:",
-              "lines": [
-                "15 seconds of thrusters",
-                "45-second rest",
-                "15 seconds of weighted pull-ups",
-                "45-second rest",
-                "15 seconds of burpees",
-                "45-second rest",
-                "â 95-lb barbell and a 35-lb dumbbell",
-                "â 135-lb barbell and a 50-lb dumbbell",
-                "Compare to",
-                "080413",
-                ".",
-                "Post reps to the comments."
+                "Monday",
+                "260302",
+                "Register for the 2026 CrossFit Open, presented by Air National Guard â"
               ]
             }
           ],
