@@ -1,11 +1,67 @@
 {
-  "last_updated": "2026-03-15T05:24:54.808957",
+  "last_updated": "2026-03-16T05:45:23.158649",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-03-16",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "CF OPEN 26.3"
+              ]
+            },
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "lat stretch",
+                "thoracic rotation",
+                "sumo squat stretch",
+                "samson stretch"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 deadlifts",
+                "10 front squats",
+                "10 push ups to down dog"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "(heat 1 // 3min break // heat 2)",
+                "for time",
+                "2 rounds of:",
+                "12 burpees over the bar",
+                "12 cleans (43/29kg)",
+                "12 burpees over the bar",
+                "12 thrusters",
+                "2 rounds of:",
+                "12 burpees over the bar",
+                "12 cleans (52/34kg)",
+                "12 burpees over the bar",
+                "12 thrusters",
+                "2 rounds of:",
+                "12 burpees over the bar",
+                "12 cleans (61/38kg)",
+                "12 burpees over the bar",
+                "12 thrusters",
+                "time cap 16:00",
+                "power clean",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-03-16/"
+        },
         {
           "date": "2026-03-15",
           "sections": [
@@ -595,59 +651,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-03-03/"
-        },
-        {
-          "date": "2026-03-02",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "OPEN WORKOUT 26.1"
-              ]
-            },
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "lat stretch on box",
-                "calf stretch",
-                "thoracic rotation",
-                "sumo squat stretch"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "40sec on / 20sec off x6",
-                "1. prone snow angels",
-                "2. air squats",
-                "3. mountain climbers"
-              ]
-            },
-            {
-              "title": "conditioning 29min",
-              "lines": [
-                "(heat 1 // 5min break // heat 2)",
-                "for time",
-                "20 wall ball 20/14lbs",
-                "18 box jump overs 60/50cm",
-                "30 wall ball",
-                "18 box jump overs",
-                "40 wall ball",
-                "18 medball box step overs",
-                "66 wall ball",
-                "18 medball box step overs",
-                "40 wall ball",
-                "18 box jump overs",
-                "30 wall ball",
-                "18 box jump overs",
-                "20 wall ball",
-                "time cap 12min",
-                "squat + wall ball",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-03-02/"
         }
       ]
     },
@@ -656,6 +659,28 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-03-16",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Topsy",
+                "Complete as many rounds and reps as possible in 25 minutes of:",
+                "3 muscle-ups",
+                "8 thrusters",
+                "17-calorie row",
+                "â 75-lb barbell",
+                "â 115-lb barbell",
+                "Compare to",
+                "250627",
+                ".",
+                "Post rounds and reps to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260316"
+        },
         {
           "date": "2026-03-15",
           "sections": [
@@ -694,61 +719,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Open Workout 26.3"
-              ]
-            },
-            {
-              "title": "2 rounds of:",
-              "lines": [
-                "12 burpees over the bar",
-                "12 cleans, weight 1",
-                "12 burpees over the bar",
-                "12 thrusters"
-              ]
-            },
-            {
-              "title": "2 rounds of:",
-              "lines": [
-                "12 burpees over the bar",
-                "12 cleans, weight 2",
-                "12 burpees over the bar",
-                "12 thrusters"
-              ]
-            },
-            {
-              "title": "2 rounds of:",
-              "lines": [
-                "12 burpees over the bar",
-                "12 cleans, weight 3",
-                "12 burpees over the bar",
-                "12 thrusters",
-                "â 65/75/85 lb",
-                "â 95/115/135 lb"
-              ]
-            },
-            {
-              "title": "Time cap: 16 minutes",
-              "lines": [
-                "Visit the"
+                "Friday",
+                "260313",
+                "Watch the 26.3 Live Announcement Replay â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260313"
-        },
-        {
-          "date": "2026-03-12",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "The CrossFit Open Ends this Week ...Then What?",
-                "The CrossFit Open isn't just a competition â it's a road map. The results you just posted are packed with clues about exactly where to focus your training for the biggest gains in the year ahead. Here's how to turn your Open experience into a plan that actually moves the needle.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260312"
         },
         {
           "date": "2026-03-11",
@@ -795,15 +772,28 @@
             {
               "title": "Workout",
               "lines": [
-                "Every minute on the minute for 20 minutes, complete:",
-                "Minutes 0-5 - 1 snatch high pull",
-                "Minutes 6-10 - 1 hang squat snatch",
-                "Minutes 11-20 - 1 squat snatch",
-                "Post loads to comments."
+                "Monday",
+                "260309",
+                "Watch the 26.2 Live Announcement Replay â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260309"
+        },
+        {
+          "date": "2026-03-08",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "CrossFit Defined Fitness Over 20 Years Ago. Why Is Everyone Still Guessing?",
+                "When fitness experts Andy Galpin and Rich Roll recently spent valuable podcast time trying to define fitness, they came remarkably close to CrossFit's definition â the one we created over 20 years ago when we discovered no suitable definition existed. This article breaks down CrossFit's definition of fitness, the four models that support it, and why it remains the most robust, measurable framework for understanding human performance. If you're still searching for a functional definition of fitness, your search ends here.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260308"
         },
         {
           "date": "2026-03-07",
@@ -825,9 +815,29 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260306",
-                "Open 26.2 LIVE Announcement Replay â"
+                "Open Workout 26.2"
+              ]
+            },
+            {
+              "title": "For time:",
+              "lines": [
+                "80-foot dumbbell overhead walking lunge",
+                "20 alternating dumbbell snatches",
+                "20 pull-ups",
+                "80-foot dumbbell overhead walking lunge",
+                "20 alternating dumbbell snatches",
+                "20 chest-to-bar pull-ups",
+                "80-foot dumbbell overhead walking lunge",
+                "20 alternating dumbbell snatches",
+                "20 muscle-ups",
+                "â 35-lb dumbbell",
+                "â 50-lb dumbbell"
+              ]
+            },
+            {
+              "title": "Time cap: 15 minutes",
+              "lines": [
+                "Visit the"
               ]
             }
           ],
@@ -859,20 +869,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260303"
-        },
-        {
-          "date": "2026-03-02",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Monday",
-                "260302",
-                "Register for the 2026 CrossFit Open, presented by Air National Guard â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260302"
         }
       ]
     }
