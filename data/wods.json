@@ -1,11 +1,43 @@
 {
-  "last_updated": "2026-03-16T05:45:23.158649",
+  "last_updated": "2026-03-17T05:17:20.442615",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-03-17",
+          "sections": [
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "line drills"
+              ]
+            },
+            {
+              "title": "bench press 15min",
+              "lines": [
+                "3 sets",
+                "5 bench press at 80%",
+                "1 drop set",
+                "max reps at 50%"
+              ]
+            },
+            {
+              "title": "conditioning 15min",
+              "lines": [
+                "for time",
+                "15-12-9-6-3 ring dips",
+                "50-40-30-20-10 double unders",
+                "*200m run after each round",
+                "aerobic power [vo2 max]",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-03-17/"
+        },
         {
           "date": "2026-03-16",
           "sections": [
@@ -602,55 +634,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-03-04/"
-        },
-        {
-          "date": "2026-03-03",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "lat stretch",
-                "hand walk",
-                "lying hip cross over",
-                "instep rotation"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 hang high pulls",
-                "10 elbow rotation",
-                "10 good mornings",
-                "*remaining time row"
-              ]
-            },
-            {
-              "title": "deadlift 15min",
-              "lines": [
-                "build to a heavy 10-rep max",
-                "rest 3-5 minutes between attempts"
-              ]
-            },
-            {
-              "title": "skill 5min",
-              "lines": [
-                "power clean"
-              ]
-            },
-            {
-              "title": "conditioning 10min",
-              "lines": [
-                "for time",
-                "6 rounds",
-                "6 power cleans 70/50kg",
-                "15/12cal row",
-                "aerobic power [vo2 max]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-03-03/"
         }
       ]
     },
@@ -659,6 +642,32 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-03-17",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Annie"
+              ]
+            },
+            {
+              "title": "50-40-30-20-10 reps for time of:",
+              "lines": [
+                "Double-unders",
+                "AbMat sit-ups",
+                "Then, complete the following post-workout skill work.",
+                "Every minute on the minute for 6 minutes:",
+                "25-foot handstand walk",
+                "Compare to",
+                "230104",
+                ".",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260317"
+        },
         {
           "date": "2026-03-16",
           "sections": [
@@ -702,12 +711,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Complete as many rounds and reps as possible in 8 minutes of:",
-                "8 box jumps",
-                "1 rope climb to 15 feet",
-                "â 20-inch box",
-                "â 24-inch box",
-                "Post rounds and reps to comments."
+                "Saturday",
+                "260314",
+                "Check Out the Open Leaderboard â"
               ]
             }
           ],
@@ -719,9 +725,42 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260313",
-                "Watch the 26.3 Live Announcement Replay â"
+                "Open Workout 26.3"
+              ]
+            },
+            {
+              "title": "2 rounds of:",
+              "lines": [
+                "12 burpees over the bar",
+                "12 cleans, weight 1",
+                "12 burpees over the bar",
+                "12 thrusters"
+              ]
+            },
+            {
+              "title": "2 rounds of:",
+              "lines": [
+                "12 burpees over the bar",
+                "12 cleans, weight 2",
+                "12 burpees over the bar",
+                "12 thrusters"
+              ]
+            },
+            {
+              "title": "2 rounds of:",
+              "lines": [
+                "12 burpees over the bar",
+                "12 cleans, weight 3",
+                "12 burpees over the bar",
+                "12 thrusters",
+                "â 65/75/85 lb",
+                "â 95/115/135 lb"
+              ]
+            },
+            {
+              "title": "Time cap: 16 minutes",
+              "lines": [
+                "Visit the"
               ]
             }
           ],
@@ -731,16 +770,11 @@
           "date": "2026-03-11",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "400-meter run",
-                "30 toes-to-bars",
-                "400-meter run",
-                "10 wall walks",
-                "400-meter run",
-                "30 toes-to-bars",
-                "400-meter run",
-                "Post time to the comments."
+                "Wednesday",
+                "260311",
+                "Drill the Movement â"
               ]
             }
           ],
@@ -772,28 +806,15 @@
             {
               "title": "Workout",
               "lines": [
-                "Monday",
-                "260309",
-                "Watch the 26.2 Live Announcement Replay â"
+                "Every minute on the minute for 20 minutes, complete:",
+                "Minutes 0-5 - 1 snatch high pull",
+                "Minutes 6-10 - 1 hang squat snatch",
+                "Minutes 11-20 - 1 squat snatch",
+                "Post loads to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260309"
-        },
-        {
-          "date": "2026-03-08",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "CrossFit Defined Fitness Over 20 Years Ago. Why Is Everyone Still Guessing?",
-                "When fitness experts Andy Galpin and Rich Roll recently spent valuable podcast time trying to define fitness, they came remarkably close to CrossFit's definition â the one we created over 20 years ago when we discovered no suitable definition existed. This article breaks down CrossFit's definition of fitness, the four models that support it, and why it remains the most robust, measurable framework for understanding human performance. If you're still searching for a functional definition of fitness, your search ends here.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260308"
         },
         {
           "date": "2026-03-07",
@@ -815,29 +836,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Open Workout 26.2"
-              ]
-            },
-            {
-              "title": "For time:",
-              "lines": [
-                "80-foot dumbbell overhead walking lunge",
-                "20 alternating dumbbell snatches",
-                "20 pull-ups",
-                "80-foot dumbbell overhead walking lunge",
-                "20 alternating dumbbell snatches",
-                "20 chest-to-bar pull-ups",
-                "80-foot dumbbell overhead walking lunge",
-                "20 alternating dumbbell snatches",
-                "20 muscle-ups",
-                "â 35-lb dumbbell",
-                "â 50-lb dumbbell"
-              ]
-            },
-            {
-              "title": "Time cap: 15 minutes",
-              "lines": [
-                "Visit the"
+                "Friday",
+                "260306",
+                "Open 26.2 LIVE Announcement Replay â"
               ]
             }
           ],
@@ -856,19 +857,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260304"
-        },
-        {
-          "date": "2026-03-03",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Tuesday",
-                "260303"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260303"
         }
       ]
     }
