@@ -1,11 +1,57 @@
 {
-  "last_updated": "2026-03-17T05:17:20.442615",
+  "last_updated": "2026-03-18T05:22:08.990436",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-03-18",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "samson stretch",
+                "hand walk",
+                "instep rotations",
+                "lying hip cross over"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 hang high pulls",
+                "10 behind the neck push press",
+                "10/8cal row"
+              ]
+            },
+            {
+              "title": "skill 5min",
+              "lines": [
+                "hang power snatches"
+              ]
+            },
+            {
+              "title": "conditioning 28min",
+              "lines": [
+                "5 x 4:00 amrap:",
+                "20 sit ups",
+                "30/24 cal row",
+                "10 hang power snatches 50/35kg",
+                "rest 2:00 between amraps",
+                "pick up where you left off",
+                "score: total rounds + reps",
+                "aerobic power [vo2 max]",
+                "hang power snatch",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-03-18/"
+        },
         {
           "date": "2026-03-17",
           "sections": [
@@ -579,61 +625,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-03-05/"
-        },
-        {
-          "date": "2026-03-04",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "lat stretch",
-                "thoracic rotation",
-                "scorpions",
-                "seated pike stretch"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 straight leg sit ups",
-                "10 push ups",
-                "10 ring rows"
-              ]
-            },
-            {
-              "title": "bench press 15min",
-              "lines": [
-                "build to a heavy 10-rep max",
-                "rest 3-5 minutes between attempts"
-              ]
-            },
-            {
-              "title": "conditioning 15min",
-              "lines": [
-                "for time",
-                "buy-in: 10 wall walks",
-                "3 rounds:",
-                "9 push press",
-                "9 pull-ups",
-                "35 v-ups",
-                "3 rounds:",
-                "7 push press",
-                "7 pull-ups",
-                "35 v-ups",
-                "3 rounds:",
-                "5 push press",
-                "5 pull-ups",
-                "barbell: 40/30kg",
-                "*rx+ option: chest to bar pull ups",
-                "muscular endurance",
-                "pull up",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-03-04/"
         }
       ]
     },
@@ -642,6 +633,23 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-03-18",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Complete as many rounds and reps as possible in 8 minutes of:",
+                "10 overhead squats",
+                "5 chest-to-bar pull-ups",
+                "â 65-lb barbell",
+                "â 95-lb barbell",
+                "Post rounds and reps to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260318"
+        },
         {
           "date": "2026-03-17",
           "sections": [
@@ -691,29 +699,17 @@
           "url": "https://www.crossfit.com/260316"
         },
         {
-          "date": "2026-03-15",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Safety and Intensity Are NOT At Odds in CrossFit",
-                "\"CrossFit is too dangerous!\" Sound familiar? The truth is, safety and intensity aren't enemies â they're teammates. Discover how the foundation of solid mechanics doesn't just reduce injury risk, it's the key to unlocking your highest performance and sustained gains over time.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260315"
-        },
-        {
           "date": "2026-03-14",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260314",
-                "Check Out the Open Leaderboard â"
+                "Complete as many rounds and reps as possible in 8 minutes of:",
+                "8 box jumps",
+                "1 rope climb to 15 feet",
+                "â 20-inch box",
+                "â 24-inch box",
+                "Post rounds and reps to comments."
               ]
             }
           ],
@@ -725,42 +721,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Open Workout 26.3"
-              ]
-            },
-            {
-              "title": "2 rounds of:",
-              "lines": [
-                "12 burpees over the bar",
-                "12 cleans, weight 1",
-                "12 burpees over the bar",
-                "12 thrusters"
-              ]
-            },
-            {
-              "title": "2 rounds of:",
-              "lines": [
-                "12 burpees over the bar",
-                "12 cleans, weight 2",
-                "12 burpees over the bar",
-                "12 thrusters"
-              ]
-            },
-            {
-              "title": "2 rounds of:",
-              "lines": [
-                "12 burpees over the bar",
-                "12 cleans, weight 3",
-                "12 burpees over the bar",
-                "12 thrusters",
-                "â 65/75/85 lb",
-                "â 95/115/135 lb"
-              ]
-            },
-            {
-              "title": "Time cap: 16 minutes",
-              "lines": [
-                "Visit the"
+                "Friday",
+                "260313",
+                "Watch the 26.3 Live Announcement Replay â"
               ]
             }
           ],
@@ -784,17 +747,11 @@
           "date": "2026-03-10",
           "sections": [
             {
-              "title": "4 rounds for reps of:",
+              "title": "Workout",
               "lines": [
-                "40 seconds of dumbbell push presses",
-                "20 seconds of rest",
-                "40 seconds of dumbbell deadlifts",
-                "20 seconds of rest",
-                "40 seconds of double-unders",
-                "20 seconds of rest",
-                "â 35-lb dumbbells",
-                "â 50-lb dumbbells",
-                "Post total reps to the comments."
+                "Tuesday",
+                "260310",
+                "Check the Open Leaderboard â"
               ]
             }
           ],
@@ -806,11 +763,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Every minute on the minute for 20 minutes, complete:",
-                "Minutes 0-5 - 1 snatch high pull",
-                "Minutes 6-10 - 1 hang squat snatch",
-                "Minutes 11-20 - 1 squat snatch",
-                "Post loads to comments."
+                "Monday",
+                "260309",
+                "Watch the 26.2 Live Announcement Replay â"
               ]
             }
           ],
@@ -843,20 +798,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260306"
-        },
-        {
-          "date": "2026-03-04",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Wednesday",
-                "260304",
-                "Check the Leaderboard â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260304"
         }
       ]
     }
