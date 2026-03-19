@@ -1,11 +1,57 @@
 {
-  "last_updated": "2026-03-18T05:22:08.990436",
+  "last_updated": "2026-03-19T05:18:52.478338",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-03-19",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "hamstring stretch on box",
+                "calf stretch",
+                "instep rotations",
+                "lying hip cross over"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 good mornings",
+                "10 jumping lunges",
+                "10 ring rows"
+              ]
+            },
+            {
+              "title": "deadlifts 14min",
+              "lines": [
+                "3 sets",
+                "5 deadlifts at 80%",
+                "1 drop set",
+                "max reps at 50%"
+              ]
+            },
+            {
+              "title": "conditioning 16min",
+              "lines": [
+                "16:00 amrap",
+                "4 strict pull-ups",
+                "8 sumo deadlifts 100/70kg",
+                "4 strict pull-ups",
+                "16 box jumps",
+                "muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-03-19/"
+        },
         {
           "date": "2026-03-18",
           "sections": [
@@ -579,52 +625,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-03-06/"
-        },
-        {
-          "date": "2026-03-05",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "calf stretch",
-                "samson stretch",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 prone snow angels",
-                "10 db deadlifts",
-                "20 single under",
-                "*remaining time bike/ski"
-              ]
-            },
-            {
-              "title": "conditioning 26min",
-              "lines": [
-                "4 x 5:00 amrap:",
-                "25/20 cal ski/bike",
-                "24 db hang snatches 22,5/15kg",
-                "50 double under",
-                "rest 2:00 between amraps",
-                "*pick up where you left off",
-                "score: total rounds + reps",
-                "aerobic power [lactate threshold]"
-              ]
-            },
-            {
-              "title": "triceps 4min",
-              "lines": [
-                "30sec on/ 1min off x 3 sets",
-                "db overhead triceps extension",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-03-05/"
         }
       ]
     },
@@ -634,17 +634,29 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
+          "date": "2026-03-19",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Your First Month of CrossFit: Why Going Slow Gets You There Faster",
+                "The athletes who rush to heavy weights and high intensity in their first weeks of CrossFit inevitably plateau, while their peers who focus on mechanics continue progressing for years. Your first 30 days aren't about proving yourself; they're about building the foundation that determines how far you'll ultimately go. Here's why mastering the basics is the smartest investment you can make in your fitness.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260319"
+        },
+        {
           "date": "2026-03-18",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Complete as many rounds and reps as possible in 8 minutes of:",
-                "10 overhead squats",
-                "5 chest-to-bar pull-ups",
-                "â 65-lb barbell",
-                "â 95-lb barbell",
-                "Post rounds and reps to comments."
+                "Wednesday",
+                "260318",
+                "Check the Open Leaderboard â"
               ]
             }
           ],
