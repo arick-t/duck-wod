@@ -1,11 +1,59 @@
 {
-  "last_updated": "2026-03-19T05:18:52.478338",
+  "last_updated": "2026-03-20T05:11:38.632295",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-03-20",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "lat stretch",
+                "seated pike stretch",
+                "sumo squat stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 air squats",
+                "10 prone snow angels",
+                "10 straight leg sit ups",
+                "*remaining time bike/ski"
+              ]
+            },
+            {
+              "title": "back squat 15min",
+              "lines": [
+                "3 sets",
+                "5 back squat at 80%",
+                "1 drop set",
+                "max reps at 50%"
+              ]
+            },
+            {
+              "title": "conditioning 16min",
+              "lines": [
+                "5 x 2:00 amrap:",
+                "15 wallballs 20/15lbs",
+                "10/8 cal ski/bike",
+                "10 toes to bar",
+                "rest 2:00 between rounds",
+                "pick up where you left off",
+                "score: total rounds + reps",
+                "aerobic power [vo2 max]",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-03-20/"
+        },
         {
           "date": "2026-03-19",
           "sections": [
@@ -577,54 +625,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-03-07/"
-        },
-        {
-          "date": "2026-03-06",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "lat stretch",
-                "hand walk",
-                "instep rotation",
-                "sumo squat stretch"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "20sec hollow hold",
-                "10 reverse lunges",
-                "150/125m row"
-              ]
-            },
-            {
-              "title": "back squat 15min",
-              "lines": [
-                "build to a heavy 10-rep max",
-                "rest 3-5 minutes between attempts"
-              ]
-            },
-            {
-              "title": "conditioning 15min",
-              "lines": [
-                "for time",
-                "400/360m row",
-                "30 toes to bar",
-                "20 front squats",
-                "200/180m row",
-                "20 front squats",
-                "30 toes to bar",
-                "400/360m row",
-                "barbell: 70/50kg",
-                "aerobic power [lactate threshold]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-03-06/"
         }
       ]
     },
@@ -633,6 +633,22 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-03-20",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Hang power snatch 2-2-2-2-2-2-2-2-2-2 reps",
+                "Compare to similar",
+                "230122",
+                ".",
+                "Post loads to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260320"
+        },
         {
           "date": "2026-03-19",
           "sections": [
@@ -654,9 +670,12 @@
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260318",
-                "Check the Open Leaderboard â"
+                "Complete as many rounds and reps as possible in 8 minutes of:",
+                "10 overhead squats",
+                "5 chest-to-bar pull-ups",
+                "â 65-lb barbell",
+                "â 95-lb barbell",
+                "Post rounds and reps to comments."
               ]
             }
           ],
@@ -668,21 +687,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Annie"
-              ]
-            },
-            {
-              "title": "50-40-30-20-10 reps for time of:",
-              "lines": [
-                "Double-unders",
-                "AbMat sit-ups",
-                "Then, complete the following post-workout skill work.",
-                "Every minute on the minute for 6 minutes:",
-                "25-foot handstand walk",
-                "Compare to",
-                "230104",
-                ".",
-                "Post time to comments."
+                "Tuesday",
+                "260317",
+                "Watch the 26.3 Recap â"
               ]
             }
           ],
@@ -694,21 +701,28 @@
             {
               "title": "Workout",
               "lines": [
-                "Topsy",
-                "Complete as many rounds and reps as possible in 25 minutes of:",
-                "3 muscle-ups",
-                "8 thrusters",
-                "17-calorie row",
-                "â 75-lb barbell",
-                "â 115-lb barbell",
-                "Compare to",
-                "250627",
-                ".",
-                "Post rounds and reps to comments."
+                "Monday",
+                "260316",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260316"
+        },
+        {
+          "date": "2026-03-15",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Safety and Intensity Are NOT At Odds in CrossFit",
+                "\"CrossFit is too dangerous!\" Sound familiar? The truth is, safety and intensity aren't enemies â they're teammates. Discover how the foundation of solid mechanics doesn't just reduce injury risk, it's the key to unlocking your highest performance and sustained gains over time.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260315"
         },
         {
           "date": "2026-03-14",
@@ -716,12 +730,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Complete as many rounds and reps as possible in 8 minutes of:",
-                "8 box jumps",
-                "1 rope climb to 15 feet",
-                "â 20-inch box",
-                "â 24-inch box",
-                "Post rounds and reps to comments."
+                "Saturday",
+                "260314",
+                "Check Out the Open Leaderboard â"
               ]
             }
           ],
@@ -742,14 +753,34 @@
           "url": "https://www.crossfit.com/260313"
         },
         {
-          "date": "2026-03-11",
+          "date": "2026-03-12",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260311",
-                "Drill the Movement â"
+                "Rest Day",
+                "The CrossFit Open Ends this Week ...Then What?",
+                "The CrossFit Open isn't just a competition â it's a road map. The results you just posted are packed with clues about exactly where to focus your training for the biggest gains in the year ahead. Here's how to turn your Open experience into a plan that actually moves the needle.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260312"
+        },
+        {
+          "date": "2026-03-11",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "400-meter run",
+                "30 toes-to-bars",
+                "400-meter run",
+                "10 wall walks",
+                "400-meter run",
+                "30 toes-to-bars",
+                "400-meter run",
+                "Post time to the comments."
               ]
             }
           ],
@@ -796,20 +827,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260307"
-        },
-        {
-          "date": "2026-03-06",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Friday",
-                "260306",
-                "Open 26.2 LIVE Announcement Replay â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260306"
         }
       ]
     }
