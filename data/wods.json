@@ -1,11 +1,54 @@
 {
-  "last_updated": "2026-03-21T05:01:17.395292",
+  "last_updated": "2026-03-22T05:15:21.046074",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-03-22",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "lat stretch",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "30sec on / 15sec off x2 rounds",
+                "1. scap. push ups",
+                "2. bike/ski",
+                "3. barbell row",
+                "4. reverse lunges"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "emom 35min (7 rounds)",
+                "1. 20-40sec handstand hold",
+                "2. 10-15cal bike/ski",
+                "3. 6-8 strict chin ups",
+                "4. 14-18 double db box step ups (50cm)",
+                "5. rest",
+                "Sunday Endurance for Open Gym",
+                "on the 3:00 x 6 rounds:",
+                "15/12 cal row [rpe 7-8]",
+                "15/12 cal bike or ski [rpe 4-5]",
+                "score: slowest row time",
+                "aerobic power [lactate threshold]",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-03-22/"
+        },
         {
           "date": "2026-03-21",
           "sections": [
@@ -584,50 +627,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-03-09/"
-        },
-        {
-          "date": "2026-03-08",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Heute feiern wir alle Frauen, weil sie unsere Welt stärker machen.",
-                "Happy International Women's Day!"
-              ]
-            },
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "sumo squat stretch",
-                "thoracic rotation",
-                "lat stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "amrap 5min",
-                "20 shoulder taps (push up position)",
-                "10 ring rows",
-                "*partner is holding a deep squat"
-              ]
-            },
-            {
-              "title": "conditioning 32min",
-              "lines": [
-                "\"Team Barbara\"",
-                "in teams of 2",
-                "5 rounds for time",
-                "20 pull ups",
-                "30 push ups",
-                "40 sit ups",
-                "50 air squats",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-03-08/"
         }
       ]
     },
@@ -637,17 +636,29 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
+          "date": "2026-03-22",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "If You Think CrossFit Is Just âGo Hard or Go Home,â Youâre Not Doing CrossFit",
+                "CrossFit gets criticized for being a reckless program that destroys athletes through mindless intensity, but that reputation couldn't be further from the truth. Discover why knowing when to back off is actually our secret weapon, and how strategic intensity is what keeps CrossFit athletes training harder, longer, and injury-free while others burn out and get abysmal results.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260322"
+        },
+        {
           "date": "2026-03-21",
           "sections": [
             {
-              "title": "2 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "15 shuttle runs",
-                "35 toes-to-bars",
-                "15 shuttle runs",
-                "25 strict pull-ups",
-                "One shuttle run is 25 feet out and 25 feet back.",
-                "Post time to comments."
+                "Saturday",
+                "260321",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -673,9 +684,12 @@
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260318",
-                "Check the Open Leaderboard â"
+                "Complete as many rounds and reps as possible in 8 minutes of:",
+                "10 overhead squats",
+                "5 chest-to-bar pull-ups",
+                "â 65-lb barbell",
+                "â 95-lb barbell",
+                "Post rounds and reps to comments."
               ]
             }
           ],
@@ -687,9 +701,21 @@
             {
               "title": "Workout",
               "lines": [
-                "Tuesday",
-                "260317",
-                "Watch the 26.3 Recap â"
+                "Annie"
+              ]
+            },
+            {
+              "title": "50-40-30-20-10 reps for time of:",
+              "lines": [
+                "Double-unders",
+                "AbMat sit-ups",
+                "Then, complete the following post-workout skill work.",
+                "Every minute on the minute for 6 minutes:",
+                "25-foot handstand walk",
+                "Compare to",
+                "230104",
+                ".",
+                "Post time to comments."
               ]
             }
           ],
@@ -723,9 +749,12 @@
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260314",
-                "Check Out the Open Leaderboard â"
+                "Complete as many rounds and reps as possible in 8 minutes of:",
+                "8 box jumps",
+                "1 rope climb to 15 feet",
+                "â 20-inch box",
+                "â 24-inch box",
+                "Post rounds and reps to comments."
               ]
             }
           ],
@@ -737,42 +766,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Open Workout 26.3"
-              ]
-            },
-            {
-              "title": "2 rounds of:",
-              "lines": [
-                "12 burpees over the bar",
-                "12 cleans, weight 1",
-                "12 burpees over the bar",
-                "12 thrusters"
-              ]
-            },
-            {
-              "title": "2 rounds of:",
-              "lines": [
-                "12 burpees over the bar",
-                "12 cleans, weight 2",
-                "12 burpees over the bar",
-                "12 thrusters"
-              ]
-            },
-            {
-              "title": "2 rounds of:",
-              "lines": [
-                "12 burpees over the bar",
-                "12 cleans, weight 3",
-                "12 burpees over the bar",
-                "12 thrusters",
-                "â 65/75/85 lb",
-                "â 95/115/135 lb"
-              ]
-            },
-            {
-              "title": "Time cap: 16 minutes",
-              "lines": [
-                "Visit the"
+                "Friday",
+                "260313",
+                "Watch the 26.3 Live Announcement Replay â"
               ]
             }
           ],
@@ -782,11 +778,16 @@
           "date": "2026-03-11",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Wednesday",
-                "260311",
-                "Drill the Movement â"
+                "400-meter run",
+                "30 toes-to-bars",
+                "400-meter run",
+                "10 wall walks",
+                "400-meter run",
+                "30 toes-to-bars",
+                "400-meter run",
+                "Post time to the comments."
               ]
             }
           ],
@@ -812,9 +813,11 @@
             {
               "title": "Workout",
               "lines": [
-                "Monday",
-                "260309",
-                "Watch the 26.2 Live Announcement Replay â"
+                "Every minute on the minute for 20 minutes, complete:",
+                "Minutes 0-5 - 1 snatch high pull",
+                "Minutes 6-10 - 1 hang squat snatch",
+                "Minutes 11-20 - 1 squat snatch",
+                "Post loads to comments."
               ]
             }
           ],
