@@ -1,11 +1,60 @@
 {
-  "last_updated": "2026-03-22T05:15:21.046074",
+  "last_updated": "2026-03-23T05:26:41.801818",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-03-23",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "lat stretch",
+                "thoracic rotation",
+                "scorpions",
+                "hand walk"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 prone snow angels",
+                "10 plank push ups",
+                "10 straight leg sit ups"
+              ]
+            },
+            {
+              "title": "bench press 15min",
+              "lines": [
+                "3 sets",
+                "5 bench press at 83%",
+                "1 drop set:",
+                "max reps at 50%"
+              ]
+            },
+            {
+              "title": "conditioning 15min",
+              "lines": [
+                "for time",
+                "buy-in: 30 v-ups",
+                "5 rounds",
+                "8 push press 50/35kg*",
+                "10 toes to bar",
+                "buy-out: 30 v-ups",
+                "muscular endurance",
+                "*rx+ option: handstand push ups",
+                "toes to bar",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-03-23/"
+        },
         {
           "date": "2026-03-22",
           "sections": [
@@ -587,46 +636,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-03-10/"
-        },
-        {
-          "date": "2026-03-09",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "OPEN WORKOUT 26.2"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "40sec on / 20sec off x6",
-                "1. samson stretch",
-                "2. scap. pull ups",
-                "3. db deadlifts"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "(heat 1 // 5min break // heat 2)",
-                "for time",
-                "80-foot db overhead walking lunge 22,5/15kg",
-                "20 alternating db snatches",
-                "20 pull-ups",
-                "80-foot db overhead walking lunge",
-                "20 alternating db snatches",
-                "20 chest-to-bar pull-ups",
-                "80-foot db overhead walking lunge",
-                "20 alternating db snatches",
-                "20 muscle-ups",
-                "time cap 15min",
-                "pull up + kip swing",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-03-09/"
         }
       ]
     },
@@ -635,6 +644,25 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-03-23",
+          "sections": [
+            {
+              "title": "Every 5 minutes for 7 sets, for load:",
+              "lines": [
+                "3 push presses",
+                "2 push jerks",
+                "1 split jerk",
+                "Add weight each set.",
+                "Compare to similar",
+                "251124",
+                ".",
+                "Post loads to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260323"
+        },
         {
           "date": "2026-03-22",
           "sections": [
@@ -654,11 +682,14 @@
           "date": "2026-03-21",
           "sections": [
             {
-              "title": "Workout",
+              "title": "2 rounds for time of:",
               "lines": [
-                "Saturday",
-                "260321",
-                "Learn the Movement â"
+                "15 shuttle runs",
+                "35 toes-to-bars",
+                "15 shuttle runs",
+                "25 strict pull-ups",
+                "One shuttle run is 25 feet out and 25 feet back.",
+                "Post time to comments."
               ]
             }
           ],
@@ -670,13 +701,30 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260320",
-                "Learn the Movement â"
+                "Hang power snatch 2-2-2-2-2-2-2-2-2-2 reps",
+                "Compare to similar",
+                "230122",
+                ".",
+                "Post loads to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260320"
+        },
+        {
+          "date": "2026-03-19",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Your First Month of CrossFit: Why Going Slow Gets You There Faster",
+                "The athletes who rush to heavy weights and high intensity in their first weeks of CrossFit inevitably plateau, while their peers who focus on mechanics continue progressing for years. Your first 30 days aren't about proving yourself; they're about building the foundation that determines how far you'll ultimately go. Here's why mastering the basics is the smartest investment you can make in your fitness.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260319"
         },
         {
           "date": "2026-03-18",
@@ -727,17 +775,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Topsy",
-                "Complete as many rounds and reps as possible in 25 minutes of:",
-                "3 muscle-ups",
-                "8 thrusters",
-                "17-calorie row",
-                "â 75-lb barbell",
-                "â 115-lb barbell",
-                "Compare to",
-                "250627",
-                ".",
-                "Post rounds and reps to comments."
+                "Monday",
+                "260316",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -749,12 +789,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Complete as many rounds and reps as possible in 8 minutes of:",
-                "8 box jumps",
-                "1 rope climb to 15 feet",
-                "â 20-inch box",
-                "â 24-inch box",
-                "Post rounds and reps to comments."
+                "Saturday",
+                "260314",
+                "Check Out the Open Leaderboard â"
               ]
             }
           ],
@@ -766,9 +803,42 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260313",
-                "Watch the 26.3 Live Announcement Replay â"
+                "Open Workout 26.3"
+              ]
+            },
+            {
+              "title": "2 rounds of:",
+              "lines": [
+                "12 burpees over the bar",
+                "12 cleans, weight 1",
+                "12 burpees over the bar",
+                "12 thrusters"
+              ]
+            },
+            {
+              "title": "2 rounds of:",
+              "lines": [
+                "12 burpees over the bar",
+                "12 cleans, weight 2",
+                "12 burpees over the bar",
+                "12 thrusters"
+              ]
+            },
+            {
+              "title": "2 rounds of:",
+              "lines": [
+                "12 burpees over the bar",
+                "12 cleans, weight 3",
+                "12 burpees over the bar",
+                "12 thrusters",
+                "â 65/75/85 lb",
+                "â 95/115/135 lb"
+              ]
+            },
+            {
+              "title": "Time cap: 16 minutes",
+              "lines": [
+                "Visit the"
               ]
             }
           ],
@@ -806,22 +876,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260310"
-        },
-        {
-          "date": "2026-03-09",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Every minute on the minute for 20 minutes, complete:",
-                "Minutes 0-5 - 1 snatch high pull",
-                "Minutes 6-10 - 1 hang squat snatch",
-                "Minutes 11-20 - 1 squat snatch",
-                "Post loads to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260309"
         }
       ]
     }
