@@ -1,11 +1,44 @@
 {
-  "last_updated": "2026-03-24T05:19:22.091210",
+  "last_updated": "2026-03-25T05:19:15.789882",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-03-25",
+          "sections": [
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "line drills"
+              ]
+            },
+            {
+              "title": "deadlift 15min",
+              "lines": [
+                "3 sets",
+                "5 deadlifts at 83%",
+                "1 drop set",
+                "max reps at 50%"
+              ]
+            },
+            {
+              "title": "conditioning 17min",
+              "lines": [
+                "4 rounds for time",
+                "16 kb swings 32/24kg",
+                "24 jumping lunges",
+                "32 shuttle runs",
+                "aerobic power [lactate threshold]",
+                "hang power snatch",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-03-25/"
+        },
         {
           "date": "2026-03-24",
           "sections": [
@@ -603,42 +636,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-03-12/"
-        },
-        {
-          "date": "2026-03-11",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "lat stretch",
-                "seated pike stretch",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 prone snow angels",
-                "10 straight leg sit ups",
-                "*remaining time bike/ski"
-              ]
-            },
-            {
-              "title": "conditioning 30min",
-              "lines": [
-                "amrap 30min",
-                "25/20cal bike/ski",
-                "20 toes to bar",
-                "25/20cal ski/bike",
-                "100m farmers carry 2x32/24kg",
-                "deadlift",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-03-11/"
         }
       ]
     },
@@ -648,17 +645,32 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
+          "date": "2026-03-25",
+          "sections": [
+            {
+              "title": "5 rounds for time of:",
+              "lines": [
+                "2 rope climbs to 15 feet",
+                "15 GHD sit-ups",
+                "20 box jumps*",
+                "*Step down from the box.",
+                "â 20-inch box",
+                "â 24-inch box",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260325"
+        },
+        {
           "date": "2026-03-24",
           "sections": [
             {
-              "title": "4 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "Run 800 meters",
-                "Rest 3 minutes between rounds.",
-                "Compare to",
-                "241102",
-                ".",
-                "Post times to comments."
+                "Tuesday",
+                "260324",
+                "Practice the Movement â"
               ]
             }
           ],
@@ -702,11 +714,14 @@
           "date": "2026-03-21",
           "sections": [
             {
-              "title": "Workout",
+              "title": "2 rounds for time of:",
               "lines": [
-                "Saturday",
-                "260321",
-                "Learn the Movement â"
+                "15 shuttle runs",
+                "35 toes-to-bars",
+                "15 shuttle runs",
+                "25 strict pull-ups",
+                "One shuttle run is 25 feet out and 25 feet back.",
+                "Post time to comments."
               ]
             }
           ],
@@ -718,9 +733,11 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260320",
-                "Learn the Movement â"
+                "Hang power snatch 2-2-2-2-2-2-2-2-2-2 reps",
+                "Compare to similar",
+                "230122",
+                ".",
+                "Post loads to comments."
               ]
             }
           ],
@@ -760,17 +777,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Topsy",
-                "Complete as many rounds and reps as possible in 25 minutes of:",
-                "3 muscle-ups",
-                "8 thrusters",
-                "17-calorie row",
-                "â 75-lb barbell",
-                "â 115-lb barbell",
-                "Compare to",
-                "250627",
-                ".",
-                "Post rounds and reps to comments."
+                "Monday",
+                "260316",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -803,20 +812,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260313"
-        },
-        {
-          "date": "2026-03-11",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Wednesday",
-                "260311",
-                "Drill the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260311"
         }
       ]
     }
