@@ -1,11 +1,50 @@
 {
-  "last_updated": "2026-03-25T05:19:15.789882",
+  "last_updated": "2026-03-26T05:27:45.977693",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-03-26",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "lat stretch",
+                "scorpions",
+                "hand walk"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 scap. push ups",
+                "10 ring rows",
+                "30sec plank hold",
+                "*remaining time row"
+              ]
+            },
+            {
+              "title": "conditioning 30min",
+              "lines": [
+                "30:00 amrap",
+                "max cal row",
+                "every 3:00 [starting at 0:00]:",
+                "5 strict pull-ups",
+                "10 push-ups",
+                "15 sit-ups",
+                "score: total cal",
+                "aerobic power [lactate threshold]",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-03-26/"
+        },
         {
           "date": "2026-03-25",
           "sections": [
@@ -586,56 +625,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-03-13/"
-        },
-        {
-          "date": "2026-03-12",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "lat stretch",
-                "thoracic rotation",
-                "sumo squat stretch",
-                "instep rotation"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 reverse lunges",
-                "10 elbow rotation",
-                "10 burpees"
-              ]
-            },
-            {
-              "title": "back squats 15min",
-              "lines": [
-                "3 sets",
-                "5 back squats at 78%",
-                "1 drop set",
-                "max reps at 50%"
-              ]
-            },
-            {
-              "title": "conditioning 13min",
-              "lines": [
-                "7:00 amrap:",
-                "14 front squats",
-                "14 lateral burpees over barbell",
-                "rest 2:00 -",
-                "4:00 amrap:",
-                "8 front squats",
-                "8 lateral burpees over barbell",
-                "barbell: 60/40kg",
-                "score: sum total of rounds + reps",
-                "aerobic power [vo2 max]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-03-12/"
         }
       ]
     },
@@ -644,6 +633,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-03-26",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Why CrossFit's Range of Motion Standards Will Keep You Moving for Life",
+                "You may think CrossFit's range-of-motion requirements are about rep standards and competition. They're not. Full range of motion is about training your body to handle whatever life throws at you today, tomorrow, and 30 years from now.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260326"
+        },
         {
           "date": "2026-03-25",
           "sections": [
@@ -680,48 +684,25 @@
           "date": "2026-03-23",
           "sections": [
             {
-              "title": "Every 5 minutes for 7 sets, for load:",
+              "title": "Workout",
               "lines": [
-                "3 push presses",
-                "2 push jerks",
-                "1 split jerk",
-                "Add weight each set.",
-                "Compare to similar",
-                "251124",
-                ".",
-                "Post loads to comments."
+                "Monday",
+                "260323",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260323"
         },
         {
-          "date": "2026-03-22",
+          "date": "2026-03-21",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "If You Think CrossFit Is Just âGo Hard or Go Home,â Youâre Not Doing CrossFit",
-                "CrossFit gets criticized for being a reckless program that destroys athletes through mindless intensity, but that reputation couldn't be further from the truth. Discover why knowing when to back off is actually our secret weapon, and how strategic intensity is what keeps CrossFit athletes training harder, longer, and injury-free while others burn out and get abysmal results.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260322"
-        },
-        {
-          "date": "2026-03-21",
-          "sections": [
-            {
-              "title": "2 rounds for time of:",
-              "lines": [
-                "15 shuttle runs",
-                "35 toes-to-bars",
-                "15 shuttle runs",
-                "25 strict pull-ups",
-                "One shuttle run is 25 feet out and 25 feet back.",
-                "Post time to comments."
+                "Saturday",
+                "260321",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -733,11 +714,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Hang power snatch 2-2-2-2-2-2-2-2-2-2 reps",
-                "Compare to similar",
-                "230122",
-                ".",
-                "Post loads to comments."
+                "Friday",
+                "260320",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -786,14 +765,32 @@
           "url": "https://www.crossfit.com/260316"
         },
         {
+          "date": "2026-03-15",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Safety and Intensity Are NOT At Odds in CrossFit",
+                "\"CrossFit is too dangerous!\" Sound familiar? The truth is, safety and intensity aren't enemies â they're teammates. Discover how the foundation of solid mechanics doesn't just reduce injury risk, it's the key to unlocking your highest performance and sustained gains over time.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260315"
+        },
+        {
           "date": "2026-03-14",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260314",
-                "Check Out the Open Leaderboard â"
+                "Complete as many rounds and reps as possible in 8 minutes of:",
+                "8 box jumps",
+                "1 rope climb to 15 feet",
+                "â 20-inch box",
+                "â 24-inch box",
+                "Post rounds and reps to comments."
               ]
             }
           ],
@@ -805,9 +802,42 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260313",
-                "Watch the 26.3 Live Announcement Replay â"
+                "Open Workout 26.3"
+              ]
+            },
+            {
+              "title": "2 rounds of:",
+              "lines": [
+                "12 burpees over the bar",
+                "12 cleans, weight 1",
+                "12 burpees over the bar",
+                "12 thrusters"
+              ]
+            },
+            {
+              "title": "2 rounds of:",
+              "lines": [
+                "12 burpees over the bar",
+                "12 cleans, weight 2",
+                "12 burpees over the bar",
+                "12 thrusters"
+              ]
+            },
+            {
+              "title": "2 rounds of:",
+              "lines": [
+                "12 burpees over the bar",
+                "12 cleans, weight 3",
+                "12 burpees over the bar",
+                "12 thrusters",
+                "â 65/75/85 lb",
+                "â 95/115/135 lb"
+              ]
+            },
+            {
+              "title": "Time cap: 16 minutes",
+              "lines": [
+                "Visit the"
               ]
             }
           ],
