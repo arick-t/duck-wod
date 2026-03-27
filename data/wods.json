@@ -1,11 +1,56 @@
 {
-  "last_updated": "2026-03-26T05:27:45.977693",
+  "last_updated": "2026-03-27T05:29:01.164575",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-03-27",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "calf stretch",
+                "lat stretch",
+                "sumo squat stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 air squats",
+                "10 elbow rotations",
+                "20 single unders",
+                "*remaining time bike/ski"
+              ]
+            },
+            {
+              "title": "back squats 15min",
+              "lines": [
+                "3 sets",
+                "5 back squat at 83%",
+                "1 drop set",
+                "max reps at 50%"
+              ]
+            },
+            {
+              "title": "conditioning 14min",
+              "lines": [
+                "4 rounds for time",
+                "60 double unders",
+                "8 front squats 60/40kg",
+                "12/10 cal ski/bike",
+                "aerobic power [vo2 max]",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-03-27/"
+        },
         {
           "date": "2026-03-26",
           "sections": [
@@ -579,52 +624,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-03-14/"
-        },
-        {
-          "date": "2026-03-13",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "instep rotation",
-                "hand walk",
-                "lying hip crossover"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 good mornings",
-                "10 ring rows",
-                "30sec plank hold",
-                "*remaining time row"
-              ]
-            },
-            {
-              "title": "deadlifts 15min",
-              "lines": [
-                "3 sets",
-                "5 deadlifts at 78%",
-                "1 drop set",
-                "max reps at 50%"
-              ]
-            },
-            {
-              "title": "conditioning 15min",
-              "lines": [
-                "for time",
-                "3 rounds",
-                "400/360m row",
-                "15 deadlifts 100/70kg",
-                "12 strict pull-ups",
-                "lactate threshold & muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-03-13/"
         }
       ]
     },
@@ -633,6 +632,36 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-03-27",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Quarterfinals Workout 2"
+              ]
+            },
+            {
+              "title": "For time, completed anyhow:",
+              "lines": [
+                "80 dumbbell hang squat cleans",
+                "40 bar muscle-ups",
+                "Use two dumbbells."
+              ]
+            },
+            {
+              "title": "Time cap: 12 minutes",
+              "lines": [
+                "â 35-lb dumbbells",
+                "â 50-lb dumbbells",
+                "Post time or reps to the comments.",
+                "Visit the",
+                "for full details, including Age-Group variations of the workout."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260327"
+        },
         {
           "date": "2026-03-26",
           "sections": [
@@ -723,6 +752,21 @@
           "url": "https://www.crossfit.com/260320"
         },
         {
+          "date": "2026-03-19",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Your First Month of CrossFit: Why Going Slow Gets You There Faster",
+                "The athletes who rush to heavy weights and high intensity in their first weeks of CrossFit inevitably plateau, while their peers who focus on mechanics continue progressing for years. Your first 30 days aren't about proving yourself; they're about building the foundation that determines how far you'll ultimately go. Here's why mastering the basics is the smartest investment you can make in your fitness.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260319"
+        },
+        {
           "date": "2026-03-18",
           "sections": [
             {
@@ -765,83 +809,18 @@
           "url": "https://www.crossfit.com/260316"
         },
         {
-          "date": "2026-03-15",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Safety and Intensity Are NOT At Odds in CrossFit",
-                "\"CrossFit is too dangerous!\" Sound familiar? The truth is, safety and intensity aren't enemies â they're teammates. Discover how the foundation of solid mechanics doesn't just reduce injury risk, it's the key to unlocking your highest performance and sustained gains over time.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260315"
-        },
-        {
           "date": "2026-03-14",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Complete as many rounds and reps as possible in 8 minutes of:",
-                "8 box jumps",
-                "1 rope climb to 15 feet",
-                "â 20-inch box",
-                "â 24-inch box",
-                "Post rounds and reps to comments."
+                "Saturday",
+                "260314",
+                "Check Out the Open Leaderboard â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260314"
-        },
-        {
-          "date": "2026-03-13",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Open Workout 26.3"
-              ]
-            },
-            {
-              "title": "2 rounds of:",
-              "lines": [
-                "12 burpees over the bar",
-                "12 cleans, weight 1",
-                "12 burpees over the bar",
-                "12 thrusters"
-              ]
-            },
-            {
-              "title": "2 rounds of:",
-              "lines": [
-                "12 burpees over the bar",
-                "12 cleans, weight 2",
-                "12 burpees over the bar",
-                "12 thrusters"
-              ]
-            },
-            {
-              "title": "2 rounds of:",
-              "lines": [
-                "12 burpees over the bar",
-                "12 cleans, weight 3",
-                "12 burpees over the bar",
-                "12 thrusters",
-                "â 65/75/85 lb",
-                "â 95/115/135 lb"
-              ]
-            },
-            {
-              "title": "Time cap: 16 minutes",
-              "lines": [
-                "Visit the"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260313"
         }
       ]
     }
