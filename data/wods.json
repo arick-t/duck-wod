@@ -1,11 +1,47 @@
 {
-  "last_updated": "2026-03-27T05:29:01.164575",
+  "last_updated": "2026-03-28T05:17:49.970610",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-03-28",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "instep rotation",
+                "lat stretch",
+                "samson Stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "amrap 5min",
+                "10 db deadlifts",
+                "10 burpees",
+                "*partner is rowing"
+              ]
+            },
+            {
+              "title": "conditioning 30min",
+              "lines": [
+                "in teams of 2",
+                "30min amrap",
+                "60/54/48 cal row",
+                "30 synchro db snatches 22,5/15kg",
+                "18 burpee pull-ups",
+                "aerobic power [lactate threshold]",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-03-28/"
+        },
         {
           "date": "2026-03-27",
           "sections": [
@@ -586,44 +622,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-03-15/"
-        },
-        {
-          "date": "2026-03-14",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "samson stretch",
-                "thoracic rotation",
-                "lat stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "amrap 5min",
-                "10 scap. push ups",
-                "10 double db deadlifts",
-                "*partner is biking"
-              ]
-            },
-            {
-              "title": "conditioning 29min",
-              "lines": [
-                "in teams of 2",
-                "6 x 4:00 amrap:",
-                "24 db push ups 2x15/10kg",
-                "28 db sit ups 1x15/10kg",
-                "cal bike in remaining time",
-                "rest 1:00 between amraps",
-                "score: total cal",
-                "aerobic power [vo2 max]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-03-14/"
         }
       ]
     },
@@ -632,6 +630,49 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-03-28",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Quarterfinals Workout 3"
+              ]
+            },
+            {
+              "title": "3 rounds of:",
+              "lines": [
+                "50 double-unders",
+                "10 deadlifts, first weight"
+              ]
+            },
+            {
+              "title": "2 rounds of:",
+              "lines": [
+                "50 double-unders",
+                "10 deadlifts, second weight"
+              ]
+            },
+            {
+              "title": "1 round of:",
+              "lines": [
+                "50 double-unders",
+                "10 deadlifts, third weight"
+              ]
+            },
+            {
+              "title": "Time cap: 12 minutes",
+              "lines": [
+                "â 155/185/225-lb barbell",
+                "â 225/275/315-lb barbell",
+                "Post time or reps to the comments.",
+                "Visit the",
+                "for full details, including Age-Group variations of the workout."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260328"
+        },
         {
           "date": "2026-03-27",
           "sections": [
@@ -650,7 +691,7 @@
               ]
             },
             {
-              "title": "Time cap: 12 minutes",
+              "title": "Time cap: 15 minutes",
               "lines": [
                 "â 35-lb dumbbells",
                 "â 50-lb dumbbells",
@@ -699,11 +740,14 @@
           "date": "2026-03-24",
           "sections": [
             {
-              "title": "Workout",
+              "title": "4 rounds for time of:",
               "lines": [
-                "Tuesday",
-                "260324",
-                "Practice the Movement â"
+                "Run 800 meters",
+                "Rest 3 minutes between rounds.",
+                "Compare to",
+                "241102",
+                ".",
+                "Post times to comments."
               ]
             }
           ],
@@ -727,11 +771,14 @@
           "date": "2026-03-21",
           "sections": [
             {
-              "title": "Workout",
+              "title": "2 rounds for time of:",
               "lines": [
-                "Saturday",
-                "260321",
-                "Learn the Movement â"
+                "15 shuttle runs",
+                "35 toes-to-bars",
+                "15 shuttle runs",
+                "25 strict pull-ups",
+                "One shuttle run is 25 feet out and 25 feet back.",
+                "Post time to comments."
               ]
             }
           ],
@@ -750,21 +797,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260320"
-        },
-        {
-          "date": "2026-03-19",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Your First Month of CrossFit: Why Going Slow Gets You There Faster",
-                "The athletes who rush to heavy weights and high intensity in their first weeks of CrossFit inevitably plateau, while their peers who focus on mechanics continue progressing for years. Your first 30 days aren't about proving yourself; they're about building the foundation that determines how far you'll ultimately go. Here's why mastering the basics is the smartest investment you can make in your fitness.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260319"
         },
         {
           "date": "2026-03-18",
@@ -807,20 +839,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260316"
-        },
-        {
-          "date": "2026-03-14",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Saturday",
-                "260314",
-                "Check Out the Open Leaderboard â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260314"
         }
       ]
     }
