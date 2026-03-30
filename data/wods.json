@@ -1,11 +1,58 @@
 {
-  "last_updated": "2026-03-29T05:30:45.956958",
+  "last_updated": "2026-03-30T05:54:17.385026",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-03-30",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "lat stretch",
+                "thoracic rotation",
+                "handwalk",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 straight leg sit ups",
+                "10 ring rows",
+                "10 push ups to down dog"
+              ]
+            },
+            {
+              "title": "push press 14min",
+              "lines": [
+                "3 sets",
+                "5 push press at 77-82%",
+                "explosive power"
+              ]
+            },
+            {
+              "title": "conditioning 15min",
+              "lines": [
+                "for time",
+                "20 strict pull ups",
+                "30 toes to bar",
+                "15 wall walks",
+                "30 toes to bar",
+                "20 strict pull ups",
+                "muscular endurance",
+                "toes to bar",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-03-30/"
+        },
         {
           "date": "2026-03-29",
           "sections": [
@@ -562,62 +609,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-03-17/"
-        },
-        {
-          "date": "2026-03-16",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "CF OPEN 26.3"
-              ]
-            },
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "lat stretch",
-                "thoracic rotation",
-                "sumo squat stretch",
-                "samson stretch"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 deadlifts",
-                "10 front squats",
-                "10 push ups to down dog"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "(heat 1 // 3min break // heat 2)",
-                "for time",
-                "2 rounds of:",
-                "12 burpees over the bar",
-                "12 cleans (43/29kg)",
-                "12 burpees over the bar",
-                "12 thrusters",
-                "2 rounds of:",
-                "12 burpees over the bar",
-                "12 cleans (52/34kg)",
-                "12 burpees over the bar",
-                "12 thrusters",
-                "2 rounds of:",
-                "12 burpees over the bar",
-                "12 cleans (61/38kg)",
-                "12 burpees over the bar",
-                "12 thrusters",
-                "time cap 16:00",
-                "power clean",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-03-16/"
         }
       ]
     },
@@ -626,6 +617,20 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-03-30",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Monday",
+                "260330",
+                "Learn the Movement â"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260330"
+        },
         {
           "date": "2026-03-29",
           "sections": [
@@ -690,13 +695,44 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260327",
-                "Learn the Movement â"
+                "Quarterfinals Workout 2"
+              ]
+            },
+            {
+              "title": "For time, completed anyhow:",
+              "lines": [
+                "80 dumbbell hang squat cleans",
+                "40 bar muscle-ups",
+                "Use two dumbbells."
+              ]
+            },
+            {
+              "title": "Time cap: 15 minutes",
+              "lines": [
+                "â 35-lb dumbbells",
+                "â 50-lb dumbbells",
+                "Post time or reps to the comments.",
+                "Visit the",
+                "for full details, including Age-Group variations of the workout."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260327"
+        },
+        {
+          "date": "2026-03-26",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Why CrossFit's Range of Motion Standards Will Keep You Moving for Life",
+                "You may think CrossFit's range-of-motion requirements are about rep standards and competition. They're not. Full range of motion is about training your body to handle whatever life throws at you today, tomorrow, and 30 years from now.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260326"
         },
         {
           "date": "2026-03-25",
@@ -720,11 +756,14 @@
           "date": "2026-03-24",
           "sections": [
             {
-              "title": "Workout",
+              "title": "4 rounds for time of:",
               "lines": [
-                "Tuesday",
-                "260324",
-                "Practice the Movement â"
+                "Run 800 meters",
+                "Rest 3 minutes between rounds.",
+                "Compare to",
+                "241102",
+                ".",
+                "Post times to comments."
               ]
             }
           ],
@@ -748,6 +787,21 @@
             }
           ],
           "url": "https://www.crossfit.com/260323"
+        },
+        {
+          "date": "2026-03-22",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "If You Think CrossFit Is Just âGo Hard or Go Home,â Youâre Not Doing CrossFit",
+                "CrossFit gets criticized for being a reckless program that destroys athletes through mindless intensity, but that reputation couldn't be further from the truth. Discover why knowing when to back off is actually our secret weapon, and how strategic intensity is what keeps CrossFit athletes training harder, longer, and injury-free while others burn out and get abysmal results.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260322"
         },
         {
           "date": "2026-03-21",
@@ -820,39 +874,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Annie"
-              ]
-            },
-            {
-              "title": "50-40-30-20-10 reps for time of:",
-              "lines": [
-                "Double-unders",
-                "AbMat sit-ups",
-                "Then, complete the following post-workout skill work.",
-                "Every minute on the minute for 6 minutes:",
-                "25-foot handstand walk",
-                "Compare to",
-                "230104",
-                ".",
-                "Post time to comments."
+                "Tuesday",
+                "260317",
+                "Watch the 26.3 Recap â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260317"
-        },
-        {
-          "date": "2026-03-16",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Monday",
-                "260316",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260316"
         }
       ]
     }
