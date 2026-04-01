@@ -1,11 +1,57 @@
 {
-  "last_updated": "2026-03-31T05:31:16.020491",
+  "last_updated": "2026-04-01T05:50:13.920055",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-04-01",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "lying hip cross over",
+                "thoracic rotation",
+                "scorpions",
+                "lat stretch on box"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 clean grip deadlifts",
+                "10 hang high pulls",
+                "10 squat jumps"
+              ]
+            },
+            {
+              "title": "power clean 15min",
+              "lines": [
+                "3 sets",
+                "5 power cleans at 77-82%",
+                "explosive power"
+              ]
+            },
+            {
+              "title": "conditioning 12min",
+              "lines": [
+                "for time",
+                "18-15-12-9",
+                "hang power cleans 50/35kg",
+                "box jumps 75/60cm",
+                "burpees over the bar",
+                "aerobic power [vo2 max]",
+                "power clean",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-04-01/"
+        },
         {
           "date": "2026-03-31",
           "sections": [
@@ -584,52 +630,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-03-19/"
-        },
-        {
-          "date": "2026-03-18",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "samson stretch",
-                "hand walk",
-                "instep rotations",
-                "lying hip cross over"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 hang high pulls",
-                "10 behind the neck push press",
-                "10/8cal row"
-              ]
-            },
-            {
-              "title": "skill 5min",
-              "lines": [
-                "hang power snatches"
-              ]
-            },
-            {
-              "title": "conditioning 28min",
-              "lines": [
-                "5 x 4:00 amrap:",
-                "20 sit ups",
-                "30/24 cal row",
-                "10 hang power snatches 50/35kg",
-                "rest 2:00 between amraps",
-                "pick up where you left off",
-                "score: total rounds + reps",
-                "aerobic power [vo2 max]",
-                "hang power snatch",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-03-18/"
         }
       ]
     },
@@ -638,6 +638,26 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-04-01",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Push press 3-2-2-1-1-1 reps",
+                "Compare to similar",
+                "230509",
+                ",",
+                "250120",
+                ", and",
+                "260323",
+                ".",
+                "Post your loads to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260401"
+        },
         {
           "date": "2026-03-31",
           "sections": [
@@ -659,33 +679,15 @@
           "date": "2026-03-30",
           "sections": [
             {
-              "title": "For reps:",
+              "title": "Workout",
               "lines": [
-                "Tabata air squats",
-                "Tabata push-ups",
-                "Tabata AbMat sit-ups",
-                "Tabata walking lunges",
-                "Each Tabata interval is 20 seconds of work followed by 10 seconds of rest for 8 rounds.",
-                "Post total reps to comments."
+                "Monday",
+                "260330",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260330"
-        },
-        {
-          "date": "2026-03-29",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "The One CrossFit Concept That Will Make Every Lift More Efficient",
-                "You've probably heard your coach talk about \"bar path\" or keeping the bar \"close to your body.\" But do you know why it matters? Understanding the frontal plane â the invisible line that determines efficiency in every movement you do â will change how you approach every lift.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260329"
         },
         {
           "date": "2026-03-28",
@@ -693,38 +695,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Quarterfinals Workout 3"
-              ]
-            },
-            {
-              "title": "3 rounds of:",
-              "lines": [
-                "50 double-unders",
-                "10 deadlifts, first weight"
-              ]
-            },
-            {
-              "title": "2 rounds of:",
-              "lines": [
-                "50 double-unders",
-                "10 deadlifts, second weight"
-              ]
-            },
-            {
-              "title": "1 round of:",
-              "lines": [
-                "50 double-unders",
-                "10 deadlifts, third weight"
-              ]
-            },
-            {
-              "title": "Time cap: 12 minutes",
-              "lines": [
-                "â 155/185/225-lb barbell",
-                "â 225/275/315-lb barbell",
-                "Post time or reps to the comments.",
-                "Visit the",
-                "for full details, including Age-Group variations of the workout."
+                "Saturday",
+                "260328",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -736,9 +709,25 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260327",
-                "Learn the Movement â"
+                "Quarterfinals Workout 2"
+              ]
+            },
+            {
+              "title": "For time, completed anyhow:",
+              "lines": [
+                "80 dumbbell hang squat cleans",
+                "40 bar muscle-ups",
+                "Use two dumbbells."
+              ]
+            },
+            {
+              "title": "Time cap: 15 minutes",
+              "lines": [
+                "â 35-lb dumbbells",
+                "â 50-lb dumbbells",
+                "Post time or reps to the comments.",
+                "Visit the",
+                "for full details, including Age-Group variations of the workout."
               ]
             }
           ],
@@ -762,11 +751,14 @@
           "date": "2026-03-24",
           "sections": [
             {
-              "title": "Workout",
+              "title": "4 rounds for time of:",
               "lines": [
-                "Tuesday",
-                "260324",
-                "Practice the Movement â"
+                "Run 800 meters",
+                "Rest 3 minutes between rounds.",
+                "Compare to",
+                "241102",
+                ".",
+                "Post times to comments."
               ]
             }
           ],
@@ -776,11 +768,16 @@
           "date": "2026-03-23",
           "sections": [
             {
-              "title": "Workout",
+              "title": "Every 5 minutes for 7 sets, for load:",
               "lines": [
-                "Monday",
-                "260323",
-                "Learn the Movement â"
+                "3 push presses",
+                "2 push jerks",
+                "1 split jerk",
+                "Add weight each set.",
+                "Compare to similar",
+                "251124",
+                ".",
+                "Post loads to comments."
               ]
             }
           ],
@@ -790,11 +787,14 @@
           "date": "2026-03-21",
           "sections": [
             {
-              "title": "Workout",
+              "title": "2 rounds for time of:",
               "lines": [
-                "Saturday",
-                "260321",
-                "Learn the Movement â"
+                "15 shuttle runs",
+                "35 toes-to-bars",
+                "15 shuttle runs",
+                "25 strict pull-ups",
+                "One shuttle run is 25 feet out and 25 feet back.",
+                "Post time to comments."
               ]
             }
           ],
@@ -815,18 +815,19 @@
           "url": "https://www.crossfit.com/260320"
         },
         {
-          "date": "2026-03-18",
+          "date": "2026-03-19",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260318",
-                "Check the Open Leaderboard â"
+                "Rest Day",
+                "Your First Month of CrossFit: Why Going Slow Gets You There Faster",
+                "The athletes who rush to heavy weights and high intensity in their first weeks of CrossFit inevitably plateau, while their peers who focus on mechanics continue progressing for years. Your first 30 days aren't about proving yourself; they're about building the foundation that determines how far you'll ultimately go. Here's why mastering the basics is the smartest investment you can make in your fitness.",
+                "View the CrossFit map"
               ]
             }
           ],
-          "url": "https://www.crossfit.com/260318"
+          "url": "https://www.crossfit.com/260319"
         }
       ]
     }
