@@ -1,11 +1,55 @@
 {
-  "last_updated": "2026-04-01T05:50:13.920055",
+  "last_updated": "2026-04-02T05:27:49.139034",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-04-02",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "instep rotation",
+                "handwalk",
+                "sumo squat stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 prone snow angels",
+                "10 medball squats",
+                "10 medball presses",
+                "*remaining time row"
+              ]
+            },
+            {
+              "title": "conditioning 23min",
+              "lines": [
+                "8 x 2:00 amrap:",
+                "18 wallballs 20/14lbs",
+                "cal row in remaining time",
+                "• rest 1:00 between amraps",
+                "score: total row cal",
+                "aerobic power [lactate threshold]"
+              ]
+            },
+            {
+              "title": "core 4min",
+              "lines": [
+                "15sec on / 15sec off x 4 sets",
+                "rower pike ups",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-04-02/"
+        },
         {
           "date": "2026-04-01",
           "sections": [
@@ -584,52 +628,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-03-20/"
-        },
-        {
-          "date": "2026-03-19",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "hamstring stretch on box",
-                "calf stretch",
-                "instep rotations",
-                "lying hip cross over"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 good mornings",
-                "10 jumping lunges",
-                "10 ring rows"
-              ]
-            },
-            {
-              "title": "deadlifts 14min",
-              "lines": [
-                "3 sets",
-                "5 deadlifts at 80%",
-                "1 drop set",
-                "max reps at 50%"
-              ]
-            },
-            {
-              "title": "conditioning 16min",
-              "lines": [
-                "16:00 amrap",
-                "4 strict pull-ups",
-                "8 sumo deadlifts 100/70kg",
-                "4 strict pull-ups",
-                "16 box jumps",
-                "muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-03-19/"
         }
       ]
     },
@@ -638,6 +636,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-04-02",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Why Stance and Grip Are CrossFit's Critical Performance Details",
+                "Before you lift that barbell or jump to that pull-up bar, there's one thing you should check every single time, but most athletes don't. Your stance and grip determine whether you can execute a movement correctly, and getting them right is easier than you think.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260402"
+        },
         {
           "date": "2026-04-01",
           "sections": [
@@ -679,15 +692,33 @@
           "date": "2026-03-30",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For reps:",
               "lines": [
-                "Monday",
-                "260330",
-                "Learn the Movement â"
+                "Tabata air squats",
+                "Tabata push-ups",
+                "Tabata AbMat sit-ups",
+                "Tabata walking lunges",
+                "Each Tabata interval is 20 seconds of work followed by 10 seconds of rest for 8 rounds.",
+                "Post total reps to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260330"
+        },
+        {
+          "date": "2026-03-29",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "The One CrossFit Concept That Will Make Every Lift More Efficient",
+                "You've probably heard your coach talk about \"bar path\" or keeping the bar \"close to your body.\" But do you know why it matters? Understanding the frontal plane â the invisible line that determines efficiency in every movement you do â will change how you approach every lift.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260329"
         },
         {
           "date": "2026-03-28",
@@ -695,9 +726,38 @@
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260328",
-                "Learn the Movement â"
+                "Quarterfinals Workout 3"
+              ]
+            },
+            {
+              "title": "3 rounds of:",
+              "lines": [
+                "50 double-unders",
+                "10 deadlifts, first weight"
+              ]
+            },
+            {
+              "title": "2 rounds of:",
+              "lines": [
+                "50 double-unders",
+                "10 deadlifts, second weight"
+              ]
+            },
+            {
+              "title": "1 round of:",
+              "lines": [
+                "50 double-unders",
+                "10 deadlifts, third weight"
+              ]
+            },
+            {
+              "title": "Time cap: 12 minutes",
+              "lines": [
+                "â 155/185/225-lb barbell",
+                "â 225/275/315-lb barbell",
+                "Post time or reps to the comments.",
+                "Visit the",
+                "for full details, including Age-Group variations of the workout."
               ]
             }
           ],
@@ -734,14 +794,33 @@
           "url": "https://www.crossfit.com/260327"
         },
         {
-          "date": "2026-03-25",
+          "date": "2026-03-26",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260325",
-                "Learn the Movement â"
+                "Rest Day",
+                "Why CrossFit's Range of Motion Standards Will Keep You Moving for Life",
+                "You may think CrossFit's range-of-motion requirements are about rep standards and competition. They're not. Full range of motion is about training your body to handle whatever life throws at you today, tomorrow, and 30 years from now.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260326"
+        },
+        {
+          "date": "2026-03-25",
+          "sections": [
+            {
+              "title": "5 rounds for time of:",
+              "lines": [
+                "2 rope climbs to 15 feet",
+                "15 GHD sit-ups",
+                "20 box jumps*",
+                "*Step down from the box.",
+                "â 20-inch box",
+                "â 24-inch box",
+                "Post time to comments."
               ]
             }
           ],
@@ -784,6 +863,21 @@
           "url": "https://www.crossfit.com/260323"
         },
         {
+          "date": "2026-03-22",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "If You Think CrossFit Is Just âGo Hard or Go Home,â Youâre Not Doing CrossFit",
+                "CrossFit gets criticized for being a reckless program that destroys athletes through mindless intensity, but that reputation couldn't be further from the truth. Discover why knowing when to back off is actually our secret weapon, and how strategic intensity is what keeps CrossFit athletes training harder, longer, and injury-free while others burn out and get abysmal results.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260322"
+        },
+        {
           "date": "2026-03-21",
           "sections": [
             {
@@ -806,28 +900,15 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260320",
-                "Learn the Movement â"
+                "Hang power snatch 2-2-2-2-2-2-2-2-2-2 reps",
+                "Compare to similar",
+                "230122",
+                ".",
+                "Post loads to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260320"
-        },
-        {
-          "date": "2026-03-19",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Your First Month of CrossFit: Why Going Slow Gets You There Faster",
-                "The athletes who rush to heavy weights and high intensity in their first weeks of CrossFit inevitably plateau, while their peers who focus on mechanics continue progressing for years. Your first 30 days aren't about proving yourself; they're about building the foundation that determines how far you'll ultimately go. Here's why mastering the basics is the smartest investment you can make in your fitness.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260319"
         }
       ]
     }
