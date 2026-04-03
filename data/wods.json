@@ -1,11 +1,24 @@
 {
-  "last_updated": "2026-04-02T05:27:49.139034",
+  "last_updated": "2026-04-03T05:28:29.655347",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-04-03",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Frohe Oster wünscht das Team von myleo!",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-04-03/"
+        },
         {
           "date": "2026-04-02",
           "sections": [
@@ -580,54 +593,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-03-21/"
-        },
-        {
-          "date": "2026-03-20",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "lat stretch",
-                "seated pike stretch",
-                "sumo squat stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 air squats",
-                "10 prone snow angels",
-                "10 straight leg sit ups",
-                "*remaining time bike/ski"
-              ]
-            },
-            {
-              "title": "back squat 15min",
-              "lines": [
-                "3 sets",
-                "5 back squat at 80%",
-                "1 drop set",
-                "max reps at 50%"
-              ]
-            },
-            {
-              "title": "conditioning 16min",
-              "lines": [
-                "5 x 2:00 amrap:",
-                "15 wallballs 20/15lbs",
-                "10/8 cal ski/bike",
-                "10 toes to bar",
-                "rest 2:00 between rounds",
-                "pick up where you left off",
-                "score: total rounds + reps",
-                "aerobic power [vo2 max]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-03-20/"
         }
       ]
     },
@@ -637,19 +602,20 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
-          "date": "2026-04-02",
+          "date": "2026-04-03",
           "sections": [
             {
-              "title": "Workout",
+              "title": "8 rounds for time of:",
               "lines": [
-                "Rest Day",
-                "Why Stance and Grip Are CrossFit's Critical Performance Details",
-                "Before you lift that barbell or jump to that pull-up bar, there's one thing you should check every single time, but most athletes don't. Your stance and grip determine whether you can execute a movement correctly, and getting them right is easier than you think.",
-                "View the CrossFit map"
+                "5 box jump-overs",
+                "5 hang power cleans",
+                "â 155-lb barbell and a 24-inch box",
+                "â 225-lb barbell and a 30-inch box",
+                "Post time to comments."
               ]
             }
           ],
-          "url": "https://www.crossfit.com/260402"
+          "url": "https://www.crossfit.com/260403"
         },
         {
           "date": "2026-04-01",
@@ -675,14 +641,11 @@
           "date": "2026-03-31",
           "sections": [
             {
-              "title": "3 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "400-meter run",
-                "30 kettlebell snatches",
-                "20 kettlebell swings",
-                "â 35-lb kettlebell",
-                "â 53-lb kettlebell",
-                "Post time to comments."
+                "Tuesday",
+                "260331",
+                "Practice the Movement â"
               ]
             }
           ],
@@ -692,33 +655,15 @@
           "date": "2026-03-30",
           "sections": [
             {
-              "title": "For reps:",
+              "title": "Workout",
               "lines": [
-                "Tabata air squats",
-                "Tabata push-ups",
-                "Tabata AbMat sit-ups",
-                "Tabata walking lunges",
-                "Each Tabata interval is 20 seconds of work followed by 10 seconds of rest for 8 rounds.",
-                "Post total reps to comments."
+                "Monday",
+                "260330",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260330"
-        },
-        {
-          "date": "2026-03-29",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "The One CrossFit Concept That Will Make Every Lift More Efficient",
-                "You've probably heard your coach talk about \"bar path\" or keeping the bar \"close to your body.\" But do you know why it matters? Understanding the frontal plane â the invisible line that determines efficiency in every movement you do â will change how you approach every lift.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260329"
         },
         {
           "date": "2026-03-28",
@@ -726,38 +671,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Quarterfinals Workout 3"
-              ]
-            },
-            {
-              "title": "3 rounds of:",
-              "lines": [
-                "50 double-unders",
-                "10 deadlifts, first weight"
-              ]
-            },
-            {
-              "title": "2 rounds of:",
-              "lines": [
-                "50 double-unders",
-                "10 deadlifts, second weight"
-              ]
-            },
-            {
-              "title": "1 round of:",
-              "lines": [
-                "50 double-unders",
-                "10 deadlifts, third weight"
-              ]
-            },
-            {
-              "title": "Time cap: 12 minutes",
-              "lines": [
-                "â 155/185/225-lb barbell",
-                "â 225/275/315-lb barbell",
-                "Post time or reps to the comments.",
-                "Visit the",
-                "for full details, including Age-Group variations of the workout."
+                "Saturday",
+                "260328",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -769,58 +685,23 @@
             {
               "title": "Workout",
               "lines": [
-                "Quarterfinals Workout 2"
-              ]
-            },
-            {
-              "title": "For time, completed anyhow:",
-              "lines": [
-                "80 dumbbell hang squat cleans",
-                "40 bar muscle-ups",
-                "Use two dumbbells."
-              ]
-            },
-            {
-              "title": "Time cap: 15 minutes",
-              "lines": [
-                "â 35-lb dumbbells",
-                "â 50-lb dumbbells",
-                "Post time or reps to the comments.",
-                "Visit the",
-                "for full details, including Age-Group variations of the workout."
+                "Friday",
+                "260327",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260327"
         },
         {
-          "date": "2026-03-26",
+          "date": "2026-03-25",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "Why CrossFit's Range of Motion Standards Will Keep You Moving for Life",
-                "You may think CrossFit's range-of-motion requirements are about rep standards and competition. They're not. Full range of motion is about training your body to handle whatever life throws at you today, tomorrow, and 30 years from now.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260326"
-        },
-        {
-          "date": "2026-03-25",
-          "sections": [
-            {
-              "title": "5 rounds for time of:",
-              "lines": [
-                "2 rope climbs to 15 feet",
-                "15 GHD sit-ups",
-                "20 box jumps*",
-                "*Step down from the box.",
-                "â 20-inch box",
-                "â 24-inch box",
-                "Post time to comments."
+                "Wednesday",
+                "260325",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -830,14 +711,11 @@
           "date": "2026-03-24",
           "sections": [
             {
-              "title": "4 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "Run 800 meters",
-                "Rest 3 minutes between rounds.",
-                "Compare to",
-                "241102",
-                ".",
-                "Post times to comments."
+                "Tuesday",
+                "260324",
+                "Practice the Movement â"
               ]
             }
           ],
@@ -847,68 +725,29 @@
           "date": "2026-03-23",
           "sections": [
             {
-              "title": "Every 5 minutes for 7 sets, for load:",
+              "title": "Workout",
               "lines": [
-                "3 push presses",
-                "2 push jerks",
-                "1 split jerk",
-                "Add weight each set.",
-                "Compare to similar",
-                "251124",
-                ".",
-                "Post loads to comments."
+                "Monday",
+                "260323",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260323"
         },
         {
-          "date": "2026-03-22",
+          "date": "2026-03-21",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "If You Think CrossFit Is Just âGo Hard or Go Home,â Youâre Not Doing CrossFit",
-                "CrossFit gets criticized for being a reckless program that destroys athletes through mindless intensity, but that reputation couldn't be further from the truth. Discover why knowing when to back off is actually our secret weapon, and how strategic intensity is what keeps CrossFit athletes training harder, longer, and injury-free while others burn out and get abysmal results.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260322"
-        },
-        {
-          "date": "2026-03-21",
-          "sections": [
-            {
-              "title": "2 rounds for time of:",
-              "lines": [
-                "15 shuttle runs",
-                "35 toes-to-bars",
-                "15 shuttle runs",
-                "25 strict pull-ups",
-                "One shuttle run is 25 feet out and 25 feet back.",
-                "Post time to comments."
+                "Saturday",
+                "260321",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260321"
-        },
-        {
-          "date": "2026-03-20",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Hang power snatch 2-2-2-2-2-2-2-2-2-2 reps",
-                "Compare to similar",
-                "230122",
-                ".",
-                "Post loads to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260320"
         }
       ]
     }
