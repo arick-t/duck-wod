@@ -1,11 +1,48 @@
 {
-  "last_updated": "2026-04-03T05:28:29.655347",
+  "last_updated": "2026-04-04T05:17:39.975912",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-04-04",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "instep rotation",
+                "scorpions",
+                "90/90 hip rotation"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "amrap 5min",
+                "10 sumo deadlifts",
+                "10 scap. push ups",
+                "*partner is biking"
+              ]
+            },
+            {
+              "title": "conditioning 32min",
+              "lines": [
+                "in teams of 2",
+                "for time",
+                "5 rounds",
+                "40/38/36cal bike",
+                "40 sumo deadlift high pulls 35/25kg",
+                "40 push ups",
+                "aerobic power [lactate threshold]",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-04-04/"
+        },
         {
           "date": "2026-04-03",
           "sections": [
@@ -546,53 +583,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-03-22/"
-        },
-        {
-          "date": "2026-03-21",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "instep rotation",
-                "lat stretch",
-                "lying hip cross over"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "amrap 5min",
-                "10 prone snow angels",
-                "10 hang muscle clean",
-                "10 push press",
-                "*partner is rowing"
-              ]
-            },
-            {
-              "title": "conditioning 30min",
-              "lines": [
-                "in teams of 2",
-                "for time",
-                "3 rounds:",
-                "20 deadlifts",
-                "6 wall walks",
-                "40/36/32cal row",
-                "3 rounds:",
-                "15 hang power cleans",
-                "6 wall walks",
-                "40/36/32cal row",
-                "3 rounds:",
-                "10 shoulder to overhead",
-                "6 wall walks",
-                "40/36/32cal row",
-                "barbell: 60/40kg",
-                "aerobic power [lactate threshold]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-03-21/"
         }
       ]
     },
@@ -601,6 +591,30 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-04-04",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "21 L pull-ups",
+                "42 thrusters",
+                "18 L pull-ups",
+                "36 thrusters",
+                "15 L pull-ups",
+                "30 thrusters",
+                "12 L pull-ups",
+                "24 thrusters",
+                "9 L pull-ups",
+                "18 thrusters",
+                "â 35-lb barbell",
+                "â 45-lb barbell",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260404"
+        },
         {
           "date": "2026-04-03",
           "sections": [
@@ -623,15 +637,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Push press 3-2-2-1-1-1 reps",
-                "Compare to similar",
-                "230509",
-                ",",
-                "250120",
-                ", and",
-                "260323",
-                ".",
-                "Post your loads to comments."
+                "Wednesday",
+                "260401",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -655,11 +663,14 @@
           "date": "2026-03-30",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For reps:",
               "lines": [
-                "Monday",
-                "260330",
-                "Learn the Movement â"
+                "Tabata air squats",
+                "Tabata push-ups",
+                "Tabata AbMat sit-ups",
+                "Tabata walking lunges",
+                "Each Tabata interval is 20 seconds of work followed by 10 seconds of rest for 8 rounds.",
+                "Post total reps to comments."
               ]
             }
           ],
@@ -734,20 +745,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260323"
-        },
-        {
-          "date": "2026-03-21",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Saturday",
-                "260321",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260321"
         }
       ]
     }
