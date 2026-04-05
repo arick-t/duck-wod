@@ -1,11 +1,32 @@
 {
-  "last_updated": "2026-04-04T05:17:39.975912",
+  "last_updated": "2026-04-05T05:41:15.442703",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-04-05",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Sunday Endurance for Open Gym",
+                "2:00 row, 1:00 rest",
+                "4:00 row, 1:00 rest",
+                "6:00 row, 1:00 rest",
+                "4:00 row, 1:00 rest",
+                "2:00 row",
+                "rpe: 6-7",
+                "score: total m",
+                "aerobic power [lactate threshold]",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-04-05/"
+        },
         {
           "date": "2026-04-04",
           "sections": [
@@ -540,49 +561,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-03-23/"
-        },
-        {
-          "date": "2026-03-22",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "lat stretch",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "30sec on / 15sec off x2 rounds",
-                "1. scap. push ups",
-                "2. bike/ski",
-                "3. barbell row",
-                "4. reverse lunges"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "emom 35min (7 rounds)",
-                "1. 20-40sec handstand hold",
-                "2. 10-15cal bike/ski",
-                "3. 6-8 strict chin ups",
-                "4. 14-18 double db box step ups (50cm)",
-                "5. rest",
-                "Sunday Endurance for Open Gym",
-                "on the 3:00 x 6 rounds:",
-                "15/12 cal row [rpe 7-8]",
-                "15/12 cal bike or ski [rpe 4-5]",
-                "score: slowest row time",
-                "aerobic power [lactate threshold]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-03-22/"
         }
       ]
     },
@@ -591,6 +569,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-04-05",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Sound Hip Function: The CrossFit Secret to Athletic Power You May Be Missing",
+                "If you want to know what separates elite athletes from everyone else, look at their hips. Sound hip function is the foundation of athletic power. And the good news? CrossFit movements train it naturally.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260405"
+        },
         {
           "date": "2026-04-04",
           "sections": [
@@ -663,14 +656,11 @@
           "date": "2026-03-30",
           "sections": [
             {
-              "title": "For reps:",
+              "title": "Workout",
               "lines": [
-                "Tabata air squats",
-                "Tabata push-ups",
-                "Tabata AbMat sit-ups",
-                "Tabata walking lunges",
-                "Each Tabata interval is 20 seconds of work followed by 10 seconds of rest for 8 rounds.",
-                "Post total reps to comments."
+                "Monday",
+                "260330",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -705,14 +695,33 @@
           "url": "https://www.crossfit.com/260327"
         },
         {
-          "date": "2026-03-25",
+          "date": "2026-03-26",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260325",
-                "Learn the Movement â"
+                "Rest Day",
+                "Why CrossFit's Range of Motion Standards Will Keep You Moving for Life",
+                "You may think CrossFit's range-of-motion requirements are about rep standards and competition. They're not. Full range of motion is about training your body to handle whatever life throws at you today, tomorrow, and 30 years from now.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260326"
+        },
+        {
+          "date": "2026-03-25",
+          "sections": [
+            {
+              "title": "5 rounds for time of:",
+              "lines": [
+                "2 rope climbs to 15 feet",
+                "15 GHD sit-ups",
+                "20 box jumps*",
+                "*Step down from the box.",
+                "â 20-inch box",
+                "â 24-inch box",
+                "Post time to comments."
               ]
             }
           ],
