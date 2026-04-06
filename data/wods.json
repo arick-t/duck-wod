@@ -1,11 +1,30 @@
 {
-  "last_updated": "2026-04-05T05:41:15.442703",
+  "last_updated": "2026-04-06T05:54:41.849773",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-04-06",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "weakness work for open gym",
+                "emom 20min",
+                "this is a chance for you to pick two of your weaker movements you’d like to work on in an emom format.",
+                "example:",
+                "minute 1: 30 double unders",
+                "minute 2: 8 toes to bar",
+                "if you would like to simply complete a conditioning piece, replace one of the movements with an erg.",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-04-06/"
+        },
         {
           "date": "2026-04-05",
           "sections": [
@@ -512,55 +531,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-03-24/"
-        },
-        {
-          "date": "2026-03-23",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "lat stretch",
-                "thoracic rotation",
-                "scorpions",
-                "hand walk"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 prone snow angels",
-                "10 plank push ups",
-                "10 straight leg sit ups"
-              ]
-            },
-            {
-              "title": "bench press 15min",
-              "lines": [
-                "3 sets",
-                "5 bench press at 83%",
-                "1 drop set:",
-                "max reps at 50%"
-              ]
-            },
-            {
-              "title": "conditioning 15min",
-              "lines": [
-                "for time",
-                "buy-in: 30 v-ups",
-                "5 rounds",
-                "8 push press 50/35kg*",
-                "10 toes to bar",
-                "buy-out: 30 v-ups",
-                "muscular endurance",
-                "*rx+ option: handstand push ups",
-                "toes to bar",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-03-23/"
         }
       ]
     },
@@ -569,6 +539,25 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-04-06",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "800-meter run",
+                "80 pull-ups",
+                "80 deadlifts",
+                "800-meter run",
+                "Partition the pull-up and deadlift reps any way.",
+                "â 95-lb barbell",
+                "â 135-lb barbell",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260406"
+        },
         {
           "date": "2026-04-05",
           "sections": [
@@ -625,14 +614,35 @@
           "url": "https://www.crossfit.com/260403"
         },
         {
+          "date": "2026-04-02",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Why Stance and Grip Are CrossFit's Critical Performance Details",
+                "Before you lift that barbell or jump to that pull-up bar, there's one thing you should check every single time, but most athletes don't. Your stance and grip determine whether you can execute a movement correctly, and getting them right is easier than you think.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260402"
+        },
+        {
           "date": "2026-04-01",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260401",
-                "Learn the Movement â"
+                "Push press 3-2-2-1-1-1 reps",
+                "Compare to similar",
+                "230509",
+                ",",
+                "250120",
+                ", and",
+                "260323",
+                ".",
+                "Post your loads to comments."
               ]
             }
           ],
@@ -686,42 +696,39 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260327",
-                "Learn the Movement â"
+                "Quarterfinals Workout 2"
+              ]
+            },
+            {
+              "title": "For time, completed anyhow:",
+              "lines": [
+                "80 dumbbell hang squat cleans",
+                "40 bar muscle-ups",
+                "Use two dumbbells."
+              ]
+            },
+            {
+              "title": "Time cap: 15 minutes",
+              "lines": [
+                "â 35-lb dumbbells",
+                "â 50-lb dumbbells",
+                "Post time or reps to the comments.",
+                "Visit the",
+                "for full details, including Age-Group variations of the workout."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260327"
         },
         {
-          "date": "2026-03-26",
+          "date": "2026-03-25",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "Why CrossFit's Range of Motion Standards Will Keep You Moving for Life",
-                "You may think CrossFit's range-of-motion requirements are about rep standards and competition. They're not. Full range of motion is about training your body to handle whatever life throws at you today, tomorrow, and 30 years from now.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260326"
-        },
-        {
-          "date": "2026-03-25",
-          "sections": [
-            {
-              "title": "5 rounds for time of:",
-              "lines": [
-                "2 rope climbs to 15 feet",
-                "15 GHD sit-ups",
-                "20 box jumps*",
-                "*Step down from the box.",
-                "â 20-inch box",
-                "â 24-inch box",
-                "Post time to comments."
+                "Wednesday",
+                "260325",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -740,20 +747,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260324"
-        },
-        {
-          "date": "2026-03-23",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Monday",
-                "260323",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260323"
         }
       ]
     }
