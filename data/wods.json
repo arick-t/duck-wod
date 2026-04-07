@@ -1,11 +1,59 @@
 {
-  "last_updated": "2026-04-06T05:54:41.849773",
+  "last_updated": "2026-04-07T05:42:45.234932",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-04-07",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "lat stretch",
+                "thoracic rotation",
+                "sumo squat stretch"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 air squats",
+                "10 clean grip deadlifts",
+                "10 hang muscle cleans"
+              ]
+            },
+            {
+              "title": "back squats 14min",
+              "lines": [
+                "3 sets",
+                "5 back squats at 80%",
+                "1 drop set",
+                "max reps at 50%"
+              ]
+            },
+            {
+              "title": "conditioning 18min",
+              "lines": [
+                "1 round for max reps:",
+                "3:00 of power cleans 40/30kg",
+                "3:00 of push-ups*",
+                "6:00 of air squats",
+                "3:00 of push-ups*",
+                "3:00 of power cleans",
+                "score: total reps",
+                "*rx+ option: handstand push ups",
+                "muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-04-07/"
+        },
         {
           "date": "2026-04-06",
           "sections": [
@@ -480,57 +528,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-03-25/"
-        },
-        {
-          "date": "2026-03-24",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "lat stretch",
-                "samson Stretch",
-                "sumo squat stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 hang high pulls",
-                "10 elbow rotations",
-                "10 front squats",
-                "*remaining time row"
-              ]
-            },
-            {
-              "title": "conditioning 24min",
-              "lines": [
-                "3 x 6:00 amrap",
-                "60/48cal row",
-                "into…",
-                "max rounds:",
-                "10 lateral burpees over bar",
-                "10 power cleans 40/30kg",
-                "30 air squats",
-                "rest 3:00 between amraps",
-                "pick up where you left off",
-                "score: total rounds + reps",
-                "aerobic power [vo2 max]"
-              ]
-            },
-            {
-              "title": "biceps 4min",
-              "lines": [
-                "as many sets as possible",
-                "biceps curls @ empty bar",
-                "10 reps pronated",
-                "10 reps supinated",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-03-24/"
         }
       ]
     },
@@ -539,6 +536,22 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-04-07",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Complete as many rounds and reps as possible in 15 minutes of:",
+                "3 wall walks",
+                "15 burpees",
+                "60 double-unders",
+                "Post total reps to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260407"
+        },
         {
           "date": "2026-04-06",
           "sections": [
@@ -577,21 +590,11 @@
           "date": "2026-04-04",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "21 L pull-ups",
-                "42 thrusters",
-                "18 L pull-ups",
-                "36 thrusters",
-                "15 L pull-ups",
-                "30 thrusters",
-                "12 L pull-ups",
-                "24 thrusters",
-                "9 L pull-ups",
-                "18 thrusters",
-                "â 35-lb barbell",
-                "â 45-lb barbell",
-                "Post time to comments."
+                "Saturday",
+                "260404",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -601,32 +604,15 @@
           "date": "2026-04-03",
           "sections": [
             {
-              "title": "8 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "5 box jump-overs",
-                "5 hang power cleans",
-                "â 155-lb barbell and a 24-inch box",
-                "â 225-lb barbell and a 30-inch box",
-                "Post time to comments."
+                "Friday",
+                "260403",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260403"
-        },
-        {
-          "date": "2026-04-02",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Why Stance and Grip Are CrossFit's Critical Performance Details",
-                "Before you lift that barbell or jump to that pull-up bar, there's one thing you should check every single time, but most athletes don't. Your stance and grip determine whether you can execute a movement correctly, and getting them right is easier than you think.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260402"
         },
         {
           "date": "2026-04-01",
@@ -634,15 +620,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Push press 3-2-2-1-1-1 reps",
-                "Compare to similar",
-                "230509",
-                ",",
-                "250120",
-                ", and",
-                "260323",
-                ".",
-                "Post your loads to comments."
+                "Wednesday",
+                "260401",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -696,25 +676,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Quarterfinals Workout 2"
-              ]
-            },
-            {
-              "title": "For time, completed anyhow:",
-              "lines": [
-                "80 dumbbell hang squat cleans",
-                "40 bar muscle-ups",
-                "Use two dumbbells."
-              ]
-            },
-            {
-              "title": "Time cap: 15 minutes",
-              "lines": [
-                "â 35-lb dumbbells",
-                "â 50-lb dumbbells",
-                "Post time or reps to the comments.",
-                "Visit the",
-                "for full details, including Age-Group variations of the workout."
+                "Friday",
+                "260327",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -733,20 +697,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260325"
-        },
-        {
-          "date": "2026-03-24",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Tuesday",
-                "260324",
-                "Practice the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260324"
         }
       ]
     }
