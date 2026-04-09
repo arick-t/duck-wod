@@ -1,11 +1,60 @@
 {
-  "last_updated": "2026-04-08T05:42:44.897071",
+  "last_updated": "2026-04-09T05:44:21.435663",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-04-09",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "instep rotation",
+                "lat stretch",
+                "handwalk"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 straight leg sit ups",
+                "10 double db deadlifts",
+                "10 push ups",
+                "*remaining time bike/ski"
+              ]
+            },
+            {
+              "title": "bench press 15min",
+              "lines": [
+                "3 sets",
+                "5 bench press at 80%",
+                "1 drop set",
+                "max reps at 50%"
+              ]
+            },
+            {
+              "title": "conditioning 15min",
+              "lines": [
+                "14-12-10-8",
+                "v-ups",
+                "cal ski*",
+                "directly into…",
+                "14-12-10-8",
+                "double db hang power snatch 2x15/10kg",
+                "cal bike*",
+                "*womens calories: 11-9-7-5",
+                "aerobic power [vo2 max]",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-04-09/"
+        },
         {
           "date": "2026-04-08",
           "sections": [
@@ -23,7 +72,7 @@
               "title": "warm up 4min",
               "lines": [
                 "amrap 4min",
-                "10/8cal row",
+                "150/125m row",
                 "100m run",
                 "20 single unders"
               ]
@@ -35,7 +84,7 @@
                 "20 pull ups",
                 "400m run",
                 "60 double under",
-                "80/64cal row",
+                "800/ 640m row",
                 "pull up",
                 "Bisher hat noch niemand einen Score veröffentlicht."
               ]
@@ -493,45 +542,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-03-27/"
-        },
-        {
-          "date": "2026-03-26",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "lat stretch",
-                "scorpions",
-                "hand walk"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 scap. push ups",
-                "10 ring rows",
-                "30sec plank hold",
-                "*remaining time row"
-              ]
-            },
-            {
-              "title": "conditioning 30min",
-              "lines": [
-                "30:00 amrap",
-                "max cal row",
-                "every 3:00 [starting at 0:00]:",
-                "5 strict pull-ups",
-                "10 push-ups",
-                "15 sit-ups",
-                "score: total cal",
-                "aerobic power [lactate threshold]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-03-26/"
         }
       ]
     },
@@ -540,6 +550,20 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-04-09",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Thursday",
+                "260409",
+                "Remembering Rob Orlando â"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260409"
+        },
         {
           "date": "2026-04-08",
           "sections": [
@@ -592,39 +616,14 @@
           "url": "https://www.crossfit.com/260406"
         },
         {
-          "date": "2026-04-05",
+          "date": "2026-04-04",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "Sound Hip Function: The CrossFit Secret to Athletic Power You May Be Missing",
-                "If you want to know what separates elite athletes from everyone else, look at their hips. Sound hip function is the foundation of athletic power. And the good news? CrossFit movements train it naturally.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260405"
-        },
-        {
-          "date": "2026-04-04",
-          "sections": [
-            {
-              "title": "For time:",
-              "lines": [
-                "21 L pull-ups",
-                "42 thrusters",
-                "18 L pull-ups",
-                "36 thrusters",
-                "15 L pull-ups",
-                "30 thrusters",
-                "12 L pull-ups",
-                "24 thrusters",
-                "9 L pull-ups",
-                "18 thrusters",
-                "â 35-lb barbell",
-                "â 45-lb barbell",
-                "Post time to comments."
+                "Saturday",
+                "260404",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -634,32 +633,15 @@
           "date": "2026-04-03",
           "sections": [
             {
-              "title": "8 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "5 box jump-overs",
-                "5 hang power cleans",
-                "â 155-lb barbell and a 24-inch box",
-                "â 225-lb barbell and a 30-inch box",
-                "Post time to comments."
+                "Friday",
+                "260403",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260403"
-        },
-        {
-          "date": "2026-04-02",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Why Stance and Grip Are CrossFit's Critical Performance Details",
-                "Before you lift that barbell or jump to that pull-up bar, there's one thing you should check every single time, but most athletes don't. Your stance and grip determine whether you can execute a movement correctly, and getting them right is easier than you think.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260402"
         },
         {
           "date": "2026-04-01",
@@ -667,15 +649,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Push press 3-2-2-1-1-1 reps",
-                "Compare to similar",
-                "230509",
-                ",",
-                "250120",
-                ", and",
-                "260323",
-                ".",
-                "Post your loads to comments."
+                "Wednesday",
+                "260401",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -702,14 +678,11 @@
           "date": "2026-03-30",
           "sections": [
             {
-              "title": "For reps:",
+              "title": "Workout",
               "lines": [
-                "Tabata air squats",
-                "Tabata push-ups",
-                "Tabata AbMat sit-ups",
-                "Tabata walking lunges",
-                "Each Tabata interval is 20 seconds of work followed by 10 seconds of rest for 8 rounds.",
-                "Post total reps to comments."
+                "Monday",
+                "260330",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -779,9 +752,25 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260327",
-                "Learn the Movement â"
+                "Quarterfinals Workout 2"
+              ]
+            },
+            {
+              "title": "For time, completed anyhow:",
+              "lines": [
+                "80 dumbbell hang squat cleans",
+                "40 bar muscle-ups",
+                "Use two dumbbells."
+              ]
+            },
+            {
+              "title": "Time cap: 15 minutes",
+              "lines": [
+                "â 35-lb dumbbells",
+                "â 50-lb dumbbells",
+                "Post time or reps to the comments.",
+                "Visit the",
+                "for full details, including Age-Group variations of the workout."
               ]
             }
           ],
