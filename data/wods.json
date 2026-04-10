@@ -1,11 +1,55 @@
 {
-  "last_updated": "2026-04-09T05:44:21.435663",
+  "last_updated": "2026-04-10T05:52:33.320876",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-04-10",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "lying hip cross over",
+                "instep rotation",
+                "calf stretch",
+                "hamstring stretch on box"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 good morning",
+                "10 burpees",
+                "10 squat jumps"
+              ]
+            },
+            {
+              "title": "deadlifts 15min",
+              "lines": [
+                "3 sets",
+                "5 deadlifts at 80%",
+                "1 drop set",
+                "max reps at 50%"
+              ]
+            },
+            {
+              "title": "conditioning 15min",
+              "lines": [
+                "10 rounds for time",
+                "5 burpee box jumps 60/50cm",
+                "5 deadlifts 100/70kg",
+                "aerobic power [vo2 max]",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-04-10/"
+        },
         {
           "date": "2026-04-09",
           "sections": [
@@ -497,51 +541,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-03-28/"
-        },
-        {
-          "date": "2026-03-27",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "calf stretch",
-                "lat stretch",
-                "sumo squat stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 air squats",
-                "10 elbow rotations",
-                "20 single unders",
-                "*remaining time bike/ski"
-              ]
-            },
-            {
-              "title": "back squats 15min",
-              "lines": [
-                "3 sets",
-                "5 back squat at 83%",
-                "1 drop set",
-                "max reps at 50%"
-              ]
-            },
-            {
-              "title": "conditioning 14min",
-              "lines": [
-                "4 rounds for time",
-                "60 double unders",
-                "8 front squats 60/40kg",
-                "12/10 cal ski/bike",
-                "aerobic power [vo2 max]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-03-27/"
         }
       ]
     },
@@ -550,6 +549,32 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-04-10",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Kelly"
+              ]
+            },
+            {
+              "title": "5 rounds for time of:",
+              "lines": [
+                "400-meter run",
+                "30 box jumps",
+                "30 wall-ball shots",
+                "â 14-lb medicine ball to a 9-foot target and a 20-inch box",
+                "â 20-lb medicine ball to a 10-foot target and a 24-inch box",
+                "Compare to",
+                "240330",
+                ".",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260410"
+        },
         {
           "date": "2026-04-09",
           "sections": [
@@ -570,11 +595,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Front squat 3-3-3-3-3 reps",
-                "Compare to",
-                "260120",
-                ".",
-                "Post loads to comments."
+                "Wednesday",
+                "260408",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -586,11 +609,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Complete as many rounds and reps as possible in 15 minutes of:",
-                "3 wall walks",
-                "15 burpees",
-                "60 double-unders",
-                "Post total reps to comments."
+                "Tuesday",
+                "260407",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -600,16 +621,11 @@
           "date": "2026-04-06",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "800-meter run",
-                "80 pull-ups",
-                "80 deadlifts",
-                "800-meter run",
-                "Partition the pull-up and deadlift reps any way.",
-                "â 95-lb barbell",
-                "â 135-lb barbell",
-                "Post time to comments."
+                "Monday",
+                "260406",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -619,11 +635,21 @@
           "date": "2026-04-04",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Saturday",
-                "260404",
-                "Learn the Movement â"
+                "21 L pull-ups",
+                "42 thrusters",
+                "18 L pull-ups",
+                "36 thrusters",
+                "15 L pull-ups",
+                "30 thrusters",
+                "12 L pull-ups",
+                "24 thrusters",
+                "9 L pull-ups",
+                "18 thrusters",
+                "â 35-lb barbell",
+                "â 45-lb barbell",
+                "Post time to comments."
               ]
             }
           ],
@@ -633,11 +659,13 @@
           "date": "2026-04-03",
           "sections": [
             {
-              "title": "Workout",
+              "title": "8 rounds for time of:",
               "lines": [
-                "Friday",
-                "260403",
-                "Learn the Movement â"
+                "5 box jump-overs",
+                "5 hang power cleans",
+                "â 155-lb barbell and a 24-inch box",
+                "â 225-lb barbell and a 30-inch box",
+                "Post time to comments."
               ]
             }
           ],
@@ -649,9 +677,15 @@
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260401",
-                "Learn the Movement â"
+                "Push press 3-2-2-1-1-1 reps",
+                "Compare to similar",
+                "230509",
+                ",",
+                "250120",
+                ", and",
+                "260323",
+                ".",
+                "Post your loads to comments."
               ]
             }
           ],
@@ -661,14 +695,11 @@
           "date": "2026-03-31",
           "sections": [
             {
-              "title": "3 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "400-meter run",
-                "30 kettlebell snatches",
-                "20 kettlebell swings",
-                "â 35-lb kettlebell",
-                "â 53-lb kettlebell",
-                "Post time to comments."
+                "Tuesday",
+                "260331",
+                "Practice the Movement â"
               ]
             }
           ],
@@ -689,92 +720,18 @@
           "url": "https://www.crossfit.com/260330"
         },
         {
-          "date": "2026-03-29",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "The One CrossFit Concept That Will Make Every Lift More Efficient",
-                "You've probably heard your coach talk about \"bar path\" or keeping the bar \"close to your body.\" But do you know why it matters? Understanding the frontal plane â the invisible line that determines efficiency in every movement you do â will change how you approach every lift.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260329"
-        },
-        {
           "date": "2026-03-28",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Quarterfinals Workout 3"
-              ]
-            },
-            {
-              "title": "3 rounds of:",
-              "lines": [
-                "50 double-unders",
-                "10 deadlifts, first weight"
-              ]
-            },
-            {
-              "title": "2 rounds of:",
-              "lines": [
-                "50 double-unders",
-                "10 deadlifts, second weight"
-              ]
-            },
-            {
-              "title": "1 round of:",
-              "lines": [
-                "50 double-unders",
-                "10 deadlifts, third weight"
-              ]
-            },
-            {
-              "title": "Time cap: 12 minutes",
-              "lines": [
-                "â 155/185/225-lb barbell",
-                "â 225/275/315-lb barbell",
-                "Post time or reps to the comments.",
-                "Visit the",
-                "for full details, including Age-Group variations of the workout."
+                "Saturday",
+                "260328",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260328"
-        },
-        {
-          "date": "2026-03-27",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Quarterfinals Workout 2"
-              ]
-            },
-            {
-              "title": "For time, completed anyhow:",
-              "lines": [
-                "80 dumbbell hang squat cleans",
-                "40 bar muscle-ups",
-                "Use two dumbbells."
-              ]
-            },
-            {
-              "title": "Time cap: 15 minutes",
-              "lines": [
-                "â 35-lb dumbbells",
-                "â 50-lb dumbbells",
-                "Post time or reps to the comments.",
-                "Visit the",
-                "for full details, including Age-Group variations of the workout."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260327"
         }
       ]
     }
