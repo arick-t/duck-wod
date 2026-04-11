@@ -1,11 +1,48 @@
 {
-  "last_updated": "2026-04-10T05:52:33.320876",
+  "last_updated": "2026-04-11T05:20:59.891133",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-04-11",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "instep rotation",
+                "lat stretch",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "30sec on / 15sec off x2 rounds",
+                "1. scap. push ups",
+                "2. straight leg sit ups",
+                "3. air squats"
+              ]
+            },
+            {
+              "title": "conditioning 30min",
+              "lines": [
+                "in teams of 2",
+                "2:00 on / 00:30 off x 12 rounds",
+                "for max reps/cals",
+                "1. db bench press 2x22,5/15kg",
+                "2. toes to bar",
+                "3. cal bike",
+                "muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-04-11/"
+        },
         {
           "date": "2026-04-10",
           "sections": [
@@ -505,42 +542,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-03-29/"
-        },
-        {
-          "date": "2026-03-28",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "instep rotation",
-                "lat stretch",
-                "samson Stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "amrap 5min",
-                "10 db deadlifts",
-                "10 burpees",
-                "*partner is rowing"
-              ]
-            },
-            {
-              "title": "conditioning 30min",
-              "lines": [
-                "in teams of 2",
-                "30min amrap",
-                "60/54/48 cal row",
-                "30 synchro db snatches 22,5/15kg",
-                "18 burpee pull-ups",
-                "aerobic power [lactate threshold]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-03-28/"
         }
       ]
     },
@@ -549,6 +550,24 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-04-11",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "40-calorie row",
+                "15 muscle-ups",
+                "40-calorie row",
+                "10 muscle-ups",
+                "40-calorie row",
+                "5 muscle-ups",
+                "Post time to the comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260411"
+        },
         {
           "date": "2026-04-10",
           "sections": [
@@ -581,9 +600,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Thursday",
-                "260409",
-                "Remembering Rob Orlando â"
+                "Rest Day",
+                "Rest in Peace, Rob Orlando",
+                "View the CrossFit map"
               ]
             }
           ],
@@ -595,9 +614,11 @@
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260408",
-                "Learn the Movement â"
+                "Front squat 3-3-3-3-3 reps",
+                "Compare to",
+                "260120",
+                ".",
+                "Post loads to comments."
               ]
             }
           ],
@@ -609,9 +630,11 @@
             {
               "title": "Workout",
               "lines": [
-                "Tuesday",
-                "260407",
-                "Learn the Movement â"
+                "Complete as many rounds and reps as possible in 15 minutes of:",
+                "3 wall walks",
+                "15 burpees",
+                "60 double-unders",
+                "Post total reps to comments."
               ]
             }
           ],
@@ -659,13 +682,11 @@
           "date": "2026-04-03",
           "sections": [
             {
-              "title": "8 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "5 box jump-overs",
-                "5 hang power cleans",
-                "â 155-lb barbell and a 24-inch box",
-                "â 225-lb barbell and a 30-inch box",
-                "Post time to comments."
+                "Friday",
+                "260403",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -677,15 +698,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Push press 3-2-2-1-1-1 reps",
-                "Compare to similar",
-                "230509",
-                ",",
-                "250120",
-                ", and",
-                "260323",
-                ".",
-                "Post your loads to comments."
+                "Wednesday",
+                "260401",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -718,20 +733,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260330"
-        },
-        {
-          "date": "2026-03-28",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Saturday",
-                "260328",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260328"
         }
       ]
     }
