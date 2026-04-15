@@ -1,11 +1,57 @@
 {
-  "last_updated": "2026-04-14T05:54:48.386047",
+  "last_updated": "2026-04-15T05:54:51.369101",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-04-15",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "sumo squat stretch",
+                "instep rotations",
+                "calf stretch",
+                "lat stretch"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 air squats",
+                "100m run",
+                "10 ring rows"
+              ]
+            },
+            {
+              "title": "back squats 14min",
+              "lines": [
+                "3 sets",
+                "5 back squats at 83%",
+                "1 drop set",
+                "max reps at 50%"
+              ]
+            },
+            {
+              "title": "conditioning 16min",
+              "lines": [
+                "amrap 16min",
+                "5 front squats 70/50kg",
+                "10 strict pull ups",
+                "200m run",
+                "aerobic power",
+                "squat + pull up",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-04-15/"
+        },
         {
           "date": "2026-04-14",
           "sections": [
@@ -495,52 +541,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-04-02/"
-        },
-        {
-          "date": "2026-04-01",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "lying hip cross over",
-                "thoracic rotation",
-                "scorpions",
-                "lat stretch on box"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 clean grip deadlifts",
-                "10 hang high pulls",
-                "10 squat jumps"
-              ]
-            },
-            {
-              "title": "power clean 15min",
-              "lines": [
-                "3 sets",
-                "5 power cleans at 77-82%",
-                "explosive power"
-              ]
-            },
-            {
-              "title": "conditioning 12min",
-              "lines": [
-                "for time",
-                "18-15-12-9",
-                "hang power cleans 50/35kg",
-                "box jumps 75/60cm",
-                "burpees over the bar",
-                "aerobic power [vo2 max]",
-                "power clean",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-04-01/"
         }
       ]
     },
@@ -549,6 +549,23 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-04-15",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "15 power snatches",
+                "24/30-calorie bike",
+                "15 power snatches",
+                "â 75-lb barbell",
+                "â 115-lb barbell",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260415"
+        },
         {
           "date": "2026-04-14",
           "sections": [
@@ -570,13 +587,30 @@
             {
               "title": "Workout",
               "lines": [
-                "Monday",
-                "260413",
-                "Learn the Movement â"
+                "Hang squat clean 2-2-2-2-2-2-2 reps",
+                "Compare to",
+                "240115",
+                ".",
+                "Post loads to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260413"
+        },
+        {
+          "date": "2026-04-12",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Is Hanging From a Bar Worth Your Time? A CrossFit Reality Check",
+                "Social media says hanging from a bar will change your life. The AI voice guy promises superhuman powers by Day 10. But what does hanging actually do for your CrossFit training, and is it worth the hype?",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260412"
         },
         {
           "date": "2026-04-11",
@@ -602,9 +636,21 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260410",
-                "Learn the Movement â"
+                "Kelly"
+              ]
+            },
+            {
+              "title": "5 rounds for time of:",
+              "lines": [
+                "400-meter run",
+                "30 box jumps",
+                "30 wall-ball shots",
+                "â 14-lb medicine ball to a 9-foot target and a 20-inch box",
+                "â 20-lb medicine ball to a 10-foot target and a 24-inch box",
+                "Compare to",
+                "240330",
+                ".",
+                "Post time to comments."
               ]
             }
           ],
@@ -630,9 +676,11 @@
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260408",
-                "Learn the Movement â"
+                "Front squat 3-3-3-3-3 reps",
+                "Compare to",
+                "260120",
+                ".",
+                "Post loads to comments."
               ]
             }
           ],
@@ -644,9 +692,11 @@
             {
               "title": "Workout",
               "lines": [
-                "Tuesday",
-                "260407",
-                "Learn the Movement â"
+                "Complete as many rounds and reps as possible in 15 minutes of:",
+                "3 wall walks",
+                "15 burpees",
+                "60 double-unders",
+                "Post total reps to comments."
               ]
             }
           ],
@@ -656,25 +706,55 @@
           "date": "2026-04-06",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Monday",
-                "260406",
-                "Learn the Movement â"
+                "800-meter run",
+                "80 pull-ups",
+                "80 deadlifts",
+                "800-meter run",
+                "Partition the pull-up and deadlift reps any way.",
+                "â 95-lb barbell",
+                "â 135-lb barbell",
+                "Post time to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260406"
         },
         {
-          "date": "2026-04-04",
+          "date": "2026-04-05",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260404",
-                "Learn the Movement â"
+                "Rest Day",
+                "Sound Hip Function: The CrossFit Secret to Athletic Power You May Be Missing",
+                "If you want to know what separates elite athletes from everyone else, look at their hips. Sound hip function is the foundation of athletic power. And the good news? CrossFit movements train it naturally.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260405"
+        },
+        {
+          "date": "2026-04-04",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "21 L pull-ups",
+                "42 thrusters",
+                "18 L pull-ups",
+                "36 thrusters",
+                "15 L pull-ups",
+                "30 thrusters",
+                "12 L pull-ups",
+                "24 thrusters",
+                "9 L pull-ups",
+                "18 thrusters",
+                "â 35-lb barbell",
+                "â 45-lb barbell",
+                "Post time to comments."
               ]
             }
           ],
@@ -695,18 +775,19 @@
           "url": "https://www.crossfit.com/260403"
         },
         {
-          "date": "2026-04-01",
+          "date": "2026-04-02",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260401",
-                "Learn the Movement â"
+                "Rest Day",
+                "Why Stance and Grip Are CrossFit's Critical Performance Details",
+                "Before you lift that barbell or jump to that pull-up bar, there's one thing you should check every single time, but most athletes don't. Your stance and grip determine whether you can execute a movement correctly, and getting them right is easier than you think.",
+                "View the CrossFit map"
               ]
             }
           ],
-          "url": "https://www.crossfit.com/260401"
+          "url": "https://www.crossfit.com/260402"
         }
       ]
     }
