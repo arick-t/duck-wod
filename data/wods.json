@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-04-15T05:54:51.369101",
+  "last_updated": "2026-04-16T05:55:41.342748",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-04-16",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "calf stretch",
+                "lat stretch",
+                "handwalk"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 straight leg sit ups",
+                "10 scap. push ups",
+                "10 squat jumps",
+                "*remaining time bike/ski"
+              ]
+            },
+            {
+              "title": "conditioning 32min",
+              "lines": [
+                "amrap 20min",
+                "20 single db hang clean and jerk 22,5/15kg",
+                "30 box jumps",
+                "20 toes to bar",
+                "30/24cal bike/ski",
+                "2min rest",
+                "amrap 10min",
+                "10 single db hang clean and jerk 22,5/15kg",
+                "20 box jumps",
+                "10 toes to bar",
+                "20/16cal bike/ski",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-04-16/"
+        },
         {
           "date": "2026-04-15",
           "sections": [
@@ -497,50 +539,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-04-03/"
-        },
-        {
-          "date": "2026-04-02",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "instep rotation",
-                "handwalk",
-                "sumo squat stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 prone snow angels",
-                "10 medball squats",
-                "10 medball presses",
-                "*remaining time row"
-              ]
-            },
-            {
-              "title": "conditioning 23min",
-              "lines": [
-                "8 x 2:00 amrap:",
-                "18 wallballs 20/14lbs",
-                "cal row in remaining time",
-                "• rest 1:00 between amraps",
-                "score: total row cal",
-                "aerobic power [lactate threshold]"
-              ]
-            },
-            {
-              "title": "core 4min",
-              "lines": [
-                "15sec on / 15sec off x 4 sets",
-                "rower pike ups",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-04-02/"
         }
       ]
     },
@@ -549,6 +547,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-04-16",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Why CrossFit Is the Best Sport-Specific Training (Even Though It's Not Sport-Specific)",
+                "Parents want to know what sport-specific training you offer for their athlete. Coaches promise specialized programs for every sport. But here's the truth: the best preparation for any sport isn't mimicking it in the gym; it's building comprehensive fitness through CrossFit's general physical preparedness.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260416"
+        },
         {
           "date": "2026-04-15",
           "sections": [
@@ -662,9 +675,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "Rest in Peace, Rob Orlando",
-                "View the CrossFit map"
+                "Thursday",
+                "260409",
+                "Remembering Rob Orlando â"
               ]
             }
           ],
@@ -676,11 +689,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Front squat 3-3-3-3-3 reps",
-                "Compare to",
-                "260120",
-                ".",
-                "Post loads to comments."
+                "Wednesday",
+                "260408",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -692,11 +703,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Complete as many rounds and reps as possible in 15 minutes of:",
-                "3 wall walks",
-                "15 burpees",
-                "60 double-unders",
-                "Post total reps to comments."
+                "Tuesday",
+                "260407",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -706,35 +715,15 @@
           "date": "2026-04-06",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "800-meter run",
-                "80 pull-ups",
-                "80 deadlifts",
-                "800-meter run",
-                "Partition the pull-up and deadlift reps any way.",
-                "â 95-lb barbell",
-                "â 135-lb barbell",
-                "Post time to comments."
+                "Monday",
+                "260406",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260406"
-        },
-        {
-          "date": "2026-04-05",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Sound Hip Function: The CrossFit Secret to Athletic Power You May Be Missing",
-                "If you want to know what separates elite athletes from everyone else, look at their hips. Sound hip function is the foundation of athletic power. And the good news? CrossFit movements train it naturally.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260405"
         },
         {
           "date": "2026-04-04",
@@ -773,21 +762,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260403"
-        },
-        {
-          "date": "2026-04-02",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Why Stance and Grip Are CrossFit's Critical Performance Details",
-                "Before you lift that barbell or jump to that pull-up bar, there's one thing you should check every single time, but most athletes don't. Your stance and grip determine whether you can execute a movement correctly, and getting them right is easier than you think.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260402"
         }
       ]
     }
