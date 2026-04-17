@@ -1,11 +1,58 @@
 {
-  "last_updated": "2026-04-16T05:55:41.342748",
+  "last_updated": "2026-04-17T05:57:59.855166",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-04-17",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "lying hip cross over",
+                "instep rotations",
+                "hand walk"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 good mornings",
+                "10/8cal row",
+                "10 reverse lunges"
+              ]
+            },
+            {
+              "title": "deadlifts 15min",
+              "lines": [
+                "3 sets",
+                "5 deadlifts at 83%",
+                "1 drop set",
+                "max reps at 50%"
+              ]
+            },
+            {
+              "title": "conditioning 16min",
+              "lines": [
+                "for time",
+                "40/32cal row",
+                "into",
+                "80 db push ups *",
+                "80 double db reverse lunges 2x22,5/15kg *",
+                "into",
+                "40/32cal row",
+                "* partition any way",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-04-17/"
+        },
         {
           "date": "2026-04-16",
           "sections": [
@@ -526,19 +573,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-04-04/"
-        },
-        {
-          "date": "2026-04-03",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Frohe Oster wünscht das Team von myleo!",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-04-03/"
         }
       ]
     },
@@ -548,19 +582,52 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
-          "date": "2026-04-16",
+          "date": "2026-04-17",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "Why CrossFit Is the Best Sport-Specific Training (Even Though It's Not Sport-Specific)",
-                "Parents want to know what sport-specific training you offer for their athlete. Coaches promise specialized programs for every sport. But here's the truth: the best preparation for any sport isn't mimicking it in the gym; it's building comprehensive fitness through CrossFit's general physical preparedness.",
-                "View the CrossFit map"
+                "Drew"
+              ]
+            },
+            {
+              "title": "For time:",
+              "lines": [
+                "Kraus",
+                "200-meter run",
+                "30 pull-ups",
+                "30 hand-release push-ups",
+                "4 deadlifts",
+                "Rest 30 seconds",
+                "Scott",
+                "400-meter run",
+                "25 pull-ups",
+                "25 hand-release push-ups",
+                "4 deadlifts",
+                "Rest 30 seconds",
+                "Good",
+                "600-meter run",
+                "20 pull-ups",
+                "20 hand-release push-ups",
+                "4 deadlifts",
+                "Rest 30 seconds",
+                "Cully",
+                "800-meter run",
+                "15 pull-ups",
+                "15 hand-release push-ups",
+                "4 deadlifts",
+                "Rest 30 seconds",
+                "Night Stalkers",
+                "269 box step-ups",
+                "Perform the full workout with a weight vest.",
+                "Each round honors one of the Night Stalker Heroes, who died in a helicopter crash on Sept. 17, 2025.",
+                "â 1.5x bodyweight deadlift, 14-lb vest, and a 20-inch box",
+                "â 1.5x bodyweight deadlift, 20-lb vest, and a 20-inch box",
+                "Post time to comments."
               ]
             }
           ],
-          "url": "https://www.crossfit.com/260416"
+          "url": "https://www.crossfit.com/260417"
         },
         {
           "date": "2026-04-15",
@@ -583,12 +650,11 @@
           "date": "2026-04-14",
           "sections": [
             {
-              "title": "10 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "2 rope climbs to 15 feet",
-                "10 GHD sit-ups",
-                "25 double-unders",
-                "Post time to comments."
+                "Tuesday",
+                "260414",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -600,44 +666,23 @@
             {
               "title": "Workout",
               "lines": [
-                "Hang squat clean 2-2-2-2-2-2-2 reps",
-                "Compare to",
-                "240115",
-                ".",
-                "Post loads to comments."
+                "Monday",
+                "260413",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260413"
         },
         {
-          "date": "2026-04-12",
+          "date": "2026-04-11",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "Is Hanging From a Bar Worth Your Time? A CrossFit Reality Check",
-                "Social media says hanging from a bar will change your life. The AI voice guy promises superhuman powers by Day 10. But what does hanging actually do for your CrossFit training, and is it worth the hype?",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260412"
-        },
-        {
-          "date": "2026-04-11",
-          "sections": [
-            {
-              "title": "For time:",
-              "lines": [
-                "40-calorie row",
-                "15 muscle-ups",
-                "40-calorie row",
-                "10 muscle-ups",
-                "40-calorie row",
-                "5 muscle-ups",
-                "Post time to the comments."
+                "Saturday",
+                "260411",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -649,21 +694,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Kelly"
-              ]
-            },
-            {
-              "title": "5 rounds for time of:",
-              "lines": [
-                "400-meter run",
-                "30 box jumps",
-                "30 wall-ball shots",
-                "â 14-lb medicine ball to a 9-foot target and a 20-inch box",
-                "â 20-lb medicine ball to a 10-foot target and a 24-inch box",
-                "Compare to",
-                "240330",
-                ".",
-                "Post time to comments."
+                "Friday",
+                "260410",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -729,39 +762,15 @@
           "date": "2026-04-04",
           "sections": [
             {
-              "title": "For time:",
-              "lines": [
-                "21 L pull-ups",
-                "42 thrusters",
-                "18 L pull-ups",
-                "36 thrusters",
-                "15 L pull-ups",
-                "30 thrusters",
-                "12 L pull-ups",
-                "24 thrusters",
-                "9 L pull-ups",
-                "18 thrusters",
-                "â 35-lb barbell",
-                "â 45-lb barbell",
-                "Post time to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260404"
-        },
-        {
-          "date": "2026-04-03",
-          "sections": [
-            {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260403",
+                "Saturday",
+                "260404",
                 "Learn the Movement â"
               ]
             }
           ],
-          "url": "https://www.crossfit.com/260403"
+          "url": "https://www.crossfit.com/260404"
         }
       ]
     }
