@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-04-17T05:57:59.855166",
+  "last_updated": "2026-04-18T05:28:46.800208",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-04-18",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Spring Challenge 2026",
+                "10:00 - 13:30 Uhr",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-04-18/"
+        },
         {
           "date": "2026-04-17",
           "sections": [
@@ -536,43 +550,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-04-05/"
-        },
-        {
-          "date": "2026-04-04",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "instep rotation",
-                "scorpions",
-                "90/90 hip rotation"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "amrap 5min",
-                "10 sumo deadlifts",
-                "10 scap. push ups",
-                "*partner is biking"
-              ]
-            },
-            {
-              "title": "conditioning 32min",
-              "lines": [
-                "in teams of 2",
-                "for time",
-                "5 rounds",
-                "40/38/36cal bike",
-                "40 sumo deadlift high pulls 35/25kg",
-                "40 push ups",
-                "aerobic power [lactate threshold]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-04-04/"
         }
       ]
     },
@@ -582,48 +559,32 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
+          "date": "2026-04-18",
+          "sections": [
+            {
+              "title": "5 rounds, each for time, of:",
+              "lines": [
+                "75-foot kettlebell front-rack carry",
+                "15 box jump-overs",
+                "75-foot kettlebell front-rack carry",
+                "Rest 2 minutes after each round.",
+                "â 35-lb kettlebells and a 20-inch box",
+                "â 53-lb kettlebells and a 24-inch box",
+                "Post times for each round to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260418"
+        },
+        {
           "date": "2026-04-17",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Drew"
-              ]
-            },
-            {
-              "title": "For time:",
-              "lines": [
-                "Kraus",
-                "200-meter run",
-                "30 pull-ups",
-                "30 hand-release push-ups",
-                "4 deadlifts",
-                "Rest 30 seconds",
-                "Scott",
-                "400-meter run",
-                "25 pull-ups",
-                "25 hand-release push-ups",
-                "4 deadlifts",
-                "Rest 30 seconds",
-                "Good",
-                "600-meter run",
-                "20 pull-ups",
-                "20 hand-release push-ups",
-                "4 deadlifts",
-                "Rest 30 seconds",
-                "Cully",
-                "800-meter run",
-                "15 pull-ups",
-                "15 hand-release push-ups",
-                "4 deadlifts",
-                "Rest 30 seconds",
-                "Night Stalkers",
-                "269 box step-ups",
-                "Perform the full workout with a weight vest.",
-                "Each round honors one of the Night Stalker Heroes, who died in a helicopter crash on Sept. 17, 2025.",
-                "â 1.5x bodyweight deadlift, 14-lb vest, and a 20-inch box",
-                "â 1.5x bodyweight deadlift, 20-lb vest, and a 20-inch box",
-                "Post time to comments."
+                "Friday",
+                "260417",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -633,14 +594,11 @@
           "date": "2026-04-15",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "15 power snatches",
-                "24/30-calorie bike",
-                "15 power snatches",
-                "â 75-lb barbell",
-                "â 115-lb barbell",
-                "Post time to comments."
+                "Wednesday",
+                "260415",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -678,11 +636,15 @@
           "date": "2026-04-11",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Saturday",
-                "260411",
-                "Learn the Movement â"
+                "40-calorie row",
+                "15 muscle-ups",
+                "40-calorie row",
+                "10 muscle-ups",
+                "40-calorie row",
+                "5 muscle-ups",
+                "Post time to the comments."
               ]
             }
           ],
@@ -757,20 +719,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260406"
-        },
-        {
-          "date": "2026-04-04",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Saturday",
-                "260404",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260404"
         }
       ]
     }
