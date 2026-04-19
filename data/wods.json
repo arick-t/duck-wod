@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-04-18T05:28:46.800208",
+  "last_updated": "2026-04-19T05:52:53.149060",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-04-19",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "lat stretch",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "30sec on / 15sec off x2 rounds",
+                "1. air squats",
+                "2. bike/ski",
+                "3. hollow hold",
+                "4. ring rows"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "emom 35min (7 rounds)",
+                "1. 16-20 wall balls",
+                "2. 10-15cal bike/ski",
+                "3. 6-10 strict toes to bar",
+                "4. 10-15 double db bent over row",
+                "5. rest",
+                "Sunday Endurance for Open Gym",
+                "on the 3:00 x 6 rounds:",
+                "15/12 cal row [rpe 7-8]",
+                "15/12 cal bike or ski [rpe 4-5]",
+                "aerobic power [lactate threshold]",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-04-19/"
+        },
         {
           "date": "2026-04-18",
           "sections": [
@@ -529,27 +571,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-04-06/"
-        },
-        {
-          "date": "2026-04-05",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Sunday Endurance for Open Gym",
-                "2:00 row, 1:00 rest",
-                "4:00 row, 1:00 rest",
-                "6:00 row, 1:00 rest",
-                "4:00 row, 1:00 rest",
-                "2:00 row",
-                "rpe: 6-7",
-                "score: total m",
-                "aerobic power [lactate threshold]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-04-05/"
         }
       ]
     },
@@ -582,13 +603,62 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260417",
-                "Learn the Movement â"
+                "Drew"
+              ]
+            },
+            {
+              "title": "For time:",
+              "lines": [
+                "Kraus",
+                "200-meter run",
+                "30 pull-ups",
+                "30 hand-release push-ups",
+                "4 deadlifts",
+                "Rest 30 seconds",
+                "Scott",
+                "400-meter run",
+                "25 pull-ups",
+                "25 hand-release push-ups",
+                "4 deadlifts",
+                "Rest 30 seconds",
+                "Good",
+                "600-meter run",
+                "20 pull-ups",
+                "20 hand-release push-ups",
+                "4 deadlifts",
+                "Rest 30 seconds",
+                "Cully",
+                "800-meter run",
+                "15 pull-ups",
+                "15 hand-release push-ups",
+                "4 deadlifts",
+                "Rest 30 seconds",
+                "Night Stalkers",
+                "269 box step-ups",
+                "Perform the full workout with a weight vest.",
+                "Each round honors one of the Night Stalker Heroes, who died in a helicopter crash on Sept. 17, 2025.",
+                "â 1.5x bodyweight deadlift, 14-lb vest, and a 20-inch box",
+                "â 1.5x bodyweight deadlift, 20-lb vest, and a 20-inch box",
+                "Post time to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260417"
+        },
+        {
+          "date": "2026-04-16",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Why CrossFit Is the Best Sport-Specific Training (Even Though It's Not Sport-Specific)",
+                "Parents want to know what sport-specific training you offer for their athlete. Coaches promise specialized programs for every sport. But here's the truth: the best preparation for any sport isn't mimicking it in the gym; it's building comprehensive fitness through CrossFit's general physical preparedness.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260416"
         },
         {
           "date": "2026-04-15",
@@ -608,11 +678,12 @@
           "date": "2026-04-14",
           "sections": [
             {
-              "title": "Workout",
+              "title": "10 rounds for time of:",
               "lines": [
-                "Tuesday",
-                "260414",
-                "Learn the Movement â"
+                "2 rope climbs to 15 feet",
+                "10 GHD sit-ups",
+                "25 double-unders",
+                "Post time to comments."
               ]
             }
           ],
@@ -624,13 +695,30 @@
             {
               "title": "Workout",
               "lines": [
-                "Monday",
-                "260413",
-                "Learn the Movement â"
+                "Hang squat clean 2-2-2-2-2-2-2 reps",
+                "Compare to",
+                "240115",
+                ".",
+                "Post loads to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260413"
+        },
+        {
+          "date": "2026-04-12",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Is Hanging From a Bar Worth Your Time? A CrossFit Reality Check",
+                "Social media says hanging from a bar will change your life. The AI voice guy promises superhuman powers by Day 10. But what does hanging actually do for your CrossFit training, and is it worth the hype?",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260412"
         },
         {
           "date": "2026-04-11",
@@ -684,9 +772,11 @@
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260408",
-                "Learn the Movement â"
+                "Front squat 3-3-3-3-3 reps",
+                "Compare to",
+                "260120",
+                ".",
+                "Post loads to comments."
               ]
             }
           ],
