@@ -1,11 +1,58 @@
 {
-  "last_updated": "2026-04-19T05:52:53.149060",
+  "last_updated": "2026-04-20T06:08:42.450582",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-04-20",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "calf stretch",
+                "lat stretch on box",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 prone snow angels",
+                "10 push ups",
+                "10 squat jumps",
+                "*remaining time bike/ski"
+              ]
+            },
+            {
+              "title": "bench press 15min",
+              "lines": [
+                "3 sets",
+                "5 bench press at 85%",
+                "1 drop set",
+                "max reps at 50%"
+              ]
+            },
+            {
+              "title": "conditioning 14min",
+              "lines": [
+                "amrap 14min",
+                "8 handstand push-ups",
+                "16/12cal bike/ski",
+                "24 box jumps 60/50cm",
+                "score: rounds + reps",
+                "aerobic power [vo2 max]",
+                "handstand push up",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-04-20/"
+        },
         {
           "date": "2026-04-19",
           "sections": [
@@ -552,25 +599,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-04-07/"
-        },
-        {
-          "date": "2026-04-06",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "weakness work for open gym",
-                "emom 20min",
-                "this is a chance for you to pick two of your weaker movements you’d like to work on in an emom format.",
-                "example:",
-                "minute 1: 30 double unders",
-                "minute 2: 8 toes to bar",
-                "if you would like to simply complete a conditioning piece, replace one of the movements with an erg.",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-04-06/"
         }
       ]
     },
@@ -579,6 +607,37 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-04-20",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "2,000-meter row",
+                "Compare to",
+                "241230",
+                ".",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260420"
+        },
+        {
+          "date": "2026-04-19",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "You're Not Slowing Down. You're Just Getting Started.",
+                "The standard script says your best and fittest years are behind you after 40. CrossFit disagrees. Here's why functional movement, scaled thoughtfully and coached well, may be the most powerful thing you can do to protect your independence, reverse decline, and add real life to your years.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260419"
+        },
         {
           "date": "2026-04-18",
           "sections": [
@@ -664,11 +723,14 @@
           "date": "2026-04-15",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Wednesday",
-                "260415",
-                "Learn the Movement â"
+                "15 power snatches",
+                "24/30-calorie bike",
+                "15 power snatches",
+                "â 75-lb barbell",
+                "â 115-lb barbell",
+                "Post time to comments."
               ]
             }
           ],
@@ -724,15 +786,70 @@
           "date": "2026-04-11",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "40-calorie row",
-                "15 muscle-ups",
-                "40-calorie row",
-                "10 muscle-ups",
-                "40-calorie row",
-                "5 muscle-ups",
-                "Post time to the comments."
+                "Saturday",
+                "260411",
+                "Learn the Movement â",
+                "Sort",
+                "Newest",
+                "Oldest",
+                "Sam O'Connor"
+              ]
+            },
+            {
+              "title": "13:17 Rx",
+              "lines": [
+                "Male, 34x, 6â2ââ, 89kg, 13 years deep.",
+                "6/5/4",
+                "6/4",
+                "5 unbroken.",
+                "Rowing was worse than expected",
+                "Reply",
+                "Share",
+                "Comment URL copied!",
+                "Comment URL copied!",
+                "Print",
+                "Hank McKibban"
+              ]
+            },
+            {
+              "title": "16:19 (500m row, BMUs)",
+              "lines": [
+                "Reply",
+                "Share",
+                "Comment URL copied!",
+                "Comment URL copied!",
+                "Print",
+                "Vito Zolota"
+              ]
+            },
+            {
+              "title": "Commented on: 260411",
+              "lines": [
+                "M/56 ð¨ð»âð¦³"
+              ]
+            },
+            {
+              "title": "TT -> 26:20",
+              "lines": [
+                "Reply",
+                "Share",
+                "Comment URL copied!",
+                "Comment URL copied!",
+                "Print",
+                "Guston Rankin"
+              ]
+            },
+            {
+              "title": "12:59 Rx",
+              "lines": [
+                "Set of 11 to start the round of 15. Rowing took more out of me than expected. Felt great nearing the end of the workout.",
+                "Male, 38yo, 5'10\", 80kg BW, 8+ years in CrossFit",
+                "Reply",
+                "Share",
+                "Comment URL copied!",
+                "Comment URL copied!"
               ]
             }
           ],
@@ -795,20 +912,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260407"
-        },
-        {
-          "date": "2026-04-06",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Monday",
-                "260406",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260406"
         }
       ]
     }
