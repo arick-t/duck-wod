@@ -1,11 +1,64 @@
 {
-  "last_updated": "2026-04-21T05:57:11.387661",
+  "last_updated": "2026-04-22T05:55:05.701522",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-04-22",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "lat stretch",
+                "thoracic rotation",
+                "handwalk",
+                "lying hip cross over"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 straight leg sit ups",
+                "10 good mornings",
+                "10 push ups to down dog"
+              ]
+            },
+            {
+              "title": "deadlifts 15min",
+              "lines": [
+                "3 sets",
+                "5 deadlifts at 85%",
+                "1 drop set",
+                "max reps at 50%"
+              ]
+            },
+            {
+              "title": "conditioning 16min",
+              "lines": [
+                "for time",
+                "30 toes to bar",
+                "30 db hang power cleans",
+                "30 burpee to target",
+                "20 toes to bar",
+                "20 db hang power cleans",
+                "20 burpee to target",
+                "10 toes to bar",
+                "10 db hang power cleans",
+                "10 burpee to target",
+                "dumbbells: 2x22,5/15kg",
+                "aerobic power [lactate threshold]",
+                "toes to bar",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-04-22/"
+        },
         {
           "date": "2026-04-21",
           "sections": [
@@ -551,43 +604,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-04-09/"
-        },
-        {
-          "date": "2026-04-08",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "handwalk",
-                "instep rotations",
-                "calf stretch",
-                "lat stretch"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "150/125m row",
-                "100m run",
-                "20 single unders"
-              ]
-            },
-            {
-              "title": "conditioning 32min",
-              "lines": [
-                "32:00 amrap",
-                "20 pull ups",
-                "400m run",
-                "60 double under",
-                "800/ 640m row",
-                "pull up",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-04-08/"
         }
       ]
     },
@@ -597,14 +613,37 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
+          "date": "2026-04-22",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Overhead squat 8-8-8-8 reps",
+                "Then,",
+                "Complete as many rounds and reps as possible in 6 minutes of:",
+                "40 overhead squats",
+                "30 deficit push-ups",
+                "â 55-lb barbell and a 2-inch deficit",
+                "â 75-lb barbell and a 4-inch deficit",
+                "Post loads and reps to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260422"
+        },
+        {
           "date": "2026-04-21",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Tuesday",
-                "260421",
-                "Learn the Movement â"
+                "On a 1-minute clock for 8 rounds, complete:",
+                "100-meter sprint",
+                "Max clean and jerks",
+                "Rest 3 minutes between rounds. Score is your total clean-and-jerk reps.",
+                "â 75-lb barbell",
+                "â 115-lb barbell",
+                "Post total reps to comments."
               ]
             }
           ],
@@ -623,21 +662,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260420"
-        },
-        {
-          "date": "2026-04-19",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "You're Not Slowing Down. You're Just Getting Started.",
-                "The standard script says your best and fittest years are behind you after 40. CrossFit disagrees. Here's why functional movement, scaled thoughtfully and coached well, may be the most powerful thing you can do to protect your independence, reverse decline, and add real life to your years.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260419"
         },
         {
           "date": "2026-04-18",
@@ -702,14 +726,32 @@
           "url": "https://www.crossfit.com/260417"
         },
         {
-          "date": "2026-04-15",
+          "date": "2026-04-16",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260415",
-                "Learn the Movement â"
+                "Rest Day",
+                "Why CrossFit Is the Best Sport-Specific Training (Even Though It's Not Sport-Specific)",
+                "Parents want to know what sport-specific training you offer for their athlete. Coaches promise specialized programs for every sport. But here's the truth: the best preparation for any sport isn't mimicking it in the gym; it's building comprehensive fitness through CrossFit's general physical preparedness.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260416"
+        },
+        {
+          "date": "2026-04-15",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "15 power snatches",
+                "24/30-calorie bike",
+                "15 power snatches",
+                "â 75-lb barbell",
+                "â 115-lb barbell",
+                "Post time to comments."
               ]
             }
           ],
@@ -719,11 +761,12 @@
           "date": "2026-04-14",
           "sections": [
             {
-              "title": "Workout",
+              "title": "10 rounds for time of:",
               "lines": [
-                "Tuesday",
-                "260414",
-                "Learn the Movement â"
+                "2 rope climbs to 15 feet",
+                "10 GHD sit-ups",
+                "25 double-unders",
+                "Post time to comments."
               ]
             }
           ],
@@ -735,23 +778,44 @@
             {
               "title": "Workout",
               "lines": [
-                "Monday",
-                "260413",
-                "Learn the Movement â"
+                "Hang squat clean 2-2-2-2-2-2-2 reps",
+                "Compare to",
+                "240115",
+                ".",
+                "Post loads to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260413"
         },
         {
-          "date": "2026-04-11",
+          "date": "2026-04-12",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260411",
-                "Learn the Movement â"
+                "Rest Day",
+                "Is Hanging From a Bar Worth Your Time? A CrossFit Reality Check",
+                "Social media says hanging from a bar will change your life. The AI voice guy promises superhuman powers by Day 10. But what does hanging actually do for your CrossFit training, and is it worth the hype?",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260412"
+        },
+        {
+          "date": "2026-04-11",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "40-calorie row",
+                "15 muscle-ups",
+                "40-calorie row",
+                "10 muscle-ups",
+                "40-calorie row",
+                "5 muscle-ups",
+                "Post time to the comments."
               ]
             }
           ],
@@ -763,9 +827,21 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260410",
-                "Learn the Movement â"
+                "Kelly"
+              ]
+            },
+            {
+              "title": "5 rounds for time of:",
+              "lines": [
+                "400-meter run",
+                "30 box jumps",
+                "30 wall-ball shots",
+                "â 14-lb medicine ball to a 9-foot target and a 20-inch box",
+                "â 20-lb medicine ball to a 10-foot target and a 24-inch box",
+                "Compare to",
+                "240330",
+                ".",
+                "Post time to comments."
               ]
             }
           ],
@@ -777,27 +853,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Thursday",
-                "260409",
-                "Remembering Rob Orlando â"
+                "Rest Day",
+                "Rest in Peace, Rob Orlando",
+                "View the CrossFit map"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260409"
-        },
-        {
-          "date": "2026-04-08",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Wednesday",
-                "260408",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260408"
         }
       ]
     }
