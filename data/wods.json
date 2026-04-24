@@ -1,11 +1,70 @@
 {
-  "last_updated": "2026-04-23T05:58:55.400586",
+  "last_updated": "2026-04-24T06:02:25.409413",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-04-24",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "sumo squat stretch",
+                "thoracic rotation",
+                "handwalk",
+                "lat stretch"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 air squats",
+                "10/8cal row",
+                "10 push press"
+              ]
+            },
+            {
+              "title": "back squats 14min",
+              "lines": [
+                "3 sets",
+                "5 back squats at 85%",
+                "1 drop set",
+                "max reps at 50%"
+              ]
+            },
+            {
+              "title": "conditioning 12min",
+              "lines": [
+                "for time",
+                "15 thrusters",
+                "25/20 cal row",
+                "12 thrusters",
+                "25/20 cal row",
+                "9 thrusters",
+                "25/20 cal row",
+                "barbell: 50/35kg",
+                "aerobic power [vo2 max]"
+              ]
+            },
+            {
+              "title": "core & back 5min",
+              "lines": [
+                "amrap 5min",
+                "2-4-6-8…",
+                "barbell roll outs",
+                "4-8-12-16…",
+                "barbell bent over row",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-04-24/"
+        },
         {
           "date": "2026-04-23",
           "sections": [
@@ -543,50 +602,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-04-11/"
-        },
-        {
-          "date": "2026-04-10",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "lying hip cross over",
-                "instep rotation",
-                "calf stretch",
-                "hamstring stretch on box"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 good morning",
-                "10 burpees",
-                "10 squat jumps"
-              ]
-            },
-            {
-              "title": "deadlifts 15min",
-              "lines": [
-                "3 sets",
-                "5 deadlifts at 80%",
-                "1 drop set",
-                "max reps at 50%"
-              ]
-            },
-            {
-              "title": "conditioning 15min",
-              "lines": [
-                "10 rounds for time",
-                "5 burpee box jumps 60/50cm",
-                "5 deadlifts 100/70kg",
-                "aerobic power [vo2 max]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-04-10/"
         }
       ]
     },
@@ -595,6 +610,26 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-04-24",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "100 double-unders",
+                "60 dumbbell deadlifts",
+                "100 double-unders",
+                "45 dumbbell hang power cleans",
+                "100 double-unders",
+                "30 dumbbell push jerks",
+                "â 50-lb dumbbells",
+                "â 70-lb dumbbells",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260424"
+        },
         {
           "date": "2026-04-23",
           "sections": [
@@ -651,32 +686,15 @@
           "date": "2026-04-20",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "2,000-meter row",
-                "Compare to",
-                "241230",
-                ".",
-                "Post time to comments."
+                "Monday",
+                "260420",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260420"
-        },
-        {
-          "date": "2026-04-19",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "You're Not Slowing Down. You're Just Getting Started.",
-                "The standard script says your best and fittest years are behind you after 40. CrossFit disagrees. Here's why functional movement, scaled thoughtfully and coached well, may be the most powerful thing you can do to protect your independence, reverse decline, and add real life to your years.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260419"
         },
         {
           "date": "2026-04-18",
@@ -710,14 +728,11 @@
           "date": "2026-04-15",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "15 power snatches",
-                "24/30-calorie bike",
-                "15 power snatches",
-                "â 75-lb barbell",
-                "â 115-lb barbell",
-                "Post time to comments."
+                "Wednesday",
+                "260415",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -764,32 +779,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260411"
-        },
-        {
-          "date": "2026-04-10",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Kelly"
-              ]
-            },
-            {
-              "title": "5 rounds for time of:",
-              "lines": [
-                "400-meter run",
-                "30 box jumps",
-                "30 wall-ball shots",
-                "â 14-lb medicine ball to a 9-foot target and a 20-inch box",
-                "â 20-lb medicine ball to a 10-foot target and a 24-inch box",
-                "Compare to",
-                "240330",
-                ".",
-                "Post time to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260410"
         }
       ]
     }
