@@ -1,11 +1,58 @@
 {
-  "last_updated": "2026-04-26T06:00:47.079492",
+  "last_updated": "2026-04-27T06:22:03.157544",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-04-27",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "lat stretch",
+                "seated pike stretch",
+                "instep rotation",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "20sec hollow hold",
+                "10 reverse lunges",
+                "10 push ups to down dog"
+              ]
+            },
+            {
+              "title": "bench press 14min",
+              "lines": [
+                "build to a heavy 5-rep bench press"
+              ]
+            },
+            {
+              "title": "conditioning 16min",
+              "lines": [
+                "amrap",
+                "on the 1:00 x 16",
+                "min 1: db reverse lunges",
+                "min 2: db push press",
+                "min 3: pull ups",
+                "min 4: v-ups",
+                "dumbbells: 2x15/10kg",
+                "score: total reps",
+                "muscular endurance",
+                "pull up",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-04-27/"
+        },
         {
           "date": "2026-04-26",
           "sections": [
@@ -555,56 +602,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-04-14/"
-        },
-        {
-          "date": "2026-04-13",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "scorpions",
-                "lat stretch",
-                "thoracic rotation"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 prone snow angels",
-                "10 push ups",
-                "30sec plank hold"
-              ]
-            },
-            {
-              "title": "bench press 14min",
-              "lines": [
-                "3 sets",
-                "5 bench press at 83%",
-                "1 drop set",
-                "max reps at 50%"
-              ]
-            },
-            {
-              "title": "conditioning 17min",
-              "lines": [
-                "for time",
-                "buy-in: 65 sit-ups",
-                "3 rounds",
-                "10 double db push press 2x22,5/15kg *",
-                "100m suitcase carry (r)",
-                "10 double db push press 2x22,5/15kg *",
-                "100m suitcase carry (l)",
-                "cash-out: 65 sit-ups",
-                "muscular endurance",
-                "*rx+ option: 8 handstand push ups",
-                "handstand push ups",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-04-13/"
         }
       ]
     },
@@ -613,6 +610,22 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-04-27",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Deadlift 10-10-7-7-3-3-3 reps",
+                "Compare to similar",
+                "260128",
+                ".",
+                "Post loads to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260427"
+        },
         {
           "date": "2026-04-26",
           "sections": [
@@ -665,14 +678,34 @@
           "url": "https://www.crossfit.com/260424"
         },
         {
+          "date": "2026-04-23",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "CrossFit Isn't Just for the Elite. It Never Was.",
+                "CrossFit started with Navy SEALs and Special Forces operators, and that reputation stuck â maybe too well. The truth is, the same methods that forge elite soldiers are exactly what the rest of us need to stay strong, capable, and independent for life. Whatever your age or starting point, this is your program too.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260423"
+        },
+        {
           "date": "2026-04-22",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260422",
-                "Learn the Movement â"
+                "Overhead squat 8-8-8-8 reps",
+                "Then,",
+                "Complete as many rounds and reps as possible in 6 minutes of:",
+                "40 overhead squats",
+                "30 deficit push-ups",
+                "â 55-lb barbell and a 2-inch deficit",
+                "â 75-lb barbell and a 4-inch deficit",
+                "Post loads and reps to comments."
               ]
             }
           ],
@@ -684,9 +717,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Tuesday",
-                "260421",
-                "Learn the Movement â"
+                "On a 1-minute clock for 8 rounds, complete:",
+                "100-meter sprint",
+                "Max clean and jerks",
+                "Rest 3 minutes between rounds. Score is your total clean-and-jerk reps.",
+                "â 75-lb barbell",
+                "â 115-lb barbell",
+                "Post total reps to comments."
               ]
             }
           ],
@@ -710,15 +747,11 @@
           "date": "2026-04-18",
           "sections": [
             {
-              "title": "5 rounds, each for time, of:",
+              "title": "Workout",
               "lines": [
-                "75-foot kettlebell front-rack carry",
-                "15 box jump-overs",
-                "75-foot kettlebell front-rack carry",
-                "Rest 2 minutes after each round.",
-                "â 35-lb kettlebells and a 20-inch box",
-                "â 53-lb kettlebells and a 24-inch box",
-                "Post times for each round to comments."
+                "Saturday",
+                "260418",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -765,20 +798,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260414"
-        },
-        {
-          "date": "2026-04-13",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Monday",
-                "260413",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260413"
         }
       ]
     }
