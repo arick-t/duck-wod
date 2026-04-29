@@ -1,11 +1,56 @@
 {
-  "last_updated": "2026-04-28T06:23:47.355294",
+  "last_updated": "2026-04-29T06:16:25.616657",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-04-29",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "sumo squat stretch",
+                "thoracic rotation",
+                "samson stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 air squats",
+                "10 elbow rotations",
+                "15sec deep squat hold",
+                "*remaining time bike/ski"
+              ]
+            },
+            {
+              "title": "back squat 15min",
+              "lines": [
+                "build to a heavy 5-rep back squat"
+              ]
+            },
+            {
+              "title": "conditioning 16min",
+              "lines": [
+                "for time",
+                "4 rounds",
+                "30/24cal ski/bike",
+                "15 front squats",
+                "-rest 1:00 between rounds-",
+                "barbell: 50/35kg",
+                "score: total time (including rest)",
+                "aerobic power [vo2 max]",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-04-29/"
+        },
         {
           "date": "2026-04-28",
           "sections": [
@@ -554,52 +599,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-04-16/"
-        },
-        {
-          "date": "2026-04-15",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "sumo squat stretch",
-                "instep rotations",
-                "calf stretch",
-                "lat stretch"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 air squats",
-                "100m run",
-                "10 ring rows"
-              ]
-            },
-            {
-              "title": "back squats 14min",
-              "lines": [
-                "3 sets",
-                "5 back squats at 83%",
-                "1 drop set",
-                "max reps at 50%"
-              ]
-            },
-            {
-              "title": "conditioning 16min",
-              "lines": [
-                "amrap 16min",
-                "5 front squats 70/50kg",
-                "10 strict pull ups",
-                "200m run",
-                "aerobic power",
-                "squat + pull up",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-04-15/"
         }
       ]
     },
@@ -608,6 +607,33 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-04-29",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Andi"
+              ]
+            },
+            {
+              "title": "For time:",
+              "lines": [
+                "100 hang power snatches",
+                "100 push presses",
+                "100 sumo deadlift high pulls",
+                "100 front squats",
+                "â 45-lb barbell",
+                "â 65-lb barbell",
+                "Compare to",
+                "210718",
+                ".",
+                "Post your time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260429"
+        },
         {
           "date": "2026-04-28",
           "sections": [
@@ -632,9 +658,11 @@
             {
               "title": "Workout",
               "lines": [
-                "Monday",
-                "260427",
-                "Learn the Movement â"
+                "Deadlift 10-10-7-7-3-3-3 reps",
+                "Compare to similar",
+                "260128",
+                ".",
+                "Post loads to comments."
               ]
             }
           ],
@@ -675,6 +703,21 @@
           "url": "https://www.crossfit.com/260424"
         },
         {
+          "date": "2026-04-23",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "CrossFit Isn't Just for the Elite. It Never Was.",
+                "CrossFit started with Navy SEALs and Special Forces operators, and that reputation stuck â maybe too well. The truth is, the same methods that forge elite soldiers are exactly what the rest of us need to stay strong, capable, and independent for life. Whatever your age or starting point, this is your program too.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260423"
+        },
+        {
           "date": "2026-04-22",
           "sections": [
             {
@@ -699,9 +742,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Tuesday",
-                "260421",
-                "Learn the Movement â"
+                "On a 1-minute clock for 8 rounds, complete:",
+                "100-meter sprint",
+                "Max clean and jerks",
+                "Rest 3 minutes between rounds. Score is your total clean-and-jerk reps.",
+                "â 75-lb barbell",
+                "â 115-lb barbell",
+                "Post total reps to comments."
               ]
             }
           ],
@@ -722,6 +769,21 @@
             }
           ],
           "url": "https://www.crossfit.com/260420"
+        },
+        {
+          "date": "2026-04-19",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "You're Not Slowing Down. You're Just Getting Started.",
+                "The standard script says your best and fittest years are behind you after 40. CrossFit disagrees. Here's why functional movement, scaled thoughtfully and coached well, may be the most powerful thing you can do to protect your independence, reverse decline, and add real life to your years.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260419"
         },
         {
           "date": "2026-04-18",
@@ -803,23 +865,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260416"
-        },
-        {
-          "date": "2026-04-15",
-          "sections": [
-            {
-              "title": "For time:",
-              "lines": [
-                "15 power snatches",
-                "24/30-calorie bike",
-                "15 power snatches",
-                "â 75-lb barbell",
-                "â 115-lb barbell",
-                "Post time to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260415"
         }
       ]
     }
