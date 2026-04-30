@@ -1,11 +1,55 @@
 {
-  "last_updated": "2026-04-29T06:16:25.616657",
+  "last_updated": "2026-04-30T06:21:12.001320",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-04-30",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "90/90 hip rotation",
+                "hamstring stretch on box",
+                "lying hip cross over",
+                "calf stretch"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "150/125m row",
+                "10 good mornings",
+                "10 squat jumps"
+              ]
+            },
+            {
+              "title": "deadlift 15min",
+              "lines": [
+                "build to a heavy 5-rep deadlift"
+              ]
+            },
+            {
+              "title": "conditioning 16min",
+              "lines": [
+                "for time",
+                "10-20-30-20-10",
+                "box jumps 60/50cm*",
+                "alternating db snatches 22,5/15kg",
+                "250/200m row after each round",
+                "*rx+ option: 75/60cm",
+                "aerobic power [vo2 max]",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-04-30/"
+        },
         {
           "date": "2026-04-29",
           "sections": [
@@ -557,48 +601,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-04-17/"
-        },
-        {
-          "date": "2026-04-16",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "calf stretch",
-                "lat stretch",
-                "handwalk"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 straight leg sit ups",
-                "10 scap. push ups",
-                "10 squat jumps",
-                "*remaining time bike/ski"
-              ]
-            },
-            {
-              "title": "conditioning 32min",
-              "lines": [
-                "amrap 20min",
-                "20 single db hang clean and jerk 22,5/15kg",
-                "30 box jumps",
-                "20 toes to bar",
-                "30/24cal bike/ski",
-                "2min rest",
-                "amrap 10min",
-                "10 single db hang clean and jerk 22,5/15kg",
-                "20 box jumps",
-                "10 toes to bar",
-                "20/16cal bike/ski",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-04-16/"
         }
       ]
     },
@@ -607,6 +609,22 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-04-30",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "What No One Tells You About the CrossFit Level 1",
+                "CrossFit Level 1 Certificate Course",
+                "to learn the methodology, refine your movement, and earn a credential. What you don't expect is to spend two days watching some of the best leaders you've ever seen work in real time: reading people, pivoting on the fly, and pulling more out of athletes than they thought they had. That part isn't on the schedule, but it's what you'll remember longest.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260430"
+        },
         {
           "date": "2026-04-29",
           "sections": [
@@ -658,11 +676,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Deadlift 10-10-7-7-3-3-3 reps",
-                "Compare to similar",
-                "260128",
-                ".",
-                "Post loads to comments."
+                "Monday",
+                "260427",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -686,17 +702,11 @@
           "date": "2026-04-24",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "100 double-unders",
-                "60 dumbbell deadlifts",
-                "100 double-unders",
-                "45 dumbbell hang power cleans",
-                "100 double-unders",
-                "30 dumbbell push jerks",
-                "â 50-lb dumbbells",
-                "â 70-lb dumbbells",
-                "Post time to comments."
+                "Friday",
+                "260424",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -850,21 +860,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260417"
-        },
-        {
-          "date": "2026-04-16",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Why CrossFit Is the Best Sport-Specific Training (Even Though It's Not Sport-Specific)",
-                "Parents want to know what sport-specific training you offer for their athlete. Coaches promise specialized programs for every sport. But here's the truth: the best preparation for any sport isn't mimicking it in the gym; it's building comprehensive fitness through CrossFit's general physical preparedness.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260416"
         }
       ]
     }
