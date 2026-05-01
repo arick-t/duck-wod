@@ -1,11 +1,24 @@
 {
-  "last_updated": "2026-04-30T06:21:12.001320",
+  "last_updated": "2026-05-01T06:30:57.442766",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-05-01",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Open Gym",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-05-01/"
+        },
         {
           "date": "2026-04-30",
           "sections": [
@@ -554,53 +567,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-04-18/"
-        },
-        {
-          "date": "2026-04-17",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "lying hip cross over",
-                "instep rotations",
-                "hand walk"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 good mornings",
-                "10/8cal row",
-                "10 reverse lunges"
-              ]
-            },
-            {
-              "title": "deadlifts 15min",
-              "lines": [
-                "3 sets",
-                "5 deadlifts at 83%",
-                "1 drop set",
-                "max reps at 50%"
-              ]
-            },
-            {
-              "title": "conditioning 16min",
-              "lines": [
-                "for time",
-                "40/32cal row",
-                "into",
-                "80 db push ups *",
-                "80 double db reverse lunges 2x22,5/15kg *",
-                "into",
-                "40/32cal row",
-                "* partition any way",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-04-17/"
         }
       ]
     },
@@ -609,6 +575,32 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-05-01",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Nasty Girls"
+              ]
+            },
+            {
+              "title": "3 rounds for time of:",
+              "lines": [
+                "50 air squats",
+                "7 muscle-ups",
+                "10 hang power cleans",
+                "â 95-lb barbell",
+                "â 135-lb barbell",
+                "Compare to",
+                "221229",
+                ".",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260501"
+        },
         {
           "date": "2026-04-30",
           "sections": [
@@ -713,34 +705,14 @@
           "url": "https://www.crossfit.com/260424"
         },
         {
-          "date": "2026-04-23",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "CrossFit Isn't Just for the Elite. It Never Was.",
-                "CrossFit started with Navy SEALs and Special Forces operators, and that reputation stuck â maybe too well. The truth is, the same methods that forge elite soldiers are exactly what the rest of us need to stay strong, capable, and independent for life. Whatever your age or starting point, this is your program too.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260423"
-        },
-        {
           "date": "2026-04-22",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Overhead squat 8-8-8-8 reps",
-                "Then,",
-                "Complete as many rounds and reps as possible in 6 minutes of:",
-                "40 overhead squats",
-                "30 deficit push-ups",
-                "â 55-lb barbell and a 2-inch deficit",
-                "â 75-lb barbell and a 4-inch deficit",
-                "Post loads and reps to comments."
+                "Wednesday",
+                "260422",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -752,13 +724,9 @@
             {
               "title": "Workout",
               "lines": [
-                "On a 1-minute clock for 8 rounds, complete:",
-                "100-meter sprint",
-                "Max clean and jerks",
-                "Rest 3 minutes between rounds. Score is your total clean-and-jerk reps.",
-                "â 75-lb barbell",
-                "â 115-lb barbell",
-                "Post total reps to comments."
+                "Tuesday",
+                "260421",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -768,98 +736,29 @@
           "date": "2026-04-20",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "2,000-meter row",
-                "Compare to",
-                "241230",
-                ".",
-                "Post time to comments."
+                "Monday",
+                "260420",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260420"
         },
         {
-          "date": "2026-04-19",
+          "date": "2026-04-18",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "You're Not Slowing Down. You're Just Getting Started.",
-                "The standard script says your best and fittest years are behind you after 40. CrossFit disagrees. Here's why functional movement, scaled thoughtfully and coached well, may be the most powerful thing you can do to protect your independence, reverse decline, and add real life to your years.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260419"
-        },
-        {
-          "date": "2026-04-18",
-          "sections": [
-            {
-              "title": "5 rounds, each for time, of:",
-              "lines": [
-                "75-foot kettlebell front-rack carry",
-                "15 box jump-overs",
-                "75-foot kettlebell front-rack carry",
-                "Rest 2 minutes after each round.",
-                "â 35-lb kettlebells and a 20-inch box",
-                "â 53-lb kettlebells and a 24-inch box",
-                "Post times for each round to comments."
+                "Saturday",
+                "260418",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260418"
-        },
-        {
-          "date": "2026-04-17",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Drew"
-              ]
-            },
-            {
-              "title": "For time:",
-              "lines": [
-                "Kraus",
-                "200-meter run",
-                "30 pull-ups",
-                "30 hand-release push-ups",
-                "4 deadlifts",
-                "Rest 30 seconds",
-                "Scott",
-                "400-meter run",
-                "25 pull-ups",
-                "25 hand-release push-ups",
-                "4 deadlifts",
-                "Rest 30 seconds",
-                "Good",
-                "600-meter run",
-                "20 pull-ups",
-                "20 hand-release push-ups",
-                "4 deadlifts",
-                "Rest 30 seconds",
-                "Cully",
-                "800-meter run",
-                "15 pull-ups",
-                "15 hand-release push-ups",
-                "4 deadlifts",
-                "Rest 30 seconds",
-                "Night Stalkers",
-                "269 box step-ups",
-                "Perform the full workout with a weight vest.",
-                "Each round honors one of the Night Stalker Heroes, who died in a helicopter crash on Sept. 17, 2025.",
-                "â 1.5x bodyweight deadlift, 14-lb vest, and a 20-inch box",
-                "â 1.5x bodyweight deadlift, 20-lb vest, and a 20-inch box",
-                "Post time to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260417"
         }
       ]
     }
