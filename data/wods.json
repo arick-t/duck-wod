@@ -1,11 +1,46 @@
 {
-  "last_updated": "2026-05-01T06:30:57.442766",
+  "last_updated": "2026-05-02T06:00:21.689329",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-05-02",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "seated pike stretch",
+                "lat stretch",
+                "samson stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "amrap 5min",
+                "10 straight leg sit ups",
+                "10 prone snow angels",
+                "*partner is running 100m"
+              ]
+            },
+            {
+              "title": "conditioning 30min",
+              "lines": [
+                "amrap 30min",
+                "60 shoulder to overhead 50/35kg",
+                "60 toes to bar",
+                "600m run",
+                "score: rounds + reps",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-05-02/"
+        },
         {
           "date": "2026-05-01",
           "sections": [
@@ -553,20 +588,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-04-19/"
-        },
-        {
-          "date": "2026-04-18",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Spring Challenge 2026",
-                "10:00 - 13:30 Uhr",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-04-18/"
         }
       ]
     },
@@ -575,6 +596,30 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-05-02",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "10 push jerks",
+                "100 double-unders",
+                "8 push jerks",
+                "80 double-unders",
+                "6 push jerks",
+                "60 double-unders",
+                "4 push jerks",
+                "40 double-unders",
+                "2 push jerks",
+                "20 double-unders",
+                "â 125-lb barbell",
+                "â 185-lb barbell",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260502"
+        },
         {
           "date": "2026-05-01",
           "sections": [
@@ -600,22 +645,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260501"
-        },
-        {
-          "date": "2026-04-30",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "What No One Tells You About the CrossFit Level 1",
-                "CrossFit Level 1 Certificate Course",
-                "to learn the methodology, refine your movement, and earn a credential. What you don't expect is to spend two days watching some of the best leaders you've ever seen work in real time: reading people, pivoting on the fly, and pulling more out of athletes than they thought they had. That part isn't on the schedule, but it's what you'll remember longest.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260430"
         },
         {
           "date": "2026-04-29",
@@ -668,9 +697,11 @@
             {
               "title": "Workout",
               "lines": [
-                "Monday",
-                "260427",
-                "Learn the Movement â"
+                "Deadlift 10-10-7-7-3-3-3 reps",
+                "Compare to similar",
+                "260128",
+                ".",
+                "Post loads to comments."
               ]
             }
           ],
@@ -745,20 +776,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260420"
-        },
-        {
-          "date": "2026-04-18",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Saturday",
-                "260418",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260418"
         }
       ]
     }
