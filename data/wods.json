@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-05-02T06:00:21.689329",
+  "last_updated": "2026-05-03T06:20:43.276506",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-05-03",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "samson Stretch",
+                "lat stretch"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "30sec on / 15sec off x2 rounds",
+                "1. shoulder taps",
+                "2. bike/ski",
+                "3. ring rows",
+                "4. reverse lunges"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "emom 35min (7 rounds)",
+                "1. 4-6 wall walks",
+                "2. 10-15cal bike/ski",
+                "3. 6-10 strict pull ups",
+                "4. 10-16 goblet reverse lunges",
+                "5. rest",
+                "Sunday Endurance for Open Gym",
+                "4 rounds",
+                "1km run",
+                "1km row",
+                "aerobic capacity",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-05-03/"
+        },
         {
           "date": "2026-05-02",
           "sections": [
@@ -30,6 +72,7 @@
             {
               "title": "conditioning 30min",
               "lines": [
+                "in teams of 2",
                 "amrap 30min",
                 "60 shoulder to overhead 50/35kg",
                 "60 toes to bar",
@@ -546,48 +589,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-04-20/"
-        },
-        {
-          "date": "2026-04-19",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "lat stretch",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "30sec on / 15sec off x2 rounds",
-                "1. air squats",
-                "2. bike/ski",
-                "3. hollow hold",
-                "4. ring rows"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "emom 35min (7 rounds)",
-                "1. 16-20 wall balls",
-                "2. 10-15cal bike/ski",
-                "3. 6-10 strict toes to bar",
-                "4. 10-15 double db bent over row",
-                "5. rest",
-                "Sunday Endurance for Open Gym",
-                "on the 3:00 x 6 rounds:",
-                "15/12 cal row [rpe 7-8]",
-                "15/12 cal bike or ski [rpe 4-5]",
-                "aerobic power [lactate threshold]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-04-19/"
         }
       ]
     },
@@ -596,6 +597,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-05-03",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Shut Up and Train",
+                "In a world drowning in fitness advice, the hardest thing to do is also the most important: starting. CrossFit has been delivering results since before the research caught up, and now it's catching up fast. Stop overthinking it, commit to six months, and let the work do the talking.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260503"
+        },
         {
           "date": "2026-05-02",
           "sections": [
@@ -645,6 +661,22 @@
             }
           ],
           "url": "https://www.crossfit.com/260501"
+        },
+        {
+          "date": "2026-04-30",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "What No One Tells You About the CrossFit Level 1",
+                "CrossFit Level 1 Certificate Course",
+                "to learn the methodology, refine your movement, and earn a credential. What you don't expect is to spend two days watching some of the best leaders you've ever seen work in real time: reading people, pivoting on the fly, and pulling more out of athletes than they thought they had. That part isn't on the schedule, but it's what you'll remember longest.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260430"
         },
         {
           "date": "2026-04-29",
@@ -708,14 +740,31 @@
           "url": "https://www.crossfit.com/260427"
         },
         {
-          "date": "2026-04-25",
+          "date": "2026-04-26",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260425",
-                "Learn the Movement â"
+                "Rest Day",
+                "Your CrossFit Gym Doesn't Have a Random Programming Problem",
+                "CrossFit programming might not look like a perfectly structured 12-week plan, but that's exactly what makes it work. Your coaches are managing intensity, movement variety, and your real-life capacity every single day, whether you realize it or not. The program isn't random; it's built to flex around the one thing a spreadsheet can't account for: you.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260426"
+        },
+        {
+          "date": "2026-04-25",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "400-meter bear crawl",
+                "400-meter run",
+                "400-meter walking lunges",
+                "400-meter run",
+                "Post time to comments."
               ]
             }
           ],
@@ -755,9 +804,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Tuesday",
-                "260421",
-                "Learn the Movement â"
+                "On a 1-minute clock for 8 rounds, complete:",
+                "100-meter sprint",
+                "Max clean and jerks",
+                "Rest 3 minutes between rounds. Score is your total clean-and-jerk reps.",
+                "â 75-lb barbell",
+                "â 115-lb barbell",
+                "Post total reps to comments."
               ]
             }
           ],
