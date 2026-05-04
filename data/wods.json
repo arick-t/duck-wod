@@ -1,11 +1,56 @@
 {
-  "last_updated": "2026-05-03T06:20:43.276506",
+  "last_updated": "2026-05-04T06:33:08.561611",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-05-04",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "instep rotation",
+                "lat stretch",
+                "sumo squat stretch",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 prone snow angels",
+                "15sec deep squat hold",
+                "10 ring rows"
+              ]
+            },
+            {
+              "title": "strict pull up 12min",
+              "lines": [
+                "build to a heavy set of 3"
+              ]
+            },
+            {
+              "title": "conditioning 20min",
+              "lines": [
+                "buy in: 800m run",
+                "into",
+                "amrap",
+                "5 pull ups",
+                "10 push ups",
+                "15 air squats",
+                "\"Murph\" -prep",
+                "pull up",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-05-04/"
+        },
         {
           "date": "2026-05-03",
           "sections": [
@@ -542,53 +587,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-04-21/"
-        },
-        {
-          "date": "2026-04-20",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "calf stretch",
-                "lat stretch on box",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 prone snow angels",
-                "10 push ups",
-                "10 squat jumps",
-                "*remaining time bike/ski"
-              ]
-            },
-            {
-              "title": "bench press 15min",
-              "lines": [
-                "3 sets",
-                "5 bench press at 85%",
-                "1 drop set",
-                "max reps at 50%"
-              ]
-            },
-            {
-              "title": "conditioning 14min",
-              "lines": [
-                "amrap 14min",
-                "8 handstand push-ups",
-                "16/12cal bike/ski",
-                "24 box jumps 60/50cm",
-                "score: rounds + reps",
-                "aerobic power [vo2 max]",
-                "handstand push up",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-04-20/"
         }
       ]
     },
@@ -597,6 +595,24 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-05-04",
+          "sections": [
+            {
+              "title": "75-50-25 reps for time of:",
+              "lines": [
+                "Wall-ball shots",
+                "AbMat sit-ups",
+                "Bike calories*",
+                "*Women bike 60-40-20 calories",
+                "â 14-lb medicine ball to a 9-foot target",
+                "â 20-lb medicine ball to a 10-foot target",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260504"
+        },
         {
           "date": "2026-05-03",
           "sections": [
@@ -663,43 +679,14 @@
           "url": "https://www.crossfit.com/260501"
         },
         {
-          "date": "2026-04-30",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "What No One Tells You About the CrossFit Level 1",
-                "CrossFit Level 1 Certificate Course",
-                "to learn the methodology, refine your movement, and earn a credential. What you don't expect is to spend two days watching some of the best leaders you've ever seen work in real time: reading people, pivoting on the fly, and pulling more out of athletes than they thought they had. That part isn't on the schedule, but it's what you'll remember longest.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260430"
-        },
-        {
           "date": "2026-04-29",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Andi"
-              ]
-            },
-            {
-              "title": "For time:",
-              "lines": [
-                "100 hang power snatches",
-                "100 push presses",
-                "100 sumo deadlift high pulls",
-                "100 front squats",
-                "â 45-lb barbell",
-                "â 65-lb barbell",
-                "Compare to",
-                "210718",
-                ".",
-                "Post your time to comments."
+                "Wednesday",
+                "260429",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -729,42 +716,23 @@
             {
               "title": "Workout",
               "lines": [
-                "Deadlift 10-10-7-7-3-3-3 reps",
-                "Compare to similar",
-                "260128",
-                ".",
-                "Post loads to comments."
+                "Monday",
+                "260427",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260427"
         },
         {
-          "date": "2026-04-26",
+          "date": "2026-04-25",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "Your CrossFit Gym Doesn't Have a Random Programming Problem",
-                "CrossFit programming might not look like a perfectly structured 12-week plan, but that's exactly what makes it work. Your coaches are managing intensity, movement variety, and your real-life capacity every single day, whether you realize it or not. The program isn't random; it's built to flex around the one thing a spreadsheet can't account for: you.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260426"
-        },
-        {
-          "date": "2026-04-25",
-          "sections": [
-            {
-              "title": "For time:",
-              "lines": [
-                "400-meter bear crawl",
-                "400-meter run",
-                "400-meter walking lunges",
-                "400-meter run",
-                "Post time to comments."
+                "Saturday",
+                "260425",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -790,9 +758,14 @@
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260422",
-                "Learn the Movement â"
+                "Overhead squat 8-8-8-8 reps",
+                "Then,",
+                "Complete as many rounds and reps as possible in 6 minutes of:",
+                "40 overhead squats",
+                "30 deficit push-ups",
+                "â 55-lb barbell and a 2-inch deficit",
+                "â 75-lb barbell and a 4-inch deficit",
+                "Post loads and reps to comments."
               ]
             }
           ],
@@ -815,20 +788,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260421"
-        },
-        {
-          "date": "2026-04-20",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Monday",
-                "260420",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260420"
         }
       ]
     }
