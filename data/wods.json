@@ -1,11 +1,47 @@
 {
-  "last_updated": "2026-05-05T06:09:29.790845",
+  "last_updated": "2026-05-06T06:24:13.928593",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-05-06",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "calf stretch",
+                "instep rotation"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "1:00 on/ 00:30 off x 4 rounds",
+                "1. 7 burpees + remaining time row",
+                "2. 7 squat jumps + remaining time bike"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "amrap 35min",
+                "30 dball box step ups 20/15kg",
+                "40/32cal bike/row",
+                "40 box jumps 60/50cm",
+                "40/32cal row/bike",
+                "30 burpees to target",
+                "aerobic capacity",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-05-06/"
+        },
         {
           "date": "2026-05-05",
           "sections": [
@@ -541,59 +577,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-04-23/"
-        },
-        {
-          "date": "2026-04-22",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "lat stretch",
-                "thoracic rotation",
-                "handwalk",
-                "lying hip cross over"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 straight leg sit ups",
-                "10 good mornings",
-                "10 push ups to down dog"
-              ]
-            },
-            {
-              "title": "deadlifts 15min",
-              "lines": [
-                "3 sets",
-                "5 deadlifts at 85%",
-                "1 drop set",
-                "max reps at 50%"
-              ]
-            },
-            {
-              "title": "conditioning 16min",
-              "lines": [
-                "for time",
-                "30 toes to bar",
-                "30 db hang power cleans",
-                "30 burpee to target",
-                "20 toes to bar",
-                "20 db hang power cleans",
-                "20 burpee to target",
-                "10 toes to bar",
-                "10 db hang power cleans",
-                "10 burpee to target",
-                "dumbbells: 2x22,5/15kg",
-                "aerobic power [lactate threshold]",
-                "toes to bar",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-04-22/"
         }
       ]
     },
@@ -602,6 +585,22 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-05-06",
+          "sections": [
+            {
+              "title": "2 rounds for time of:",
+              "lines": [
+                "1,600-meter run",
+                "15 deadlifts",
+                "â 225-lb barbell",
+                "â 315-lb barbell",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260506"
+        },
         {
           "date": "2026-05-05",
           "sections": [
@@ -622,15 +621,11 @@
           "date": "2026-05-04",
           "sections": [
             {
-              "title": "75-50-25 reps for time of:",
+              "title": "Workout",
               "lines": [
-                "Wall-ball shots",
-                "AbMat sit-ups",
-                "Bike calories*",
-                "*Women bike 60-40-20 calories",
-                "â 14-lb medicine ball to a 9-foot target",
-                "â 20-lb medicine ball to a 10-foot target",
-                "Post time to comments."
+                "Monday",
+                "260504",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -656,21 +651,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Nasty Girls"
-              ]
-            },
-            {
-              "title": "3 rounds for time of:",
-              "lines": [
-                "50 air squats",
-                "7 muscle-ups",
-                "10 hang power cleans",
-                "â 95-lb barbell",
-                "â 135-lb barbell",
-                "Compare to",
-                "221229",
-                ".",
-                "Post time to comments."
+                "Friday",
+                "260501",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -696,13 +679,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Complete as many rounds and reps as possible in 20 minutes of:",
-                "400-meter run",
-                "100-foot handstand walk",
-                "50 box step-ups",
-                "â 20-inch box",
-                "â 24-inch box",
-                "Post rounds and reps to comments."
+                "Tuesday",
+                "260428",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -714,42 +693,23 @@
             {
               "title": "Workout",
               "lines": [
-                "Deadlift 10-10-7-7-3-3-3 reps",
-                "Compare to similar",
-                "260128",
-                ".",
-                "Post loads to comments."
+                "Monday",
+                "260427",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260427"
         },
         {
-          "date": "2026-04-26",
+          "date": "2026-04-25",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "Your CrossFit Gym Doesn't Have a Random Programming Problem",
-                "CrossFit programming might not look like a perfectly structured 12-week plan, but that's exactly what makes it work. Your coaches are managing intensity, movement variety, and your real-life capacity every single day, whether you realize it or not. The program isn't random; it's built to flex around the one thing a spreadsheet can't account for: you.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260426"
-        },
-        {
-          "date": "2026-04-25",
-          "sections": [
-            {
-              "title": "For time:",
-              "lines": [
-                "400-meter bear crawl",
-                "400-meter run",
-                "400-meter walking lunges",
-                "400-meter run",
-                "Post time to comments."
+                "Saturday",
+                "260425",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -759,50 +719,15 @@
           "date": "2026-04-24",
           "sections": [
             {
-              "title": "For time:",
-              "lines": [
-                "100 double-unders",
-                "60 dumbbell deadlifts",
-                "100 double-unders",
-                "45 dumbbell hang power cleans",
-                "100 double-unders",
-                "30 dumbbell push jerks",
-                "â 50-lb dumbbells",
-                "â 70-lb dumbbells",
-                "Post time to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260424"
-        },
-        {
-          "date": "2026-04-23",
-          "sections": [
-            {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "CrossFit Isn't Just for the Elite. It Never Was.",
-                "CrossFit started with Navy SEALs and Special Forces operators, and that reputation stuck â maybe too well. The truth is, the same methods that forge elite soldiers are exactly what the rest of us need to stay strong, capable, and independent for life. Whatever your age or starting point, this is your program too.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260423"
-        },
-        {
-          "date": "2026-04-22",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Wednesday",
-                "260422",
+                "Friday",
+                "260424",
                 "Learn the Movement â"
               ]
             }
           ],
-          "url": "https://www.crossfit.com/260422"
+          "url": "https://www.crossfit.com/260424"
         }
       ]
     }
