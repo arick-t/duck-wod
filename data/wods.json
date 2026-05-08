@@ -1,11 +1,61 @@
 {
-  "last_updated": "2026-05-07T06:29:08.830171",
+  "last_updated": "2026-05-08T05:50:42.379004",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-05-08",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "seated pike stretch",
+                "instep rotation",
+                "lat stretch"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "40 on / 20 off x6",
+                "1. row",
+                "2. scap. pull ups",
+                "3. straight leg sit ups"
+              ]
+            },
+            {
+              "title": "conditioning 18min",
+              "lines": [
+                "on every 6:00",
+                "each for time",
+                "1. 1000/900m row",
+                "2. 60 toes to bar",
+                "3. 400m farmers carry 2x24/16kg",
+                "score: sum of all times",
+                "aerobic power & muscular endurance"
+              ]
+            },
+            {
+              "title": "upper back + core 12min",
+              "lines": [
+                "on every 1:30 x 8 sets",
+                "1. 12-16 kb gorilla rows",
+                "2. 12-16 kb pull through"
+              ]
+            },
+            {
+              "title": "(core-) strength",
+              "lines": [
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-05-08/"
+        },
         {
           "date": "2026-05-07",
           "sections": [
@@ -539,65 +589,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-04-25/"
-        },
-        {
-          "date": "2026-04-24",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "sumo squat stretch",
-                "thoracic rotation",
-                "handwalk",
-                "lat stretch"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 air squats",
-                "10/8cal row",
-                "10 push press"
-              ]
-            },
-            {
-              "title": "back squats 14min",
-              "lines": [
-                "3 sets",
-                "5 back squats at 85%",
-                "1 drop set",
-                "max reps at 50%"
-              ]
-            },
-            {
-              "title": "conditioning 12min",
-              "lines": [
-                "for time",
-                "15 thrusters",
-                "25/20 cal row",
-                "12 thrusters",
-                "25/20 cal row",
-                "9 thrusters",
-                "25/20 cal row",
-                "barbell: 50/35kg",
-                "aerobic power [vo2 max]"
-              ]
-            },
-            {
-              "title": "core & back 5min",
-              "lines": [
-                "amrap 5min",
-                "2-4-6-8…",
-                "barbell roll outs",
-                "4-8-12-16…",
-                "barbell bent over row",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-04-24/"
         }
       ]
     },
@@ -607,14 +598,60 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
-          "date": "2026-05-06",
+          "date": "2026-05-08",
+          "sections": [
+            {
+              "title": "On a 4-minute clock:",
+              "lines": [
+                "Max snatches, first weight",
+                "Rest 4 minutes"
+              ]
+            },
+            {
+              "title": "On a 3-minute clock:",
+              "lines": [
+                "Max snatches, second weight",
+                "Rest 3 minutes"
+              ]
+            },
+            {
+              "title": "On a 2-minute clock:",
+              "lines": [
+                "Max snatches, third weight",
+                "â 105/125/145-lb barbell",
+                "â 155/185/205-lb barbell",
+                "Post total reps to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260508"
+        },
+        {
+          "date": "2026-05-07",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260506",
-                "Drill the Movement â"
+                "Rest Day",
+                "You're Asking the Wrong Question at the Gym",
+                "One of the most common questions coaches get is \"What muscles does this exercise work?\" If youâre thinking about working out in this way, it reveals a mindset that's quietly working against you. When you train for form, you're focused on the outcome. When you train for function, you get the outcome anyway.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260507"
+        },
+        {
+          "date": "2026-05-06",
+          "sections": [
+            {
+              "title": "2 rounds for time of:",
+              "lines": [
+                "1,600-meter run",
+                "15 deadlifts",
+                "â 225-lb barbell",
+                "â 315-lb barbell",
+                "Post time to comments."
               ]
             }
           ],
@@ -638,34 +675,15 @@
           "date": "2026-05-04",
           "sections": [
             {
-              "title": "75-50-25 reps for time of:",
+              "title": "Workout",
               "lines": [
-                "Wall-ball shots",
-                "AbMat sit-ups",
-                "Bike calories*",
-                "*Women bike 60-40-20 calories",
-                "â 14-lb medicine ball to a 9-foot target",
-                "â 20-lb medicine ball to a 10-foot target",
-                "Post time to comments."
+                "Monday",
+                "260504",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260504"
-        },
-        {
-          "date": "2026-05-03",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Shut Up and Train",
-                "In a world drowning in fitness advice, the hardest thing to do is also the most important: starting. CrossFit has been delivering results since before the research caught up, and now it's catching up fast. Stop overthinking it, commit to six months, and let the work do the talking.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260503"
         },
         {
           "date": "2026-05-02",
@@ -766,13 +784,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Complete as many rounds and reps as possible in 20 minutes of:",
-                "400-meter run",
-                "100-foot handstand walk",
-                "50 box step-ups",
-                "â 20-inch box",
-                "â 24-inch box",
-                "Post rounds and reps to comments."
+                "Tuesday",
+                "260428",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -805,20 +819,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260425"
-        },
-        {
-          "date": "2026-04-24",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Friday",
-                "260424",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260424"
         }
       ]
     }
