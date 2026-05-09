@@ -1,11 +1,48 @@
 {
-  "last_updated": "2026-05-08T05:50:42.379004",
+  "last_updated": "2026-05-09T06:08:56.735564",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-05-09",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "sumo squat stretch",
+                "lat stretch",
+                "thoracic rotation"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "amrap 5min",
+                "10 sumo deadlifts",
+                "10 push press",
+                "*partner is skiing"
+              ]
+            },
+            {
+              "title": "conditioning 30min",
+              "lines": [
+                "in teams of 2",
+                "for time",
+                "4 rounds",
+                "40 thrusters 40/30kg",
+                "20/18/16cal ski",
+                "40 sumo deadlift high pulls",
+                "20/18/16cal ski",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-05-09/"
+        },
         {
           "date": "2026-05-08",
           "sections": [
@@ -553,42 +590,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-04-26/"
-        },
-        {
-          "date": "2026-04-25",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "samson stretch",
-                "lying hip cross over",
-                "lat stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "amrap 5min",
-                "10 db deadlifts",
-                "10 ring rows",
-                "*partner is biking"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "in teams of 2",
-                "for time",
-                "5 rounds",
-                "48/42/36cal bike",
-                "36 db snatches 25/17,5kg",
-                "24 strict pull-ups",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-04-25/"
         }
       ]
     },
@@ -597,6 +598,26 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-05-09",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Cindy",
+                "Complete as many rounds and reps as possible in 20 minutes of:",
+                "5 pull-ups",
+                "10 push-ups",
+                "15 air squats",
+                "Compare to",
+                "251125",
+                ".",
+                "Post your rounds and reps to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260509"
+        },
         {
           "date": "2026-05-08",
           "sections": [
@@ -661,11 +682,13 @@
           "date": "2026-05-05",
           "sections": [
             {
-              "title": "Workout",
+              "title": "5 rounds for time of:",
               "lines": [
-                "Tuesday",
-                "260505",
-                "Learn the Movement â"
+                "15 box jumps",
+                "15 bench presses",
+                "â 95-lb barbell and a 24-inch box",
+                "â 135-lb barbell and a 30-inch box",
+                "Post time to comments."
               ]
             }
           ],
@@ -675,35 +698,44 @@
           "date": "2026-05-04",
           "sections": [
             {
-              "title": "Workout",
+              "title": "75-50-25 reps for time of:",
               "lines": [
-                "Monday",
-                "260504",
-                "Learn the Movement â"
+                "Wall-ball shots",
+                "AbMat sit-ups",
+                "Bike calories*",
+                "*Women bike 60-40-20 calories",
+                "â 14-lb medicine ball to a 9-foot target",
+                "â 20-lb medicine ball to a 10-foot target",
+                "Post time to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260504"
         },
         {
+          "date": "2026-05-03",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Shut Up and Train",
+                "In a world drowning in fitness advice, the hardest thing to do is also the most important: starting. CrossFit has been delivering results since before the research caught up, and now it's catching up fast. Stop overthinking it, commit to six months, and let the work do the talking.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260503"
+        },
+        {
           "date": "2026-05-02",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "10 push jerks",
-                "100 double-unders",
-                "8 push jerks",
-                "80 double-unders",
-                "6 push jerks",
-                "60 double-unders",
-                "4 push jerks",
-                "40 double-unders",
-                "2 push jerks",
-                "20 double-unders",
-                "â 125-lb barbell",
-                "â 185-lb barbell",
-                "Post time to comments."
+                "Saturday",
+                "260502",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -784,9 +816,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Tuesday",
-                "260428",
-                "Learn the Movement â"
+                "Complete as many rounds and reps as possible in 20 minutes of:",
+                "400-meter run",
+                "100-foot handstand walk",
+                "50 box step-ups",
+                "â 20-inch box",
+                "â 24-inch box",
+                "Post rounds and reps to comments."
               ]
             }
           ],
@@ -805,20 +841,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260427"
-        },
-        {
-          "date": "2026-04-25",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Saturday",
-                "260425",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260425"
         }
       ]
     }
