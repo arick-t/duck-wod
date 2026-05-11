@@ -1,11 +1,56 @@
 {
-  "last_updated": "2026-05-10T06:28:03.874696",
+  "last_updated": "2026-05-11T06:58:03.699095",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-05-11",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "instep rotation",
+                "lat stretch",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 air squats",
+                "10/8cal row",
+                "10 ring rows"
+              ]
+            },
+            {
+              "title": "pull ups 15min",
+              "lines": [
+                "4 super sets:",
+                "8 pull ups @rpe 6-7",
+                "12-15 banded lat pull downs"
+              ]
+            },
+            {
+              "title": "conditioning 15min",
+              "lines": [
+                "on every 3:00 x 5 rounds",
+                "12 double db hang squat cleans 2x22,5/15kg",
+                "15/12cal row",
+                "score: slowest round",
+                "aerobic power & vo2max",
+                "hang squat clean",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-05-11/"
+        },
         {
           "date": "2026-05-10",
           "sections": [
@@ -542,53 +587,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-04-28/"
-        },
-        {
-          "date": "2026-04-27",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "lat stretch",
-                "seated pike stretch",
-                "instep rotation",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "20sec hollow hold",
-                "10 reverse lunges",
-                "10 push ups to down dog"
-              ]
-            },
-            {
-              "title": "bench press 14min",
-              "lines": [
-                "build to a heavy 5-rep bench press"
-              ]
-            },
-            {
-              "title": "conditioning 16min",
-              "lines": [
-                "amrap",
-                "on the 1:00 x 16",
-                "min 1: db reverse lunges",
-                "min 2: db push press",
-                "min 3: pull ups",
-                "min 4: v-ups",
-                "dumbbells: 2x15/10kg",
-                "score: total reps",
-                "muscular endurance",
-                "pull up",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-04-27/"
         }
       ]
     },
@@ -597,6 +595,38 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-05-11",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "30 power cleans",
+                "800-meter run",
+                "30 power cleans",
+                "â 105-lb barbell",
+                "â 155-lb barbell",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260511"
+        },
+        {
+          "date": "2026-05-10",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "âOK, So What Actually Is CrossFit?â",
+                "Most people who think CrossFit isn't for them are working with the wrong information â and this article is the one to send them. We took CrossFit's original \"Foundations\" article and turned it into the conversation every skeptic deserves to have before they make up their mind. If someone in your life has been curious, dismissive, or just unconvinced, start here.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260510"
+        },
         {
           "date": "2026-05-09",
           "sections": [
@@ -681,11 +711,13 @@
           "date": "2026-05-05",
           "sections": [
             {
-              "title": "Workout",
+              "title": "5 rounds for time of:",
               "lines": [
-                "Tuesday",
-                "260505",
-                "Learn the Movement â"
+                "15 box jumps",
+                "15 bench presses",
+                "â 95-lb barbell and a 24-inch box",
+                "â 135-lb barbell and a 30-inch box",
+                "Post time to comments."
               ]
             }
           ],
@@ -739,9 +771,22 @@
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260429",
-                "Learn the Movement â"
+                "Andi"
+              ]
+            },
+            {
+              "title": "For time:",
+              "lines": [
+                "100 hang power snatches",
+                "100 push presses",
+                "100 sumo deadlift high pulls",
+                "100 front squats",
+                "â 45-lb barbell",
+                "â 65-lb barbell",
+                "Compare to",
+                "210718",
+                ".",
+                "Post your time to comments."
               ]
             }
           ],
@@ -753,27 +798,17 @@
             {
               "title": "Workout",
               "lines": [
-                "Tuesday",
-                "260428",
-                "Learn the Movement â"
+                "Complete as many rounds and reps as possible in 20 minutes of:",
+                "400-meter run",
+                "100-foot handstand walk",
+                "50 box step-ups",
+                "â 20-inch box",
+                "â 24-inch box",
+                "Post rounds and reps to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260428"
-        },
-        {
-          "date": "2026-04-27",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Monday",
-                "260427",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260427"
         }
       ]
     }
