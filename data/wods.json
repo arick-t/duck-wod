@@ -1,11 +1,57 @@
 {
-  "last_updated": "2026-05-11T06:58:03.699095",
+  "last_updated": "2026-05-12T06:30:39.726968",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-05-12",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "samson stretch",
+                "seated pike stretch",
+                "lat stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 prone snow angels",
+                "10 push ups",
+                "20sec hollow hold",
+                "*remaining time bike/ski"
+              ]
+            },
+            {
+              "title": "strict press 15min",
+              "lines": [
+                "4 super sets:",
+                "8 strict press @ rpe 6-7",
+                "12-15 db lateral raises"
+              ]
+            },
+            {
+              "title": "conditioning 16min",
+              "lines": [
+                "amrap 16min",
+                "16 toes to bar",
+                "16 push press 50/35kg",
+                "every 2:00 [starting at 0:00]:",
+                "12/10cal bike/ski",
+                "score: rounds + reps",
+                "aerobic power [lactate threshold]",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-05-12/"
+        },
         {
           "date": "2026-05-11",
           "sections": [
@@ -541,52 +587,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-04-29/"
-        },
-        {
-          "date": "2026-04-28",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "instep rotation",
-                "lat stretch",
-                "lying hip cross over",
-                "samson stretch"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 burpees",
-                "10 clean grip deadlifts",
-                "10 elbow rotations"
-              ]
-            },
-            {
-              "title": "power cleans 10min",
-              "lines": [
-                "on every 1:00 x 10 sets",
-                "2 power cleans",
-                "(build in weight)",
-                "explosive power"
-              ]
-            },
-            {
-              "title": "conditioning 15min",
-              "lines": [
-                "amrap 1:00 x 10 rounds",
-                "3 power cleans 60/40kg",
-                "3 burpees over the bar",
-                "30sec rest between",
-                "*pick up where you left off",
-                "aerobic power & vo2 max",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-04-28/"
         }
       ]
     },
@@ -595,6 +595,24 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-05-12",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Back squat 5-5-3-3-1-1-1 reps",
+                "Compare to similar",
+                "251020",
+                "and",
+                "250211",
+                ".",
+                "Post loads to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260512"
+        },
         {
           "date": "2026-05-11",
           "sections": [
@@ -727,25 +745,54 @@
           "date": "2026-05-04",
           "sections": [
             {
-              "title": "Workout",
+              "title": "75-50-25 reps for time of:",
               "lines": [
-                "Monday",
-                "260504",
-                "Learn the Movement â"
+                "Wall-ball shots",
+                "AbMat sit-ups",
+                "Bike calories*",
+                "*Women bike 60-40-20 calories",
+                "â 14-lb medicine ball to a 9-foot target",
+                "â 20-lb medicine ball to a 10-foot target",
+                "Post time to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260504"
         },
         {
-          "date": "2026-05-02",
+          "date": "2026-05-03",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260502",
-                "Learn the Movement â"
+                "Rest Day",
+                "Shut Up and Train",
+                "In a world drowning in fitness advice, the hardest thing to do is also the most important: starting. CrossFit has been delivering results since before the research caught up, and now it's catching up fast. Stop overthinking it, commit to six months, and let the work do the talking.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260503"
+        },
+        {
+          "date": "2026-05-02",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "10 push jerks",
+                "100 double-unders",
+                "8 push jerks",
+                "80 double-unders",
+                "6 push jerks",
+                "60 double-unders",
+                "4 push jerks",
+                "40 double-unders",
+                "2 push jerks",
+                "20 double-unders",
+                "â 125-lb barbell",
+                "â 185-lb barbell",
+                "Post time to comments."
               ]
             }
           ],
@@ -757,9 +804,21 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260501",
-                "Learn the Movement â"
+                "Nasty Girls"
+              ]
+            },
+            {
+              "title": "3 rounds for time of:",
+              "lines": [
+                "50 air squats",
+                "7 muscle-ups",
+                "10 hang power cleans",
+                "â 95-lb barbell",
+                "â 135-lb barbell",
+                "Compare to",
+                "221229",
+                ".",
+                "Post time to comments."
               ]
             }
           ],
@@ -791,24 +850,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260429"
-        },
-        {
-          "date": "2026-04-28",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Complete as many rounds and reps as possible in 20 minutes of:",
-                "400-meter run",
-                "100-foot handstand walk",
-                "50 box step-ups",
-                "â 20-inch box",
-                "â 24-inch box",
-                "Post rounds and reps to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260428"
         }
       ]
     }
