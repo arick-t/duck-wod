@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-05-13T06:41:40.441815",
+  "last_updated": "2026-05-14T06:40:17.415141",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-05-14",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Open Gym",
+                "10:00-13:00 Uhr",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-05-14/"
+        },
         {
           "date": "2026-05-13",
           "sections": [
@@ -544,50 +558,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-05-01/"
-        },
-        {
-          "date": "2026-04-30",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "90/90 hip rotation",
-                "hamstring stretch on box",
-                "lying hip cross over",
-                "calf stretch"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "150/125m row",
-                "10 good mornings",
-                "10 squat jumps"
-              ]
-            },
-            {
-              "title": "deadlift 15min",
-              "lines": [
-                "build to a heavy 5-rep deadlift"
-              ]
-            },
-            {
-              "title": "conditioning 16min",
-              "lines": [
-                "for time",
-                "10-20-30-20-10",
-                "box jumps 60/50cm*",
-                "alternating db snatches 22,5/15kg",
-                "250/200m row after each round",
-                "*rx+ option: 75/60cm",
-                "aerobic power [vo2 max]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-04-30/"
         }
       ]
     },
@@ -597,14 +567,33 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
-          "date": "2026-05-13",
+          "date": "2026-05-14",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260513",
-                "Learn the Movement â"
+                "Rest Day",
+                "âWait, So Am I Actually Fit?â",
+                "Most people who exercise regularly have never stopped to ask the one question that should drive everything: What does \"fit\" actually mean? If you've been putting in the work for years but have a nagging sense that something's missing, this conversation might finally name it. Turns out, real fitness has 10 components â and most training programs quietly ignore half of them.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260514"
+        },
+        {
+          "date": "2026-05-13",
+          "sections": [
+            {
+              "title": "3 rounds for time of:",
+              "lines": [
+                "25 ring dips",
+                "10 kettlebell Turkish get-ups",
+                "25 pull-ups",
+                "Switch arms as desired on the Turkish get-ups.",
+                "â 53-lb kettlebell",
+                "â 70-lb kettlebell",
+                "Post time to comments."
               ]
             }
           ],
@@ -744,11 +733,13 @@
           "date": "2026-05-05",
           "sections": [
             {
-              "title": "Workout",
+              "title": "5 rounds for time of:",
               "lines": [
-                "Tuesday",
-                "260505",
-                "Learn the Movement â"
+                "15 box jumps",
+                "15 bench presses",
+                "â 95-lb barbell and a 24-inch box",
+                "â 135-lb barbell and a 30-inch box",
+                "Post time to comments."
               ]
             }
           ],
@@ -758,15 +749,34 @@
           "date": "2026-05-04",
           "sections": [
             {
-              "title": "Workout",
+              "title": "75-50-25 reps for time of:",
               "lines": [
-                "Monday",
-                "260504",
-                "Learn the Movement â"
+                "Wall-ball shots",
+                "AbMat sit-ups",
+                "Bike calories*",
+                "*Women bike 60-40-20 calories",
+                "â 14-lb medicine ball to a 9-foot target",
+                "â 20-lb medicine ball to a 10-foot target",
+                "Post time to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260504"
+        },
+        {
+          "date": "2026-05-03",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Shut Up and Train",
+                "In a world drowning in fitness advice, the hardest thing to do is also the most important: starting. CrossFit has been delivering results since before the research caught up, and now it's catching up fast. Stop overthinking it, commit to six months, and let the work do the talking.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260503"
         },
         {
           "date": "2026-05-02",
