@@ -1,11 +1,56 @@
 {
-  "last_updated": "2026-05-14T06:40:17.415141",
+  "last_updated": "2026-05-15T06:49:30.211926",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-05-15",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "sumo squat stretch",
+                "instep rotation",
+                "calf stretch",
+                "90/90 hip rotation"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 reverse lunges",
+                "10 kb deadlifts",
+                "20 single unders"
+              ]
+            },
+            {
+              "title": "lunges 15min",
+              "lines": [
+                "4 supersets",
+                "8 back rack reverse lunges @rpe 6-7",
+                "12-15 partial goblet squats"
+              ]
+            },
+            {
+              "title": "conditioning 17min",
+              "lines": [
+                "amrap 3:30 x 4 rounds",
+                "15 kb swings 24/16kg",
+                "20 sit-ups",
+                "30 double under",
+                "-1:00 rest between rounds-",
+                "aerobic power & vo2max",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-05-15/"
+        },
         {
           "date": "2026-05-14",
           "sections": [
@@ -545,19 +590,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-05-02/"
-        },
-        {
-          "date": "2026-05-01",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Open Gym",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-05-01/"
         }
       ]
     },
@@ -567,33 +599,30 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
-          "date": "2026-05-14",
+          "date": "2026-05-15",
           "sections": [
             {
-              "title": "Workout",
+              "title": "5 rounds for time of:",
               "lines": [
-                "Rest Day",
-                "âWait, So Am I Actually Fit?â",
-                "Most people who exercise regularly have never stopped to ask the one question that should drive everything: What does \"fit\" actually mean? If you've been putting in the work for years but have a nagging sense that something's missing, this conversation might finally name it. Turns out, real fitness has 10 components â and most training programs quietly ignore half of them.",
-                "View the CrossFit map"
+                "22/30-calorie Echo bike",
+                "20 sumo deadlift high pulls",
+                "15 knees-to-elbows",
+                "â 65-lb barbell",
+                "â 95-lb barbell"
               ]
             }
           ],
-          "url": "https://www.crossfit.com/260514"
+          "url": "https://www.crossfit.com/260515"
         },
         {
           "date": "2026-05-13",
           "sections": [
             {
-              "title": "3 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "25 ring dips",
-                "10 kettlebell Turkish get-ups",
-                "25 pull-ups",
-                "Switch arms as desired on the Turkish get-ups.",
-                "â 53-lb kettlebell",
-                "â 70-lb kettlebell",
-                "Post time to comments."
+                "Wednesday",
+                "260513",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -621,14 +650,11 @@
           "date": "2026-05-11",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "30 power cleans",
-                "800-meter run",
-                "30 power cleans",
-                "â 105-lb barbell",
-                "â 155-lb barbell",
-                "Post time to comments."
+                "Monday",
+                "260511",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -673,57 +699,25 @@
           "date": "2026-05-08",
           "sections": [
             {
-              "title": "On a 4-minute clock:",
+              "title": "Workout",
               "lines": [
-                "Max snatches, first weight",
-                "Rest 4 minutes"
-              ]
-            },
-            {
-              "title": "On a 3-minute clock:",
-              "lines": [
-                "Max snatches, second weight",
-                "Rest 3 minutes"
-              ]
-            },
-            {
-              "title": "On a 2-minute clock:",
-              "lines": [
-                "Max snatches, third weight",
-                "â 105/125/145-lb barbell",
-                "â 155/185/205-lb barbell",
-                "Post total reps to comments."
+                "Friday",
+                "260508",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260508"
         },
         {
-          "date": "2026-05-07",
+          "date": "2026-05-06",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "You're Asking the Wrong Question at the Gym",
-                "One of the most common questions coaches get is \"What muscles does this exercise work?\" If youâre thinking about working out in this way, it reveals a mindset that's quietly working against you. When you train for form, you're focused on the outcome. When you train for function, you get the outcome anyway.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260507"
-        },
-        {
-          "date": "2026-05-06",
-          "sections": [
-            {
-              "title": "2 rounds for time of:",
-              "lines": [
-                "1,600-meter run",
-                "15 deadlifts",
-                "â 225-lb barbell",
-                "â 315-lb barbell",
-                "Post time to comments."
+                "Wednesday",
+                "260506",
+                "Drill the Movement â"
               ]
             }
           ],
@@ -733,13 +727,11 @@
           "date": "2026-05-05",
           "sections": [
             {
-              "title": "5 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "15 box jumps",
-                "15 bench presses",
-                "â 95-lb barbell and a 24-inch box",
-                "â 135-lb barbell and a 30-inch box",
-                "Post time to comments."
+                "Tuesday",
+                "260505",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -764,69 +756,18 @@
           "url": "https://www.crossfit.com/260504"
         },
         {
-          "date": "2026-05-03",
+          "date": "2026-05-02",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "Shut Up and Train",
-                "In a world drowning in fitness advice, the hardest thing to do is also the most important: starting. CrossFit has been delivering results since before the research caught up, and now it's catching up fast. Stop overthinking it, commit to six months, and let the work do the talking.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260503"
-        },
-        {
-          "date": "2026-05-02",
-          "sections": [
-            {
-              "title": "For time:",
-              "lines": [
-                "10 push jerks",
-                "100 double-unders",
-                "8 push jerks",
-                "80 double-unders",
-                "6 push jerks",
-                "60 double-unders",
-                "4 push jerks",
-                "40 double-unders",
-                "2 push jerks",
-                "20 double-unders",
-                "â 125-lb barbell",
-                "â 185-lb barbell",
-                "Post time to comments."
+                "Saturday",
+                "260502",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260502"
-        },
-        {
-          "date": "2026-05-01",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Nasty Girls"
-              ]
-            },
-            {
-              "title": "3 rounds for time of:",
-              "lines": [
-                "50 air squats",
-                "7 muscle-ups",
-                "10 hang power cleans",
-                "â 95-lb barbell",
-                "â 135-lb barbell",
-                "Compare to",
-                "221229",
-                ".",
-                "Post time to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260501"
         }
       ]
     }
