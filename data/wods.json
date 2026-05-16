@@ -1,11 +1,51 @@
 {
-  "last_updated": "2026-05-15T06:49:30.211926",
+  "last_updated": "2026-05-16T06:15:25.047730",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-05-16",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "sumo squat stretch",
+                "lat stretch",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "amrap 5min",
+                "10 prone snow angels",
+                "10 ring rows",
+                "*partner is running 100m"
+              ]
+            },
+            {
+              "title": "conditioning 36min",
+              "lines": [
+                "in teams of 2",
+                "3 rounds",
+                "amrap 4min",
+                "1 lap run into max pull ups",
+                "into",
+                "amrap 4min",
+                "1 lap run into max push ups",
+                "into",
+                "amrap 4min",
+                "1 lap run into max air squats",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-05-16/"
+        },
         {
           "date": "2026-05-15",
           "sections": [
@@ -554,42 +594,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-05-03/"
-        },
-        {
-          "date": "2026-05-02",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "seated pike stretch",
-                "lat stretch",
-                "samson stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "amrap 5min",
-                "10 straight leg sit ups",
-                "10 prone snow angels",
-                "*partner is running 100m"
-              ]
-            },
-            {
-              "title": "conditioning 30min",
-              "lines": [
-                "in teams of 2",
-                "amrap 30min",
-                "60 shoulder to overhead 50/35kg",
-                "60 toes to bar",
-                "600m run",
-                "score: rounds + reps",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-05-02/"
         }
       ]
     },
@@ -598,6 +602,23 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-05-16",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "For 5 cycles, complete as many rounds and reps as possible in 3 minutes of:",
+                "1 rope climb to 15 feet",
+                "9 thrusters",
+                "Rest 3 minutes. Start each round where you left off. Repeat for 5 cycles.",
+                "â 65-lb barbell",
+                "â 95-lb barbell"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260516"
+        },
         {
           "date": "2026-05-15",
           "sections": [
@@ -634,13 +655,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Back squat 5-5-3-3-1-1-1 reps",
-                "Compare to similar",
-                "251020",
-                "and",
-                "250211",
-                ".",
-                "Post loads to comments."
+                "Tuesday",
+                "260512",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -650,30 +667,18 @@
           "date": "2026-05-11",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Monday",
-                "260511",
-                "Learn the Movement â"
+                "30 power cleans",
+                "800-meter run",
+                "30 power cleans",
+                "â 105-lb barbell",
+                "â 155-lb barbell",
+                "Post time to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260511"
-        },
-        {
-          "date": "2026-05-10",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "âOK, So What Actually Is CrossFit?â",
-                "Most people who think CrossFit isn't for them are working with the wrong information â and this article is the one to send them. We took CrossFit's original \"Foundations\" article and turned it into the conversation every skeptic deserves to have before they make up their mind. If someone in your life has been curious, dismissive, or just unconvinced, start here.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260510"
         },
         {
           "date": "2026-05-09",
@@ -681,15 +686,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Cindy",
-                "Complete as many rounds and reps as possible in 20 minutes of:",
-                "5 pull-ups",
-                "10 push-ups",
-                "15 air squats",
-                "Compare to",
-                "251125",
-                ".",
-                "Post your rounds and reps to comments."
+                "Saturday",
+                "260509",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -710,14 +709,31 @@
           "url": "https://www.crossfit.com/260508"
         },
         {
-          "date": "2026-05-06",
+          "date": "2026-05-07",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260506",
-                "Drill the Movement â"
+                "Rest Day",
+                "You're Asking the Wrong Question at the Gym",
+                "One of the most common questions coaches get is \"What muscles does this exercise work?\" If youâre thinking about working out in this way, it reveals a mindset that's quietly working against you. When you train for form, you're focused on the outcome. When you train for function, you get the outcome anyway.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260507"
+        },
+        {
+          "date": "2026-05-06",
+          "sections": [
+            {
+              "title": "2 rounds for time of:",
+              "lines": [
+                "1,600-meter run",
+                "15 deadlifts",
+                "â 225-lb barbell",
+                "â 315-lb barbell",
+                "Post time to comments."
               ]
             }
           ],
@@ -727,11 +743,13 @@
           "date": "2026-05-05",
           "sections": [
             {
-              "title": "Workout",
+              "title": "5 rounds for time of:",
               "lines": [
-                "Tuesday",
-                "260505",
-                "Learn the Movement â"
+                "15 box jumps",
+                "15 bench presses",
+                "â 95-lb barbell and a 24-inch box",
+                "â 135-lb barbell and a 30-inch box",
+                "Post time to comments."
               ]
             }
           ],
@@ -741,33 +759,15 @@
           "date": "2026-05-04",
           "sections": [
             {
-              "title": "75-50-25 reps for time of:",
-              "lines": [
-                "Wall-ball shots",
-                "AbMat sit-ups",
-                "Bike calories*",
-                "*Women bike 60-40-20 calories",
-                "â 14-lb medicine ball to a 9-foot target",
-                "â 20-lb medicine ball to a 10-foot target",
-                "Post time to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260504"
-        },
-        {
-          "date": "2026-05-02",
-          "sections": [
-            {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260502",
+                "Monday",
+                "260504",
                 "Learn the Movement â"
               ]
             }
           ],
-          "url": "https://www.crossfit.com/260502"
+          "url": "https://www.crossfit.com/260504"
         }
       ]
     }
