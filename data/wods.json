@@ -1,11 +1,64 @@
 {
-  "last_updated": "2026-05-18T07:53:42.344850",
+  "last_updated": "2026-05-19T07:35:15.550888",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-05-19",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "instep rotations",
+                "lying hip cross over"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "30sec on / 15sec off x8 rounds",
+                "1. burpees",
+                "2. bike",
+                "3. plank hold",
+                "4. reverse lunges"
+              ]
+            },
+            {
+              "title": "lunges 15min",
+              "lines": [
+                "4 supersets",
+                "8 back rack reverse lunges @rpe 6-7",
+                "12-15 partial goblet squats"
+              ]
+            },
+            {
+              "title": "conditioning 12min",
+              "lines": [
+                "40sec on / 20sec off x 12 rounds",
+                "for max reps/cals",
+                "1. front squats 40/30kg",
+                "2. cal bike",
+                "3. burpees over the bar",
+                "score: total reps/cals",
+                "aerobic power"
+              ]
+            },
+            {
+              "title": "posterior chain 4min",
+              "lines": [
+                "30sec on / 10sec off x 5 sets",
+                "chinese plank hold",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-05-19/"
+        },
         {
           "date": "2026-05-18",
           "sections": [
@@ -561,50 +614,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-05-06/"
-        },
-        {
-          "date": "2026-05-05",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "samson stretch",
-                "thoracic rotation",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "30sec plank hold",
-                "10 db deadlifts",
-                "10 push ups to down dog"
-              ]
-            },
-            {
-              "title": "push press 15min",
-              "lines": [
-                "6 sets of 3 reps push press",
-                "(77-85%)",
-                "explosive power"
-              ]
-            },
-            {
-              "title": "conditioning 15min",
-              "lines": [
-                "for time",
-                "3 rounds",
-                "50 sit-ups",
-                "30-20-10 single-arm devil press 22,5/15kg",
-                "muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-05-05/"
         }
       ]
     },
@@ -613,6 +622,26 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-05-19",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "On a 1:30 clock, complete 6 rounds for max calories of:",
+                "20 alternating single-leg squats",
+                "Max-calorie bike"
+              ]
+            },
+            {
+              "title": "Rest 1:30 between rounds.",
+              "lines": [
+                "Post total calories to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260519"
+        },
         {
           "date": "2026-05-18",
           "sections": [
@@ -635,21 +664,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260518"
-        },
-        {
-          "date": "2026-05-17",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "âBut What Actually Makes CrossFit Different?â",
-                "Most people who've been doing CrossFit for a while can describe what it is â but struggle to explain why it actually works. This article breaks down the five distinct elements that make CrossFit what it is, and why removing any one of them gives you something that looks like CrossFit but isn't. If you want to understand the method more deeply, or explain it more clearly to someone else, start here.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260517"
         },
         {
           "date": "2026-05-16",
@@ -741,15 +755,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Cindy",
-                "Complete as many rounds and reps as possible in 20 minutes of:",
-                "5 pull-ups",
-                "10 push-ups",
-                "15 air squats",
-                "Compare to",
-                "251125",
-                ".",
-                "Post your rounds and reps to comments."
+                "Saturday",
+                "260509",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -759,11 +767,26 @@
           "date": "2026-05-08",
           "sections": [
             {
-              "title": "Workout",
+              "title": "On a 4-minute clock:",
               "lines": [
-                "Friday",
-                "260508",
-                "Learn the Movement â"
+                "Max snatches, first weight",
+                "Rest 4 minutes"
+              ]
+            },
+            {
+              "title": "On a 3-minute clock:",
+              "lines": [
+                "Max snatches, second weight",
+                "Rest 3 minutes"
+              ]
+            },
+            {
+              "title": "On a 2-minute clock:",
+              "lines": [
+                "Max snatches, third weight",
+                "â 105/125/145-lb barbell",
+                "â 155/185/205-lb barbell",
+                "Post total reps to comments."
               ]
             }
           ],
@@ -782,20 +805,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260506"
-        },
-        {
-          "date": "2026-05-05",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Tuesday",
-                "260505",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260505"
         }
       ]
     }
