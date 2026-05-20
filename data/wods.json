@@ -1,11 +1,43 @@
 {
-  "last_updated": "2026-05-19T07:35:15.550888",
+  "last_updated": "2026-05-20T07:34:26.936589",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-05-20",
+          "sections": [
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "line drills"
+              ]
+            },
+            {
+              "title": "conditioning 30min",
+              "lines": [
+                "for time",
+                "8 rounds",
+                "10 pull ups",
+                "15 push ups",
+                "20 sit ups",
+                "-1:00 rest between rounds -",
+                "muscular endurance"
+              ]
+            },
+            {
+              "title": "shoulder 4min",
+              "lines": [
+                "tabata (20sec on/10sec off) x 8 sets",
+                "prone press",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-05-20/"
+        },
         {
           "date": "2026-05-19",
           "sections": [
@@ -578,42 +610,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-05-07/"
-        },
-        {
-          "date": "2026-05-06",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "calf stretch",
-                "instep rotation"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "1:00 on/ 00:30 off x 4 rounds",
-                "1. 7 burpees + remaining time row",
-                "2. 7 squat jumps + remaining time bike"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "amrap 35min",
-                "30 dball box step ups 20/15kg",
-                "40/32cal bike/row",
-                "40 box jumps 60/50cm",
-                "40/32cal row/bike",
-                "30 burpees to target",
-                "aerobic capacity",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-05-06/"
         }
       ]
     },
@@ -622,6 +618,22 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-05-20",
+          "sections": [
+            {
+              "title": "6 rounds for time of:",
+              "lines": [
+                "24 kettlebell swings",
+                "12 burpees to a target",
+                "â 35-lb kettlebell and a 6-inch target",
+                "â 53-lb kettlebell and a 6-inch target",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260520"
+        },
         {
           "date": "2026-05-19",
           "sections": [
@@ -683,10 +695,13 @@
           "date": "2026-05-15",
           "sections": [
             {
-              "title": "Workout",
+              "title": "5 rounds for time of:",
               "lines": [
-                "Friday",
-                "260515"
+                "22/30-calorie Echo bike",
+                "20 sumo deadlift high pulls",
+                "15 knees-to-elbows",
+                "â 65-lb barbell",
+                "â 95-lb barbell"
               ]
             }
           ],
@@ -735,29 +750,20 @@
           "url": "https://www.crossfit.com/260511"
         },
         {
-          "date": "2026-05-10",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "âOK, So What Actually Is CrossFit?â",
-                "Most people who think CrossFit isn't for them are working with the wrong information â and this article is the one to send them. We took CrossFit's original \"Foundations\" article and turned it into the conversation every skeptic deserves to have before they make up their mind. If someone in your life has been curious, dismissive, or just unconvinced, start here.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260510"
-        },
-        {
           "date": "2026-05-09",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260509",
-                "Learn the Movement â"
+                "Cindy",
+                "Complete as many rounds and reps as possible in 20 minutes of:",
+                "5 pull-ups",
+                "10 push-ups",
+                "15 air squats",
+                "Compare to",
+                "251125",
+                ".",
+                "Post your rounds and reps to comments."
               ]
             }
           ],
@@ -793,18 +799,19 @@
           "url": "https://www.crossfit.com/260508"
         },
         {
-          "date": "2026-05-06",
+          "date": "2026-05-07",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260506",
-                "Drill the Movement â"
+                "Rest Day",
+                "You're Asking the Wrong Question at the Gym",
+                "One of the most common questions coaches get is \"What muscles does this exercise work?\" If youâre thinking about working out in this way, it reveals a mindset that's quietly working against you. When you train for form, you're focused on the outcome. When you train for function, you get the outcome anyway.",
+                "View the CrossFit map"
               ]
             }
           ],
-          "url": "https://www.crossfit.com/260506"
+          "url": "https://www.crossfit.com/260507"
         }
       ]
     }
