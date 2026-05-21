@@ -1,11 +1,55 @@
 {
-  "last_updated": "2026-05-20T07:34:26.936589",
+  "last_updated": "2026-05-21T07:40:22.408166",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-05-21",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "90/90 hip rotation",
+                "calf stretch",
+                "lying hip cross over",
+                "hamstring stretch on box"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 cossack squats",
+                "10 good mornings",
+                "100m run"
+              ]
+            },
+            {
+              "title": "sumo deadlift 14min",
+              "lines": [
+                "find a heavy set of 3",
+                "sumo deadlifts"
+              ]
+            },
+            {
+              "title": "conditioning 15min",
+              "lines": [
+                "for time",
+                "3 rounds",
+                "15 deadlifts 80/60kg",
+                "30 box jumps 60/50cm",
+                "400m run",
+                "aerobic power & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-05-21/"
+        },
         {
           "date": "2026-05-20",
           "sections": [
@@ -557,59 +601,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-05-08/"
-        },
-        {
-          "date": "2026-05-07",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "lat stretch",
-                "thoracic rotation",
-                "samson stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 clean grip deadlifts",
-                "10 elbow rotations",
-                "20sec catch hold (power position)",
-                "*remaining time bike/ski"
-              ]
-            },
-            {
-              "title": "power cleans 10min",
-              "lines": [
-                "on every 1:00 x 10 sets",
-                "1 power clean",
-                "(build in weight)",
-                "explosive power"
-              ]
-            },
-            {
-              "title": "conditioning 12min",
-              "lines": [
-                "for time",
-                "6 rounds",
-                "12/9 cal ski/bike",
-                "6 power cleans 70/50kg",
-                "aerobic power [vo2 max]"
-              ]
-            },
-            {
-              "title": "shoulder + triceps 6min",
-              "lines": [
-                "30sec on/ 30sec off",
-                "1. max strict press",
-                "2. max overhead triceps extension",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-05-07/"
         }
       ]
     },
@@ -618,6 +609,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-05-21",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "âBut I Do Cardio Every Day â Isnât That Enough?â",
+                "If you run five days a week and feel great, this final article in our \"Foundations Series\" will ask you some uncomfortable questions â and back them up with research. It breaks down why training only your aerobic system leaves two entire energy pathways underdeveloped, and why four minutes of the right kind of work can outperform an hour of steady-state cardio. Read it, then go find your favorite distance runner and have the conversation.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260521"
+        },
         {
           "date": "2026-05-20",
           "sections": [
@@ -640,15 +646,8 @@
             {
               "title": "Workout",
               "lines": [
-                "On a 1:30 clock, complete 6 rounds for max calories of:",
-                "20 alternating single-leg squats",
-                "Max-calorie bike"
-              ]
-            },
-            {
-              "title": "Rest 1:30 between rounds.",
-              "lines": [
-                "Post total calories to comments."
+                "Tuesday",
+                "260519"
               ]
             }
           ],
@@ -658,20 +657,11 @@
           "date": "2026-05-18",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "10 deadlifts",
-                "20 pull-ups",
-                "30 wall-ball shots",
-                "40 box jumps",
-                "1,000-meter row",
-                "40 box jumps",
-                "30 wall-ball shots",
-                "20 pull-ups",
-                "10 deadlifts",
-                "â 185-lb barbell, 20-inch box, and 14-lb medicine ball to a 9-foot target",
-                "â 275-lb barbell, 24-inch box, and 20-lb medicine ball to a 10-foot target",
-                "Post time to comments."
+                "Monday",
+                "260518",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -755,15 +745,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Cindy",
-                "Complete as many rounds and reps as possible in 20 minutes of:",
-                "5 pull-ups",
-                "10 push-ups",
-                "15 air squats",
-                "Compare to",
-                "251125",
-                ".",
-                "Post your rounds and reps to comments."
+                "Saturday",
+                "260509",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -773,45 +757,15 @@
           "date": "2026-05-08",
           "sections": [
             {
-              "title": "On a 4-minute clock:",
+              "title": "Workout",
               "lines": [
-                "Max snatches, first weight",
-                "Rest 4 minutes"
-              ]
-            },
-            {
-              "title": "On a 3-minute clock:",
-              "lines": [
-                "Max snatches, second weight",
-                "Rest 3 minutes"
-              ]
-            },
-            {
-              "title": "On a 2-minute clock:",
-              "lines": [
-                "Max snatches, third weight",
-                "â 105/125/145-lb barbell",
-                "â 155/185/205-lb barbell",
-                "Post total reps to comments."
+                "Friday",
+                "260508",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260508"
-        },
-        {
-          "date": "2026-05-07",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "You're Asking the Wrong Question at the Gym",
-                "One of the most common questions coaches get is \"What muscles does this exercise work?\" If youâre thinking about working out in this way, it reveals a mindset that's quietly working against you. When you train for form, you're focused on the outcome. When you train for function, you get the outcome anyway.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260507"
         }
       ]
     }
