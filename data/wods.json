@@ -1,11 +1,48 @@
 {
-  "last_updated": "2026-05-22T07:35:12.600188",
+  "last_updated": "2026-05-23T06:27:41.143852",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-05-23",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "samson Stretch",
+                "lat stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "30sec on / 15sec off x2 rounds",
+                "1. synchro burpees",
+                "2. A: bike + B: air squats",
+                "3. synchro straight leg sit ups"
+              ]
+            },
+            {
+              "title": "conditioning 31min",
+              "lines": [
+                "in teams of 2",
+                "for max reps/cals",
+                "1:00 on / 00:30 off x 21 rounds",
+                "1. synchro db snatches 22,5/15kg",
+                "2. cal bike",
+                "3. toes to bar",
+                "score: total reps/cals",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-05-23/"
+        },
         {
           "date": "2026-05-22",
           "sections": [
@@ -555,45 +592,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-05-10/"
-        },
-        {
-          "date": "2026-05-09",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "sumo squat stretch",
-                "lat stretch",
-                "thoracic rotation"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "amrap 5min",
-                "10 sumo deadlifts",
-                "10 push press",
-                "*partner is skiing"
-              ]
-            },
-            {
-              "title": "conditioning 30min",
-              "lines": [
-                "in teams of 2",
-                "for time",
-                "4 rounds",
-                "40 thrusters 40/30kg",
-                "20/18/16cal ski",
-                "40 sumo deadlift high pulls",
-                "20/18/16cal ski",
-                "Jakub",
-                "24:24",
-                "9. May 2026, 16:02"
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-05-09/"
         }
       ]
     },
@@ -602,6 +600,25 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-05-23",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Complete as many rounds and reps as possible in 15 minutes of:",
+                "100-meter dumbbell suitcase carry",
+                "10 shuttle runs*",
+                "30 alternating dumbbell hang snatches",
+                "*The shuttle run is 25 feet out and 25 feet back.",
+                "â 35-lb dumbbell",
+                "â 50-lb dumbbell",
+                "Post rounds and reps to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260523"
+        },
         {
           "date": "2026-05-22",
           "sections": [
@@ -620,31 +637,14 @@
           "url": "https://www.crossfit.com/260522"
         },
         {
-          "date": "2026-05-21",
+          "date": "2026-05-20",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "âBut I Do Cardio Every Day â Isnât That Enough?â",
-                "If you run five days a week and feel great, this final article in our \"Foundations Series\" will ask you some uncomfortable questions â and back them up with research. It breaks down why training only your aerobic system leaves two entire energy pathways underdeveloped, and why four minutes of the right kind of work can outperform an hour of steady-state cardio. Read it, then go find your favorite distance runner and have the conversation.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260521"
-        },
-        {
-          "date": "2026-05-20",
-          "sections": [
-            {
-              "title": "6 rounds for time of:",
-              "lines": [
-                "24 kettlebell swings",
-                "12 burpees to a target",
-                "â 35-lb kettlebell and a 6-inch target",
-                "â 53-lb kettlebell and a 6-inch target",
-                "Post time to comments."
+                "Wednesday",
+                "260520",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -656,15 +656,8 @@
             {
               "title": "Workout",
               "lines": [
-                "On a 1:30 clock, complete 6 rounds for max calories of:",
-                "20 alternating single-leg squats",
-                "Max-calorie bike"
-              ]
-            },
-            {
-              "title": "Rest 1:30 between rounds.",
-              "lines": [
-                "Post total calories to comments."
+                "Tuesday",
+                "260519"
               ]
             }
           ],
@@ -690,12 +683,9 @@
             {
               "title": "Workout",
               "lines": [
-                "For 5 cycles, complete as many rounds and reps as possible in 3 minutes of:",
-                "1 rope climb to 15 feet",
-                "9 thrusters",
-                "Rest 3 minutes. Start each round where you left off. Repeat for 5 cycles.",
-                "â 65-lb barbell",
-                "â 95-lb barbell"
+                "Saturday",
+                "260516",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -757,18 +747,19 @@
           "url": "https://www.crossfit.com/260511"
         },
         {
-          "date": "2026-05-09",
+          "date": "2026-05-10",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260509",
-                "Learn the Movement â"
+                "Rest Day",
+                "âOK, So What Actually Is CrossFit?â",
+                "Most people who think CrossFit isn't for them are working with the wrong information â and this article is the one to send them. We took CrossFit's original \"Foundations\" article and turned it into the conversation every skeptic deserves to have before they make up their mind. If someone in your life has been curious, dismissive, or just unconvinced, start here.",
+                "View the CrossFit map"
               ]
             }
           ],
-          "url": "https://www.crossfit.com/260509"
+          "url": "https://www.crossfit.com/260510"
         }
       ]
     }
