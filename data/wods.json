@@ -1,11 +1,48 @@
 {
-  "last_updated": "2026-05-23T06:27:41.143852",
+  "last_updated": "2026-05-24T06:53:01.531953",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-05-24",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "samson stretch",
+                "instep rotations",
+                "lat stretch"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "30sec on / 15sec off x2 rounds",
+                "1. prone snow angels",
+                "2. row",
+                "3. ring rows",
+                "4. box step ups"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "emom 35min (7 rounds)",
+                "1. 3-5 wall walks",
+                "2. 10-15cal row",
+                "3. 8-10 burpee pull ups",
+                "4. 10-16 db box step ups",
+                "5. rest",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-05-24/"
+        },
         {
           "date": "2026-05-23",
           "sections": [
@@ -548,50 +585,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-05-11/"
-        },
-        {
-          "date": "2026-05-10",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "instep rotations",
-                "lying hip cross over"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "30sec on / 15sec off x2 rounds",
-                "1. box step ups",
-                "2. bike/ski",
-                "3. hollow hold",
-                "4. kb deadlifts"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "emom 35min (7 rounds)",
-                "1. 14-20 db box step ups",
-                "2. 50 double under / 75 single under",
-                "3. 6-10 strict toes to bar",
-                "4. 14-20 kb swings",
-                "5. rest",
-                "Sunday Endurance for Open Gym",
-                "5-10 rounds:",
-                "2:00 row",
-                "2:00 bike",
-                "2:00 run or ski",
-                "rpe 3-5 for all",
-                "aerobic endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-05-10/"
         }
       ]
     },
@@ -601,19 +594,45 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
+          "date": "2026-05-24",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Since 2005, CrossFit has honored fallen service members by dedicating",
+                "workouts",
+                "in their names â a tradition that turns sacrifice into something we can feel. New Hero WODs are released each Memorial Day and July 4. Here are the latest:",
+                "Locke",
+                "Estrada",
+                "Leehan",
+                "Maloney",
+                "Nunez",
+                "Drew",
+                "Jack's Triangle",
+                "Restrepo",
+                "Maxim 56",
+                "Daniel Ray",
+                "Every Hero WOD starts with someone who cared enough to say, \"This person deserves to be remembered.\" If you know a fallen service member who should be honored,",
+                "submit a nomination",
+                ". You can also",
+                "download the complete collection of Hero WODs as a PDF here",
+                ".",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260524"
+        },
+        {
           "date": "2026-05-23",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Complete as many rounds and reps as possible in 15 minutes of:",
-                "100-meter dumbbell suitcase carry",
-                "10 shuttle runs*",
-                "30 alternating dumbbell hang snatches",
-                "*The shuttle run is 25 feet out and 25 feet back.",
-                "â 35-lb dumbbell",
-                "â 50-lb dumbbell",
-                "Post rounds and reps to comments."
+                "Saturday",
+                "260523",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -623,14 +642,11 @@
           "date": "2026-05-22",
           "sections": [
             {
-              "title": "5 sets for load of:",
+              "title": "Workout",
               "lines": [
-                "5 shoulder presses + 5 push presses + 5 push jerks",
-                "No rest between movements.",
-                "Post-Workout Test",
-                "As many reps as possible in 1 minute of:",
-                "Max push presses at 60%",
-                "Post heaviest set and max reps to comments."
+                "Friday",
+                "260522",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -705,6 +721,21 @@
           "url": "https://www.crossfit.com/260515"
         },
         {
+          "date": "2026-05-14",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "âWait, So Am I Actually Fit?â",
+                "Most people who exercise regularly have never stopped to ask the one question that should drive everything: What does \"fit\" actually mean? If you've been putting in the work for years but have a nagging sense that something's missing, this conversation might finally name it. Turns out, real fitness has 10 components â and most training programs quietly ignore half of them.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260514"
+        },
+        {
           "date": "2026-05-13",
           "sections": [
             {
@@ -745,21 +776,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260511"
-        },
-        {
-          "date": "2026-05-10",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "âOK, So What Actually Is CrossFit?â",
-                "Most people who think CrossFit isn't for them are working with the wrong information â and this article is the one to send them. We took CrossFit's original \"Foundations\" article and turned it into the conversation every skeptic deserves to have before they make up their mind. If someone in your life has been curious, dismissive, or just unconvinced, start here.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260510"
         }
       ]
     }
