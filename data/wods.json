@@ -1,11 +1,33 @@
 {
-  "last_updated": "2026-05-24T06:53:01.531953",
+  "last_updated": "2026-05-25T08:10:14.756711",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-05-25",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Open Gym",
+                "10:00-13:00 Uhr",
+                "Sunday Endurance for Open Gym",
+                "at rpe 2-4 throughout:",
+                "5:00 row",
+                "8:00 bike",
+                "12:00 run",
+                "8:00 bike",
+                "5:00 row",
+                "aerobic endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-05-25/"
+        },
         {
           "date": "2026-05-24",
           "sections": [
@@ -540,51 +562,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-05-12/"
-        },
-        {
-          "date": "2026-05-11",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "instep rotation",
-                "lat stretch",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 air squats",
-                "10/8cal row",
-                "10 ring rows"
-              ]
-            },
-            {
-              "title": "pull ups 15min",
-              "lines": [
-                "4 super sets:",
-                "8 pull ups @rpe 6-7",
-                "12-15 banded lat pull downs"
-              ]
-            },
-            {
-              "title": "conditioning 15min",
-              "lines": [
-                "on every 3:00 x 5 rounds",
-                "12 double db hang squat cleans 2x22,5/15kg",
-                "15/12cal row",
-                "score: slowest round",
-                "aerobic power & vo2max",
-                "hang squat clean",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-05-11/"
         }
       ]
     },
@@ -593,6 +570,33 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-05-25",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Murph"
+              ]
+            },
+            {
+              "title": "For time:",
+              "lines": [
+                "1-mile run",
+                "100 pull-ups",
+                "200 push-ups",
+                "300 air squats",
+                "1-mile run",
+                "Partition the pull-ups, push-ups, and air squats as desired. If youâve got a 14/20-lb vest or body armor, wear it.",
+                "Compare to",
+                "250526",
+                ".",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260525"
+        },
         {
           "date": "2026-05-24",
           "sections": [
@@ -630,9 +634,14 @@
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260523",
-                "Learn the Movement â"
+                "Complete as many rounds and reps as possible in 15 minutes of:",
+                "100-meter dumbbell suitcase carry",
+                "10 shuttle runs*",
+                "30 alternating dumbbell hang snatches",
+                "*The shuttle run is 25 feet out and 25 feet back.",
+                "â 35-lb dumbbell",
+                "â 50-lb dumbbell",
+                "Post rounds and reps to comments."
               ]
             }
           ],
@@ -642,11 +651,14 @@
           "date": "2026-05-22",
           "sections": [
             {
-              "title": "Workout",
+              "title": "5 sets for load of:",
               "lines": [
-                "Friday",
-                "260522",
-                "Learn the Movement â"
+                "5 shoulder presses + 5 push presses + 5 push jerks",
+                "No rest between movements.",
+                "Post-Workout Test",
+                "As many reps as possible in 1 minute of:",
+                "Max push presses at 60%",
+                "Post heaviest set and max reps to comments."
               ]
             }
           ],
@@ -683,11 +695,20 @@
           "date": "2026-05-18",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Monday",
-                "260518",
-                "Learn the Movement â"
+                "10 deadlifts",
+                "20 pull-ups",
+                "30 wall-ball shots",
+                "40 box jumps",
+                "1,000-meter row",
+                "40 box jumps",
+                "30 wall-ball shots",
+                "20 pull-ups",
+                "10 deadlifts",
+                "â 185-lb barbell, 20-inch box, and 14-lb medicine ball to a 9-foot target",
+                "â 275-lb barbell, 24-inch box, and 20-lb medicine ball to a 10-foot target",
+                "Post time to comments."
               ]
             }
           ],
@@ -721,21 +742,6 @@
           "url": "https://www.crossfit.com/260515"
         },
         {
-          "date": "2026-05-14",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "âWait, So Am I Actually Fit?â",
-                "Most people who exercise regularly have never stopped to ask the one question that should drive everything: What does \"fit\" actually mean? If you've been putting in the work for years but have a nagging sense that something's missing, this conversation might finally name it. Turns out, real fitness has 10 components â and most training programs quietly ignore half of them.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260514"
-        },
-        {
           "date": "2026-05-13",
           "sections": [
             {
@@ -762,20 +768,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260512"
-        },
-        {
-          "date": "2026-05-11",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Monday",
-                "260511",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260511"
         }
       ]
     }
