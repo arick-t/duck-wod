@@ -1,11 +1,37 @@
 {
-  "last_updated": "2026-05-25T08:10:14.756711",
+  "last_updated": "2026-05-26T07:34:49.998394",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-05-26",
+          "sections": [
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "line drills"
+              ]
+            },
+            {
+              "title": "benchmark conditioning",
+              "lines": [
+                "\"Murph\"",
+                "for time",
+                "1 mile run",
+                "100 pull ups",
+                "200 push ups",
+                "300 squats",
+                "1 mile run",
+                "partition as needed. optional weight vest 9/6kg.",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-05-26/"
+        },
         {
           "date": "2026-05-25",
           "sections": [
@@ -14,7 +40,7 @@
               "lines": [
                 "Open Gym",
                 "10:00-13:00 Uhr",
-                "Sunday Endurance for Open Gym",
+                "Endurance for Open Gym",
                 "at rpe 2-4 throughout:",
                 "5:00 row",
                 "8:00 bike",
@@ -516,52 +542,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-05-13/"
-        },
-        {
-          "date": "2026-05-12",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "samson stretch",
-                "seated pike stretch",
-                "lat stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 prone snow angels",
-                "10 push ups",
-                "20sec hollow hold",
-                "*remaining time bike/ski"
-              ]
-            },
-            {
-              "title": "strict press 15min",
-              "lines": [
-                "4 super sets:",
-                "8 strict press @ rpe 6-7",
-                "12-15 db lateral raises"
-              ]
-            },
-            {
-              "title": "conditioning 16min",
-              "lines": [
-                "amrap 16min",
-                "16 toes to bar",
-                "16 push press 50/35kg",
-                "every 2:00 [starting at 0:00]:",
-                "12/10cal bike/ski",
-                "score: rounds + reps",
-                "aerobic power [lactate threshold]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-05-12/"
         }
       ]
     },
@@ -571,27 +551,41 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
+          "date": "2026-05-26",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Adrian"
+              ]
+            },
+            {
+              "title": "7 rounds for time of:",
+              "lines": [
+                "3 forward rolls",
+                "5 wall walks",
+                "7 toes-to-bars",
+                "9 box jumps",
+                "â 24-inch box",
+                "â 30-inch box",
+                "Compare to",
+                "120923",
+                ".",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260526"
+        },
+        {
           "date": "2026-05-25",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Murph"
-              ]
-            },
-            {
-              "title": "For time:",
-              "lines": [
-                "1-mile run",
-                "100 pull-ups",
-                "200 push-ups",
-                "300 air squats",
-                "1-mile run",
-                "Partition the pull-ups, push-ups, and air squats as desired. If youâve got a 14/20-lb vest or body armor, wear it.",
-                "Compare to",
-                "250526",
-                ".",
-                "Post time to comments."
+                "Monday",
+                "260525",
+                "Learn More About Murph â"
               ]
             }
           ],
@@ -665,6 +659,21 @@
           "url": "https://www.crossfit.com/260522"
         },
         {
+          "date": "2026-05-21",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "âBut I Do Cardio Every Day â Isnât That Enough?â",
+                "If you run five days a week and feel great, this final article in our \"Foundations Series\" will ask you some uncomfortable questions â and back them up with research. It breaks down why training only your aerobic system leaves two entire energy pathways underdeveloped, and why four minutes of the right kind of work can outperform an hour of steady-state cardio. Read it, then go find your favorite distance runner and have the conversation.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260521"
+        },
+        {
           "date": "2026-05-20",
           "sections": [
             {
@@ -695,20 +704,11 @@
           "date": "2026-05-18",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "10 deadlifts",
-                "20 pull-ups",
-                "30 wall-ball shots",
-                "40 box jumps",
-                "1,000-meter row",
-                "40 box jumps",
-                "30 wall-ball shots",
-                "20 pull-ups",
-                "10 deadlifts",
-                "â 185-lb barbell, 20-inch box, and 14-lb medicine ball to a 9-foot target",
-                "â 275-lb barbell, 24-inch box, and 20-lb medicine ball to a 10-foot target",
-                "Post time to comments."
+                "Monday",
+                "260518",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -754,20 +754,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260513"
-        },
-        {
-          "date": "2026-05-12",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Tuesday",
-                "260512",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260512"
         }
       ]
     }
