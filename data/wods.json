@@ -1,11 +1,59 @@
 {
-  "last_updated": "2026-05-26T07:34:49.998394",
+  "last_updated": "2026-05-27T07:55:08.635934",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-05-27",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "90/90 hip rotation",
+                "calf stretch",
+                "lat stretch",
+                "hamstring stretch on box"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 clean grip deadlifts",
+                "10 elbow rotation",
+                "10 squat jumps"
+              ]
+            },
+            {
+              "title": "power clean 10min",
+              "lines": [
+                "on every 1:00 x 10 sets",
+                "1 power cleans +",
+                "1 hang power clean",
+                "(build in weight)",
+                "explosive power"
+              ]
+            },
+            {
+              "title": "conditioning 15min",
+              "lines": [
+                "for time",
+                "5 rounds",
+                "15 box jumps 60/50cm*",
+                "12 deadlifts",
+                "9 hang power cleans 60/40kg",
+                "*rx+ option: 75/60cm",
+                "muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-05-27/"
+        },
         {
           "date": "2026-05-26",
           "sections": [
@@ -496,52 +544,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-05-14/"
-        },
-        {
-          "date": "2026-05-13",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "samson stretch",
-                "hand walk",
-                "instep rotations",
-                "lying hip cross over"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "2-4-6-8....",
-                "clean grip deadlifts",
-                "elbow rotations",
-                "burpees"
-              ]
-            },
-            {
-              "title": "power clean complex 14min",
-              "lines": [
-                "find a heavy set of",
-                "3 deadlifts",
-                "2 power cleans",
-                "explosive power"
-              ]
-            },
-            {
-              "title": "conditioning 14min",
-              "lines": [
-                "for time",
-                "6 rounds",
-                "6 power cleans",
-                "9 deadlifts 70/50kg",
-                "12 burpees over the bar",
-                "aerobic power & muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-05-13/"
         }
       ]
     },
@@ -550,6 +552,20 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-05-27",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Wednesday",
+                "260527",
+                "Practice the Movement â"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260527"
+        },
         {
           "date": "2026-05-26",
           "sections": [
@@ -583,9 +599,22 @@
             {
               "title": "Workout",
               "lines": [
-                "Monday",
-                "260525",
-                "Learn More About Murph â"
+                "Murph"
+              ]
+            },
+            {
+              "title": "For time:",
+              "lines": [
+                "1-mile run",
+                "100 pull-ups",
+                "200 push-ups",
+                "300 air squats",
+                "1-mile run",
+                "Partition the pull-ups, push-ups, and air squats as desired. If youâve got a 14/20-lb vest or body armor, wear it.",
+                "Compare to",
+                "250526",
+                ".",
+                "Post time to comments."
               ]
             }
           ],
@@ -677,11 +706,13 @@
           "date": "2026-05-20",
           "sections": [
             {
-              "title": "Workout",
+              "title": "6 rounds for time of:",
               "lines": [
-                "Wednesday",
-                "260520",
-                "Learn the Movement â"
+                "24 kettlebell swings",
+                "12 burpees to a target",
+                "â 35-lb kettlebell and a 6-inch target",
+                "â 53-lb kettlebell and a 6-inch target",
+                "Post time to comments."
               ]
             }
           ],
@@ -693,8 +724,15 @@
             {
               "title": "Workout",
               "lines": [
-                "Tuesday",
-                "260519"
+                "On a 1:30 clock, complete 6 rounds for max calories of:",
+                "20 alternating single-leg squats",
+                "Max-calorie bike"
+              ]
+            },
+            {
+              "title": "Rest 1:30 between rounds.",
+              "lines": [
+                "Post total calories to comments."
               ]
             }
           ],
@@ -704,15 +742,39 @@
           "date": "2026-05-18",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Monday",
-                "260518",
-                "Learn the Movement â"
+                "10 deadlifts",
+                "20 pull-ups",
+                "30 wall-ball shots",
+                "40 box jumps",
+                "1,000-meter row",
+                "40 box jumps",
+                "30 wall-ball shots",
+                "20 pull-ups",
+                "10 deadlifts",
+                "â 185-lb barbell, 20-inch box, and 14-lb medicine ball to a 9-foot target",
+                "â 275-lb barbell, 24-inch box, and 20-lb medicine ball to a 10-foot target",
+                "Post time to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260518"
+        },
+        {
+          "date": "2026-05-17",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "âBut What Actually Makes CrossFit Different?â",
+                "Most people who've been doing CrossFit for a while can describe what it is â but struggle to explain why it actually works. This article breaks down the five distinct elements that make CrossFit what it is, and why removing any one of them gives you something that looks like CrossFit but isn't. If you want to understand the method more deeply, or explain it more clearly to someone else, start here.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260517"
         },
         {
           "date": "2026-05-16",
@@ -720,9 +782,12 @@
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260516",
-                "Learn the Movement â"
+                "For 5 cycles, complete as many rounds and reps as possible in 3 minutes of:",
+                "1 rope climb to 15 feet",
+                "9 thrusters",
+                "Rest 3 minutes. Start each round where you left off. Repeat for 5 cycles.",
+                "â 65-lb barbell",
+                "â 95-lb barbell"
               ]
             }
           ],
@@ -732,28 +797,32 @@
           "date": "2026-05-15",
           "sections": [
             {
-              "title": "Workout",
+              "title": "5 rounds for time of:",
               "lines": [
-                "Friday",
-                "260515"
+                "22/30-calorie Echo bike",
+                "20 sumo deadlift high pulls",
+                "15 knees-to-elbows",
+                "â 65-lb barbell",
+                "â 95-lb barbell"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260515"
         },
         {
-          "date": "2026-05-13",
+          "date": "2026-05-14",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260513",
-                "Learn the Movement â"
+                "Rest Day",
+                "âWait, So Am I Actually Fit?â",
+                "Most people who exercise regularly have never stopped to ask the one question that should drive everything: What does \"fit\" actually mean? If you've been putting in the work for years but have a nagging sense that something's missing, this conversation might finally name it. Turns out, real fitness has 10 components â and most training programs quietly ignore half of them.",
+                "View the CrossFit map"
               ]
             }
           ],
-          "url": "https://www.crossfit.com/260513"
+          "url": "https://www.crossfit.com/260514"
         }
       ]
     }
