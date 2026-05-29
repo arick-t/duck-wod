@@ -1,11 +1,55 @@
 {
-  "last_updated": "2026-05-28T07:46:27.703284",
+  "last_updated": "2026-05-29T07:45:01.570375",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-05-29",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "instep rotation",
+                "hand walk",
+                "lat stretch",
+                "sumo squat stretch"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 straight leg sit ups",
+                "10 reverse lunges",
+                "10/8cal row"
+              ]
+            },
+            {
+              "title": "lunges 15min",
+              "lines": [
+                "4 supersets",
+                "6 back rack reverse lunges @rpe 7-8",
+                "12-15 partial goblet squats"
+              ]
+            },
+            {
+              "title": "conditioning 15min",
+              "lines": [
+                "amrap 15min",
+                "15/12cal row",
+                "15 front squats 35/25kg",
+                "15 toes to bar",
+                "aerobic power & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-05-29/"
+        },
         {
           "date": "2026-05-28",
           "sections": [
@@ -531,51 +575,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-05-16/"
-        },
-        {
-          "date": "2026-05-15",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "sumo squat stretch",
-                "instep rotation",
-                "calf stretch",
-                "90/90 hip rotation"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 reverse lunges",
-                "10 kb deadlifts",
-                "20 single unders"
-              ]
-            },
-            {
-              "title": "lunges 15min",
-              "lines": [
-                "4 supersets",
-                "8 back rack reverse lunges @rpe 6-7",
-                "12-15 partial goblet squats"
-              ]
-            },
-            {
-              "title": "conditioning 17min",
-              "lines": [
-                "amrap 3:30 x 4 rounds",
-                "15 kb swings 24/16kg",
-                "20 sit-ups",
-                "30 double under",
-                "-1:00 rest between rounds-",
-                "aerobic power & vo2max",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-05-15/"
         }
       ]
     },
@@ -585,23 +584,54 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
+          "date": "2026-05-29",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Brian"
+              ]
+            },
+            {
+              "title": "3 rounds for time of:",
+              "lines": [
+                "5 rope climbs to 15 feet",
+                "25 back squats",
+                "â 125-lb barbell",
+                "â 185-lb barbell",
+                "Compare to",
+                "120515",
+                ".",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260529"
+        },
+        {
+          "date": "2026-05-28",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "What the Schedule Doesn't Show You: The Real Value of Attending a CrossFit Course",
+                "The curriculum at a CrossFit Level 1 or Level 2 Certificate Course is exceptional, but ask any experienced coach what actually stays with them, and they'll point to things that weren't on the agenda. The hallway conversations, the unscripted coaching moments, the chance to watch an expert work a problem in real time: these are the things you can't get from a book, a video, or an online course.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260528"
+        },
+        {
           "date": "2026-05-27",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Sham"
-              ]
-            },
-            {
-              "title": "7 rounds for time of:",
-              "lines": [
-                "11 bodyweight deadlifts",
-                "100-meter sprint",
-                "Compare to",
-                "141031",
-                ".",
-                "Post your time to the comments."
+                "Wednesday",
+                "260527",
+                "Practice the Movement â"
               ]
             }
           ],
@@ -613,22 +643,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Adrian"
-              ]
-            },
-            {
-              "title": "7 rounds for time of:",
-              "lines": [
-                "3 forward rolls",
-                "5 wall walks",
-                "7 toes-to-bars",
-                "9 box jumps",
-                "â 24-inch box",
-                "â 30-inch box",
-                "Compare to",
-                "120923",
-                ".",
-                "Post time to comments."
+                "Tuesday",
+                "260526",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -640,22 +657,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Murph"
-              ]
-            },
-            {
-              "title": "For time:",
-              "lines": [
-                "1-mile run",
-                "100 pull-ups",
-                "200 push-ups",
-                "300 air squats",
-                "1-mile run",
-                "Partition the pull-ups, push-ups, and air squats as desired. If youâve got a 14/20-lb vest or body armor, wear it.",
-                "Compare to",
-                "250526",
-                ".",
-                "Post time to comments."
+                "Monday",
+                "260525",
+                "Learn More About Murph â"
               ]
             }
           ],
@@ -698,9 +702,14 @@
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260523",
-                "Learn the Movement â"
+                "Complete as many rounds and reps as possible in 15 minutes of:",
+                "100-meter dumbbell suitcase carry",
+                "10 shuttle runs*",
+                "30 alternating dumbbell hang snatches",
+                "*The shuttle run is 25 feet out and 25 feet back.",
+                "â 35-lb dumbbell",
+                "â 50-lb dumbbell",
+                "Post rounds and reps to comments."
               ]
             }
           ],
@@ -724,14 +733,31 @@
           "url": "https://www.crossfit.com/260522"
         },
         {
-          "date": "2026-05-20",
+          "date": "2026-05-21",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260520",
-                "Learn the Movement â"
+                "Rest Day",
+                "âBut I Do Cardio Every Day â Isnât That Enough?â",
+                "If you run five days a week and feel great, this final article in our \"Foundations Series\" will ask you some uncomfortable questions â and back them up with research. It breaks down why training only your aerobic system leaves two entire energy pathways underdeveloped, and why four minutes of the right kind of work can outperform an hour of steady-state cardio. Read it, then go find your favorite distance runner and have the conversation.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260521"
+        },
+        {
+          "date": "2026-05-20",
+          "sections": [
+            {
+              "title": "6 rounds for time of:",
+              "lines": [
+                "24 kettlebell swings",
+                "12 burpees to a target",
+                "â 35-lb kettlebell and a 6-inch target",
+                "â 53-lb kettlebell and a 6-inch target",
+                "Post time to comments."
               ]
             }
           ],
@@ -743,15 +769,8 @@
             {
               "title": "Workout",
               "lines": [
-                "On a 1:30 clock, complete 6 rounds for max calories of:",
-                "20 alternating single-leg squats",
-                "Max-calorie bike"
-              ]
-            },
-            {
-              "title": "Rest 1:30 between rounds.",
-              "lines": [
-                "Post total calories to comments."
+                "Tuesday",
+                "260519"
               ]
             }
           ],
@@ -761,20 +780,11 @@
           "date": "2026-05-18",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "10 deadlifts",
-                "20 pull-ups",
-                "30 wall-ball shots",
-                "40 box jumps",
-                "1,000-meter row",
-                "40 box jumps",
-                "30 wall-ball shots",
-                "20 pull-ups",
-                "10 deadlifts",
-                "â 185-lb barbell, 20-inch box, and 14-lb medicine ball to a 9-foot target",
-                "â 275-lb barbell, 24-inch box, and 20-lb medicine ball to a 10-foot target",
-                "Post time to comments."
+                "Monday",
+                "260518",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -793,19 +803,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260516"
-        },
-        {
-          "date": "2026-05-15",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Friday",
-                "260515"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260515"
         }
       ]
     }
