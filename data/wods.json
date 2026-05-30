@@ -1,11 +1,48 @@
 {
-  "last_updated": "2026-05-29T07:45:01.570375",
+  "last_updated": "2026-05-30T06:39:56.553632",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-05-30",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "instep rotation",
+                "lat stretch",
+                "hand walk"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "amrap 5min",
+                "10 push ups to down dog",
+                "10 db deadlifts",
+                "*partner is skiing"
+              ]
+            },
+            {
+              "title": "conditioning 30min",
+              "lines": [
+                "in teams of 2",
+                "for time",
+                "200 db hang clean & jerk 25/17,5kg",
+                "100 burpees over the db",
+                "*partition however",
+                "on every 3:00 (starting at 00:00) 20/18/16cal ski",
+                "aerobic capacity",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-05-30/"
+        },
         {
           "date": "2026-05-29",
           "sections": [
@@ -535,46 +572,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-05-17/"
-        },
-        {
-          "date": "2026-05-16",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "sumo squat stretch",
-                "lat stretch",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "amrap 5min",
-                "10 prone snow angels",
-                "10 ring rows",
-                "*partner is running 100m"
-              ]
-            },
-            {
-              "title": "conditioning 36min",
-              "lines": [
-                "in teams of 2",
-                "3 rounds",
-                "amrap 4min",
-                "1 lap run into max pull ups",
-                "into",
-                "amrap 4min",
-                "1 lap run into max push ups",
-                "into",
-                "amrap 4min",
-                "1 lap run into max air squats",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-05-16/"
         }
       ]
     },
@@ -584,44 +581,41 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
+          "date": "2026-05-30",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Laura",
+                "With a partner, complete as many rounds and reps as possible in 21 minutes of:",
+                "30-calorie row",
+                "20 burpees over the rower",
+                "10 power cleans",
+                "One person works at a time.",
+                "â 105-lb barbell",
+                "â 155-lb barbell",
+                "Compare to",
+                "210213",
+                ".",
+                "Post rounds and reps to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260530"
+        },
+        {
           "date": "2026-05-29",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Brian"
-              ]
-            },
-            {
-              "title": "3 rounds for time of:",
-              "lines": [
-                "5 rope climbs to 15 feet",
-                "25 back squats",
-                "â 125-lb barbell",
-                "â 185-lb barbell",
-                "Compare to",
-                "120515",
-                ".",
-                "Post time to comments."
+                "Friday",
+                "260529",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260529"
-        },
-        {
-          "date": "2026-05-28",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "What the Schedule Doesn't Show You: The Real Value of Attending a CrossFit Course",
-                "The curriculum at a CrossFit Level 1 or Level 2 Certificate Course is exceptional, but ask any experienced coach what actually stays with them, and they'll point to things that weren't on the agenda. The hallway conversations, the unscripted coaching moments, the chance to watch an expert work a problem in real time: these are the things you can't get from a book, a video, or an online course.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260528"
         },
         {
           "date": "2026-05-27",
@@ -643,9 +637,22 @@
             {
               "title": "Workout",
               "lines": [
-                "Tuesday",
-                "260526",
-                "Learn the Movement â"
+                "Adrian"
+              ]
+            },
+            {
+              "title": "7 rounds for time of:",
+              "lines": [
+                "3 forward rolls",
+                "5 wall walks",
+                "7 toes-to-bars",
+                "9 box jumps",
+                "â 24-inch box",
+                "â 30-inch box",
+                "Compare to",
+                "120923",
+                ".",
+                "Post time to comments."
               ]
             }
           ],
@@ -657,9 +664,22 @@
             {
               "title": "Workout",
               "lines": [
-                "Monday",
-                "260525",
-                "Learn More About Murph â"
+                "Murph"
+              ]
+            },
+            {
+              "title": "For time:",
+              "lines": [
+                "1-mile run",
+                "100 pull-ups",
+                "200 push-ups",
+                "300 air squats",
+                "1-mile run",
+                "Partition the pull-ups, push-ups, and air squats as desired. If youâve got a 14/20-lb vest or body armor, wear it.",
+                "Compare to",
+                "250526",
+                ".",
+                "Post time to comments."
               ]
             }
           ],
@@ -702,14 +722,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Complete as many rounds and reps as possible in 15 minutes of:",
-                "100-meter dumbbell suitcase carry",
-                "10 shuttle runs*",
-                "30 alternating dumbbell hang snatches",
-                "*The shuttle run is 25 feet out and 25 feet back.",
-                "â 35-lb dumbbell",
-                "â 50-lb dumbbell",
-                "Post rounds and reps to comments."
+                "Saturday",
+                "260523",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -719,45 +734,25 @@
           "date": "2026-05-22",
           "sections": [
             {
-              "title": "5 sets for load of:",
+              "title": "Workout",
               "lines": [
-                "5 shoulder presses + 5 push presses + 5 push jerks",
-                "No rest between movements.",
-                "Post-Workout Test",
-                "As many reps as possible in 1 minute of:",
-                "Max push presses at 60%",
-                "Post heaviest set and max reps to comments."
+                "Friday",
+                "260522",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260522"
         },
         {
-          "date": "2026-05-21",
+          "date": "2026-05-20",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "âBut I Do Cardio Every Day â Isnât That Enough?â",
-                "If you run five days a week and feel great, this final article in our \"Foundations Series\" will ask you some uncomfortable questions â and back them up with research. It breaks down why training only your aerobic system leaves two entire energy pathways underdeveloped, and why four minutes of the right kind of work can outperform an hour of steady-state cardio. Read it, then go find your favorite distance runner and have the conversation.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260521"
-        },
-        {
-          "date": "2026-05-20",
-          "sections": [
-            {
-              "title": "6 rounds for time of:",
-              "lines": [
-                "24 kettlebell swings",
-                "12 burpees to a target",
-                "â 35-lb kettlebell and a 6-inch target",
-                "â 53-lb kettlebell and a 6-inch target",
-                "Post time to comments."
+                "Wednesday",
+                "260520",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -789,20 +784,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260518"
-        },
-        {
-          "date": "2026-05-16",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Saturday",
-                "260516",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260516"
         }
       ]
     }
