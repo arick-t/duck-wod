@@ -1,11 +1,56 @@
 {
-  "last_updated": "2026-05-30T06:39:56.553632",
+  "last_updated": "2026-05-31T07:37:27.058032",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-05-31",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "sumo squat stretch",
+                "instep rotations",
+                "lat stretch"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "30sec on / 15sec off x2 rounds",
+                "1. scap. push ups",
+                "2. row",
+                "3. plank hold",
+                "4. air squats"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "emom 35min (7 rounds)",
+                "1. 30-50sec handstand hold",
+                "2. 10-15cal row",
+                "3. 8-10 feet elevated ring rows",
+                "4. 12-20 goblet squats",
+                "5. rest",
+                "Sunday Endurance for Open Gym",
+                "2 sets:",
+                "3:00 echo bike at rpe 4",
+                "3:00 echo bike at rpe 5",
+                "3:00 echo bike at rpe 6",
+                "3:00 echo bike at rpe 7",
+                "- rest 2:00 between sets",
+                "aerobic power [lactate threshold]",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-05-31/"
+        },
         {
           "date": "2026-05-30",
           "sections": [
@@ -522,56 +567,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-05-18/"
-        },
-        {
-          "date": "2026-05-17",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "sumo squat stretch",
-                "instep rotations",
-                "lat stretch"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "30sec on / 15sec off x2 rounds",
-                "1. air squats",
-                "2. row",
-                "3. hollow hold",
-                "4. ring rows"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "emom 35min (7 rounds)",
-                "1. 15-20 wall balls",
-                "2. 10-15cal row",
-                "3. 6-10 strict toes to bar",
-                "4. 10-15 double db bent over row",
-                "5. rest",
-                "Sunday Endurance for Open Gym",
-                "choose row or ski",
-                "1 set:",
-                "1000/900m",
-                "rest 2:00 after set -",
-                "2 sets:",
-                "500/450m",
-                "rest 1:00 after each set -",
-                "4 sets:",
-                "250/225m",
-                "rest 0:30 after each set -",
-                "rpe: 6-7",
-                "aerobic power [lactate threshold]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-05-17/"
         }
       ]
     },
@@ -580,6 +575,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-05-31",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "The Exercise We Used to Laugh At (And Why We Were Wrong)",
+                "Some exercises get dismissed not because they don't work, but because of where you've seen them done. The feet-up bench press was one of them, until the reasoning behind it turned out to be pretty hard to argue with.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260531"
+        },
         {
           "date": "2026-05-30",
           "sections": [
@@ -609,9 +619,20 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260529",
-                "Learn the Movement â"
+                "Brian"
+              ]
+            },
+            {
+              "title": "3 rounds for time of:",
+              "lines": [
+                "5 rope climbs to 15 feet",
+                "25 back squats",
+                "â 125-lb barbell",
+                "â 185-lb barbell",
+                "Compare to",
+                "120515",
+                ".",
+                "Post time to comments."
               ]
             }
           ],
@@ -664,22 +685,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Murph"
-              ]
-            },
-            {
-              "title": "For time:",
-              "lines": [
-                "1-mile run",
-                "100 pull-ups",
-                "200 push-ups",
-                "300 air squats",
-                "1-mile run",
-                "Partition the pull-ups, push-ups, and air squats as desired. If youâve got a 14/20-lb vest or body armor, wear it.",
-                "Compare to",
-                "250526",
-                ".",
-                "Post time to comments."
+                "Monday",
+                "260525",
+                "Learn More About Murph â"
               ]
             }
           ],
@@ -691,26 +699,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "Since 2005, CrossFit has honored fallen service members by dedicating",
-                "workouts",
-                "in their names â a tradition that turns sacrifice into something we can feel. New Hero WODs are released each Memorial Day and July 4. Here are the latest:",
-                "Locke",
-                "Estrada",
-                "Leehan",
-                "Maloney",
-                "Nunez",
-                "Drew",
-                "Jack's Triangle",
-                "Restrepo",
-                "Maxim 56",
-                "Daniel Ray",
-                "Every Hero WOD starts with someone who cared enough to say, \"This person deserves to be remembered.\" If you know a fallen service member who should be honored,",
-                "submit a nomination",
-                ". You can also",
-                "download the complete collection of Hero WODs as a PDF here",
-                ".",
-                "View the CrossFit map"
+                "Sunday",
+                "260524",
+                "Nominate a Hero â"
               ]
             }
           ],
