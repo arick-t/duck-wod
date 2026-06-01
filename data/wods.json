@@ -1,11 +1,57 @@
 {
-  "last_updated": "2026-05-31T07:37:27.058032",
+  "last_updated": "2026-06-01T09:09:27.523188",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-06-01",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "scorpions",
+                "hand walk",
+                "lat stretch",
+                "calf stretch"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 scap. pull ups",
+                "30 sec. plank hold",
+                "10 ring rows"
+              ]
+            },
+            {
+              "title": "pull ups 15min",
+              "lines": [
+                "4 super sets:",
+                "6 pull ups @rpe 7-8",
+                "12-15 banded lat pull downs"
+              ]
+            },
+            {
+              "title": "conditioning 17min",
+              "lines": [
+                "amrap 17min",
+                "3-6-9…",
+                "burpee pull ups",
+                "100m run",
+                "20 sit ups",
+                "aerobic power & muscular endurance",
+                "kipping pull up",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-06-01/"
+        },
         {
           "date": "2026-05-31",
           "sections": [
@@ -519,54 +565,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-05-19/"
-        },
-        {
-          "date": "2026-05-18",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "calf stretch",
-                "lat stretch",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 prone snow angels",
-                "10 double db deadlifts",
-                "20 single under"
-              ]
-            },
-            {
-              "title": "strict press 15min",
-              "lines": [
-                "4 super sets:",
-                "8 strict press @ rpe 6-7",
-                "12-15 db lateral raises"
-              ]
-            },
-            {
-              "title": "conditioning 15min",
-              "lines": [
-                "for time",
-                "100 double-unders",
-                "60 double db deadlifts 2x22,5/15kg",
-                "100 double-unders",
-                "45 double db hang power cleans",
-                "100 double-unders",
-                "30 double db push jerks",
-                "aerobic capacity & muscular endurance",
-                "hang power clean & push jerk",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-05-18/"
         }
       ]
     },
@@ -575,6 +573,26 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-06-01",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "For 4 rounds, complete as many reps as possible in 3 minutes of:",
+                "21 AbMat sit-ups",
+                "15 box jump-overs",
+                "9 squat cleans",
+                "Max toes-to-bars in remaining time",
+                "Rest 3 minutes between rounds.",
+                "â 95-lb barbell and a 20-inch box",
+                "â 135-lb barbell and 24-inch box",
+                "Post total reps to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260601"
+        },
         {
           "date": "2026-05-31",
           "sections": [
@@ -639,14 +657,38 @@
           "url": "https://www.crossfit.com/260529"
         },
         {
+          "date": "2026-05-28",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "What the Schedule Doesn't Show You: The Real Value of Attending a CrossFit Course",
+                "The curriculum at a CrossFit Level 1 or Level 2 Certificate Course is exceptional, but ask any experienced coach what actually stays with them, and they'll point to things that weren't on the agenda. The hallway conversations, the unscripted coaching moments, the chance to watch an expert work a problem in real time: these are the things you can't get from a book, a video, or an online course.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260528"
+        },
+        {
           "date": "2026-05-27",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260527",
-                "Practice the Movement â"
+                "Sham"
+              ]
+            },
+            {
+              "title": "7 rounds for time of:",
+              "lines": [
+                "11 bodyweight deadlifts",
+                "100-meter sprint",
+                "Compare to",
+                "141031",
+                ".",
+                "Post your time to the comments."
               ]
             }
           ],
@@ -685,9 +727,22 @@
             {
               "title": "Workout",
               "lines": [
-                "Monday",
-                "260525",
-                "Learn More About Murph â"
+                "Murph"
+              ]
+            },
+            {
+              "title": "For time:",
+              "lines": [
+                "1-mile run",
+                "100 pull-ups",
+                "200 push-ups",
+                "300 air squats",
+                "1-mile run",
+                "Partition the pull-ups, push-ups, and air squats as desired. If youâve got a 14/20-lb vest or body armor, wear it.",
+                "Compare to",
+                "250526",
+                ".",
+                "Post time to comments."
               ]
             }
           ],
@@ -761,20 +816,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260519"
-        },
-        {
-          "date": "2026-05-18",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Monday",
-                "260518",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260518"
         }
       ]
     }
