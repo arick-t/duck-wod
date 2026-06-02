@@ -1,11 +1,42 @@
 {
-  "last_updated": "2026-06-01T09:09:27.523188",
+  "last_updated": "2026-06-02T08:19:00.128988",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-06-02",
+          "sections": [
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "line drills"
+              ]
+            },
+            {
+              "title": "lunges 15min",
+              "lines": [
+                "4 supersets",
+                "6 back rack reverse lunges @rpe 7-8",
+                "12-15 partial goblet squats"
+              ]
+            },
+            {
+              "title": "conditioning 15min",
+              "lines": [
+                "for time",
+                "3 rounds",
+                "50 wall balls",
+                "100 double under",
+                "aerobic power & lactate threshold",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-06-02/"
+        },
         {
           "date": "2026-06-01",
           "sections": [
@@ -512,59 +543,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-05-20/"
-        },
-        {
-          "date": "2026-05-19",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "instep rotations",
-                "lying hip cross over"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "30sec on / 15sec off x8 rounds",
-                "1. burpees",
-                "2. bike",
-                "3. plank hold",
-                "4. reverse lunges"
-              ]
-            },
-            {
-              "title": "lunges 15min",
-              "lines": [
-                "4 supersets",
-                "8 back rack reverse lunges @rpe 6-7",
-                "12-15 partial goblet squats"
-              ]
-            },
-            {
-              "title": "conditioning 12min",
-              "lines": [
-                "40sec on / 20sec off x 12 rounds",
-                "for max reps/cals",
-                "1. front squats 40/30kg",
-                "2. cal bike",
-                "3. burpees over the bar",
-                "score: total reps/cals",
-                "aerobic power"
-              ]
-            },
-            {
-              "title": "posterior chain 4min",
-              "lines": [
-                "30sec on / 10sec off x 5 sets",
-                "chinese plank hold",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-05-19/"
         }
       ]
     },
@@ -573,6 +551,28 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-06-02",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "1,000-meter run",
+                "200-meter row",
+                "800-meter run",
+                "400-meter row",
+                "600-meter run",
+                "600-meter row",
+                "400-meter run",
+                "800-meter row",
+                "200-meter run",
+                "1,000-meter row",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260602"
+        },
         {
           "date": "2026-06-01",
           "sections": [
@@ -592,21 +592,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260601"
-        },
-        {
-          "date": "2026-05-31",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "The Exercise We Used to Laugh At (And Why We Were Wrong)",
-                "Some exercises get dismissed not because they don't work, but because of where you've seen them done. The feet-up bench press was one of them, until the reasoning behind it turned out to be pretty hard to argue with.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260531"
         },
         {
           "date": "2026-05-30",
@@ -655,21 +640,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260529"
-        },
-        {
-          "date": "2026-05-28",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "What the Schedule Doesn't Show You: The Real Value of Attending a CrossFit Course",
-                "The curriculum at a CrossFit Level 1 or Level 2 Certificate Course is exceptional, but ask any experienced coach what actually stays with them, and they'll point to things that weren't on the agenda. The hallway conversations, the unscripted coaching moments, the chance to watch an expert work a problem in real time: these are the things you can't get from a book, a video, or an online course.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260528"
         },
         {
           "date": "2026-05-27",
@@ -754,9 +724,26 @@
             {
               "title": "Workout",
               "lines": [
-                "Sunday",
-                "260524",
-                "Nominate a Hero â"
+                "Rest Day",
+                "Since 2005, CrossFit has honored fallen service members by dedicating",
+                "workouts",
+                "in their names â a tradition that turns sacrifice into something we can feel. New Hero WODs are released each Memorial Day and July 4. Here are the latest:",
+                "Locke",
+                "Estrada",
+                "Leehan",
+                "Maloney",
+                "Nunez",
+                "Drew",
+                "Jack's Triangle",
+                "Restrepo",
+                "Maxim 56",
+                "Daniel Ray",
+                "Every Hero WOD starts with someone who cared enough to say, \"This person deserves to be remembered.\" If you know a fallen service member who should be honored,",
+                "submit a nomination",
+                ". You can also",
+                "download the complete collection of Hero WODs as a PDF here",
+                ".",
+                "View the CrossFit map"
               ]
             }
           ],
@@ -803,19 +790,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260520"
-        },
-        {
-          "date": "2026-05-19",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Tuesday",
-                "260519"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260519"
         }
       ]
     }
