@@ -1,11 +1,57 @@
 {
-  "last_updated": "2026-06-02T08:19:00.128988",
+  "last_updated": "2026-06-03T08:46:08.030534",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-06-03",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "samson stretch",
+                "thoracic rotattion",
+                "lat stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 prone snow angels",
+                "10 clean grip deadlifts",
+                "10 elbow rotations",
+                "*remaining time bike/ski"
+              ]
+            },
+            {
+              "title": "hang power clean 10min",
+              "lines": [
+                "find a heavy set of 3",
+                "hang power cleans",
+                "explosive power"
+              ]
+            },
+            {
+              "title": "conditioning 17min",
+              "lines": [
+                "amrap 1:30 x 6 rounds",
+                "6 power cleans 60/40kg",
+                "9 push ups",
+                "12/10cal bike/ski",
+                "- 1:30 rest between amraps -",
+                "*pick up where you left off",
+                "repeatable power output",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-06-03/"
+        },
         {
           "date": "2026-06-02",
           "sections": [
@@ -511,38 +557,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-05-21/"
-        },
-        {
-          "date": "2026-05-20",
-          "sections": [
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "line drills"
-              ]
-            },
-            {
-              "title": "conditioning 30min",
-              "lines": [
-                "for time",
-                "8 rounds",
-                "10 pull ups",
-                "15 push ups",
-                "20 sit ups",
-                "-1:00 rest between rounds -",
-                "muscular endurance"
-              ]
-            },
-            {
-              "title": "shoulder 4min",
-              "lines": [
-                "tabata (20sec on/10sec off) x 8 sets",
-                "prone press",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-05-20/"
         }
       ]
     },
@@ -551,6 +565,30 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-06-03",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Push press 3-3-3-3-3 reps",
+                "Then,",
+                "Complete as many reps as possible in 7 minutes of:",
+                "1 strict pull-up",
+                "1 push press",
+                "2 strict pull-ups",
+                "2 push presses",
+                "3 strict pull-ups",
+                "3 push presses",
+                "Etc.",
+                "â 105-lb barbell",
+                "â 155-lb barbell",
+                "Post reps to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260603"
+        },
         {
           "date": "2026-06-02",
           "sections": [
@@ -592,6 +630,21 @@
             }
           ],
           "url": "https://www.crossfit.com/260601"
+        },
+        {
+          "date": "2026-05-31",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "The Exercise We Used to Laugh At (And Why We Were Wrong)",
+                "Some exercises get dismissed not because they don't work, but because of where you've seen them done. The feet-up bench press was one of them, until the reasoning behind it turned out to be pretty hard to argue with.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260531"
         },
         {
           "date": "2026-05-30",
@@ -670,22 +723,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Adrian"
-              ]
-            },
-            {
-              "title": "7 rounds for time of:",
-              "lines": [
-                "3 forward rolls",
-                "5 wall walks",
-                "7 toes-to-bars",
-                "9 box jumps",
-                "â 24-inch box",
-                "â 30-inch box",
-                "Compare to",
-                "120923",
-                ".",
-                "Post time to comments."
+                "Tuesday",
+                "260526",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -755,9 +795,14 @@
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260523",
-                "Learn the Movement â"
+                "Complete as many rounds and reps as possible in 15 minutes of:",
+                "100-meter dumbbell suitcase carry",
+                "10 shuttle runs*",
+                "30 alternating dumbbell hang snatches",
+                "*The shuttle run is 25 feet out and 25 feet back.",
+                "â 35-lb dumbbell",
+                "â 50-lb dumbbell",
+                "Post rounds and reps to comments."
               ]
             }
           ],
@@ -776,20 +821,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260522"
-        },
-        {
-          "date": "2026-05-20",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Wednesday",
-                "260520",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260520"
         }
       ]
     }
