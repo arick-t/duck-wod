@@ -1,11 +1,48 @@
 {
-  "last_updated": "2026-06-03T08:46:08.030534",
+  "last_updated": "2026-06-04T08:11:16.159877",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-06-04",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "instep rotations",
+                "lying hip cross over"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "30sec on / 15sec off x 6 rounds",
+                "1. row",
+                "2. plank hold",
+                "3. ring rows"
+              ]
+            },
+            {
+              "title": "conditioning 32min",
+              "lines": [
+                "on every 2:00 x 16 rounds",
+                "for max reps",
+                "1. cal row",
+                "2. lanes kb front rack carry 2x 24/16kg",
+                "3. strict chin ups",
+                "4. rest",
+                "aerobic capacity & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-06-04/"
+        },
         {
           "date": "2026-06-03",
           "sections": [
@@ -513,50 +550,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-05-22/"
-        },
-        {
-          "date": "2026-05-21",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "90/90 hip rotation",
-                "calf stretch",
-                "lying hip cross over",
-                "hamstring stretch on box"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 cossack squats",
-                "10 good mornings",
-                "100m run"
-              ]
-            },
-            {
-              "title": "sumo deadlift 14min",
-              "lines": [
-                "find a heavy set of 3",
-                "sumo deadlifts"
-              ]
-            },
-            {
-              "title": "conditioning 15min",
-              "lines": [
-                "for time",
-                "3 rounds",
-                "15 deadlifts 80/60kg",
-                "30 box jumps 60/50cm",
-                "400m run",
-                "aerobic power & muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-05-21/"
         }
       ]
     },
@@ -695,23 +688,29 @@
           "url": "https://www.crossfit.com/260529"
         },
         {
+          "date": "2026-05-28",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "What the Schedule Doesn't Show You: The Real Value of Attending a CrossFit Course",
+                "The curriculum at a CrossFit Level 1 or Level 2 Certificate Course is exceptional, but ask any experienced coach what actually stays with them, and they'll point to things that weren't on the agenda. The hallway conversations, the unscripted coaching moments, the chance to watch an expert work a problem in real time: these are the things you can't get from a book, a video, or an online course.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260528"
+        },
+        {
           "date": "2026-05-27",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Sham"
-              ]
-            },
-            {
-              "title": "7 rounds for time of:",
-              "lines": [
-                "11 bodyweight deadlifts",
-                "100-meter sprint",
-                "Compare to",
-                "141031",
-                ".",
-                "Post your time to the comments."
+                "Wednesday",
+                "260527",
+                "Practice the Movement â"
               ]
             }
           ],
@@ -737,22 +736,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Murph"
-              ]
-            },
-            {
-              "title": "For time:",
-              "lines": [
-                "1-mile run",
-                "100 pull-ups",
-                "200 push-ups",
-                "300 air squats",
-                "1-mile run",
-                "Partition the pull-ups, push-ups, and air squats as desired. If youâve got a 14/20-lb vest or body armor, wear it.",
-                "Compare to",
-                "250526",
-                ".",
-                "Post time to comments."
+                "Monday",
+                "260525",
+                "Learn More About Murph â"
               ]
             }
           ],
@@ -764,26 +750,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "Since 2005, CrossFit has honored fallen service members by dedicating",
-                "workouts",
-                "in their names â a tradition that turns sacrifice into something we can feel. New Hero WODs are released each Memorial Day and July 4. Here are the latest:",
-                "Locke",
-                "Estrada",
-                "Leehan",
-                "Maloney",
-                "Nunez",
-                "Drew",
-                "Jack's Triangle",
-                "Restrepo",
-                "Maxim 56",
-                "Daniel Ray",
-                "Every Hero WOD starts with someone who cared enough to say, \"This person deserves to be remembered.\" If you know a fallen service member who should be honored,",
-                "submit a nomination",
-                ". You can also",
-                "download the complete collection of Hero WODs as a PDF here",
-                ".",
-                "View the CrossFit map"
+                "Sunday",
+                "260524",
+                "Nominate a Hero â"
               ]
             }
           ],
@@ -795,14 +764,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Complete as many rounds and reps as possible in 15 minutes of:",
-                "100-meter dumbbell suitcase carry",
-                "10 shuttle runs*",
-                "30 alternating dumbbell hang snatches",
-                "*The shuttle run is 25 feet out and 25 feet back.",
-                "â 35-lb dumbbell",
-                "â 50-lb dumbbell",
-                "Post rounds and reps to comments."
+                "Saturday",
+                "260523",
+                "Learn the Movement â"
               ]
             }
           ],
