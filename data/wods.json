@@ -1,11 +1,49 @@
 {
-  "last_updated": "2026-06-05T07:58:17.926482",
+  "last_updated": "2026-06-06T06:45:43.318570",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-06-06",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "calf stretch",
+                "instep rotation",
+                "hand walk"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "amrap 5min",
+                "10 squat jumps",
+                "10 kb deadlifts",
+                "*partner is holding plank position"
+              ]
+            },
+            {
+              "title": "conditioning 30min",
+              "lines": [
+                "for time",
+                "in teams of 2",
+                "2 rounds",
+                "80 kb swing 24/16",
+                "40 burpee box jumps 60/50cm",
+                "60 kb box step ups",
+                "40 burpee box jumps",
+                "aerobic power & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-06-06/"
+        },
         {
           "date": "2026-06-05",
           "sections": [
@@ -520,43 +558,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-05-24/"
-        },
-        {
-          "date": "2026-05-23",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "samson Stretch",
-                "lat stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "30sec on / 15sec off x2 rounds",
-                "1. synchro burpees",
-                "2. A: bike + B: air squats",
-                "3. synchro straight leg sit ups"
-              ]
-            },
-            {
-              "title": "conditioning 31min",
-              "lines": [
-                "in teams of 2",
-                "for max reps/cals",
-                "1:00 on / 00:30 off x 21 rounds",
-                "1. synchro db snatches 22,5/15kg",
-                "2. cal bike",
-                "3. toes to bar",
-                "score: total reps/cals",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-05-23/"
         }
       ]
     },
@@ -565,6 +566,51 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-06-06",
+          "sections": [
+            {
+              "title": "On a 2:30 clock:",
+              "lines": [
+                "20 front squats, weight 1",
+                "12 burpees over the bar"
+              ]
+            },
+            {
+              "title": "On a 2:30 clock:",
+              "lines": [
+                "16 front squats, weight 2",
+                "12 burpees over the bar"
+              ]
+            },
+            {
+              "title": "On a 2:30 clock:",
+              "lines": [
+                "12 front squats, weight 3",
+                "12 burpees over the bar"
+              ]
+            },
+            {
+              "title": "On a 2:30 clock:",
+              "lines": [
+                "8 front squats, weight 4",
+                "12 burpees over the bar"
+              ]
+            },
+            {
+              "title": "On a 2:30 clock:",
+              "lines": [
+                "4 front squats, weight 5",
+                "12 burpees over the bar",
+                "Rest the remainder of each 2:30 interval. Record your time for each couplet.",
+                "â 65/95/125/135/145-lb barbell",
+                "â 95/135/185/205/225-lb barbell",
+                "Post total time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260606"
+        },
         {
           "date": "2026-06-05",
           "sections": [
@@ -613,9 +659,19 @@
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260603",
-                "Learn the Movement â"
+                "Push press 3-3-3-3-3 reps",
+                "Then,",
+                "Complete as many reps as possible in 7 minutes of:",
+                "1 strict pull-up",
+                "1 push press",
+                "2 strict pull-ups",
+                "2 push presses",
+                "3 strict pull-ups",
+                "3 push presses",
+                "Etc.",
+                "â 105-lb barbell",
+                "â 155-lb barbell",
+                "Post reps to comments."
               ]
             }
           ],
@@ -625,11 +681,19 @@
           "date": "2026-06-02",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Tuesday",
-                "260602",
-                "Learn the Movement â"
+                "1,000-meter run",
+                "200-meter row",
+                "800-meter run",
+                "400-meter row",
+                "600-meter run",
+                "600-meter row",
+                "400-meter run",
+                "800-meter row",
+                "200-meter run",
+                "1,000-meter row",
+                "Post time to comments."
               ]
             }
           ],
@@ -641,9 +705,15 @@
             {
               "title": "Workout",
               "lines": [
-                "Monday",
-                "260601",
-                "Learn the Movement â"
+                "For 4 rounds, complete as many reps as possible in 3 minutes of:",
+                "21 AbMat sit-ups",
+                "15 box jump-overs",
+                "9 squat cleans",
+                "Max toes-to-bars in remaining time",
+                "Rest 3 minutes between rounds.",
+                "â 95-lb barbell and a 20-inch box",
+                "â 135-lb barbell and 24-inch box",
+                "Post total reps to comments."
               ]
             }
           ],
@@ -732,20 +802,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260524"
-        },
-        {
-          "date": "2026-05-23",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Saturday",
-                "260523",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260523"
         }
       ]
     }
