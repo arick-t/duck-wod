@@ -1,11 +1,56 @@
 {
-  "last_updated": "2026-06-06T06:45:43.318570",
+  "last_updated": "2026-06-07T07:46:04.031265",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-06-07",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "instep rotations",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "30sec on / 15sec off x2 rounds",
+                "1. air squats",
+                "2. row",
+                "3. straight leg sit ups",
+                "4. scap. push ups"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "emom 35min (7 rounds)",
+                "1. 30-45sec (weighted) wall sit",
+                "2. 10-15cal row",
+                "3. 7-10 strict toes to bar",
+                "4. 8-15 bench dips",
+                "5. rest",
+                "Sunday Endurance for Open Gym",
+                "5 rounds for distance:",
+                "1:40 row, bike, ski, or run",
+                ":20 rest",
+                "2:00 rest",
+                "4 rounds for distance:",
+                "1:40 row, bike, ski, or run",
+                ":20 rest",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-06-07/"
+        },
         {
           "date": "2026-06-06",
           "sections": [
@@ -521,43 +566,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-05-25/"
-        },
-        {
-          "date": "2026-05-24",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "samson stretch",
-                "instep rotations",
-                "lat stretch"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "30sec on / 15sec off x2 rounds",
-                "1. prone snow angels",
-                "2. row",
-                "3. ring rows",
-                "4. box step ups"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "emom 35min (7 rounds)",
-                "1. 3-5 wall walks",
-                "2. 10-15cal row",
-                "3. 8-10 burpee pull ups",
-                "4. 10-16 db box step ups",
-                "5. rest",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-05-24/"
         }
       ]
     },
@@ -566,6 +574,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-06-07",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Why Intensity Is the One Thing You Can't Train Around",
+                "Social media is full of fitness content, and most of it is steering you away from the single biggest factor in actually getting fitter. Intensity isn't glamorous, it doesn't film well, and it hurts â which is exactly why it keeps getting buried under fancier alternatives.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260607"
+        },
         {
           "date": "2026-06-06",
           "sections": [
@@ -615,43 +638,14 @@
           "date": "2026-06-05",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "6 rope climbs to 15 feet",
-                "6 dumbbell farmers carry shuttles",
-                "21 dumbbell deadlifts",
-                "21-calorie bike",
-                "4 rope climbs",
-                "4 dumbbell farmers carry shuttles",
-                "15 dumbbell deadlifts",
-                "15-calorie bike",
-                "2 rope climbs",
-                "2 dumbbell farmers carry shuttles",
-                "9 dumbbell deadlifts",
-                "9-calorie bike",
-                "One shuttle is 25 feet down and 25 feet back.",
-                "â 50-lb dumbbells",
-                "â 70-lb dumbbells",
-                "Post time to comments."
+                "Friday",
+                "260605"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260605"
-        },
-        {
-          "date": "2026-06-04",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Letâs Talk About Practice",
-                "Most athletes chase the clock, the load, and the score, and quietly skip the one thing that's most likely to break them through their next plateau. Deliberate practice isn't a rest day in disguise; it's how you unlock the fitness you already have the capacity for but haven't been able to access yet.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260604"
         },
         {
           "date": "2026-06-03",
@@ -659,19 +653,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Push press 3-3-3-3-3 reps",
-                "Then,",
-                "Complete as many reps as possible in 7 minutes of:",
-                "1 strict pull-up",
-                "1 push press",
-                "2 strict pull-ups",
-                "2 push presses",
-                "3 strict pull-ups",
-                "3 push presses",
-                "Etc.",
-                "â 105-lb barbell",
-                "â 155-lb barbell",
-                "Post reps to comments."
+                "Wednesday",
+                "260603",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -681,19 +665,11 @@
           "date": "2026-06-02",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "1,000-meter run",
-                "200-meter row",
-                "800-meter run",
-                "400-meter row",
-                "600-meter run",
-                "600-meter row",
-                "400-meter run",
-                "800-meter row",
-                "200-meter run",
-                "1,000-meter row",
-                "Post time to comments."
+                "Tuesday",
+                "260602",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -788,20 +764,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260525"
-        },
-        {
-          "date": "2026-05-24",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Sunday",
-                "260524",
-                "Nominate a Hero â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260524"
         }
       ]
     }
