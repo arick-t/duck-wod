@@ -1,11 +1,57 @@
 {
-  "last_updated": "2026-06-08T08:43:32.376929",
+  "last_updated": "2026-06-09T07:36:14.670512",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-06-09",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "instep rotation",
+                "hand walk",
+                "lat stretch",
+                "calf stretch"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10/8cal row",
+                "20 single under",
+                "10 ring rows"
+              ]
+            },
+            {
+              "title": "pull ups 15min",
+              "lines": [
+                "4 super sets",
+                "4 pull ups @rpe 8-9",
+                "12-15 banded lat pull downs"
+              ]
+            },
+            {
+              "title": "conditioning 16min",
+              "lines": [
+                "for time",
+                "21-15-9-15-21",
+                "pull ups",
+                "cal row (women's cal: 18-12-6-12-18)",
+                "*60 double under after each round",
+                "rx+ option: chest to bar pull ups",
+                "aerobic power & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-06-09/"
+        },
         {
           "date": "2026-06-08",
           "sections": [
@@ -568,32 +614,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-05-27/"
-        },
-        {
-          "date": "2026-05-26",
-          "sections": [
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "line drills"
-              ]
-            },
-            {
-              "title": "benchmark conditioning",
-              "lines": [
-                "\"Murph\"",
-                "for time",
-                "1 mile run",
-                "100 pull ups",
-                "200 push ups",
-                "300 squats",
-                "1 mile run",
-                "partition as needed. optional weight vest 9/6kg.",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-05-26/"
         }
       ]
     },
@@ -602,6 +622,32 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-06-09",
+          "sections": [
+            {
+              "title": "9-15-21 reps for time of:",
+              "lines": [
+                "Pull-ups",
+                "Thrusters"
+              ]
+            },
+            {
+              "title": "In the remaining time:",
+              "lines": [
+                "Build to a heavy single thruster",
+                "Take the bar from the floor.",
+                "â 65-lb barbell",
+                "â 95-lb barbell",
+                "Post time and load to comments.",
+                "Compare to similar",
+                "250730",
+                "."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260609"
+        },
         {
           "date": "2026-06-08",
           "sections": [
@@ -620,21 +666,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260608"
-        },
-        {
-          "date": "2026-06-07",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Why Intensity Is the One Thing You Can't Train Around",
-                "Social media is full of fitness content, and most of it is steering you away from the single biggest factor in actually getting fitter. Intensity isn't glamorous, it doesn't film well, and it hurts â which is exactly why it keeps getting buried under fancier alternatives.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260607"
         },
         {
           "date": "2026-06-06",
@@ -790,21 +821,6 @@
           "url": "https://www.crossfit.com/260601"
         },
         {
-          "date": "2026-05-31",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "The Exercise We Used to Laugh At (And Why We Were Wrong)",
-                "Some exercises get dismissed not because they don't work, but because of where you've seen them done. The feet-up bench press was one of them, until the reasoning behind it turned out to be pretty hard to argue with.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260531"
-        },
-        {
           "date": "2026-05-30",
           "sections": [
             {
@@ -838,36 +854,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Sham"
-              ]
-            },
-            {
-              "title": "7 rounds for time of:",
-              "lines": [
-                "11 bodyweight deadlifts",
-                "100-meter sprint",
-                "Compare to",
-                "141031",
-                ".",
-                "Post your time to the comments."
+                "Wednesday",
+                "260527",
+                "Practice the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260527"
-        },
-        {
-          "date": "2026-05-26",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Tuesday",
-                "260526",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260526"
         }
       ]
     }
