@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09T07:36:14.670512",
+  "last_updated": "2026-06-10T08:01:01.301888",
   "sources": [
     {
       "id": "myleo",
@@ -623,6 +623,23 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
+          "date": "2026-06-10",
+          "sections": [
+            {
+              "title": "6 rounds, each for time, of:",
+              "lines": [
+                "400-meter run",
+                "Rest 90 seconds between rounds. Log each round; score is total run time.",
+                "Post times to comments.",
+                "Compare to similar",
+                "231120",
+                "."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260610"
+        },
+        {
           "date": "2026-06-09",
           "sections": [
             {
@@ -666,6 +683,21 @@
             }
           ],
           "url": "https://www.crossfit.com/260608"
+        },
+        {
+          "date": "2026-06-07",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Why Intensity Is the One Thing You Can't Train Around",
+                "Social media is full of fitness content, and most of it is steering you away from the single biggest factor in actually getting fitter. Intensity isn't glamorous, it doesn't film well, and it hurts â which is exactly why it keeps getting buried under fancier alternatives.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260607"
         },
         {
           "date": "2026-06-06",
@@ -821,14 +853,38 @@
           "url": "https://www.crossfit.com/260601"
         },
         {
+          "date": "2026-05-31",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "The Exercise We Used to Laugh At (And Why We Were Wrong)",
+                "Some exercises get dismissed not because they don't work, but because of where you've seen them done. The feet-up bench press was one of them, until the reasoning behind it turned out to be pretty hard to argue with.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260531"
+        },
+        {
           "date": "2026-05-30",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260530",
-                "Learn the Movement â"
+                "Laura",
+                "With a partner, complete as many rounds and reps as possible in 21 minutes of:",
+                "30-calorie row",
+                "20 burpees over the rower",
+                "10 power cleans",
+                "One person works at a time.",
+                "â 105-lb barbell",
+                "â 155-lb barbell",
+                "Compare to",
+                "210213",
+                ".",
+                "Post rounds and reps to comments."
               ]
             }
           ],
@@ -840,27 +896,39 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260529",
-                "Learn the Movement â"
+                "Brian"
+              ]
+            },
+            {
+              "title": "3 rounds for time of:",
+              "lines": [
+                "5 rope climbs to 15 feet",
+                "25 back squats",
+                "â 125-lb barbell",
+                "â 185-lb barbell",
+                "Compare to",
+                "120515",
+                ".",
+                "Post time to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260529"
         },
         {
-          "date": "2026-05-27",
+          "date": "2026-05-28",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260527",
-                "Practice the Movement â"
+                "Rest Day",
+                "What the Schedule Doesn't Show You: The Real Value of Attending a CrossFit Course",
+                "The curriculum at a CrossFit Level 1 or Level 2 Certificate Course is exceptional, but ask any experienced coach what actually stays with them, and they'll point to things that weren't on the agenda. The hallway conversations, the unscripted coaching moments, the chance to watch an expert work a problem in real time: these are the things you can't get from a book, a video, or an online course.",
+                "View the CrossFit map"
               ]
             }
           ],
-          "url": "https://www.crossfit.com/260527"
+          "url": "https://www.crossfit.com/260528"
         }
       ]
     }
