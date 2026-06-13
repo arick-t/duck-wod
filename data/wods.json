@@ -1,11 +1,47 @@
 {
-  "last_updated": "2026-06-12T08:15:10.718878",
+  "last_updated": "2026-06-13T07:38:33.327518",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-06-13",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "calf stretch",
+                "lying hip cross over",
+                "hand walk"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "amrap 5min",
+                "10 good mornings",
+                "10 straight leg sit ups",
+                "*partner is running 100m"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "in teams of 2",
+                "on every 3:30 x 10 rounds",
+                "1 lap partner run",
+                "16 deadlifts 80/60kg",
+                "max toes to bar",
+                "score: total toes to bar",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-06-13/"
+        },
         {
           "date": "2026-06-12",
           "sections": [
@@ -584,43 +620,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-05-31/"
-        },
-        {
-          "date": "2026-05-30",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "instep rotation",
-                "lat stretch",
-                "hand walk"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "amrap 5min",
-                "10 push ups to down dog",
-                "10 db deadlifts",
-                "*partner is skiing"
-              ]
-            },
-            {
-              "title": "conditioning 30min",
-              "lines": [
-                "in teams of 2",
-                "for time",
-                "200 db hang clean & jerk 25/17,5kg",
-                "100 burpees over the db",
-                "*partition however",
-                "on every 3:00 (starting at 00:00) 20/18/16cal ski",
-                "aerobic capacity",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-05-30/"
         }
       ]
     },
@@ -629,6 +628,22 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-06-13",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "100 overhead squats",
+                "Every minute, starting at 0:00, complete 15 double-unders. No racks â the bar comes from the floor.",
+                "â 95-lb barbell",
+                "â 135-lb barbell",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260613"
+        },
         {
           "date": "2026-06-12",
           "sections": [
@@ -672,11 +687,14 @@
           "date": "2026-06-10",
           "sections": [
             {
-              "title": "Workout",
+              "title": "6 rounds, each for time, of:",
               "lines": [
-                "Wednesday",
-                "260610",
-                "Drill the Movement â"
+                "400-meter run",
+                "Rest 90 seconds between rounds. Log each round; score is total run time.",
+                "Post times to comments.",
+                "Compare to similar",
+                "231120",
+                "."
               ]
             }
           ],
@@ -835,9 +853,19 @@
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260603",
-                "Learn the Movement â"
+                "Push press 3-3-3-3-3 reps",
+                "Then,",
+                "Complete as many reps as possible in 7 minutes of:",
+                "1 strict pull-up",
+                "1 push press",
+                "2 strict pull-ups",
+                "2 push presses",
+                "3 strict pull-ups",
+                "3 push presses",
+                "Etc.",
+                "â 105-lb barbell",
+                "â 155-lb barbell",
+                "Post reps to comments."
               ]
             }
           ],
@@ -847,11 +875,19 @@
           "date": "2026-06-02",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Tuesday",
-                "260602",
-                "Learn the Movement â"
+                "1,000-meter run",
+                "200-meter row",
+                "800-meter run",
+                "400-meter row",
+                "600-meter run",
+                "600-meter row",
+                "400-meter run",
+                "800-meter row",
+                "200-meter run",
+                "1,000-meter row",
+                "Post time to comments."
               ]
             }
           ],
@@ -863,27 +899,34 @@
             {
               "title": "Workout",
               "lines": [
-                "Monday",
-                "260601",
-                "Learn the Movement â"
+                "For 4 rounds, complete as many reps as possible in 3 minutes of:",
+                "21 AbMat sit-ups",
+                "15 box jump-overs",
+                "9 squat cleans",
+                "Max toes-to-bars in remaining time",
+                "Rest 3 minutes between rounds.",
+                "â 95-lb barbell and a 20-inch box",
+                "â 135-lb barbell and 24-inch box",
+                "Post total reps to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260601"
         },
         {
-          "date": "2026-05-30",
+          "date": "2026-05-31",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260530",
-                "Learn the Movement â"
+                "Rest Day",
+                "The Exercise We Used to Laugh At (And Why We Were Wrong)",
+                "Some exercises get dismissed not because they don't work, but because of where you've seen them done. The feet-up bench press was one of them, until the reasoning behind it turned out to be pretty hard to argue with.",
+                "View the CrossFit map"
               ]
             }
           ],
-          "url": "https://www.crossfit.com/260530"
+          "url": "https://www.crossfit.com/260531"
         }
       ]
     }
