@@ -1,11 +1,56 @@
 {
-  "last_updated": "2026-06-14T08:06:54.260657",
+  "last_updated": "2026-06-15T09:50:49.395129",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-06-15",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "sumo squat stretch",
+                "thoracic rotattion",
+                "lat stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 burpees",
+                "10 ring rows",
+                "10 elbow rotations",
+                "*remaining time deep squat hold"
+              ]
+            },
+            {
+              "title": "pull ups 15min",
+              "lines": [
+                "4 super sets",
+                "4 pull ups @rpe 8-9",
+                "12-15 banded lat pull downs"
+              ]
+            },
+            {
+              "title": "conditioning 15min",
+              "lines": [
+                "each round for time",
+                "on every 2:30 x 6 rounds",
+                "8 burpee pull ups",
+                "10 front squats 40/30kg",
+                "score: slowest round",
+                "anaerobic capacity",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-06-15/"
+        },
         {
           "date": "2026-06-14",
           "sections": [
@@ -572,52 +617,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-06-02/"
-        },
-        {
-          "date": "2026-06-01",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "scorpions",
-                "hand walk",
-                "lat stretch",
-                "calf stretch"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 scap. pull ups",
-                "30 sec. plank hold",
-                "10 ring rows"
-              ]
-            },
-            {
-              "title": "pull ups 15min",
-              "lines": [
-                "4 super sets:",
-                "6 pull ups @rpe 7-8",
-                "12-15 banded lat pull downs"
-              ]
-            },
-            {
-              "title": "conditioning 17min",
-              "lines": [
-                "amrap 17min",
-                "3-6-9…",
-                "burpee pull ups",
-                "100m run",
-                "20 sit ups",
-                "aerobic power & muscular endurance",
-                "kipping pull up",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-06-01/"
         }
       ]
     },
@@ -627,19 +626,20 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
-          "date": "2026-06-14",
+          "date": "2026-06-15",
           "sections": [
             {
-              "title": "Workout",
+              "title": "10-9-8-7-6-5-4-3-2-1 reps for time of:",
               "lines": [
-                "Rest Day",
-                "The Sickness-Wellness-Fitness Continuum: Building Your Hedge Against Decrepitude",
-                "You can be incredibly fit and still be unhealthy, and that disconnect might be robbing you of the real point of training. Fitness isn't about your next PR; it's about building a buffer against the sickness and decline of aging so when life throws something at you, you have the capacity to survive and recover.",
-                "View the CrossFit map"
+                "Bench presses",
+                "Chest-to-bar pull-ups",
+                "â Bodyweight barbell",
+                "â Bodyweight barbell",
+                "Post time and load to comments."
               ]
             }
           ],
-          "url": "https://www.crossfit.com/260614"
+          "url": "https://www.crossfit.com/260615"
         },
         {
           "date": "2026-06-13",
@@ -700,11 +700,14 @@
           "date": "2026-06-10",
           "sections": [
             {
-              "title": "Workout",
+              "title": "6 rounds, each for time, of:",
               "lines": [
-                "Wednesday",
-                "260610",
-                "Drill the Movement â"
+                "400-meter run",
+                "Rest 90 seconds between rounds. Log each round; score is total run time.",
+                "Post times to comments.",
+                "Compare to similar",
+                "231120",
+                "."
               ]
             }
           ],
@@ -756,6 +759,21 @@
           "url": "https://www.crossfit.com/260608"
         },
         {
+          "date": "2026-06-07",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Why Intensity Is the One Thing You Can't Train Around",
+                "Social media is full of fitness content, and most of it is steering you away from the single biggest factor in actually getting fitter. Intensity isn't glamorous, it doesn't film well, and it hurts â which is exactly why it keeps getting buried under fancier alternatives.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260607"
+        },
+        {
           "date": "2026-06-06",
           "sections": [
             {
@@ -783,39 +801,14 @@
           "url": "https://www.crossfit.com/260605"
         },
         {
-          "date": "2026-06-04",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Letâs Talk About Practice",
-                "Most athletes chase the clock, the load, and the score, and quietly skip the one thing that's most likely to break them through their next plateau. Deliberate practice isn't a rest day in disguise; it's how you unlock the fitness you already have the capacity for but haven't been able to access yet.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260604"
-        },
-        {
           "date": "2026-06-03",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Push press 3-3-3-3-3 reps",
-                "Then,",
-                "Complete as many reps as possible in 7 minutes of:",
-                "1 strict pull-up",
-                "1 push press",
-                "2 strict pull-ups",
-                "2 push presses",
-                "3 strict pull-ups",
-                "3 push presses",
-                "Etc.",
-                "â 105-lb barbell",
-                "â 155-lb barbell",
-                "Post reps to comments."
+                "Wednesday",
+                "260603",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -825,43 +818,15 @@
           "date": "2026-06-02",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "1,000-meter run",
-                "200-meter row",
-                "800-meter run",
-                "400-meter row",
-                "600-meter run",
-                "600-meter row",
-                "400-meter run",
-                "800-meter row",
-                "200-meter run",
-                "1,000-meter row",
-                "Post time to comments."
+                "Tuesday",
+                "260602",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260602"
-        },
-        {
-          "date": "2026-06-01",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "For 4 rounds, complete as many reps as possible in 3 minutes of:",
-                "21 AbMat sit-ups",
-                "15 box jump-overs",
-                "9 squat cleans",
-                "Max toes-to-bars in remaining time",
-                "Rest 3 minutes between rounds.",
-                "â 95-lb barbell and a 20-inch box",
-                "â 135-lb barbell and 24-inch box",
-                "Post total reps to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260601"
         }
       ]
     }
