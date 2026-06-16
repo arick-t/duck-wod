@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-06-15T09:50:49.395129",
+  "last_updated": "2026-06-16T09:14:41.268479",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-06-16",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "seated pike stretch",
+                "calf stretch",
+                "instep rotation"
+              ]
+            },
+            {
+              "title": "primer toes to bar 4min",
+              "lines": [
+                "20sec on/ 20sec off x 6 rounds",
+                "1. hanging hollow hold",
+                "2. hanging arch hold"
+              ]
+            },
+            {
+              "title": "primer power clean 4min",
+              "lines": [
+                "20sec on/ 20sec off x 6 rounds",
+                "1. low hang high pulls",
+                "2. high hang muscle cleans"
+              ]
+            },
+            {
+              "title": "conditioning 24min",
+              "lines": [
+                "amrap 24min",
+                "12 toes to bar",
+                "8 power cleans 70/50kg",
+                "400m run",
+                "aerobic power",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-06-16/"
+        },
         {
           "date": "2026-06-15",
           "sections": [
@@ -586,37 +628,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-06-03/"
-        },
-        {
-          "date": "2026-06-02",
-          "sections": [
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "line drills"
-              ]
-            },
-            {
-              "title": "lunges 15min",
-              "lines": [
-                "4 supersets",
-                "6 back rack reverse lunges @rpe 7-8",
-                "12-15 partial goblet squats"
-              ]
-            },
-            {
-              "title": "conditioning 15min",
-              "lines": [
-                "for time",
-                "3 rounds",
-                "50 wall balls",
-                "100 double under",
-                "aerobic power & lactate threshold",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-06-02/"
         }
       ]
     },
@@ -626,16 +637,29 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
+          "date": "2026-06-16",
+          "sections": [
+            {
+              "title": "5 rounds for time of:",
+              "lines": [
+                "800-meter run",
+                "50 air squats",
+                "30 GHD sit-ups",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260616"
+        },
+        {
           "date": "2026-06-15",
           "sections": [
             {
-              "title": "10-9-8-7-6-5-4-3-2-1 reps for time of:",
+              "title": "Workout",
               "lines": [
-                "Bench presses",
-                "Chest-to-bar pull-ups",
-                "â Bodyweight barbell",
-                "â Bodyweight barbell",
-                "Post time and load to comments."
+                "Monday",
+                "260615",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -663,38 +687,13 @@
             {
               "title": "Workout",
               "lines": [
-                "2012 Regionals, Event 2"
-              ]
-            },
-            {
-              "title": "For time:",
-              "lines": [
-                "2,000-meter row",
-                "50 alternating single-leg squats",
-                "30 hang cleans",
-                "â 135-lb barbell",
-                "â 225-lb barbell",
-                "Post time to comments.",
-                "Compare to",
-                "120428",
-                "."
+                "Friday",
+                "260612",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260612"
-        },
-        {
-          "date": "2026-06-11",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "How Two CrossFit Coaches Scale a Week of Workouts"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260611"
         },
         {
           "date": "2026-06-10",
@@ -743,16 +742,11 @@
           "date": "2026-06-08",
           "sections": [
             {
-              "title": "For max calories:",
+              "title": "Workout",
               "lines": [
-                "1-minute air bike",
-                "Rest 5 minutes",
-                "As many reps as possible in 10 minutes of:",
-                "Burpee box get-overs",
-                "A weight vest is optional.",
-                "â 48-inch box",
-                "â 48-inch box",
-                "Post calories and reps to comments."
+                "Monday",
+                "260608",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -777,11 +771,42 @@
           "date": "2026-06-06",
           "sections": [
             {
-              "title": "Workout",
+              "title": "On a 2:30 clock:",
               "lines": [
-                "Saturday",
-                "260606",
-                "Learn the Movement â"
+                "20 front squats, weight 1",
+                "12 burpees over the bar"
+              ]
+            },
+            {
+              "title": "On a 2:30 clock:",
+              "lines": [
+                "16 front squats, weight 2",
+                "12 burpees over the bar"
+              ]
+            },
+            {
+              "title": "On a 2:30 clock:",
+              "lines": [
+                "12 front squats, weight 3",
+                "12 burpees over the bar"
+              ]
+            },
+            {
+              "title": "On a 2:30 clock:",
+              "lines": [
+                "8 front squats, weight 4",
+                "12 burpees over the bar"
+              ]
+            },
+            {
+              "title": "On a 2:30 clock:",
+              "lines": [
+                "4 front squats, weight 5",
+                "12 burpees over the bar",
+                "Rest the remainder of each 2:30 interval. Record your time for each couplet.",
+                "â 65/95/125/135/145-lb barbell",
+                "â 95/135/185/205/225-lb barbell",
+                "Post total time to comments."
               ]
             }
           ],
@@ -813,20 +838,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260603"
-        },
-        {
-          "date": "2026-06-02",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Tuesday",
-                "260602",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260602"
         }
       ]
     }
