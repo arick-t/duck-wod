@@ -1,11 +1,64 @@
 {
-  "last_updated": "2026-06-17T08:52:54.261744",
+  "last_updated": "2026-06-18T08:28:45.064122",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-06-18",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "samson stretch",
+                "inverted hamstring stretch",
+                "lying hip cross over"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "30sec plank hold",
+                "10 kb deadlifts",
+                "10 scap. push ups",
+                "*remaining time bike/ski"
+              ]
+            },
+            {
+              "title": "stability 8min",
+              "lines": [
+                "on every 1:00 x 4 sets each",
+                "1. 4/4 single leg kb deadlifts",
+                "2. 30sec glute bridge hold"
+              ]
+            },
+            {
+              "title": "conditioning 23min",
+              "lines": [
+                "for time",
+                "30/24cal ski/bike",
+                "40 kb swings 24/16kg",
+                "100m suitcase carry 24/16kg",
+                "30/24cal bike/ski",
+                "40 suitcase kb deadlifts 24/16kg",
+                "100m suitcase carry",
+                "30/24cal ski/bike",
+                "40 kb swings",
+                "100m suitcase carry",
+                "30/24cal bike/ski",
+                "40 suitcase kb deadlifts",
+                "100m suitcase carry",
+                "aerobic capacity & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-06-18/"
+        },
         {
           "date": "2026-06-17",
           "sections": [
@@ -597,43 +650,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-06-05/"
-        },
-        {
-          "date": "2026-06-04",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "instep rotations",
-                "lying hip cross over"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "30sec on / 15sec off x 6 rounds",
-                "1. row",
-                "2. plank hold",
-                "3. ring rows"
-              ]
-            },
-            {
-              "title": "conditioning 32min",
-              "lines": [
-                "on every 2:00 x 16 rounds",
-                "for max reps",
-                "1. cal row",
-                "2. lanes kb front rack carry 2x 24/16kg",
-                "3. strict chin ups",
-                "4. rest",
-                "aerobic capacity & muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-06-04/"
         }
       ]
     },
