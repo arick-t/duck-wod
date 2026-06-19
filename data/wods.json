@@ -1,11 +1,56 @@
 {
-  "last_updated": "2026-06-18T08:28:45.064122",
+  "last_updated": "2026-06-19T08:56:59.733697",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-06-19",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "scorpions",
+                "instep rotation",
+                "90/90 hip rotation",
+                "hand walk"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 reverse lunges",
+                "10 plank push ups",
+                "20sec deep squat hold"
+              ]
+            },
+            {
+              "title": "lunges 14min",
+              "lines": [
+                "4 supersets",
+                "4 back rack reverse lunges @rpe 8-9",
+                "12-15 partial goblet squats"
+              ]
+            },
+            {
+              "title": "conditioning 17min",
+              "lines": [
+                "amrap 3:30 x 4 rounds",
+                "15 sit ups",
+                "12 air squats",
+                "9 push ups",
+                "-1:00 rest between rounds-",
+                "aerobic power",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-06-19/"
+        },
         {
           "date": "2026-06-18",
           "sections": [
@@ -41,10 +86,10 @@
               "lines": [
                 "for time",
                 "30/24cal ski/bike",
-                "40 kb swings 24/16kg",
-                "100m suitcase carry 24/16kg",
+                "40 kb swings",
+                "100m suitcase carry",
                 "30/24cal bike/ski",
-                "40 suitcase kb deadlifts 24/16kg",
+                "40 suitcase kb deadlifts",
                 "100m suitcase carry",
                 "30/24cal ski/bike",
                 "40 kb swings",
@@ -52,6 +97,7 @@
                 "30/24cal bike/ski",
                 "40 suitcase kb deadlifts",
                 "100m suitcase carry",
+                "kb: 32/24kg",
                 "aerobic capacity & muscular endurance",
                 "Bisher hat noch niemand einen Score veröffentlicht."
               ]
@@ -600,56 +646,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-06-06/"
-        },
-        {
-          "date": "2026-06-05",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "scorpions",
-                "sumo squat stretch",
-                "lat stretch"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 prone snow angels",
-                "10 straight leg sit ups",
-                "10 air squats"
-              ]
-            },
-            {
-              "title": "strict press 15min",
-              "lines": [
-                "4 super sets:",
-                "6 strict press @ rpe 7-8",
-                "12-15 db lateral raises"
-              ]
-            },
-            {
-              "title": "conditioning 12min",
-              "lines": [
-                "for time",
-                "18-15-12-9-6-3",
-                "thruster 35/25kg",
-                "toes to bar",
-                "aerobic power & muscular endurance"
-              ]
-            },
-            {
-              "title": "shoulder health 4min",
-              "lines": [
-                "for quality",
-                "80 banded pull aparts",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-06-05/"
         }
       ]
     },
@@ -658,6 +654,37 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-06-19",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Back squat 5-5-5-5-5 reps",
+                "Compare to",
+                "250211",
+                ".",
+                "Post loads to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260619"
+        },
+        {
+          "date": "2026-06-18",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "CrossFit Builds People Who Are Harder To Break: Why Our Programming Is Anything but Random",
+                "Spencer Hendel has spent nearly 20 years programming workouts with a single goal: to build people who are harder to break. In this piece, he breaks down the philosophy behind purposeful programming and why movement selection, time domains, and standards all exist to get athletes to one defining moment, and what they do when they get there.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260618"
+        },
         {
           "date": "2026-06-17",
           "sections": [
@@ -676,11 +703,12 @@
           "date": "2026-06-16",
           "sections": [
             {
-              "title": "Workout",
+              "title": "5 rounds for time of:",
               "lines": [
-                "Tuesday",
-                "260616",
-                "Learn the Movement â"
+                "800-meter run",
+                "50 air squats",
+                "30 GHD sit-ups",
+                "Post time to comments."
               ]
             }
           ],
@@ -776,23 +804,11 @@
           "date": "2026-06-09",
           "sections": [
             {
-              "title": "9-15-21 reps for time of:",
+              "title": "Workout",
               "lines": [
-                "Pull-ups",
-                "Thrusters"
-              ]
-            },
-            {
-              "title": "In the remaining time:",
-              "lines": [
-                "Build to a heavy single thruster",
-                "Take the bar from the floor.",
-                "â 65-lb barbell",
-                "â 95-lb barbell",
-                "Post time and load to comments.",
-                "Compare to similar",
-                "250730",
-                "."
+                "Tuesday",
+                "260609",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -802,122 +818,29 @@
           "date": "2026-06-08",
           "sections": [
             {
-              "title": "For max calories:",
+              "title": "Workout",
               "lines": [
-                "1-minute air bike",
-                "Rest 5 minutes",
-                "As many reps as possible in 10 minutes of:",
-                "Burpee box get-overs",
-                "A weight vest is optional.",
-                "â 48-inch box",
-                "â 48-inch box",
-                "Post calories and reps to comments."
+                "Monday",
+                "260608",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260608"
         },
         {
-          "date": "2026-06-07",
+          "date": "2026-06-06",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "Why Intensity Is the One Thing You Can't Train Around",
-                "Social media is full of fitness content, and most of it is steering you away from the single biggest factor in actually getting fitter. Intensity isn't glamorous, it doesn't film well, and it hurts â which is exactly why it keeps getting buried under fancier alternatives.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260607"
-        },
-        {
-          "date": "2026-06-06",
-          "sections": [
-            {
-              "title": "On a 2:30 clock:",
-              "lines": [
-                "20 front squats, weight 1",
-                "12 burpees over the bar"
-              ]
-            },
-            {
-              "title": "On a 2:30 clock:",
-              "lines": [
-                "16 front squats, weight 2",
-                "12 burpees over the bar"
-              ]
-            },
-            {
-              "title": "On a 2:30 clock:",
-              "lines": [
-                "12 front squats, weight 3",
-                "12 burpees over the bar"
-              ]
-            },
-            {
-              "title": "On a 2:30 clock:",
-              "lines": [
-                "8 front squats, weight 4",
-                "12 burpees over the bar"
-              ]
-            },
-            {
-              "title": "On a 2:30 clock:",
-              "lines": [
-                "4 front squats, weight 5",
-                "12 burpees over the bar",
-                "Rest the remainder of each 2:30 interval. Record your time for each couplet.",
-                "â 65/95/125/135/145-lb barbell",
-                "â 95/135/185/205/225-lb barbell",
-                "Post total time to comments."
+                "Saturday",
+                "260606",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260606"
-        },
-        {
-          "date": "2026-06-05",
-          "sections": [
-            {
-              "title": "For time:",
-              "lines": [
-                "6 rope climbs to 15 feet",
-                "6 dumbbell farmers carry shuttles",
-                "21 dumbbell deadlifts",
-                "21-calorie bike",
-                "4 rope climbs",
-                "4 dumbbell farmers carry shuttles",
-                "15 dumbbell deadlifts",
-                "15-calorie bike",
-                "2 rope climbs",
-                "2 dumbbell farmers carry shuttles",
-                "9 dumbbell deadlifts",
-                "9-calorie bike",
-                "One shuttle is 25 feet down and 25 feet back.",
-                "â 50-lb dumbbells",
-                "â 70-lb dumbbells",
-                "Post time to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260605"
-        },
-        {
-          "date": "2026-06-04",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Letâs Talk About Practice",
-                "Most athletes chase the clock, the load, and the score, and quietly skip the one thing that's most likely to break them through their next plateau. Deliberate practice isn't a rest day in disguise; it's how you unlock the fitness you already have the capacity for but haven't been able to access yet.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260604"
         }
       ]
     }
