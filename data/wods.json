@@ -1,11 +1,50 @@
 {
-  "last_updated": "2026-06-19T08:56:59.733697",
+  "last_updated": "2026-06-20T07:41:14.933170",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-06-20",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "calf stretch",
+                "lying hip cross over",
+                "hand walk"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "amrap 5min",
+                "10 double db deadlifts",
+                "10 ring rows",
+                "*partner is biking"
+              ]
+            },
+            {
+              "title": "conditioning 32min",
+              "lines": [
+                "in teams of 2",
+                "for time",
+                "50-40-30-20-10",
+                "double db hang cleans 2x22,5/15kg",
+                "pull ups",
+                "box jumps 60/50cm",
+                "cals bike",
+                "(m/f and f/f cals: 45/40-36/32-27/24-18/16-9/8)",
+                "aerobic capacity & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-06-20/"
+        },
         {
           "date": "2026-06-19",
           "sections": [
@@ -608,44 +647,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-06-07/"
-        },
-        {
-          "date": "2026-06-06",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "calf stretch",
-                "instep rotation",
-                "hand walk"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "amrap 5min",
-                "10 squat jumps",
-                "10 kb deadlifts",
-                "*partner is holding plank position"
-              ]
-            },
-            {
-              "title": "conditioning 30min",
-              "lines": [
-                "for time",
-                "in teams of 2",
-                "2 rounds",
-                "80 kb swing 24/16",
-                "40 burpee box jumps 60/50cm",
-                "60 kb box step ups",
-                "40 burpee box jumps",
-                "aerobic power & muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-06-06/"
         }
       ]
     },
@@ -654,6 +655,22 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-06-20",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "1,600-meter sled drag with a barbell front-rack carry",
+                "Any time you stop, you must complete 15 bent-over rows with the barbell before starting again. The sled is attached around the waist and dragged behind the athlete.",
+                "â 95-lb barbell and 95-lb sled",
+                "â 135-lb barbell and 135-lb sled",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260620"
+        },
         {
           "date": "2026-06-19",
           "sections": [
@@ -691,9 +708,18 @@
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260617",
-                "Learn the Movement â"
+                "Gwen"
+              ]
+            },
+            {
+              "title": "15-12-9 reps for load of:",
+              "lines": [
+                "Clean and jerks",
+                "Perform all unbroken touch-and-go reps. There is no time limit; rest as needed between sets.",
+                "Compare to",
+                "250114",
+                ".",
+                "Post load to comments."
               ]
             }
           ],
@@ -718,13 +744,11 @@
           "date": "2026-06-15",
           "sections": [
             {
-              "title": "10-9-8-7-6-5-4-3-2-1 reps for time of:",
+              "title": "Workout",
               "lines": [
-                "Bench presses",
-                "Chest-to-bar pull-ups",
-                "â Bodyweight barbell",
-                "â Bodyweight barbell",
-                "Post time and load to comments."
+                "Monday",
+                "260615",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -750,51 +774,23 @@
             {
               "title": "Workout",
               "lines": [
-                "2012 Regionals, Event 2"
-              ]
-            },
-            {
-              "title": "For time:",
-              "lines": [
-                "2,000-meter row",
-                "50 alternating single-leg squats",
-                "30 hang cleans",
-                "â 135-lb barbell",
-                "â 225-lb barbell",
-                "Post time to comments.",
-                "Compare to",
-                "120428",
-                "."
+                "Friday",
+                "260612",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260612"
         },
         {
-          "date": "2026-06-11",
+          "date": "2026-06-10",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "How Two CrossFit Coaches Scale a Week of Workouts"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260611"
-        },
-        {
-          "date": "2026-06-10",
-          "sections": [
-            {
-              "title": "6 rounds, each for time, of:",
-              "lines": [
-                "400-meter run",
-                "Rest 90 seconds between rounds. Log each round; score is total run time.",
-                "Post times to comments.",
-                "Compare to similar",
-                "231120",
-                "."
+                "Wednesday",
+                "260610",
+                "Drill the Movement â"
               ]
             }
           ],
@@ -827,20 +823,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260608"
-        },
-        {
-          "date": "2026-06-06",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Saturday",
-                "260606",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260606"
         }
       ]
     }
