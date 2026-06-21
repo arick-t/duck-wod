@@ -1,11 +1,56 @@
 {
-  "last_updated": "2026-06-20T07:41:14.933170",
+  "last_updated": "2026-06-21T08:20:23.861326",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-06-21",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "sumo squat stretch",
+                "instep rotations",
+                "samson stretch"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "30sec on / 15sec off x2 rounds",
+                "1. push up to down dog",
+                "2. row",
+                "3. straight leg sit ups",
+                "4. air squats"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "emom 35min (7 rounds)",
+                "1. 3-6 wall walks",
+                "2. 10-15cal row",
+                "3. 6-8 strict toes to bar",
+                "4. 10-16 goblet squats",
+                "5. rest",
+                "Sunday Endurance for Open Gym",
+                "5:00–10:00 row [rpe 2-3]",
+                "into",
+                "6 rounds",
+                "3:00 bike [rpe 2-3]",
+                "1:00 row [rpe 5-6]",
+                "into",
+                "5:00–10:00 bike [rpe 2-3]",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-06-21/"
+        },
         {
           "date": "2026-06-20",
           "sections": [
@@ -602,51 +647,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-06-08/"
-        },
-        {
-          "date": "2026-06-07",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "instep rotations",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "30sec on / 15sec off x2 rounds",
-                "1. air squats",
-                "2. row",
-                "3. straight leg sit ups",
-                "4. scap. push ups"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "emom 35min (7 rounds)",
-                "1. 30-45sec (weighted) wall sit",
-                "2. 10-15cal row",
-                "3. 7-10 strict toes to bar",
-                "4. 8-15 bench dips",
-                "5. rest",
-                "Sunday Endurance for Open Gym",
-                "5 rounds for distance:",
-                "1:40 row, bike, ski, or run",
-                ":20 rest",
-                "2:00 rest",
-                "4 rounds for distance:",
-                "1:40 row, bike, ski, or run",
-                ":20 rest",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-06-07/"
         }
       ]
     },
@@ -656,16 +656,29 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
+          "date": "2026-06-21",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "The Four Formats: How Intentional Programming Builds CrossFit Athletes Who Are Harder to Break",
+                "Every workout format a programmer reaches for is a direct expression of philosophy in action. Couplets, chippers, intervals, and 5-round efforts are not interchangeable tools â each one does something the others cannot. Understanding the difference is what separates intentional CrossFit programming from random programming.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260621"
+        },
+        {
           "date": "2026-06-20",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "1,600-meter sled drag with a barbell front-rack carry",
-                "Any time you stop, you must complete 15 bent-over rows with the barbell before starting again. The sled is attached around the waist and dragged behind the athlete.",
-                "â 95-lb barbell and 95-lb sled",
-                "â 135-lb barbell and 135-lb sled",
-                "Post time to comments."
+                "Saturday",
+                "260620",
+                "Prep for the Movement â"
               ]
             }
           ],
@@ -729,12 +742,11 @@
           "date": "2026-06-16",
           "sections": [
             {
-              "title": "5 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "800-meter run",
-                "50 air squats",
-                "30 GHD sit-ups",
-                "Post time to comments."
+                "Tuesday",
+                "260616",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -755,14 +767,31 @@
           "url": "https://www.crossfit.com/260615"
         },
         {
-          "date": "2026-06-13",
+          "date": "2026-06-14",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260613",
-                "Learn the Movement â"
+                "Rest Day",
+                "The Sickness-Wellness-Fitness Continuum: Building Your Hedge Against Decrepitude",
+                "You can be incredibly fit and still be unhealthy, and that disconnect might be robbing you of the real point of training. Fitness isn't about your next PR; it's about building a buffer against the sickness and decline of aging so when life throws something at you, you have the capacity to survive and recover.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260614"
+        },
+        {
+          "date": "2026-06-13",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "100 overhead squats",
+                "Every minute, starting at 0:00, complete 15 double-unders. No racks â the bar comes from the floor.",
+                "â 95-lb barbell",
+                "â 135-lb barbell",
+                "Post time to comments."
               ]
             }
           ],
