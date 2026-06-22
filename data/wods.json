@@ -1,11 +1,57 @@
 {
-  "last_updated": "2026-06-21T08:20:23.861326",
+  "last_updated": "2026-06-22T09:37:12.030577",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-06-22",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hamstring stretch on box",
+                "lat stretch on box",
+                "calf stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 good mornings",
+                "10 squat jumps",
+                "10 ring rows",
+                "*remaining time bike/ski"
+              ]
+            },
+            {
+              "title": "romanian deadlifts 15min",
+              "lines": [
+                "3-4 sets",
+                "10 romanian deadlifts",
+                "@8-9"
+              ]
+            },
+            {
+              "title": "conditioning 16min",
+              "lines": [
+                "for time",
+                "6 rounds",
+                "8 strict pull ups",
+                "12/10cal bike/ski",
+                "16 box jumps 60/50cm",
+                "rx+ option: strict chest to bar pull ups",
+                "aerobic power & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-06-22/"
+        },
         {
           "date": "2026-06-21",
           "sections": [
@@ -597,56 +643,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-06-09/"
-        },
-        {
-          "date": "2026-06-08",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "scorpions",
-                "lying hip cross over",
-                "lat stretch",
-                "hand walk"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 clean grip deadlifts",
-                "10 elbow rotation",
-                "10 prone snow angels"
-              ]
-            },
-            {
-              "title": "clean & jerk 12min",
-              "lines": [
-                "find a heavy complex of",
-                "2 power cleans",
-                "1 push jerk",
-                "explosive power"
-              ]
-            },
-            {
-              "title": "conditioning 13min",
-              "lines": [
-                "amrap 6min",
-                "6 push jerk 60/40kg",
-                "12 push ups",
-                "1min rest",
-                "amrap 6min",
-                "6 power cleans 60/40kg",
-                "12 air squats",
-                "score: total rounds + reps",
-                "glycolytic power & muscular endurance",
-                "hang power clean & push jerk",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-06-08/"
         }
       ]
     },
@@ -655,6 +651,43 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-06-22",
+          "sections": [
+            {
+              "title": "0:00-5:00:",
+              "lines": [
+                "200-meter run",
+                "Max freestanding shoulder taps"
+              ]
+            },
+            {
+              "title": "5:00-10:00:",
+              "lines": [
+                "200-meter run",
+                "Max skin-the-cats"
+              ]
+            },
+            {
+              "title": "10:00-15:00:",
+              "lines": [
+                "200-meter run",
+                "Max L pull-ups"
+              ]
+            },
+            {
+              "title": "15:00-20:00:",
+              "lines": [
+                "200-meter run",
+                "Max deficit push-ups",
+                "â 2-inch deficit",
+                "â 4-inch deficit",
+                "Post reps to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260622"
+        },
         {
           "date": "2026-06-21",
           "sections": [
@@ -674,11 +707,13 @@
           "date": "2026-06-20",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Saturday",
-                "260620",
-                "Prep for the Movement â"
+                "1,600-meter sled drag with a barbell front-rack carry",
+                "Any time you stop, you must complete 15 bent-over rows with the barbell before starting again. The sled is attached around the waist and dragged behind the athlete.",
+                "â 95-lb barbell and 95-lb sled",
+                "â 135-lb barbell and 135-lb sled",
+                "Post time to comments."
               ]
             }
           ],
@@ -742,11 +777,12 @@
           "date": "2026-06-16",
           "sections": [
             {
-              "title": "Workout",
+              "title": "5 rounds for time of:",
               "lines": [
-                "Tuesday",
-                "260616",
-                "Learn the Movement â"
+                "800-meter run",
+                "50 air squats",
+                "30 GHD sit-ups",
+                "Post time to comments."
               ]
             }
           ],
@@ -756,42 +792,27 @@
           "date": "2026-06-15",
           "sections": [
             {
-              "title": "Workout",
+              "title": "10-9-8-7-6-5-4-3-2-1 reps for time of:",
               "lines": [
-                "Monday",
-                "260615",
-                "Learn the Movement â"
+                "Bench presses",
+                "Chest-to-bar pull-ups",
+                "â Bodyweight barbell",
+                "â Bodyweight barbell",
+                "Post time and load to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260615"
         },
         {
-          "date": "2026-06-14",
+          "date": "2026-06-13",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "The Sickness-Wellness-Fitness Continuum: Building Your Hedge Against Decrepitude",
-                "You can be incredibly fit and still be unhealthy, and that disconnect might be robbing you of the real point of training. Fitness isn't about your next PR; it's about building a buffer against the sickness and decline of aging so when life throws something at you, you have the capacity to survive and recover.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260614"
-        },
-        {
-          "date": "2026-06-13",
-          "sections": [
-            {
-              "title": "For time:",
-              "lines": [
-                "100 overhead squats",
-                "Every minute, starting at 0:00, complete 15 double-unders. No racks â the bar comes from the floor.",
-                "â 95-lb barbell",
-                "â 135-lb barbell",
-                "Post time to comments."
+                "Saturday",
+                "260613",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -815,11 +836,14 @@
           "date": "2026-06-10",
           "sections": [
             {
-              "title": "Workout",
+              "title": "6 rounds, each for time, of:",
               "lines": [
-                "Wednesday",
-                "260610",
-                "Drill the Movement â"
+                "400-meter run",
+                "Rest 90 seconds between rounds. Log each round; score is total run time.",
+                "Post times to comments.",
+                "Compare to similar",
+                "231120",
+                "."
               ]
             }
           ],
@@ -838,20 +862,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260609"
-        },
-        {
-          "date": "2026-06-08",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Monday",
-                "260608",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260608"
         }
       ]
     }
