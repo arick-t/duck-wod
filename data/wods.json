@@ -1,11 +1,100 @@
 {
-  "last_updated": "2026-06-25T07:34:41.998056",
+  "last_updated": "2026-06-26T07:41:00.656051",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-06-26",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "sumo squat stretch",
+                "instep rotations",
+                "calf stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "30sec on / 15sec off x 6 rounds",
+                "1. single unders",
+                "2. medball squats",
+                "3. plank push ups"
+              ]
+            },
+            {
+              "title": "conditioning 26min",
+              "lines": [
+                "for time",
+                "75-50-25",
+                "wall balls",
+                "double unders",
+                "sit ups",
+                "double unders",
+                "aerobic power & muscular endurance"
+              ]
+            },
+            {
+              "title": "upper back 4min",
+              "lines": [
+                "amrap 4min",
+                "double db reverse flys",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-06-26/"
+        },
+        {
+          "date": "2026-06-25",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "samson stretch",
+                "hand walk",
+                "thoracic rotations",
+                "lying hip cross over"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "100m run",
+                "10 prone snow angels",
+                "10 burpees"
+              ]
+            },
+            {
+              "title": "hang power snatch 10min",
+              "lines": [
+                "find a heavy set of 3",
+                "hang power snatches",
+                "explosive power"
+              ]
+            },
+            {
+              "title": "conditioning 15min",
+              "lines": [
+                "amrap 2:30 x 4 rounds",
+                "200m run",
+                "12 hang power snatches 40/30kg",
+                "max burpees over the bar",
+                "-1:30 rest between rounds -",
+                "score: total burpees",
+                "anaerobic capacity & barbell cycling",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-06-25/"
+        },
         {
           "date": "2026-06-24",
           "sections": [
@@ -545,107 +634,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-06-13/"
-        },
-        {
-          "date": "2026-06-12",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "scorpions",
-                "thoracic rotation",
-                "lat stretch",
-                "hand walk"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "150/125m row",
-                "10 push ups to down dog",
-                "10 prone snow angels"
-              ]
-            },
-            {
-              "title": "strict press 15min",
-              "lines": [
-                "4 super sets",
-                "4 strict press @ rpe 8-9",
-                "12-15 db lateral raises"
-              ]
-            },
-            {
-              "title": "conditioning 14min",
-              "lines": [
-                "for time",
-                "8 wall walks",
-                "200/175m row",
-                "6 wall walks",
-                "400/350m row",
-                "4 wall walks",
-                "600/500m row",
-                "2 wall walks",
-                "800/675m row",
-                "aerobic capacity& muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-06-12/"
-        },
-        {
-          "date": "2026-06-11",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "samson stretch",
-                "90/90 hip rotation",
-                "lying hip cross over"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 cossack squats",
-                "10 good mornings",
-                "10 burpees",
-                "*remaining time bike/ski"
-              ]
-            },
-            {
-              "title": "sumo deadlift 12min",
-              "lines": [
-                "on the 1:00 x 12 sets",
-                "2 sumo deadlifts",
-                "(build in weight)"
-              ]
-            },
-            {
-              "title": "conditioning 9min",
-              "lines": [
-                "on every 1:30 x 6 rounds",
-                "18 alternating db hang snatches 22,5/15kg",
-                "max cal bike/ski",
-                "score: total cals",
-                "glycolytic power"
-              ]
-            },
-            {
-              "title": "core 6min",
-              "lines": [
-                "on every 00:45 x 8 sets",
-                "8 single arm plank rows",
-                "(alternate arms each set)",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-06-11/"
         }
       ]
     },
@@ -654,6 +642,26 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-06-26",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "15 hang squat cleans",
+                "5 rope climbs to 15 feet",
+                "12 hang squat cleans",
+                "4 rope climbs",
+                "9 hang squat cleans",
+                "3 rope climbs",
+                "Post time to comments.",
+                "â 105-lb barbell",
+                "â 155-lb barbell"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260626"
+        },
         {
           "date": "2026-06-25",
           "sections": [
@@ -673,10 +681,14 @@
           "date": "2026-06-24",
           "sections": [
             {
-              "title": "Workout",
+              "title": "30-20-10 reps for time of:",
               "lines": [
-                "Wednesday",
-                "260624"
+                "Front-rack reverse lunges",
+                "Knees-to-elbows",
+                "Bike calories",
+                "Post time to comments.",
+                "â 95-lb barbell",
+                "â 135-lb barbell"
               ]
             }
           ],
@@ -688,9 +700,11 @@
             {
               "title": "Workout",
               "lines": [
-                "Tuesday",
-                "260623",
-                "Learn the Movement â"
+                "Deadlift 5-5-5-5-5 reps",
+                "Compare to",
+                "260128",
+                ".",
+                "Post loads to comments."
               ]
             }
           ],
@@ -700,34 +714,11 @@
           "date": "2026-06-22",
           "sections": [
             {
-              "title": "0:00-5:00:",
+              "title": "Workout",
               "lines": [
-                "200-meter run",
-                "Max freestanding shoulder taps"
-              ]
-            },
-            {
-              "title": "5:00-10:00:",
-              "lines": [
-                "200-meter run",
-                "Max skin-the-cats"
-              ]
-            },
-            {
-              "title": "10:00-15:00:",
-              "lines": [
-                "200-meter run",
-                "Max L pull-ups"
-              ]
-            },
-            {
-              "title": "15:00-20:00:",
-              "lines": [
-                "200-meter run",
-                "Max deficit push-ups",
-                "â 2-inch deficit",
-                "â 4-inch deficit",
-                "Post reps to comments."
+                "Monday",
+                "260622",
+                "Drill the Movement â"
               ]
             }
           ],
@@ -737,11 +728,13 @@
           "date": "2026-06-20",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Saturday",
-                "260620",
-                "Prep for the Movement â"
+                "1,600-meter sled drag with a barbell front-rack carry",
+                "Any time you stop, you must complete 15 bent-over rows with the barbell before starting again. The sled is attached around the waist and dragged behind the athlete.",
+                "â 95-lb barbell and 95-lb sled",
+                "â 135-lb barbell and 135-lb sled",
+                "Post time to comments."
               ]
             }
           ],
@@ -816,20 +809,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260613"
-        },
-        {
-          "date": "2026-06-12",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Friday",
-                "260612",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260612"
         }
       ]
     }
