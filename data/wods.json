@@ -1,11 +1,55 @@
 {
-  "last_updated": "2026-06-27T06:45:21.042285",
+  "last_updated": "2026-06-28T07:42:43.319923",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-06-28",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "instep rotations",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "30sec on / 15sec off x2 rounds",
+                "1. plank hold",
+                "2. row",
+                "3. ring rows",
+                "4. box step ups"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "emom 35min (7 rounds)",
+                "1. 20-30 russian twists",
+                "2. 10-15cal row",
+                "3. 6-8 strict chin ups",
+                "4. 10-14 double db box step ups (50cm)",
+                "5. rest",
+                "Sunday Endurance for Open Gym",
+                "zone 2 (heat) training",
+                "3:00 bike",
+                "3:00 ski",
+                "3:00 row",
+                "for 39-60min",
+                "@ rpe 3-4",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-06-28/"
+        },
         {
           "date": "2026-06-27",
           "sections": [
@@ -593,49 +637,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-06-15/"
-        },
-        {
-          "date": "2026-06-14",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "instep rotations",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "30sec on / 15sec off x2 rounds",
-                "1. prone snow angels",
-                "2. row",
-                "3. ring rows",
-                "4. reverse lunges"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "emom 35min (7 rounds)",
-                "1. 30-50sec handstand hold",
-                "2. 10-15cal row",
-                "3. 6-8 feet elevated ring rows",
-                "4. 10-14 db reverse lunges",
-                "5. rest",
-                "Sunday Endurance for Open Gym",
-                "threshold pyramids protocol",
-                "choose: run, bike, row, or ski",
-                "1-2-3-4-3-2-1 minutes work [rpe 7-8]",
-                "1-2-3-4-3-2-1 minutes easy [rpe 1-2]",
-                "aerobic power [lactate threshold]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-06-14/"
         }
       ]
     },
@@ -644,6 +645,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-06-28",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Setting the Tone: Inside the First Morning of a CrossFit Level 1 Seminar",
+                "The CrossFit Level 1 Course doesn't ease you in; it pulls you in. From the first lecture to the first movement group, the morning of Day 1 is designed to replace uncertainty with understanding and hesitation with conviction. Here's what happens when the classroom doors open.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260628"
+        },
         {
           "date": "2026-06-27",
           "sections": [
@@ -664,11 +680,17 @@
           "date": "2026-06-26",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Friday",
-                "260626",
-                "Learn the Movement â"
+                "15 hang squat cleans",
+                "5 rope climbs to 15 feet",
+                "12 hang squat cleans",
+                "4 rope climbs",
+                "9 hang squat cleans",
+                "3 rope climbs",
+                "Post time to comments.",
+                "â 105-lb barbell",
+                "â 155-lb barbell"
               ]
             }
           ],
@@ -693,11 +715,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Deadlift 5-5-5-5-5 reps",
-                "Compare to",
-                "260128",
-                ".",
-                "Post loads to comments."
+                "Tuesday",
+                "260623",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -707,65 +727,25 @@
           "date": "2026-06-22",
           "sections": [
             {
-              "title": "0:00-5:00:",
+              "title": "Workout",
               "lines": [
-                "200-meter run",
-                "Max freestanding shoulder taps"
-              ]
-            },
-            {
-              "title": "5:00-10:00:",
-              "lines": [
-                "200-meter run",
-                "Max skin-the-cats"
-              ]
-            },
-            {
-              "title": "10:00-15:00:",
-              "lines": [
-                "200-meter run",
-                "Max L pull-ups"
-              ]
-            },
-            {
-              "title": "15:00-20:00:",
-              "lines": [
-                "200-meter run",
-                "Max deficit push-ups",
-                "â 2-inch deficit",
-                "â 4-inch deficit",
-                "Post reps to comments."
+                "Monday",
+                "260622",
+                "Drill the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260622"
         },
         {
-          "date": "2026-06-21",
+          "date": "2026-06-20",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "The Four Formats: How Intentional Programming Builds CrossFit Athletes Who Are Harder to Break",
-                "Every workout format a programmer reaches for is a direct expression of philosophy in action. Couplets, chippers, intervals, and 5-round efforts are not interchangeable tools â each one does something the others cannot. Understanding the difference is what separates intentional CrossFit programming from random programming.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260621"
-        },
-        {
-          "date": "2026-06-20",
-          "sections": [
-            {
-              "title": "For time:",
-              "lines": [
-                "1,600-meter sled drag with a barbell front-rack carry",
-                "Any time you stop, you must complete 15 bent-over rows with the barbell before starting again. The sled is attached around the waist and dragged behind the athlete.",
-                "â 95-lb barbell and 95-lb sled",
-                "â 135-lb barbell and 135-lb sled",
-                "Post time to comments."
+                "Saturday",
+                "260620",
+                "Prep for the Movement â"
               ]
             }
           ],
@@ -777,30 +757,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Back squat 5-5-5-5-5 reps",
-                "Compare to",
-                "250211",
-                ".",
-                "Post loads to comments."
+                "Friday",
+                "260619",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260619"
-        },
-        {
-          "date": "2026-06-18",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "CrossFit Builds People Who Are Harder To Break: Why Our Programming Is Anything but Random",
-                "Spencer Hendel has spent nearly 20 years programming workouts with a single goal: to build people who are harder to break. In this piece, he breaks down the philosophy behind purposeful programming and why movement selection, time domains, and standards all exist to get athletes to one defining moment, and what they do when they get there.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260618"
         },
         {
           "date": "2026-06-17",
@@ -829,12 +792,11 @@
           "date": "2026-06-16",
           "sections": [
             {
-              "title": "5 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "800-meter run",
-                "50 air squats",
-                "30 GHD sit-ups",
-                "Post time to comments."
+                "Tuesday",
+                "260616",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -844,32 +806,15 @@
           "date": "2026-06-15",
           "sections": [
             {
-              "title": "10-9-8-7-6-5-4-3-2-1 reps for time of:",
+              "title": "Workout",
               "lines": [
-                "Bench presses",
-                "Chest-to-bar pull-ups",
-                "â Bodyweight barbell",
-                "â Bodyweight barbell",
-                "Post time and load to comments."
+                "Monday",
+                "260615",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260615"
-        },
-        {
-          "date": "2026-06-14",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "The Sickness-Wellness-Fitness Continuum: Building Your Hedge Against Decrepitude",
-                "You can be incredibly fit and still be unhealthy, and that disconnect might be robbing you of the real point of training. Fitness isn't about your next PR; it's about building a buffer against the sickness and decline of aging so when life throws something at you, you have the capacity to survive and recover.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260614"
         }
       ]
     }
