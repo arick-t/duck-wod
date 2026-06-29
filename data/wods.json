@@ -1,11 +1,55 @@
 {
-  "last_updated": "2026-06-28T07:42:43.319923",
+  "last_updated": "2026-06-29T08:47:53.959329",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-06-29",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "sumo squat stretch",
+                "thoracic rotattion",
+                "lat stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 straight leg sit ups",
+                "30sec deep front squat hold",
+                "*remaining time row"
+              ]
+            },
+            {
+              "title": "front squats 15min",
+              "lines": [
+                "4-5 sets",
+                "5 front squats @70-75%"
+              ]
+            },
+            {
+              "title": "conditioning 17min",
+              "lines": [
+                "for max reps",
+                "1:00 on / 1:00 off x 9 rounds",
+                "1. front squats 50/35kg",
+                "2. cal row",
+                "3. toes to bar",
+                "score: total resp/cals",
+                "anaerobic capacity & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-06-29/"
+        },
         {
           "date": "2026-06-28",
           "sections": [
@@ -592,51 +636,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-06-16/"
-        },
-        {
-          "date": "2026-06-15",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "sumo squat stretch",
-                "thoracic rotattion",
-                "lat stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 burpees",
-                "10 ring rows",
-                "10 elbow rotations",
-                "*remaining time deep squat hold"
-              ]
-            },
-            {
-              "title": "pull ups 15min",
-              "lines": [
-                "4 super sets",
-                "4 pull ups @rpe 8-9",
-                "12-15 banded lat pull downs"
-              ]
-            },
-            {
-              "title": "conditioning 15min",
-              "lines": [
-                "each round for time",
-                "on every 2:30 x 6 rounds",
-                "8 burpee pull ups",
-                "10 front squats 40/30kg",
-                "score: slowest round",
-                "anaerobic capacity",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-06-15/"
         }
       ]
     },
@@ -645,6 +644,35 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-06-29",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Omar"
+              ]
+            },
+            {
+              "title": "For time:",
+              "lines": [
+                "10 thrusters",
+                "15 bar-facing burpees",
+                "20 thrusters",
+                "25 bar-facing burpees",
+                "30 thrusters",
+                "35 bar-facing burpees",
+                "â 65-lb barbell",
+                "â 95-lb barbell",
+                "Compare to",
+                "130521",
+                ".",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260629"
+        },
         {
           "date": "2026-06-28",
           "sections": [
@@ -680,30 +708,43 @@
           "date": "2026-06-26",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "15 hang squat cleans",
-                "5 rope climbs to 15 feet",
-                "12 hang squat cleans",
-                "4 rope climbs",
-                "9 hang squat cleans",
-                "3 rope climbs",
-                "Post time to comments.",
-                "â 105-lb barbell",
-                "â 155-lb barbell"
+                "Friday",
+                "260626",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260626"
         },
         {
-          "date": "2026-06-24",
+          "date": "2026-06-25",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260624"
+                "Rest Day",
+                "Before the First Rep: Inside the CrossFit Level 1",
+                "The CrossFit Level 1 Certificate Course has set the gold standard for fitness education for over two decades, but what most participants never see is the machinery behind the experience. Before a single rep is coached or a lecture begins, hours of preparation, deliberate connection, and relentless attention to detail have already shaped the day. This is the story of how it all comes together.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260625"
+        },
+        {
+          "date": "2026-06-24",
+          "sections": [
+            {
+              "title": "30-20-10 reps for time of:",
+              "lines": [
+                "Front-rack reverse lunges",
+                "Knees-to-elbows",
+                "Bike calories",
+                "Post time to comments.",
+                "â 95-lb barbell",
+                "â 135-lb barbell"
               ]
             }
           ],
@@ -715,9 +756,11 @@
             {
               "title": "Workout",
               "lines": [
-                "Tuesday",
-                "260623",
-                "Learn the Movement â"
+                "Deadlift 5-5-5-5-5 reps",
+                "Compare to",
+                "260128",
+                ".",
+                "Post loads to comments."
               ]
             }
           ],
@@ -727,25 +770,65 @@
           "date": "2026-06-22",
           "sections": [
             {
-              "title": "Workout",
+              "title": "0:00-5:00:",
               "lines": [
-                "Monday",
-                "260622",
-                "Drill the Movement â"
+                "200-meter run",
+                "Max freestanding shoulder taps"
+              ]
+            },
+            {
+              "title": "5:00-10:00:",
+              "lines": [
+                "200-meter run",
+                "Max skin-the-cats"
+              ]
+            },
+            {
+              "title": "10:00-15:00:",
+              "lines": [
+                "200-meter run",
+                "Max L pull-ups"
+              ]
+            },
+            {
+              "title": "15:00-20:00:",
+              "lines": [
+                "200-meter run",
+                "Max deficit push-ups",
+                "â 2-inch deficit",
+                "â 4-inch deficit",
+                "Post reps to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260622"
         },
         {
-          "date": "2026-06-20",
+          "date": "2026-06-21",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260620",
-                "Prep for the Movement â"
+                "Rest Day",
+                "The Four Formats: How Intentional Programming Builds CrossFit Athletes Who Are Harder to Break",
+                "Every workout format a programmer reaches for is a direct expression of philosophy in action. Couplets, chippers, intervals, and 5-round efforts are not interchangeable tools â each one does something the others cannot. Understanding the difference is what separates intentional CrossFit programming from random programming.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260621"
+        },
+        {
+          "date": "2026-06-20",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "1,600-meter sled drag with a barbell front-rack carry",
+                "Any time you stop, you must complete 15 bent-over rows with the barbell before starting again. The sled is attached around the waist and dragged behind the athlete.",
+                "â 95-lb barbell and 95-lb sled",
+                "â 135-lb barbell and 135-lb sled",
+                "Post time to comments."
               ]
             }
           ],
@@ -757,13 +840,30 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260619",
-                "Learn the Movement â"
+                "Back squat 5-5-5-5-5 reps",
+                "Compare to",
+                "250211",
+                ".",
+                "Post loads to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260619"
+        },
+        {
+          "date": "2026-06-18",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "CrossFit Builds People Who Are Harder To Break: Why Our Programming Is Anything but Random",
+                "Spencer Hendel has spent nearly 20 years programming workouts with a single goal: to build people who are harder to break. In this piece, he breaks down the philosophy behind purposeful programming and why movement selection, time domains, and standards all exist to get athletes to one defining moment, and what they do when they get there.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260618"
         },
         {
           "date": "2026-06-17",
@@ -792,29 +892,16 @@
           "date": "2026-06-16",
           "sections": [
             {
-              "title": "Workout",
+              "title": "5 rounds for time of:",
               "lines": [
-                "Tuesday",
-                "260616",
-                "Learn the Movement â"
+                "800-meter run",
+                "50 air squats",
+                "30 GHD sit-ups",
+                "Post time to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260616"
-        },
-        {
-          "date": "2026-06-15",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Monday",
-                "260615",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260615"
         }
       ]
     }
