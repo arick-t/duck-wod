@@ -1,11 +1,71 @@
 {
-  "last_updated": "2026-06-30T07:40:37.212280",
+  "last_updated": "2026-07-01T08:01:22.924735",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-07-01",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "scorpions",
+                "instep rotation",
+                "lat stretch on box",
+                "calf stretch"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 burpees",
+                "10 squat jumps",
+                "10 ring rows"
+              ]
+            },
+            {
+              "title": "primer pull ups 4min",
+              "lines": [
+                "20sec on/ 20sec off x 6 rounds",
+                "1. hollow hold (floor)",
+                "2. scap. pull up hold"
+              ]
+            },
+            {
+              "title": "conditioning 22min",
+              "lines": [
+                "amrap 6min",
+                "6 strict pull ups",
+                "10 burpee box jumps 60/50cm",
+                "-2 min rest -",
+                "amrap 6min",
+                "8 chest to bar pull ups",
+                "10 burpee box jumps",
+                "2min rest",
+                "amrap 6min",
+                "10 pull ups",
+                "10 burpee box jumps",
+                "score: total rounds + reps",
+                "muscular endurance & aerobic power"
+              ]
+            },
+            {
+              "title": "core 4min",
+              "lines": [
+                "tabata (20sec / 10sec off x8)",
+                "1. flutter kicks",
+                "2. plank hold",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-07-01/"
+        },
         {
           "date": "2026-06-30",
           "sections": [
@@ -586,58 +646,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-06-18/"
-        },
-        {
-          "date": "2026-06-17",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "scorpions",
-                "thoracic rotation",
-                "lat stretch",
-                "hand walk"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10/8cal row",
-                "10 push ups to down dog",
-                "10 prone snow angels"
-              ]
-            },
-            {
-              "title": "strict press 15min",
-              "lines": [
-                "4 super sets",
-                "4 strict press @ rpe 8-9",
-                "12-15 db lateral raises"
-              ]
-            },
-            {
-              "title": "conditioning 10min",
-              "lines": [
-                "for time",
-                "5 rounds",
-                "15/12cal row",
-                "12 push presses 40/30kg",
-                "rx+ option: 10 handstand push ups",
-                "aerobic power & muscular endurance"
-              ]
-            },
-            {
-              "title": "shoulder stability 4min",
-              "lines": [
-                "tabata (20sec on /10sec off x 8 rounds)",
-                "prone press",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-06-17/"
         }
       ]
     },
@@ -646,6 +654,28 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-07-01",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Jennifer",
+                "Complete as many rounds and reps as possible in 26 minutes of:",
+                "10 pull-ups",
+                "15 kettlebell swings",
+                "20 box jumps",
+                "â 35-lb kettlebell and a 20-inch box",
+                "â 53-lb kettlebell and a 24-inch box",
+                "Compare to",
+                "150925",
+                ".",
+                "Post rounds and reps to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260701"
+        },
         {
           "date": "2026-06-30",
           "sections": [
@@ -676,24 +706,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Omar"
-              ]
-            },
-            {
-              "title": "For time:",
-              "lines": [
-                "10 thrusters",
-                "15 bar-facing burpees",
-                "20 thrusters",
-                "25 bar-facing burpees",
-                "30 thrusters",
-                "35 bar-facing burpees",
-                "â 65-lb barbell",
-                "â 95-lb barbell",
-                "Compare to",
-                "130521",
-                ".",
-                "Post time to comments."
+                "Monday",
+                "260629",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -718,13 +733,11 @@
           "date": "2026-06-27",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "5,000-meter run",
-                "Compare to",
-                "250507",
-                ".",
-                "Post time to comments."
+                "Saturday",
+                "260627",
+                "Drill the Movement â"
               ]
             }
           ],
@@ -734,11 +747,17 @@
           "date": "2026-06-26",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Friday",
-                "260626",
-                "Learn the Movement â"
+                "15 hang squat cleans",
+                "5 rope climbs to 15 feet",
+                "12 hang squat cleans",
+                "4 rope climbs",
+                "9 hang squat cleans",
+                "3 rope climbs",
+                "Post time to comments.",
+                "â 105-lb barbell",
+                "â 155-lb barbell"
               ]
             }
           ],
@@ -786,16 +805,29 @@
           "url": "https://www.crossfit.com/260622"
         },
         {
+          "date": "2026-06-21",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "The Four Formats: How Intentional Programming Builds CrossFit Athletes Who Are Harder to Break",
+                "Every workout format a programmer reaches for is a direct expression of philosophy in action. Couplets, chippers, intervals, and 5-round efforts are not interchangeable tools â each one does something the others cannot. Understanding the difference is what separates intentional CrossFit programming from random programming.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260621"
+        },
+        {
           "date": "2026-06-20",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "1,600-meter sled drag with a barbell front-rack carry",
-                "Any time you stop, you must complete 15 bent-over rows with the barbell before starting again. The sled is attached around the waist and dragged behind the athlete.",
-                "â 95-lb barbell and 95-lb sled",
-                "â 135-lb barbell and 135-lb sled",
-                "Post time to comments."
+                "Saturday",
+                "260620",
+                "Prep for the Movement â"
               ]
             }
           ],
@@ -814,20 +846,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260619"
-        },
-        {
-          "date": "2026-06-17",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Wednesday",
-                "260617",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260617"
         }
       ]
     }
