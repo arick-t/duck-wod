@@ -1,11 +1,54 @@
 {
-  "last_updated": "2026-07-01T08:01:22.924735",
+  "last_updated": "2026-07-02T06:59:28.687961",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-07-02",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "scorpions",
+                "lying hip cross over",
+                "lat stretch",
+                "hand walk"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 clean grip deadlifts",
+                "10 elbow rotation",
+                "100m run"
+              ]
+            },
+            {
+              "title": "power clean 10min",
+              "lines": [
+                "find a heavy single",
+                "with 3sec pause above the knee"
+              ]
+            },
+            {
+              "title": "conditioning 17min",
+              "lines": [
+                "for time",
+                "2 rounds",
+                "1km run",
+                "20 power cleans 60/40kg",
+                "lactate threshold & aerobic power",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-07-02/"
+        },
         {
           "date": "2026-07-01",
           "sections": [
@@ -592,60 +635,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-06-19/"
-        },
-        {
-          "date": "2026-06-18",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "samson stretch",
-                "inverted hamstring stretch",
-                "lying hip cross over"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "30sec plank hold",
-                "10 kb deadlifts",
-                "10 scap. push ups",
-                "*remaining time bike/ski"
-              ]
-            },
-            {
-              "title": "stability 8min",
-              "lines": [
-                "on every 1:00 x 4 sets each",
-                "1. 4/4 single leg kb deadlifts",
-                "2. 30sec glute bridge hold"
-              ]
-            },
-            {
-              "title": "conditioning 23min",
-              "lines": [
-                "for time",
-                "30/24cal ski/bike",
-                "40 kb swings",
-                "100m suitcase carry",
-                "30/24cal bike/ski",
-                "40 suitcase kb deadlifts",
-                "100m suitcase carry",
-                "30/24cal ski/bike",
-                "40 kb swings",
-                "100m suitcase carry",
-                "30/24cal bike/ski",
-                "40 suitcase kb deadlifts",
-                "100m suitcase carry",
-                "kb: 32/24kg",
-                "aerobic capacity & muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-06-18/"
         }
       ]
     },
@@ -654,6 +643,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-07-02",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Virtuosity, Earned: Inside the First Afternoon of a CrossFit Level 1 Seminar",
+                "The Saturday afternoon of a CrossFit Level 1 Seminar moves fast: presses, push jerks, a lecture on what virtuosity really means, and a workout that turns a room of strangers into something closer to a team. By the final round of thrusters and burpees, no one is thinking about the morning's nerves anymore.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260702"
+        },
         {
           "date": "2026-07-01",
           "sections": [
@@ -715,21 +719,6 @@
           "url": "https://www.crossfit.com/260629"
         },
         {
-          "date": "2026-06-28",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Setting the Tone: Inside the First Morning of a CrossFit Level 1 Seminar",
-                "The CrossFit Level 1 Course doesn't ease you in; it pulls you in. From the first lecture to the first movement group, the morning of Day 1 is designed to replace uncertainty with understanding and hesitation with conviction. Here's what happens when the classroom doors open.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260628"
-        },
-        {
           "date": "2026-06-27",
           "sections": [
             {
@@ -747,17 +736,11 @@
           "date": "2026-06-26",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "15 hang squat cleans",
-                "5 rope climbs to 15 feet",
-                "12 hang squat cleans",
-                "4 rope climbs",
-                "9 hang squat cleans",
-                "3 rope climbs",
-                "Post time to comments.",
-                "â 105-lb barbell",
-                "â 155-lb barbell"
+                "Friday",
+                "260626",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -803,21 +786,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260622"
-        },
-        {
-          "date": "2026-06-21",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "The Four Formats: How Intentional Programming Builds CrossFit Athletes Who Are Harder to Break",
-                "Every workout format a programmer reaches for is a direct expression of philosophy in action. Couplets, chippers, intervals, and 5-round efforts are not interchangeable tools â each one does something the others cannot. Understanding the difference is what separates intentional CrossFit programming from random programming.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260621"
         },
         {
           "date": "2026-06-20",
