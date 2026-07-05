@@ -1,11 +1,56 @@
 {
-  "last_updated": "2026-07-04T06:38:58.329685",
+  "last_updated": "2026-07-05T06:58:50.343231",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-07-05",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "sumo squat stretch",
+                "instep rotations",
+                "lat stretch"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "30sec on / 15sec off x2 rounds",
+                "1. prone snow angels",
+                "2. row",
+                "3. hollow hold",
+                "4. reverse lunges"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "emom 35min (7 rounds)",
+                "1. 15-20 wall balls",
+                "2. 10-15cal row",
+                "3. 8-10 strict toes to bar",
+                "4. 12-16 reverse lunges",
+                "5. rest",
+                "Sunday Endurance for Open Gym",
+                "5:00 ski at rpe 5",
+                "4:00 ski at rpe 6",
+                "3:00 ski at rpe 7",
+                "2:00 ski at rpe 8",
+                "1:00 ski at rpe 9",
+                "-rest 1:00 between each effort",
+                "aerobic power [lactate threshold]",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-07-05/"
+        },
         {
           "date": "2026-07-04",
           "sections": [
@@ -570,51 +615,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-06-22/"
-        },
-        {
-          "date": "2026-06-21",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "sumo squat stretch",
-                "instep rotations",
-                "samson stretch"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "30sec on / 15sec off x2 rounds",
-                "1. push up to down dog",
-                "2. row",
-                "3. straight leg sit ups",
-                "4. air squats"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "emom 35min (7 rounds)",
-                "1. 3-6 wall walks",
-                "2. 10-15cal row",
-                "3. 6-8 strict toes to bar",
-                "4. 10-16 goblet squats",
-                "5. rest",
-                "Sunday Endurance for Open Gym",
-                "5:00–10:00 row [rpe 2-3]",
-                "into",
-                "6 rounds",
-                "3:00 bike [rpe 2-3]",
-                "1:00 row [rpe 5-6]",
-                "into",
-                "5:00–10:00 bike [rpe 2-3]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-06-21/"
         }
       ]
     },
@@ -623,6 +623,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-07-05",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Building the Pull: Inside the Second Morning of a CrossFit Level 1 Seminar",
+                "Day Two of the CrossFit Level 1 Certificate Course opens with a room that has already changed, and the deadlift is where it gets tested. The movement you have done your whole life, picking something up off the ground, gets formalized into the single best exercise for protecting your back, while the nutrition lecture reframes the ninety-five percent of your day that training never touches.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260705"
+        },
         {
           "date": "2026-07-04",
           "sections": [
@@ -657,13 +672,39 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260703",
-                "Learn the Movement â"
+                "Ned"
+              ]
+            },
+            {
+              "title": "7 rounds for time of:",
+              "lines": [
+                "11 back squats",
+                "1,000-meter row",
+                "â Bodyweight barbell",
+                "â Bodyweight barbell",
+                "Compare to",
+                "141030",
+                ".",
+                "Post time to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260703"
+        },
+        {
+          "date": "2026-07-02",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Virtuosity, Earned: Inside the First Afternoon of a CrossFit Level 1 Seminar",
+                "The Saturday afternoon of a CrossFit Level 1 Seminar moves fast: presses, push jerks, a lecture on what virtuosity really means, and a workout that turns a room of strangers into something closer to a team. By the final round of thrusters and burpees, no one is thinking about the morning's nerves anymore.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260702"
         },
         {
           "date": "2026-07-01",
@@ -716,21 +757,6 @@
           "url": "https://www.crossfit.com/260629"
         },
         {
-          "date": "2026-06-28",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Setting the Tone: Inside the First Morning of a CrossFit Level 1 Seminar",
-                "The CrossFit Level 1 Course doesn't ease you in; it pulls you in. From the first lecture to the first movement group, the morning of Day 1 is designed to replace uncertainty with understanding and hesitation with conviction. Here's what happens when the classroom doors open.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260628"
-        },
-        {
           "date": "2026-06-27",
           "sections": [
             {
@@ -777,11 +803,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Deadlift 5-5-5-5-5 reps",
-                "Compare to",
-                "260128",
-                ".",
-                "Post loads to comments."
+                "Tuesday",
+                "260623",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -823,21 +847,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260622"
-        },
-        {
-          "date": "2026-06-21",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "The Four Formats: How Intentional Programming Builds CrossFit Athletes Who Are Harder to Break",
-                "Every workout format a programmer reaches for is a direct expression of philosophy in action. Couplets, chippers, intervals, and 5-round efforts are not interchangeable tools â each one does something the others cannot. Understanding the difference is what separates intentional CrossFit programming from random programming.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260621"
         }
       ]
     }
