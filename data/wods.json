@@ -1,11 +1,59 @@
 {
-  "last_updated": "2026-07-05T06:58:50.343231",
+  "last_updated": "2026-07-06T08:08:31.843058",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-07-06",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "instep rotation",
+                "lying hip cross over",
+                "lat stretch",
+                "hand walk"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 clean grip deadlifts",
+                "10 elbow rotation",
+                "10/8cal row"
+              ]
+            },
+            {
+              "title": "power clean 12min",
+              "lines": [
+                "on every 1:30 x 8 sets",
+                "1 deadlift",
+                "1 hang power clean",
+                "1 power clean",
+                "(build in weight)",
+                "explosive power"
+              ]
+            },
+            {
+              "title": "conditioning 15min",
+              "lines": [
+                "each round for time",
+                "on every 2:30 x 6 rounds",
+                "15/12cal row",
+                "9 power cleans 60/40kg",
+                "score: slowest round",
+                "anaerobic capacity",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-07-06/"
+        },
         {
           "date": "2026-07-05",
           "sections": [
@@ -569,52 +617,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-06-23/"
-        },
-        {
-          "date": "2026-06-22",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hamstring stretch on box",
-                "lat stretch on box",
-                "calf stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 good mornings",
-                "10 squat jumps",
-                "10 ring rows",
-                "*remaining time bike/ski"
-              ]
-            },
-            {
-              "title": "romanian deadlifts 15min",
-              "lines": [
-                "3-4 sets",
-                "10 romanian deadlifts",
-                "@8-9"
-              ]
-            },
-            {
-              "title": "conditioning 16min",
-              "lines": [
-                "for time",
-                "6 rounds",
-                "8 strict pull ups",
-                "12/10cal bike/ski",
-                "16 box jumps 60/50cm",
-                "rx+ option: strict chest to bar pull ups",
-                "aerobic power & muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-06-22/"
         }
       ]
     },
@@ -623,6 +625,30 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-07-06",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "15 power snatches",
+                "5 rope climbs to 15 feet",
+                "12 power snatches",
+                "4 rope climbs",
+                "9 power snatches",
+                "3 rope climbs",
+                "6 power snatches",
+                "2 rope climbs",
+                "3 power snatches",
+                "1 rope climb",
+                "â 95-lb barbell",
+                "â 135-lb barbell",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260706"
+        },
         {
           "date": "2026-07-05",
           "sections": [
@@ -644,23 +670,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Eva Strong"
-              ]
-            },
-            {
-              "title": "With a partner, 5 rounds for time of:",
-              "lines": [
-                "24 double-unders (each)",
-                "19 toes-to-bars (total)",
-                "2 clean and jerks (total)",
-                "400-meter run (together)",
-                "Share all work and complete the run together.",
-                "â 135-lb barbell",
-                "â 205-lb barbell",
-                "Compare to",
-                "220618",
-                ".",
-                "Post time to comments."
+                "Saturday",
+                "260704",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -672,39 +684,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Ned"
-              ]
-            },
-            {
-              "title": "7 rounds for time of:",
-              "lines": [
-                "11 back squats",
-                "1,000-meter row",
-                "â Bodyweight barbell",
-                "â Bodyweight barbell",
-                "Compare to",
-                "141030",
-                ".",
-                "Post time to comments."
+                "Friday",
+                "260703",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260703"
-        },
-        {
-          "date": "2026-07-02",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Virtuosity, Earned: Inside the First Afternoon of a CrossFit Level 1 Seminar",
-                "The Saturday afternoon of a CrossFit Level 1 Seminar moves fast: presses, push jerks, a lecture on what virtuosity really means, and a workout that turns a room of strangers into something closer to a team. By the final round of thrusters and burpees, no one is thinking about the morning's nerves anymore.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260702"
         },
         {
           "date": "2026-07-01",
@@ -712,17 +698,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Jennifer",
-                "Complete as many rounds and reps as possible in 26 minutes of:",
-                "10 pull-ups",
-                "15 kettlebell swings",
-                "20 box jumps",
-                "â 35-lb kettlebell and a 20-inch box",
-                "â 53-lb kettlebell and a 24-inch box",
-                "Compare to",
-                "150925",
-                ".",
-                "Post rounds and reps to comments."
+                "Wednesday",
+                "260701",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -748,23 +726,55 @@
             {
               "title": "Workout",
               "lines": [
-                "Monday",
-                "260629",
-                "Learn the Movement â"
+                "Omar"
+              ]
+            },
+            {
+              "title": "For time:",
+              "lines": [
+                "10 thrusters",
+                "15 bar-facing burpees",
+                "20 thrusters",
+                "25 bar-facing burpees",
+                "30 thrusters",
+                "35 bar-facing burpees",
+                "â 65-lb barbell",
+                "â 95-lb barbell",
+                "Compare to",
+                "130521",
+                ".",
+                "Post time to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260629"
         },
         {
-          "date": "2026-06-27",
+          "date": "2026-06-28",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260627",
-                "Drill the Movement â"
+                "Rest Day",
+                "Setting the Tone: Inside the First Morning of a CrossFit Level 1 Seminar",
+                "The CrossFit Level 1 Course doesn't ease you in; it pulls you in. From the first lecture to the first movement group, the morning of Day 1 is designed to replace uncertainty with understanding and hesitation with conviction. Here's what happens when the classroom doors open.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260628"
+        },
+        {
+          "date": "2026-06-27",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "5,000-meter run",
+                "Compare to",
+                "250507",
+                ".",
+                "Post time to comments."
               ]
             }
           ],
@@ -774,24 +784,49 @@
           "date": "2026-06-26",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Friday",
-                "260626",
-                "Learn the Movement â"
+                "15 hang squat cleans",
+                "5 rope climbs to 15 feet",
+                "12 hang squat cleans",
+                "4 rope climbs",
+                "9 hang squat cleans",
+                "3 rope climbs",
+                "Post time to comments.",
+                "â 105-lb barbell",
+                "â 155-lb barbell"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260626"
         },
         {
-          "date": "2026-06-24",
+          "date": "2026-06-25",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260624"
+                "Rest Day",
+                "Before the First Rep: Inside the CrossFit Level 1",
+                "The CrossFit Level 1 Certificate Course has set the gold standard for fitness education for over two decades, but what most participants never see is the machinery behind the experience. Before a single rep is coached or a lecture begins, hours of preparation, deliberate connection, and relentless attention to detail have already shaped the day. This is the story of how it all comes together.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260625"
+        },
+        {
+          "date": "2026-06-24",
+          "sections": [
+            {
+              "title": "30-20-10 reps for time of:",
+              "lines": [
+                "Front-rack reverse lunges",
+                "Knees-to-elbows",
+                "Bike calories",
+                "Post time to comments.",
+                "â 95-lb barbell",
+                "â 135-lb barbell"
               ]
             }
           ],
@@ -803,50 +838,15 @@
             {
               "title": "Workout",
               "lines": [
-                "Tuesday",
-                "260623",
-                "Learn the Movement â"
+                "Deadlift 5-5-5-5-5 reps",
+                "Compare to",
+                "260128",
+                ".",
+                "Post loads to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260623"
-        },
-        {
-          "date": "2026-06-22",
-          "sections": [
-            {
-              "title": "0:00-5:00:",
-              "lines": [
-                "200-meter run",
-                "Max freestanding shoulder taps"
-              ]
-            },
-            {
-              "title": "5:00-10:00:",
-              "lines": [
-                "200-meter run",
-                "Max skin-the-cats"
-              ]
-            },
-            {
-              "title": "10:00-15:00:",
-              "lines": [
-                "200-meter run",
-                "Max L pull-ups"
-              ]
-            },
-            {
-              "title": "15:00-20:00:",
-              "lines": [
-                "200-meter run",
-                "Max deficit push-ups",
-                "â 2-inch deficit",
-                "â 4-inch deficit",
-                "Post reps to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260622"
         }
       ]
     }
