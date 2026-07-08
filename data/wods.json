@@ -1,11 +1,56 @@
 {
-  "last_updated": "2026-07-07T07:26:39.953197",
+  "last_updated": "2026-07-08T06:20:55.268905",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-07-08",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "sumo squat stretch",
+                "instep rotations",
+                "lat stretch",
+                "hand walk"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 kb deadlifts",
+                "10 air squats",
+                "20/20sec side plank"
+              ]
+            },
+            {
+              "title": "front squats 15min",
+              "lines": [
+                "4-5 sets",
+                "5 front squats @70-75%"
+              ]
+            },
+            {
+              "title": "conditioning 17min",
+              "lines": [
+                "for time",
+                "4 rounds",
+                "20 kb swings",
+                "20 goblet squats",
+                "100m suitcase carry",
+                "kettlebell: 24/16kg",
+                "rx+: 32/24kg",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-07-08/"
+        },
         {
           "date": "2026-07-07",
           "sections": [
@@ -568,55 +613,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-06-25/"
-        },
-        {
-          "date": "2026-06-24",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "thoracic rotattion",
-                "lat stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 straight leg sit ups",
-                "10 scap. pull ups",
-                "10 prone snow angels",
-                "*remaining time row"
-              ]
-            },
-            {
-              "title": "conditioning 18min",
-              "lines": [
-                "for time",
-                "800/650m row",
-                "into",
-                "60 toes to bar",
-                "400m farmers carry 2x24/16kg",
-                "into",
-                "800/650m row",
-                "*partition middle part however",
-                "aerobic capacity & midline durability"
-              ]
-            },
-            {
-              "title": "core & back 10min",
-              "lines": [
-                "emom (for quality)",
-                "1. 10-12 kb gorilla rows",
-                "2. 10-12 kb pull troughs",
-                "core stability",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-06-24/"
         }
       ]
     },
@@ -625,6 +621,22 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-07-08",
+          "sections": [
+            {
+              "title": "5 rounds for time of:",
+              "lines": [
+                "15 push presses",
+                "20 toes-to-bars",
+                "â 105-lb barbell",
+                "â 155-lb barbell",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260708"
+        },
         {
           "date": "2026-07-07",
           "sections": [
@@ -714,20 +726,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Ned"
-              ]
-            },
-            {
-              "title": "7 rounds for time of:",
-              "lines": [
-                "11 back squats",
-                "1,000-meter row",
-                "â Bodyweight barbell",
-                "â Bodyweight barbell",
-                "Compare to",
-                "141030",
-                ".",
-                "Post time to comments."
+                "Friday",
+                "260703",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -776,9 +777,19 @@
             {
               "title": "Workout",
               "lines": [
-                "Tuesday",
-                "260630",
-                "Learn the Movement â"
+                "Michael"
+              ]
+            },
+            {
+              "title": "3 rounds for time of:",
+              "lines": [
+                "800-meter run",
+                "50 GHD back extensions",
+                "50 sit-ups",
+                "Compare to",
+                "240318",
+                ".",
+                "Post time to comments."
               ]
             }
           ],
@@ -802,13 +813,11 @@
           "date": "2026-06-27",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "5,000-meter run",
-                "Compare to",
-                "250507",
-                ".",
-                "Post time to comments."
+                "Saturday",
+                "260627",
+                "Drill the Movement â"
               ]
             }
           ],
@@ -818,38 +827,15 @@
           "date": "2026-06-26",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "15 hang squat cleans",
-                "5 rope climbs to 15 feet",
-                "12 hang squat cleans",
-                "4 rope climbs",
-                "9 hang squat cleans",
-                "3 rope climbs",
-                "Post time to comments.",
-                "â 105-lb barbell",
-                "â 155-lb barbell"
+                "Friday",
+                "260626",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260626"
-        },
-        {
-          "date": "2026-06-24",
-          "sections": [
-            {
-              "title": "30-20-10 reps for time of:",
-              "lines": [
-                "Front-rack reverse lunges",
-                "Knees-to-elbows",
-                "Bike calories",
-                "Post time to comments.",
-                "â 95-lb barbell",
-                "â 135-lb barbell"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260624"
         }
       ]
     }
