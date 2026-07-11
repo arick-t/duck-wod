@@ -1,11 +1,47 @@
 {
-  "last_updated": "2026-07-10T07:25:24.883396",
+  "last_updated": "2026-07-11T06:06:05.421917",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-07-11",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "sumo squat stretch",
+                "lying hip cross over",
+                "samson stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "amrap 5min",
+                "10 burpees",
+                "10 db deadlifts",
+                "*partner is running 100m"
+              ]
+            },
+            {
+              "title": "conditioning 30min",
+              "lines": [
+                "in teams of 2",
+                "amrap 3:00 x 10 rounds",
+                "15 synchro air squats",
+                "200m partner run",
+                "max devil press 22,5/15kg",
+                "score: total devil press",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-07-11/"
+        },
         {
           "date": "2026-07-10",
           "sections": [
@@ -573,44 +609,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-06-28/"
-        },
-        {
-          "date": "2026-06-27",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "lat stretch",
-                "lying hip cross over",
-                "hand walk"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "amrap 5min",
-                "10 good mornings",
-                "10 elbow rotations",
-                "*partner is skiing"
-              ]
-            },
-            {
-              "title": "conditioning 32min",
-              "lines": [
-                "in teams of 2",
-                "amrap 32min",
-                "18/17/16cal ski",
-                "16 deadlifts 60/40kg",
-                "14 power cleans 60/40kg",
-                "on every 4:00 (starting at 00:00)",
-                "10 synchro burpees",
-                "aerobic power & muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-06-27/"
         }
       ]
     },
@@ -619,6 +617,37 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-07-11",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Open Workout 20.5"
+              ]
+            },
+            {
+              "title": "For time, partitioned any way:",
+              "lines": [
+                "40 muscle-ups",
+                "80-calorie row",
+                "120 wall-ball shots"
+              ]
+            },
+            {
+              "title": "Time cap: 20 minutes",
+              "lines": [
+                "â 14-lb medicine ball to a 9-foot target",
+                "â 20-lb medicine ball to a 10-foot target",
+                "Compare to",
+                "201018",
+                ".",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260711"
+        },
         {
           "date": "2026-07-10",
           "sections": [
@@ -643,6 +672,21 @@
             }
           ],
           "url": "https://www.crossfit.com/260710"
+        },
+        {
+          "date": "2026-07-09",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "The Last Lift: Inside the Second Afternoon of a CrossFit Level 1 Seminar",
+                "The last hours of the Level 1 Certificate Course carry a quality that is hard to name and easy to feel. The afternoon moves through the GHD most gyms ignore, the muscle-up that defeats most people at the transition, the snatch broken down until anyone can learn it, and the programming lecture that finally answers a question everyone has been circling for two days. The Level 1 does not give you mastery; it gives you a map, a standard, and two days in a room with people who care whether you get there.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260709"
         },
         {
           "date": "2026-07-08",
@@ -701,21 +745,6 @@
           "url": "https://www.crossfit.com/260706"
         },
         {
-          "date": "2026-07-05",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Building the Pull: Inside the Second Morning of a CrossFit Level 1 Seminar",
-                "Day Two of the CrossFit Level 1 Certificate Course opens with a room that has already changed, and the deadlift is where it gets tested. The movement you have done your whole life, picking something up off the ground, gets formalized into the single best exercise for protecting your back, while the nutrition lecture reframes the ninety-five percent of your day that training never touches.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260705"
-        },
-        {
           "date": "2026-07-04",
           "sections": [
             {
@@ -749,17 +778,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Jennifer",
-                "Complete as many rounds and reps as possible in 26 minutes of:",
-                "10 pull-ups",
-                "15 kettlebell swings",
-                "20 box jumps",
-                "â 35-lb kettlebell and a 20-inch box",
-                "â 53-lb kettlebell and a 24-inch box",
-                "Compare to",
-                "150925",
-                ".",
-                "Post rounds and reps to comments."
+                "Wednesday",
+                "260701",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -792,20 +813,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260629"
-        },
-        {
-          "date": "2026-06-27",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Saturday",
-                "260627",
-                "Drill the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260627"
         }
       ]
     }
