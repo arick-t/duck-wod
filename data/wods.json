@@ -1,11 +1,55 @@
 {
-  "last_updated": "2026-07-11T06:06:05.421917",
+  "last_updated": "2026-07-12T06:25:07.053167",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-07-12",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "instep rotations",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "30sec on / 15sec off x2 rounds",
+                "1. scap. push ups",
+                "2. row",
+                "3. ring rows",
+                "4. box step ups"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "emom 35min (7 rounds)",
+                "1. 4-6 wall walks",
+                "2. 10-15cal row",
+                "3. 8-10 strict pull ups",
+                "4. 12-16 db box step ups (50cm)",
+                "5. rest",
+                "Sunday Endurance for Open Gym",
+                "“norwegian 4x4 intervals”",
+                "4 sets:",
+                "4:00 hard [rpe 8-9]",
+                "3:00 easy or rest [rpe 1-2]",
+                "choose: run, bike, row, or ski",
+                "aerobic power [vo2 max]",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-07-12/"
+        },
         {
           "date": "2026-07-11",
           "sections": [
@@ -565,50 +609,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-06-29/"
-        },
-        {
-          "date": "2026-06-28",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "instep rotations",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "30sec on / 15sec off x2 rounds",
-                "1. plank hold",
-                "2. row",
-                "3. ring rows",
-                "4. box step ups"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "emom 35min (7 rounds)",
-                "1. 20-30 russian twists",
-                "2. 10-15cal row",
-                "3. 6-8 strict chin ups",
-                "4. 10-14 double db box step ups (50cm)",
-                "5. rest",
-                "Sunday Endurance for Open Gym",
-                "zone 2 (heat) training",
-                "3:00 bike",
-                "3:00 ski",
-                "3:00 row",
-                "for 39-60min",
-                "@ rpe 3-4",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-06-28/"
         }
       ]
     },
@@ -617,6 +617,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-07-12",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Fit for Anything: Why CrossFit Trains All 10 General Physical Skills",
+                "Most fitness programs specialize. CrossFit doesn't, and there's a principled reason why. The 10 general physical skills offer a framework for building the kind of fitness that holds up when life actually demands something from you.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260712"
+        },
         {
           "date": "2026-07-11",
           "sections": [
@@ -710,11 +725,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Front squat 3-3-3-3-3 reps",
-                "Compare to",
-                "260120",
-                ".",
-                "Post heaviest load to comments."
+                "Tuesday",
+                "260707",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -724,21 +737,11 @@
           "date": "2026-07-06",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "15 power snatches",
-                "5 rope climbs to 15 feet",
-                "12 power snatches",
-                "4 rope climbs",
-                "9 power snatches",
-                "3 rope climbs",
-                "6 power snatches",
-                "2 rope climbs",
-                "3 power snatches",
-                "1 rope climb",
-                "â 95-lb barbell",
-                "â 135-lb barbell",
-                "Post time to comments."
+                "Monday",
+                "260706",
+                "Learn the Movement â"
               ]
             }
           ],
