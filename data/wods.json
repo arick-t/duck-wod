@@ -1,11 +1,55 @@
 {
-  "last_updated": "2026-07-12T06:25:07.053167",
+  "last_updated": "2026-07-13T06:43:37.654442",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-07-13",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "thoracic rotation",
+                "lat stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 prone snow angels",
+                "10 plank push ups",
+                "10 air squats",
+                "*remaining time row"
+              ]
+            },
+            {
+              "title": "push press 15min",
+              "lines": [
+                "4-5 sets",
+                "5 push press @75-77%"
+              ]
+            },
+            {
+              "title": "conditioning 18min",
+              "lines": [
+                "for time",
+                "3 rounds",
+                "1000/900m row",
+                "20-15-10",
+                "thruster 40/30kg",
+                "aerobic capacity & lactate threshold",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-07-13/"
+        },
         {
           "date": "2026-07-12",
           "sections": [
@@ -565,50 +609,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-06-30/"
-        },
-        {
-          "date": "2026-06-29",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "sumo squat stretch",
-                "thoracic rotattion",
-                "lat stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 straight leg sit ups",
-                "30sec deep front squat hold",
-                "*remaining time row"
-              ]
-            },
-            {
-              "title": "front squats 15min",
-              "lines": [
-                "4-5 sets",
-                "5 front squats @70-75%"
-              ]
-            },
-            {
-              "title": "conditioning 17min",
-              "lines": [
-                "for max reps",
-                "1:00 on / 1:00 off x 9 rounds",
-                "1. front squats 50/35kg",
-                "2. cal row",
-                "3. toes to bar",
-                "score: total resp/cals",
-                "anaerobic capacity & muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-06-29/"
         }
       ]
     },
@@ -617,6 +617,23 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-07-13",
+          "sections": [
+            {
+              "title": "3 rounds for time of:",
+              "lines": [
+                "20 dumbbell box step-ups",
+                "400-meter run",
+                "All movements should be done wearing a vest.",
+                "â 35-lb dumbbells, a 20-inch box, and a 14-lb vest",
+                "â 50-lb dumbbells, a 20-inch box, and a 20-lb vest",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260713"
+        },
         {
           "date": "2026-07-12",
           "sections": [
@@ -669,39 +686,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Complete as many reps as possible in 10 minutes of:",
-                "3 burpee box jump-overs",
-                "3 deadlifts",
-                "6 burpee box jump-overs",
-                "6 deadlifts",
-                "9 burpee box jump-overs",
-                "9 deadlifts",
-                "Etc.",
-                "â 155-lb barbell and a 20-inch box",
-                "â 225-lb barbell and a 24-inch box",
-                "Compare to",
-                "210820",
-                ".",
-                "Post reps to comments."
+                "Friday",
+                "260710",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260710"
-        },
-        {
-          "date": "2026-07-09",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "The Last Lift: Inside the Second Afternoon of a CrossFit Level 1 Seminar",
-                "The last hours of the Level 1 Certificate Course carry a quality that is hard to name and easy to feel. The afternoon moves through the GHD most gyms ignore, the muscle-up that defeats most people at the transition, the snatch broken down until anyone can learn it, and the programming lecture that finally answers a question everyone has been circling for two days. The Level 1 does not give you mastery; it gives you a map, a standard, and two days in a room with people who care whether you get there.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260709"
         },
         {
           "date": "2026-07-08",
@@ -802,20 +793,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260630"
-        },
-        {
-          "date": "2026-06-29",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Monday",
-                "260629",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260629"
         }
       ]
     }
