@@ -1,11 +1,55 @@
 {
-  "last_updated": "2026-07-13T06:43:37.654442",
+  "last_updated": "2026-07-14T06:02:42.981749",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-07-14",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "inverted hamstring stretch",
+                "instep rotation",
+                "lat stretch",
+                "lying hip cross over"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "100m run",
+                "10 staright leg sit ups",
+                "10 good mornings"
+              ]
+            },
+            {
+              "title": "deadlifts 15min",
+              "lines": [
+                "4-5 sets",
+                "5 deadlifts @75-77%"
+              ]
+            },
+            {
+              "title": "conditioning 17min",
+              "lines": [
+                "amrap 17min",
+                "10-20-30…",
+                "sumo deadlift high pulls 40/30kg",
+                "toes to bar",
+                "*400m run after each round",
+                "lactate threshold & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-07-14/"
+        },
         {
           "date": "2026-07-13",
           "sections": [
@@ -565,50 +609,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-07-01/"
-        },
-        {
-          "date": "2026-06-30",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "inverted hamstring stretch",
-                "crab stretch",
-                "calf stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 good mornings",
-                "10 plank push ups",
-                "20sec glute bridge hold",
-                "*remaining time bike/ski"
-              ]
-            },
-            {
-              "title": "deadlifts 14min",
-              "lines": [
-                "4-5 sets",
-                "5 deadlifts @70-75%"
-              ]
-            },
-            {
-              "title": "conditioning 18min",
-              "lines": [
-                "for time",
-                "4 rounds",
-                "20/18cal bike/ski",
-                "15 deadlifts 100/80kg",
-                "10 ring dips",
-                "lactate threshold & aerobic power",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-06-30/"
         }
       ]
     },
@@ -617,6 +617,36 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-07-14",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Jack's Triangle"
+              ]
+            },
+            {
+              "title": "For total reps:",
+              "lines": [
+                "As many reps as possible in 2 minutes of:",
+                "Max-reps deadlifts",
+                "As many rounds and reps as possible in 19 minutes of:",
+                "4 strict pull-ups",
+                "11 box jumps",
+                "13 hand-release push-ups",
+                "23-calorie bike",
+                "As many reps as possible in 2 minutes of:",
+                "Max-reps deadlifts",
+                "There is no rest between AMRAPs.",
+                "â 155-lb and a 24-inch box",
+                "â 225-lb and a 30-inch box",
+                "Post reps to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260714"
+        },
         {
           "date": "2026-07-13",
           "sections": [
@@ -686,13 +716,39 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260710",
-                "Learn the Movement â"
+                "Complete as many reps as possible in 10 minutes of:",
+                "3 burpee box jump-overs",
+                "3 deadlifts",
+                "6 burpee box jump-overs",
+                "6 deadlifts",
+                "9 burpee box jump-overs",
+                "9 deadlifts",
+                "Etc.",
+                "â 155-lb barbell and a 20-inch box",
+                "â 225-lb barbell and a 24-inch box",
+                "Compare to",
+                "210820",
+                ".",
+                "Post reps to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260710"
+        },
+        {
+          "date": "2026-07-09",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "The Last Lift: Inside the Second Afternoon of a CrossFit Level 1 Seminar",
+                "The last hours of the Level 1 Certificate Course carry a quality that is hard to name and easy to feel. The afternoon moves through the GHD most gyms ignore, the muscle-up that defeats most people at the transition, the snatch broken down until anyone can learn it, and the programming lecture that finally answers a question everyone has been circling for two days. The Level 1 does not give you mastery; it gives you a map, a standard, and two days in a room with people who care whether you get there.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260709"
         },
         {
           "date": "2026-07-08",
@@ -728,15 +784,40 @@
           "date": "2026-07-06",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Monday",
-                "260706",
-                "Learn the Movement â"
+                "15 power snatches",
+                "5 rope climbs to 15 feet",
+                "12 power snatches",
+                "4 rope climbs",
+                "9 power snatches",
+                "3 rope climbs",
+                "6 power snatches",
+                "2 rope climbs",
+                "3 power snatches",
+                "1 rope climb",
+                "â 95-lb barbell",
+                "â 135-lb barbell",
+                "Post time to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260706"
+        },
+        {
+          "date": "2026-07-05",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Building the Pull: Inside the Second Morning of a CrossFit Level 1 Seminar",
+                "Day Two of the CrossFit Level 1 Certificate Course opens with a room that has already changed, and the deadlift is where it gets tested. The movement you have done your whole life, picking something up off the ground, gets formalized into the single best exercise for protecting your back, while the nutrition lecture reframes the ninety-five percent of your day that training never touches.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260705"
         },
         {
           "date": "2026-07-04",
@@ -772,27 +853,21 @@
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260701",
-                "Learn the Movement â"
+                "Jennifer",
+                "Complete as many rounds and reps as possible in 26 minutes of:",
+                "10 pull-ups",
+                "15 kettlebell swings",
+                "20 box jumps",
+                "â 35-lb kettlebell and a 20-inch box",
+                "â 53-lb kettlebell and a 24-inch box",
+                "Compare to",
+                "150925",
+                ".",
+                "Post rounds and reps to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260701"
-        },
-        {
-          "date": "2026-06-30",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Tuesday",
-                "260630",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260630"
         }
       ]
     }
