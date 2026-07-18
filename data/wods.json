@@ -1,11 +1,58 @@
 {
-  "last_updated": "2026-07-17T06:08:08.406069",
+  "last_updated": "2026-07-18T05:55:29.348272",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-07-18",
+          "sections": [
+            {
+              "title": "Team-WODs im Loft",
+              "lines": [
+                "im Loft"
+              ]
+            },
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "instep rotation",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "amrap 5min",
+                "10 push ups to down dog",
+                "10 kb deadlifts",
+                "*partner is holding plank position"
+              ]
+            },
+            {
+              "title": "conditioning 34min",
+              "lines": [
+                "in teams of 2",
+                "for time",
+                "5 rounds",
+                "50 sit ups",
+                "40 push ups",
+                "30 russian kb swings 32/24kg",
+                "20 burpees over partner",
+                "Endurance for Open Gym",
+                "on a 15:00 clock:",
+                "bike, row, or ski for distance",
+                "*every minute perform a :15s sprint",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-07-18/"
+        },
         {
           "date": "2026-07-17",
           "sections": [
@@ -567,20 +614,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-07-05/"
-        },
-        {
-          "date": "2026-07-04",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "SUMMER MANIA 2026",
-                "11:00-14:00 Uhr",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-07-04/"
         }
       ]
     },
@@ -589,6 +622,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-07-18",
+          "sections": [
+            {
+              "title": "50-40-30-20-10 reps for time of:",
+              "lines": [
+                "Double-unders",
+                "Sit-ups",
+                "Complete 5 shoulder presses at 80% of your 1-rep max after each round.",
+                "Post time and shoulder press load to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260718"
+        },
         {
           "date": "2026-07-17",
           "sections": [
@@ -642,9 +690,25 @@
             {
               "title": "Workout",
               "lines": [
-                "Tuesday",
-                "260714",
-                "Learn the Movement â"
+                "Jack's Triangle"
+              ]
+            },
+            {
+              "title": "For total reps:",
+              "lines": [
+                "As many reps as possible in 2 minutes of:",
+                "Max-reps deadlifts",
+                "As many rounds and reps as possible in 19 minutes of:",
+                "4 strict pull-ups",
+                "11 box jumps",
+                "13 hand-release push-ups",
+                "23-calorie bike",
+                "As many reps as possible in 2 minutes of:",
+                "Max-reps deadlifts",
+                "There is no rest between AMRAPs.",
+                "â 155-lb and a 24-inch box",
+                "â 225-lb and a 30-inch box",
+                "Post reps to comments."
               ]
             }
           ],
@@ -696,13 +760,11 @@
           "date": "2026-07-08",
           "sections": [
             {
-              "title": "5 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "15 push presses",
-                "20 toes-to-bars",
-                "â 105-lb barbell",
-                "â 155-lb barbell",
-                "Post time to comments."
+                "Wednesday",
+                "260708",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -714,11 +776,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Front squat 3-3-3-3-3 reps",
-                "Compare to",
-                "260120",
-                ".",
-                "Post heaviest load to comments."
+                "Tuesday",
+                "260707",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -728,39 +788,15 @@
           "date": "2026-07-06",
           "sections": [
             {
-              "title": "For time:",
-              "lines": [
-                "15 power snatches",
-                "5 rope climbs to 15 feet",
-                "12 power snatches",
-                "4 rope climbs",
-                "9 power snatches",
-                "3 rope climbs",
-                "6 power snatches",
-                "2 rope climbs",
-                "3 power snatches",
-                "1 rope climb",
-                "â 95-lb barbell",
-                "â 135-lb barbell",
-                "Post time to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260706"
-        },
-        {
-          "date": "2026-07-04",
-          "sections": [
-            {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260704",
+                "Monday",
+                "260706",
                 "Learn the Movement â"
               ]
             }
           ],
-          "url": "https://www.crossfit.com/260704"
+          "url": "https://www.crossfit.com/260706"
         }
       ]
     }
