@@ -1,11 +1,57 @@
 {
-  "last_updated": "2026-07-19T06:21:38.293383",
+  "last_updated": "2026-07-20T06:37:34.713385",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-07-20",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "scorpions",
+                "instep rotation",
+                "lat stretch",
+                "hand walk"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "2-4-6…",
+                "hang high pulls",
+                "elbow rotations",
+                "push presses"
+              ]
+            },
+            {
+              "title": "clean & jerk 10min",
+              "lines": [
+                "on every 1:00 x 10 sets",
+                "1 hang power clean + 1 push jerk",
+                "explosive power"
+              ]
+            },
+            {
+              "title": "conditioning 16min",
+              "lines": [
+                "9 rounds",
+                "9 hang power cleans",
+                "9 shoulder to overheads",
+                "9 v-ups",
+                "barbell: 40/30kg",
+                "muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-07-20/"
+        },
         {
           "date": "2026-07-19",
           "sections": [
@@ -558,54 +604,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-07-07/"
-        },
-        {
-          "date": "2026-07-06",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "instep rotation",
-                "lying hip cross over",
-                "lat stretch",
-                "hand walk"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 clean grip deadlifts",
-                "10 elbow rotation",
-                "10/8cal row"
-              ]
-            },
-            {
-              "title": "power clean 12min",
-              "lines": [
-                "on every 1:30 x 8 sets",
-                "1 deadlift",
-                "1 hang power clean",
-                "1 power clean",
-                "(build in weight)",
-                "explosive power"
-              ]
-            },
-            {
-              "title": "conditioning 15min",
-              "lines": [
-                "each round for time",
-                "on every 2:30 x 6 rounds",
-                "15/12cal row",
-                "9 power cleans 60/40kg",
-                "score: slowest round",
-                "anaerobic capacity",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-07-06/"
         }
       ]
     },
@@ -615,16 +613,20 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
-          "date": "2026-07-19",
+          "date": "2026-07-20",
           "sections": [
             {
-              "title": "Workout",
+              "title": "3 rounds for time of:",
               "lines": [
-                "Rest Day"
+                "30 wall-ball shots",
+                "30 low-hang squat snatches",
+                "â 45-lb barbell and a 14-lb medicine ball to a 9-foot target",
+                "â 75-lb barbell and a 20-lb medicine ball to a 10-foot target",
+                "Post time to comments."
               ]
             }
           ],
-          "url": "https://www.crossfit.com/260719"
+          "url": "https://www.crossfit.com/260720"
         },
         {
           "date": "2026-07-18",
@@ -736,46 +738,14 @@
           "url": "https://www.crossfit.com/260713"
         },
         {
-          "date": "2026-07-12",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Fit for Anything: Why CrossFit Trains All 10 General Physical Skills",
-                "Most fitness programs specialize. CrossFit doesn't, and there's a principled reason why. The 10 general physical skills offer a framework for building the kind of fitness that holds up when life actually demands something from you.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260712"
-        },
-        {
           "date": "2026-07-11",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Open Workout 20.5"
-              ]
-            },
-            {
-              "title": "For time, partitioned any way:",
-              "lines": [
-                "40 muscle-ups",
-                "80-calorie row",
-                "120 wall-ball shots"
-              ]
-            },
-            {
-              "title": "Time cap: 20 minutes",
-              "lines": [
-                "â 14-lb medicine ball to a 9-foot target",
-                "â 20-lb medicine ball to a 10-foot target",
-                "Compare to",
-                "201018",
-                ".",
-                "Post time to comments."
+                "Saturday",
+                "260711",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -787,51 +757,23 @@
             {
               "title": "Workout",
               "lines": [
-                "Complete as many reps as possible in 10 minutes of:",
-                "3 burpee box jump-overs",
-                "3 deadlifts",
-                "6 burpee box jump-overs",
-                "6 deadlifts",
-                "9 burpee box jump-overs",
-                "9 deadlifts",
-                "Etc.",
-                "â 155-lb barbell and a 20-inch box",
-                "â 225-lb barbell and a 24-inch box",
-                "Compare to",
-                "210820",
-                ".",
-                "Post reps to comments."
+                "Friday",
+                "260710",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260710"
         },
         {
-          "date": "2026-07-09",
+          "date": "2026-07-08",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "The Last Lift: Inside the Second Afternoon of a CrossFit Level 1 Seminar",
-                "The last hours of the Level 1 Certificate Course carry a quality that is hard to name and easy to feel. The afternoon moves through the GHD most gyms ignore, the muscle-up that defeats most people at the transition, the snatch broken down until anyone can learn it, and the programming lecture that finally answers a question everyone has been circling for two days. The Level 1 does not give you mastery; it gives you a map, a standard, and two days in a room with people who care whether you get there.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260709"
-        },
-        {
-          "date": "2026-07-08",
-          "sections": [
-            {
-              "title": "5 rounds for time of:",
-              "lines": [
-                "15 push presses",
-                "20 toes-to-bars",
-                "â 105-lb barbell",
-                "â 155-lb barbell",
-                "Post time to comments."
+                "Wednesday",
+                "260708",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -843,39 +785,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Front squat 3-3-3-3-3 reps",
-                "Compare to",
-                "260120",
-                ".",
-                "Post heaviest load to comments."
+                "Tuesday",
+                "260707",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260707"
-        },
-        {
-          "date": "2026-07-06",
-          "sections": [
-            {
-              "title": "For time:",
-              "lines": [
-                "15 power snatches",
-                "5 rope climbs to 15 feet",
-                "12 power snatches",
-                "4 rope climbs",
-                "9 power snatches",
-                "3 rope climbs",
-                "6 power snatches",
-                "2 rope climbs",
-                "3 power snatches",
-                "1 rope climb",
-                "â 95-lb barbell",
-                "â 135-lb barbell",
-                "Post time to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260706"
         }
       ]
     }
