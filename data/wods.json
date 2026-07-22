@@ -1,11 +1,49 @@
 {
-  "last_updated": "2026-07-21T06:20:57.934528",
+  "last_updated": "2026-07-22T06:20:07.319626",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-07-22",
+          "sections": [
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "line drills"
+              ]
+            },
+            {
+              "title": "push press 15min",
+              "lines": [
+                "4-5 sets",
+                "5 push press @75-77%"
+              ]
+            },
+            {
+              "title": "conditioning 15min",
+              "lines": [
+                "amrap 3:00 x 5 rounds",
+                "200m plate run 20/15kg",
+                "8 ring dips",
+                "max burpees on plate",
+                "score: total burpees",
+                "aerobic power"
+              ]
+            },
+            {
+              "title": "arms 4min",
+              "lines": [
+                "amrap 4min for quality",
+                "plate gun walk",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-07-22/"
+        },
         {
           "date": "2026-07-21",
           "sections": [
@@ -558,51 +596,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-07-09/"
-        },
-        {
-          "date": "2026-07-08",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "sumo squat stretch",
-                "instep rotations",
-                "lat stretch",
-                "hand walk"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 kb deadlifts",
-                "10 air squats",
-                "20/20sec side plank"
-              ]
-            },
-            {
-              "title": "front squats 15min",
-              "lines": [
-                "4-5 sets",
-                "5 front squats @70-75%"
-              ]
-            },
-            {
-              "title": "conditioning 17min",
-              "lines": [
-                "for time",
-                "4 rounds",
-                "20 kb swings",
-                "20 goblet squats",
-                "100m suitcase carry",
-                "kettlebell: 24/16kg",
-                "rx+: 32/24kg",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-07-08/"
         }
       ]
     },
@@ -611,6 +604,22 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-07-22",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "1-rep-max clean",
+                "Compare to",
+                "250222",
+                ".",
+                "Post heaviest load lifted to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260722"
+        },
         {
           "date": "2026-07-21",
           "sections": [
@@ -634,11 +643,13 @@
           "date": "2026-07-20",
           "sections": [
             {
-              "title": "Workout",
+              "title": "3 rounds for time of:",
               "lines": [
-                "Monday",
-                "260720",
-                "Learn the Movement â"
+                "30 wall-ball shots",
+                "30 low-hang squat snatches",
+                "â 45-lb barbell and a 14-lb medicine ball to a 9-foot target",
+                "â 75-lb barbell and a 20-lb medicine ball to a 10-foot target",
+                "Post time to comments."
               ]
             }
           ],
@@ -677,23 +688,42 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260717",
-                "Learn the Movement â"
+                "Power clean 3-3-2-2-1-1-1-1 reps",
+                "Compare to similar",
+                "221204",
+                ".",
+                "Post loads to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260717"
         },
         {
-          "date": "2026-07-15",
+          "date": "2026-07-16",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260715",
-                "Learn the Movement â"
+                "Rest Day",
+                "The Story Behind Jackâs Triangle Hero WOD",
+                "Brad Anderson was a Reconnaissance Marine in Iraq in 2003. He was also one of CrossFit's earliest practitioners, using it to train for combat before most people had ever heard of it. This is his story and the story of his friend, Kevin \"Jack\" Dempsey, whom we honored in Tuesdayâs Workout of the Day, Jackâs Triangle.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260716"
+        },
+        {
+          "date": "2026-07-15",
+          "sections": [
+            {
+              "title": "21-15-9 reps for time of:",
+              "lines": [
+                "Calorie row",
+                "Thrusters",
+                "â 65 lb",
+                "â 95 lb",
+                "Post time to comments."
               ]
             }
           ],
@@ -773,20 +803,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260710"
-        },
-        {
-          "date": "2026-07-08",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Wednesday",
-                "260708",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260708"
         }
       ]
     }
