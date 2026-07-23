@@ -1,11 +1,56 @@
 {
-  "last_updated": "2026-07-22T06:20:07.319626",
+  "last_updated": "2026-07-23T06:22:54.038443",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-07-23",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "inverted hamstring stretch",
+                "calf stretch",
+                "lat stretch",
+                "lying hip cross over"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "20 single unders",
+                "10 staright leg sit ups",
+                "10 good mornings"
+              ]
+            },
+            {
+              "title": "deadlifts 15min",
+              "lines": [
+                "4-5 sets",
+                "5 deadlifts @75-77%"
+              ]
+            },
+            {
+              "title": "conditioning 15min",
+              "lines": [
+                "for time",
+                "4 rounds",
+                "20 toes to bar",
+                "75 double unders",
+                "40-30-20-10",
+                "alternating db snatches 22,5/15kg",
+                "aerobic power & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-07-23/"
+        },
         {
           "date": "2026-07-22",
           "sections": [
@@ -551,51 +596,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-07-10/"
-        },
-        {
-          "date": "2026-07-09",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "scorpions",
-                "instep rotation",
-                "lat stretch on box",
-                "calf stretch"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "100m run",
-                "10 squat jumps",
-                "10 ring rows"
-              ]
-            },
-            {
-              "title": "chin ups 15min",
-              "lines": [
-                "4-5 sets",
-                "5 chin ups @ rpe 7-8"
-              ]
-            },
-            {
-              "title": "conditioning 16min",
-              "lines": [
-                "for time",
-                "10 rounds",
-                "6 high box jumps 75/60cm",
-                "8 pull ups *",
-                "100m run",
-                "rx+ option: chest to bar pull ups",
-                "aerobic power & muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-07-09/"
         }
       ]
     },
@@ -604,6 +604,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-07-23",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Your CrossFit Mobility Plan: You Don't Need an Hour, You Need a Habit",
+                "Most people think improving mobility means carving out an hour for stretching. It doesn't. The most effective mobility work is already hiding inside the training you're doing every day.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260723"
+        },
         {
           "date": "2026-07-22",
           "sections": [
@@ -775,6 +790,21 @@
             }
           ],
           "url": "https://www.crossfit.com/260713"
+        },
+        {
+          "date": "2026-07-12",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Fit for Anything: Why CrossFit Trains All 10 General Physical Skills",
+                "Most fitness programs specialize. CrossFit doesn't, and there's a principled reason why. The 10 general physical skills offer a framework for building the kind of fitness that holds up when life actually demands something from you.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260712"
         },
         {
           "date": "2026-07-11",
