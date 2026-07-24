@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-07-23T06:22:54.038443",
+  "last_updated": "2026-07-24T06:17:27.440452",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-07-24",
+          "sections": [
+            {
+              "title": "warm up 9min",
+              "lines": [
+                "emom 9min",
+                "1. sumo squat stretch/ hand walk / samson stretch",
+                "2. medball squats / - presses / - thrusters",
+                "3. row"
+              ]
+            },
+            {
+              "title": "conditioning 36min",
+              "lines": [
+                "on every 12:00 x 3 rounds",
+                "800/650m row",
+                "40 wall balls 20/14lbs",
+                "20 medball box step ups 60/50cm",
+                "10 burpees over rower",
+                "score: slowest round",
+                "aerobic power & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-07-24/"
+        },
         {
           "date": "2026-07-23",
           "sections": [
@@ -554,48 +582,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-07-11/"
-        },
-        {
-          "date": "2026-07-10",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "lying hip cross over",
-                "scorpions",
-                "inverted hamstring stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "30sec on / 15sec off x 6 rounds",
-                "1. good mornings",
-                "2. scap. push ups",
-                "3. plank hold"
-              ]
-            },
-            {
-              "title": "deadlifts 15min",
-              "lines": [
-                "4-5 sets",
-                "5 deadlifts @70-75%"
-              ]
-            },
-            {
-              "title": "conditioning 18min",
-              "lines": [
-                "amrap 18min",
-                "5 deadlifts 120/80kg",
-                "10 push ups",
-                "15 sit ups",
-                "muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-07-10/"
         }
       ]
     },
@@ -604,6 +590,32 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-07-24",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "1,000-meter row",
+                "Then,"
+              ]
+            },
+            {
+              "title": "5 rounds of:",
+              "lines": [
+                "25 pull-ups",
+                "7 push jerks",
+                "â 85 lb",
+                "â 135 lb",
+                "Compare to",
+                "230707",
+                ".",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260724"
+        },
         {
           "date": "2026-07-23",
           "sections": [
@@ -812,27 +824,30 @@
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260711",
-                "Learn the Movement â"
+                "Open Workout 20.5"
+              ]
+            },
+            {
+              "title": "For time, partitioned any way:",
+              "lines": [
+                "40 muscle-ups",
+                "80-calorie row",
+                "120 wall-ball shots"
+              ]
+            },
+            {
+              "title": "Time cap: 20 minutes",
+              "lines": [
+                "â 14-lb medicine ball to a 9-foot target",
+                "â 20-lb medicine ball to a 10-foot target",
+                "Compare to",
+                "201018",
+                ".",
+                "Post time to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260711"
-        },
-        {
-          "date": "2026-07-10",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Friday",
-                "260710",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260710"
         }
       ]
     }
