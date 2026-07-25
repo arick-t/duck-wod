@@ -1,11 +1,48 @@
 {
-  "last_updated": "2026-07-24T06:17:27.440452",
+  "last_updated": "2026-07-25T06:08:56.373414",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-07-25",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "calf stretch",
+                "lying hip cross over",
+                "lat stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "amrap 5min",
+                "10 good mornings",
+                "10 ring rows",
+                "*partner is skiing"
+              ]
+            },
+            {
+              "title": "conditioning 36min",
+              "lines": [
+                "in teams of 2",
+                "amrap 36min",
+                "(I go, you go)",
+                "6 strict pull ups",
+                "9 deadlifts 80/60kg",
+                "12 box jumps 60/50cm",
+                "15/12cal ski",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-07-25/"
+        },
         {
           "date": "2026-07-24",
           "sections": [
@@ -546,42 +583,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-07-12/"
-        },
-        {
-          "date": "2026-07-11",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "sumo squat stretch",
-                "lying hip cross over",
-                "samson stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "amrap 5min",
-                "10 burpees",
-                "10 db deadlifts",
-                "*partner is running 100m"
-              ]
-            },
-            {
-              "title": "conditioning 30min",
-              "lines": [
-                "in teams of 2",
-                "amrap 3:00 x 10 rounds",
-                "15 synchro air squats",
-                "200m partner run",
-                "max devil press 22,5/15kg",
-                "score: total devil press",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-07-11/"
         }
       ]
     },
@@ -591,45 +592,36 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
-          "date": "2026-07-24",
+          "date": "2026-07-25",
           "sections": [
             {
-              "title": "For time:",
+              "title": "5 rounds for time of:",
               "lines": [
-                "1,000-meter row",
-                "Then,"
-              ]
-            },
-            {
-              "title": "5 rounds of:",
-              "lines": [
-                "25 pull-ups",
-                "7 push jerks",
-                "â 85 lb",
-                "â 135 lb",
+                "5 deadlifts",
+                "10 burpees",
+                "â 185 lb",
+                "â 275 lb",
                 "Compare to",
-                "230707",
+                "220724",
                 ".",
                 "Post time to comments."
               ]
             }
           ],
-          "url": "https://www.crossfit.com/260724"
+          "url": "https://www.crossfit.com/260725"
         },
         {
-          "date": "2026-07-23",
+          "date": "2026-07-24",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "Your CrossFit Mobility Plan: You Don't Need an Hour, You Need a Habit",
-                "Most people think improving mobility means carving out an hour for stretching. It doesn't. The most effective mobility work is already hiding inside the training you're doing every day.",
-                "View the CrossFit map"
+                "Friday",
+                "260724"
               ]
             }
           ],
-          "url": "https://www.crossfit.com/260723"
+          "url": "https://www.crossfit.com/260724"
         },
         {
           "date": "2026-07-22",
@@ -726,31 +718,14 @@
           "url": "https://www.crossfit.com/260717"
         },
         {
-          "date": "2026-07-16",
+          "date": "2026-07-15",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "The Story Behind Jackâs Triangle Hero WOD",
-                "Brad Anderson was a Reconnaissance Marine in Iraq in 2003. He was also one of CrossFit's earliest practitioners, using it to train for combat before most people had ever heard of it. This is his story and the story of his friend, Kevin \"Jack\" Dempsey, whom we honored in Tuesdayâs Workout of the Day, Jackâs Triangle.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260716"
-        },
-        {
-          "date": "2026-07-15",
-          "sections": [
-            {
-              "title": "21-15-9 reps for time of:",
-              "lines": [
-                "Calorie row",
-                "Thrusters",
-                "â 65 lb",
-                "â 95 lb",
-                "Post time to comments."
+                "Wednesday",
+                "260715",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -762,25 +737,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Jack's Triangle"
-              ]
-            },
-            {
-              "title": "For total reps:",
-              "lines": [
-                "As many reps as possible in 2 minutes of:",
-                "Max-reps deadlifts",
-                "As many rounds and reps as possible in 19 minutes of:",
-                "4 strict pull-ups",
-                "11 box jumps",
-                "13 hand-release push-ups",
-                "23-calorie bike",
-                "As many reps as possible in 2 minutes of:",
-                "Max-reps deadlifts",
-                "There is no rest between AMRAPs.",
-                "â 155-lb and a 24-inch box",
-                "â 225-lb and a 30-inch box",
-                "Post reps to comments."
+                "Tuesday",
+                "260714",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -802,52 +761,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260713"
-        },
-        {
-          "date": "2026-07-12",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Fit for Anything: Why CrossFit Trains All 10 General Physical Skills",
-                "Most fitness programs specialize. CrossFit doesn't, and there's a principled reason why. The 10 general physical skills offer a framework for building the kind of fitness that holds up when life actually demands something from you.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260712"
-        },
-        {
-          "date": "2026-07-11",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Open Workout 20.5"
-              ]
-            },
-            {
-              "title": "For time, partitioned any way:",
-              "lines": [
-                "40 muscle-ups",
-                "80-calorie row",
-                "120 wall-ball shots"
-              ]
-            },
-            {
-              "title": "Time cap: 20 minutes",
-              "lines": [
-                "â 14-lb medicine ball to a 9-foot target",
-                "â 20-lb medicine ball to a 10-foot target",
-                "Compare to",
-                "201018",
-                ".",
-                "Post time to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260711"
         }
       ]
     }
