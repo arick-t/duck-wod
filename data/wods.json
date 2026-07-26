@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-07-25T06:08:56.373414",
+  "last_updated": "2026-07-26T06:28:00.115691",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-07-26",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "instep rotations",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "30sec on / 15sec off x2 rounds",
+                "1. air squats",
+                "2. row",
+                "3. straight leg sit ups",
+                "4. plank shoulder taps"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "emom 35min (7 rounds)",
+                "1. 30-50sec wall sit",
+                "2. 10-15cal row",
+                "3. 8-10 strict toes to bar",
+                "4. 12-16 kb gorilla rows",
+                "5. rest",
+                "Sunday Endurance for Open Gym",
+                "on the 3:00 x 6 rounds:",
+                "15/12 cal row [rpe 7-8]",
+                "15/12 cal bike or ski [rpe 4-5]",
+                "aerobic power [lactate threshold]",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-07-26/"
+        },
         {
           "date": "2026-07-25",
           "sections": [
@@ -539,50 +581,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-07-13/"
-        },
-        {
-          "date": "2026-07-12",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "instep rotations",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "30sec on / 15sec off x2 rounds",
-                "1. scap. push ups",
-                "2. row",
-                "3. ring rows",
-                "4. box step ups"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "emom 35min (7 rounds)",
-                "1. 4-6 wall walks",
-                "2. 10-15cal row",
-                "3. 8-10 strict pull ups",
-                "4. 12-16 db box step ups (50cm)",
-                "5. rest",
-                "Sunday Endurance for Open Gym",
-                "“norwegian 4x4 intervals”",
-                "4 sets:",
-                "4:00 hard [rpe 8-9]",
-                "3:00 easy or rest [rpe 1-2]",
-                "choose: run, bike, row, or ski",
-                "aerobic power [vo2 max]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-07-12/"
         }
       ]
     },
@@ -591,6 +589,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-07-26",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "CrossFit Doesn't Change as You Age. Here's What Does.",
+                "Somewhere along the way, fitness culture decided that getting older means doing less. Fewer movements, lighter loads, lower expectations. CrossFit has never accepted that premise, and the evidence is on the gym floor every single day.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260726"
+        },
         {
           "date": "2026-07-25",
           "sections": [
@@ -614,10 +627,23 @@
           "date": "2026-07-24",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Friday",
-                "260724"
+                "1,000-meter row",
+                "Then,"
+              ]
+            },
+            {
+              "title": "5 rounds of:",
+              "lines": [
+                "25 pull-ups",
+                "7 push jerks",
+                "â 85 lb",
+                "â 135 lb",
+                "Compare to",
+                "230707",
+                ".",
+                "Post time to comments."
               ]
             }
           ],
@@ -629,11 +655,9 @@
             {
               "title": "Workout",
               "lines": [
-                "1-rep-max clean",
-                "Compare to",
-                "250222",
-                ".",
-                "Post heaviest load lifted to comments."
+                "Wednesday",
+                "260722",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -643,16 +667,11 @@
           "date": "2026-07-21",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "400-meter run",
-                "18 muscle-ups",
-                "400-meter run",
-                "15 muscle-ups",
-                "400-meter run",
-                "12 muscle-ups",
-                "If you break any of the sets of muscle-ups, run a 200-meter penalty lap.",
-                "Post time to comments."
+                "Tuesday",
+                "260721",
+                "Drill the Movement â"
               ]
             }
           ],
@@ -662,40 +681,25 @@
           "date": "2026-07-20",
           "sections": [
             {
-              "title": "3 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "30 wall-ball shots",
-                "30 low-hang squat snatches",
-                "â 45-lb barbell and a 14-lb medicine ball to a 9-foot target",
-                "â 75-lb barbell and a 20-lb medicine ball to a 10-foot target",
-                "Post time to comments."
+                "Monday",
+                "260720",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260720"
         },
         {
-          "date": "2026-07-19",
+          "date": "2026-07-18",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260719"
-        },
-        {
-          "date": "2026-07-18",
-          "sections": [
-            {
-              "title": "50-40-30-20-10 reps for time of:",
-              "lines": [
-                "Double-unders",
-                "Sit-ups",
-                "Complete 5 shoulder presses at 80% of your 1-rep max after each round.",
-                "Post time and shoulder press load to comments."
+                "Saturday",
+                "260718",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -707,25 +711,40 @@
             {
               "title": "Workout",
               "lines": [
-                "Power clean 3-3-2-2-1-1-1-1 reps",
-                "Compare to similar",
-                "221204",
-                ".",
-                "Post loads to comments."
+                "Friday",
+                "260717",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260717"
         },
         {
-          "date": "2026-07-15",
+          "date": "2026-07-16",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260715",
-                "Learn the Movement â"
+                "Rest Day",
+                "The Story Behind Jackâs Triangle Hero WOD",
+                "Brad Anderson was a Reconnaissance Marine in Iraq in 2003. He was also one of CrossFit's earliest practitioners, using it to train for combat before most people had ever heard of it. This is his story and the story of his friend, Kevin \"Jack\" Dempsey, whom we honored in Tuesdayâs Workout of the Day, Jackâs Triangle.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260716"
+        },
+        {
+          "date": "2026-07-15",
+          "sections": [
+            {
+              "title": "21-15-9 reps for time of:",
+              "lines": [
+                "Calorie row",
+                "Thrusters",
+                "â 65 lb",
+                "â 95 lb",
+                "Post time to comments."
               ]
             }
           ],
@@ -749,14 +768,11 @@
           "date": "2026-07-13",
           "sections": [
             {
-              "title": "3 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "20 dumbbell box step-ups",
-                "400-meter run",
-                "All movements should be done wearing a vest.",
-                "â 35-lb dumbbells, a 20-inch box, and a 14-lb vest",
-                "â 50-lb dumbbells, a 20-inch box, and a 20-lb vest",
-                "Post time to comments."
+                "Monday",
+                "260713",
+                "Drill the Movement â"
               ]
             }
           ],
