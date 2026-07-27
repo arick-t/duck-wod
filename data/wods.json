@@ -1,11 +1,51 @@
 {
-  "last_updated": "2026-07-26T06:28:00.115691",
+  "last_updated": "2026-07-27T06:53:48.855812",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-07-27",
+          "sections": [
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "line drills"
+              ]
+            },
+            {
+              "title": "push press 15min",
+              "lines": [
+                "4-5 sets",
+                "5 push presses @77-80%"
+              ]
+            },
+            {
+              "title": "conditioning 12min",
+              "lines": [
+                "for time",
+                "16-12-8-4",
+                "push presses",
+                "front rack reverse lunges",
+                "burpees over bar",
+                "barbell: 60/40kg",
+                "aerobic power & muscular endurance"
+              ]
+            },
+            {
+              "title": "stability 5min",
+              "lines": [
+                "20sec on / 20sec off x 8 rounds",
+                "overhead lunge hold @empty bar",
+                "(alternate legs)",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-07-27/"
+        },
         {
           "date": "2026-07-26",
           "sections": [
@@ -537,50 +577,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-07-14/"
-        },
-        {
-          "date": "2026-07-13",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "thoracic rotation",
-                "lat stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 prone snow angels",
-                "10 plank push ups",
-                "10 air squats",
-                "*remaining time row"
-              ]
-            },
-            {
-              "title": "push press 15min",
-              "lines": [
-                "4-5 sets",
-                "5 push press @75-77%"
-              ]
-            },
-            {
-              "title": "conditioning 18min",
-              "lines": [
-                "for time",
-                "3 rounds",
-                "1000/900m row",
-                "20-15-10",
-                "thruster 40/30kg",
-                "aerobic capacity & lactate threshold",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-07-13/"
         }
       ]
     },
@@ -589,6 +585,23 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-07-27",
+          "sections": [
+            {
+              "title": "2 rounds, each for time of:",
+              "lines": [
+                "1,600-meter run",
+                "Check your time and rest exactly that amount of time before starting the second round.",
+                "Compare to similar",
+                "251222",
+                ".",
+                "Post times in comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260727"
+        },
         {
           "date": "2026-07-26",
           "sections": [
@@ -650,6 +663,21 @@
           "url": "https://www.crossfit.com/260724"
         },
         {
+          "date": "2026-07-23",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Your CrossFit Mobility Plan: You Don't Need an Hour, You Need a Habit",
+                "Most people think improving mobility means carving out an hour for stretching. It doesn't. The most effective mobility work is already hiding inside the training you're doing every day.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260723"
+        },
+        {
           "date": "2026-07-22",
           "sections": [
             {
@@ -681,25 +709,40 @@
           "date": "2026-07-20",
           "sections": [
             {
-              "title": "Workout",
+              "title": "3 rounds for time of:",
               "lines": [
-                "Monday",
-                "260720",
-                "Learn the Movement â"
+                "30 wall-ball shots",
+                "30 low-hang squat snatches",
+                "â 45-lb barbell and a 14-lb medicine ball to a 9-foot target",
+                "â 75-lb barbell and a 20-lb medicine ball to a 10-foot target",
+                "Post time to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260720"
         },
         {
-          "date": "2026-07-18",
+          "date": "2026-07-19",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260718",
-                "Learn the Movement â"
+                "Rest Day"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260719"
+        },
+        {
+          "date": "2026-07-18",
+          "sections": [
+            {
+              "title": "50-40-30-20-10 reps for time of:",
+              "lines": [
+                "Double-unders",
+                "Sit-ups",
+                "Complete 5 shoulder presses at 80% of your 1-rep max after each round.",
+                "Post time and shoulder press load to comments."
               ]
             }
           ],
@@ -711,9 +754,11 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260717",
-                "Learn the Movement â"
+                "Power clean 3-3-2-2-1-1-1-1 reps",
+                "Compare to similar",
+                "221204",
+                ".",
+                "Post loads to comments."
               ]
             }
           ],
@@ -763,20 +808,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260714"
-        },
-        {
-          "date": "2026-07-13",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Monday",
-                "260713",
-                "Drill the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260713"
         }
       ]
     }
