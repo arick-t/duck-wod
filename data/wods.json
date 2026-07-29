@@ -1,11 +1,56 @@
 {
-  "last_updated": "2026-07-28T06:17:23.555953",
+  "last_updated": "2026-07-29T06:23:11.431301",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-07-29",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "sumo squat stretch",
+                "instep rotations",
+                "lat stretch",
+                "thoracic rotations"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10/8cal row",
+                "10 reverse lunges",
+                "20sec deep squat hold"
+              ]
+            },
+            {
+              "title": "front squats 15min",
+              "lines": [
+                "4-5 sets",
+                "5 front squats @77-80%"
+              ]
+            },
+            {
+              "title": "conditioning 16min",
+              "lines": [
+                "on the 8:00 x 2 rounds",
+                "(each for time)",
+                "21-15-9",
+                "cal row (women: 18-12-6)",
+                "front squats 40/30kg",
+                "score: total time (both rounds)",
+                "lactate threshold",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-07-29/"
+        },
         {
           "date": "2026-07-28",
           "sections": [
@@ -549,42 +594,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-07-16/"
-        },
-        {
-          "date": "2026-07-15",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "instep rotations",
-                "scorpions",
-                "lat stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "30sec on / 15sec off x 6 rounds",
-                "1. scap. push ups / push ups",
-                "2. bike/ski",
-                "3. reverse lunges/ box step ups"
-              ]
-            },
-            {
-              "title": "conditioning 36min",
-              "lines": [
-                "amrap 1:30 on / 00:30 off x 18 rounds",
-                "1. db bench press 2x22,5/15kg",
-                "2. cal bike/ski",
-                "3. kb box step ups 2x24/16kg (50cm)",
-                "score: total reps/cals",
-                "muscular endurance & aerobic power",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-07-15/"
         }
       ]
     },
@@ -593,6 +602,25 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-07-29",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "For 5 rounds, as many reps as possible in 3 minutes of:",
+                "15/20-calorie row",
+                "20 alternating dumbbell hang snatches",
+                "Max dumbbell-facing burpees",
+                "Rest 1 minute between rounds.",
+                "â 35-lb dumbbell",
+                "â 50-lb dumbbell",
+                "Post reps to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260729"
+        },
         {
           "date": "2026-07-28",
           "sections": [
@@ -672,42 +700,14 @@
           "date": "2026-07-24",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "1,000-meter row",
-                "Then,"
-              ]
-            },
-            {
-              "title": "5 rounds of:",
-              "lines": [
-                "25 pull-ups",
-                "7 push jerks",
-                "â 85 lb",
-                "â 135 lb",
-                "Compare to",
-                "230707",
-                ".",
-                "Post time to comments."
+                "Friday",
+                "260724"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260724"
-        },
-        {
-          "date": "2026-07-23",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Your CrossFit Mobility Plan: You Don't Need an Hour, You Need a Habit",
-                "Most people think improving mobility means carving out an hour for stretching. It doesn't. The most effective mobility work is already hiding inside the training you're doing every day.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260723"
         },
         {
           "date": "2026-07-22",
@@ -715,11 +715,9 @@
             {
               "title": "Workout",
               "lines": [
-                "1-rep-max clean",
-                "Compare to",
-                "250222",
-                ".",
-                "Post heaviest load lifted to comments."
+                "Wednesday",
+                "260722",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -729,16 +727,11 @@
           "date": "2026-07-21",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "400-meter run",
-                "18 muscle-ups",
-                "400-meter run",
-                "15 muscle-ups",
-                "400-meter run",
-                "12 muscle-ups",
-                "If you break any of the sets of muscle-ups, run a 200-meter penalty lap.",
-                "Post time to comments."
+                "Tuesday",
+                "260721",
+                "Drill the Movement â"
               ]
             }
           ],
@@ -785,20 +778,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260717"
-        },
-        {
-          "date": "2026-07-15",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Wednesday",
-                "260715",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260715"
         }
       ]
     }
