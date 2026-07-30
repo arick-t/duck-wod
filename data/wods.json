@@ -1,11 +1,55 @@
 {
-  "last_updated": "2026-07-29T06:23:11.431301",
+  "last_updated": "2026-07-30T06:16:49.099624",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-07-30",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "calf stretch",
+                "instep rotation",
+                "lat stretch on box"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 squat jumps",
+                "5 burpees",
+                "10 ring rows",
+                "*remaining time bike/ski"
+              ]
+            },
+            {
+              "title": "bent over row 12min",
+              "lines": [
+                "4 sets of",
+                "8 barbell bent over rows"
+              ]
+            },
+            {
+              "title": "condition 17min",
+              "lines": [
+                "for time",
+                "6 rounds",
+                "9 burpee pull ups",
+                "12/10cal bike/ski",
+                "15 box jumps 60/50cm",
+                "aerobic power & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-07-30/"
+        },
         {
           "date": "2026-07-29",
           "sections": [
@@ -547,53 +591,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-07-17/"
-        },
-        {
-          "date": "2026-07-16",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "scorpions",
-                "instep rotation",
-                "lat stretch",
-                "hand walk"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10/8cal row",
-                "10 prone snow angels",
-                "10 snatch grip deadlifts"
-              ]
-            },
-            {
-              "title": "hang power snatch 12min",
-              "lines": [
-                "on every 1:30 x 8 sets",
-                "1 muscle snatch",
-                "1 hang power snatch",
-                "(build in weight)"
-              ]
-            },
-            {
-              "title": "conditioning 18min",
-              "lines": [
-                "for time",
-                "6 rounds",
-                "8 hang power snatches 40/30kg",
-                "10 burpees over the bar",
-                "12/10cal row",
-                "- 1:00 rest -",
-                "aerobic power (vo2max)",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-07-16/"
         }
       ]
     },
@@ -602,6 +599,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-07-30",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "The Smart CrossFit Athlete's Guide To Training Through Soreness",
+                "Waking up sore after a hard workout is not a signal to skip the gym. It is a sign your body is adapting, and how you respond determines how fast you recover. Learn when to train through soreness, when to scale, and how to tell the difference between soreness and pain.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260730"
+        },
         {
           "date": "2026-07-29",
           "sections": [
