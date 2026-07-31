@@ -1,11 +1,55 @@
 {
-  "last_updated": "2026-07-30T06:16:49.099624",
+  "last_updated": "2026-07-31T06:35:43.139183",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-07-31",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "inverted hamstring stretch",
+                "calf stretch",
+                "90/90 hip rotation",
+                "lying hip cross over"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "100m run",
+                "20sec glute bridge hold",
+                "10 good mornings"
+              ]
+            },
+            {
+              "title": "deadlifts 15min",
+              "lines": [
+                "4-5 sets",
+                "5 deadlifts @77-80%"
+              ]
+            },
+            {
+              "title": "conditioning 17min",
+              "lines": [
+                "for time",
+                "3 rounds",
+                "600m run",
+                "15 deadlifts 100/70kg",
+                "100m farmers carry 2x32/24kg",
+                "aerobic capacity & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-07-31/"
+        },
         {
           "date": "2026-07-30",
           "sections": [
@@ -549,48 +593,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-07-18/"
-        },
-        {
-          "date": "2026-07-17",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "sumo squat stretch",
-                "lat stretch",
-                "thoracic rotations",
-                "calf stretch"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "20 single unders",
-                "20sec depp squat hold",
-                "10 ring rows"
-              ]
-            },
-            {
-              "title": "front squats 15min",
-              "lines": [
-                "4-5 sets",
-                "5 front squats @75-77%"
-              ]
-            },
-            {
-              "title": "conditioning 17min",
-              "lines": [
-                "5 rounds",
-                "10 strict pull ups",
-                "40 air squats",
-                "60 double unders",
-                "aerobic power & muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-07-17/"
         }
       ]
     },
@@ -600,19 +602,32 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
-          "date": "2026-07-30",
+          "date": "2026-07-31",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Rest Day",
-                "The Smart CrossFit Athlete's Guide To Training Through Soreness",
-                "Waking up sore after a hard workout is not a signal to skip the gym. It is a sign your body is adapting, and how you respond determines how fast you recover. Learn when to train through soreness, when to scale, and how to tell the difference between soreness and pain.",
-                "View the CrossFit map"
+                "2 muscle-ups",
+                "2 back squats",
+                "4 muscle-ups",
+                "4 back squats",
+                "6 muscle-ups",
+                "6 back squats",
+                "8 muscle-ups",
+                "8 back squats",
+                "6 muscle-ups",
+                "6 back squats",
+                "4 muscle-ups",
+                "4 back squats",
+                "2 muscle-ups",
+                "2 back squats",
+                "â 155 lb",
+                "â 225 lb",
+                "Post time to comments."
               ]
             }
           ],
-          "url": "https://www.crossfit.com/260730"
+          "url": "https://www.crossfit.com/260731"
         },
         {
           "date": "2026-07-29",
@@ -620,14 +635,9 @@
             {
               "title": "Workout",
               "lines": [
-                "For 5 rounds, as many reps as possible in 3 minutes of:",
-                "15/20-calorie row",
-                "20 alternating dumbbell hang snatches",
-                "Max dumbbell-facing burpees",
-                "Rest 1 minute between rounds.",
-                "â 35-lb dumbbell",
-                "â 50-lb dumbbell",
-                "Post reps to comments."
+                "Wednesday",
+                "260729",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -712,14 +722,42 @@
           "date": "2026-07-24",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Friday",
-                "260724"
+                "1,000-meter row",
+                "Then,"
+              ]
+            },
+            {
+              "title": "5 rounds of:",
+              "lines": [
+                "25 pull-ups",
+                "7 push jerks",
+                "â 85 lb",
+                "â 135 lb",
+                "Compare to",
+                "230707",
+                ".",
+                "Post time to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260724"
+        },
+        {
+          "date": "2026-07-23",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Your CrossFit Mobility Plan: You Don't Need an Hour, You Need a Habit",
+                "Most people think improving mobility means carving out an hour for stretching. It doesn't. The most effective mobility work is already hiding inside the training you're doing every day.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260723"
         },
         {
           "date": "2026-07-22",
@@ -727,9 +765,11 @@
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260722",
-                "Learn the Movement â"
+                "1-rep-max clean",
+                "Compare to",
+                "250222",
+                ".",
+                "Post heaviest load lifted to comments."
               ]
             }
           ],
@@ -739,11 +779,16 @@
           "date": "2026-07-21",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Tuesday",
-                "260721",
-                "Drill the Movement â"
+                "400-meter run",
+                "18 muscle-ups",
+                "400-meter run",
+                "15 muscle-ups",
+                "400-meter run",
+                "12 muscle-ups",
+                "If you break any of the sets of muscle-ups, run a 200-meter penalty lap.",
+                "Post time to comments."
               ]
             }
           ],
@@ -753,11 +798,13 @@
           "date": "2026-07-20",
           "sections": [
             {
-              "title": "Workout",
+              "title": "3 rounds for time of:",
               "lines": [
-                "Monday",
-                "260720",
-                "Learn the Movement â"
+                "30 wall-ball shots",
+                "30 low-hang squat snatches",
+                "â 45-lb barbell and a 14-lb medicine ball to a 9-foot target",
+                "â 75-lb barbell and a 20-lb medicine ball to a 10-foot target",
+                "Post time to comments."
               ]
             }
           ],
@@ -776,20 +823,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260718"
-        },
-        {
-          "date": "2026-07-17",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Friday",
-                "260717",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260717"
         }
       ]
     }
