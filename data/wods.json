@@ -1,11 +1,54 @@
 {
-  "last_updated": "2026-07-31T06:35:43.139183",
+  "last_updated": "2026-08-01T06:19:48.024683",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-08-01",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "instep rotation",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "amrap 5min",
+                "10 push ups to down dog",
+                "10 straight leg sit ups",
+                "*partner is biking"
+              ]
+            },
+            {
+              "title": "conditioning 30min",
+              "lines": [
+                "in teams of 2",
+                "for time",
+                "3 rounds",
+                "8 wall walks",
+                "20/18/16cal bike",
+                "into",
+                "3 rounds",
+                "50 sit ups",
+                "20/18/16cal bike",
+                "into",
+                "3 rounds",
+                "8 wall walks",
+                "50 sit ups",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-08-01/"
+        },
         {
           "date": "2026-07-31",
           "sections": [
@@ -546,53 +589,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-07-19/"
-        },
-        {
-          "date": "2026-07-18",
-          "sections": [
-            {
-              "title": "Team-WODs im Loft",
-              "lines": [
-                "im Loft"
-              ]
-            },
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "instep rotation",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "amrap 5min",
-                "10 push ups to down dog",
-                "10 kb deadlifts",
-                "*partner is holding plank position"
-              ]
-            },
-            {
-              "title": "conditioning 34min",
-              "lines": [
-                "in teams of 2",
-                "for time",
-                "5 rounds",
-                "50 sit ups",
-                "40 push ups",
-                "30 russian kb swings 32/24kg",
-                "20 burpees over partner",
-                "Endurance for Open Gym",
-                "on a 15:00 clock:",
-                "bike, row, or ski for distance",
-                "*every minute perform a :15s sprint",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-07-18/"
         }
       ]
     },
@@ -602,28 +598,31 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
+          "date": "2026-08-01",
+          "sections": [
+            {
+              "title": "5 rounds for time of:",
+              "lines": [
+                "10 dumbbell hang power cleans",
+                "10 dumbbell push presses",
+                "200-meter dumbbell farmers carry",
+                "â 35-lb dumbbells",
+                "â 50-lb dumbbells",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260801"
+        },
+        {
           "date": "2026-07-31",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "2 muscle-ups",
-                "2 back squats",
-                "4 muscle-ups",
-                "4 back squats",
-                "6 muscle-ups",
-                "6 back squats",
-                "8 muscle-ups",
-                "8 back squats",
-                "6 muscle-ups",
-                "6 back squats",
-                "4 muscle-ups",
-                "4 back squats",
-                "2 muscle-ups",
-                "2 back squats",
-                "â 155 lb",
-                "â 225 lb",
-                "Post time to comments."
+                "Friday",
+                "260731",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -649,19 +648,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Linda"
-              ]
-            },
-            {
-              "title": "10-9-8-7-6-5-4-3-2-1 reps for time of:",
-              "lines": [
-                "1 Â½-bodyweight deadlifts",
-                "Bodyweight bench press",
-                "Â¾-bodyweight squat cleans",
-                "Compare to",
-                "241118",
-                ".",
-                "Post time in comments."
+                "Tuesday",
+                "260728",
+                "Rewatch the Action â"
               ]
             }
           ],
@@ -671,33 +660,15 @@
           "date": "2026-07-27",
           "sections": [
             {
-              "title": "2 rounds, each for time of:",
+              "title": "Workout",
               "lines": [
-                "1,600-meter run",
-                "Check your time and rest exactly that amount of time before starting the second round.",
-                "Compare to similar",
-                "251222",
-                ".",
-                "Post times in comments."
+                "Monday",
+                "260727",
+                "Rewatch the Action â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260727"
-        },
-        {
-          "date": "2026-07-26",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "CrossFit Doesn't Change as You Age. Here's What Does.",
-                "Somewhere along the way, fitness culture decided that getting older means doing less. Fewer movements, lighter loads, lower expectations. CrossFit has never accepted that premise, and the evidence is on the gym floor every single day.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260726"
         },
         {
           "date": "2026-07-25",
@@ -765,11 +736,9 @@
             {
               "title": "Workout",
               "lines": [
-                "1-rep-max clean",
-                "Compare to",
-                "250222",
-                ".",
-                "Post heaviest load lifted to comments."
+                "Wednesday",
+                "260722",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -779,16 +748,11 @@
           "date": "2026-07-21",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "400-meter run",
-                "18 muscle-ups",
-                "400-meter run",
-                "15 muscle-ups",
-                "400-meter run",
-                "12 muscle-ups",
-                "If you break any of the sets of muscle-ups, run a 200-meter penalty lap.",
-                "Post time to comments."
+                "Tuesday",
+                "260721",
+                "Drill the Movement â"
               ]
             }
           ],
@@ -809,20 +773,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260720"
-        },
-        {
-          "date": "2026-07-18",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Saturday",
-                "260718",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260718"
         }
       ]
     }
