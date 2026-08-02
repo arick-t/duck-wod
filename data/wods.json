@@ -1,11 +1,57 @@
 {
-  "last_updated": "2026-08-01T06:19:48.024683",
+  "last_updated": "2026-08-02T06:25:22.025569",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-08-02",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "instep rotations",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "30sec on / 15sec off x2 rounds",
+                "1. side plank",
+                "2. row",
+                "3. ring rows",
+                "4. db deadlifts / db push press"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "emom 35min (7 rounds)",
+                "1. 20/20sec copenhagen plank hold",
+                "2. 10-15cal row",
+                "3. 8-10 strict pull ups",
+                "4. 10/10 single arm db hang clean & jerks",
+                "5. rest",
+                "Sunday Endurance for Open Gym",
+                "on the 4:00 x 6 sets:",
+                "30/24cal bike",
+                "cal row in remaining time",
+                "sets 1-2: rpe 5",
+                "sets 3-4: rpe 6",
+                "sets 5-6: rpe 7",
+                "score: total row cal",
+                "aerobic power [lactate threshold]",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-08-02/"
+        },
         {
           "date": "2026-08-01",
           "sections": [
@@ -552,43 +598,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-07-20/"
-        },
-        {
-          "date": "2026-07-19",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "lat stretch",
-                "instep rotations",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "30sec on / 15sec off x2 rounds",
-                "1. scap. push ups",
-                "2. row",
-                "3. ring rows",
-                "4. 90/90 hip rotation"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "emom 35min (7 rounds)",
-                "1. 12-15 bench dips",
-                "2. 10-15cal row",
-                "3. 8-10 feet elevated ring rows",
-                "4. 12-16 goblet cossack squats",
-                "5. rest",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-07-19/"
         }
       ]
     },
@@ -597,6 +606,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-08-02",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "There's a Reason CrossFit Athletes Never Stop Doing Olympic Lifts",
+                "Many programs skip the Olympic lifts because they seem too technical, too risky, or too advanced for everyday athletes. That is exactly the wrong call. Here is what you are leaving on the table when you omit them.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260802"
+        },
         {
           "date": "2026-08-01",
           "sections": [
@@ -618,11 +642,25 @@
           "date": "2026-07-31",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Friday",
-                "260731",
-                "Learn the Movement â"
+                "2 muscle-ups",
+                "2 back squats",
+                "4 muscle-ups",
+                "4 back squats",
+                "6 muscle-ups",
+                "6 back squats",
+                "8 muscle-ups",
+                "8 back squats",
+                "6 muscle-ups",
+                "6 back squats",
+                "4 muscle-ups",
+                "4 back squats",
+                "2 muscle-ups",
+                "2 back squats",
+                "â 155 lb",
+                "â 225 lb",
+                "Post time to comments."
               ]
             }
           ],
@@ -634,9 +672,14 @@
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260729",
-                "Learn the Movement â"
+                "For 5 rounds, as many reps as possible in 3 minutes of:",
+                "15/20-calorie row",
+                "20 alternating dumbbell hang snatches",
+                "Max dumbbell-facing burpees",
+                "Rest 1 minute between rounds.",
+                "â 35-lb dumbbell",
+                "â 50-lb dumbbell",
+                "Post reps to comments."
               ]
             }
           ],
@@ -674,16 +717,11 @@
           "date": "2026-07-25",
           "sections": [
             {
-              "title": "5 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "5 deadlifts",
-                "10 burpees",
-                "â 185 lb",
-                "â 275 lb",
-                "Compare to",
-                "220724",
-                ".",
-                "Post time to comments."
+                "Saturday",
+                "260725",
+                "Watch the Action â"
               ]
             }
           ],
@@ -693,42 +731,14 @@
           "date": "2026-07-24",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "1,000-meter row",
-                "Then,"
-              ]
-            },
-            {
-              "title": "5 rounds of:",
-              "lines": [
-                "25 pull-ups",
-                "7 push jerks",
-                "â 85 lb",
-                "â 135 lb",
-                "Compare to",
-                "230707",
-                ".",
-                "Post time to comments."
+                "Friday",
+                "260724"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260724"
-        },
-        {
-          "date": "2026-07-23",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Your CrossFit Mobility Plan: You Don't Need an Hour, You Need a Habit",
-                "Most people think improving mobility means carving out an hour for stretching. It doesn't. The most effective mobility work is already hiding inside the training you're doing every day.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260723"
         },
         {
           "date": "2026-07-22",
@@ -762,13 +772,11 @@
           "date": "2026-07-20",
           "sections": [
             {
-              "title": "3 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "30 wall-ball shots",
-                "30 low-hang squat snatches",
-                "â 45-lb barbell and a 14-lb medicine ball to a 9-foot target",
-                "â 75-lb barbell and a 20-lb medicine ball to a 10-foot target",
-                "Post time to comments."
+                "Monday",
+                "260720",
+                "Learn the Movement â"
               ]
             }
           ],
