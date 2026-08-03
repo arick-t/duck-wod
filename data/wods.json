@@ -1,11 +1,56 @@
 {
-  "last_updated": "2026-08-02T06:25:22.025569",
+  "last_updated": "2026-08-03T06:50:23.787181",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-08-03",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "calf stretch",
+                "sumo squat stretch",
+                "thoracic rotations"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 reverse lunges",
+                "20sec deep squat hold",
+                "10 push ups to down dog",
+                "*remaining time double under"
+              ]
+            },
+            {
+              "title": "front squats 15min",
+              "lines": [
+                "4-5 sets",
+                "5 front squats @77-80%"
+              ]
+            },
+            {
+              "title": "conditioning 17min",
+              "lines": [
+                "for time",
+                "7 rounds",
+                "10 double db front squats",
+                "10 db push ups",
+                "40 double unders",
+                "dumbbells: 2x22,5/15kg",
+                "muscular endurance & aerobic capacity",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-08-03/"
+        },
         {
           "date": "2026-08-02",
           "sections": [
@@ -552,52 +597,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-07-21/"
-        },
-        {
-          "date": "2026-07-20",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "scorpions",
-                "instep rotation",
-                "lat stretch",
-                "hand walk"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "2-4-6…",
-                "hang high pulls",
-                "elbow rotations",
-                "push presses"
-              ]
-            },
-            {
-              "title": "clean & jerk 10min",
-              "lines": [
-                "on every 1:00 x 10 sets",
-                "1 hang power clean + 1 push jerk",
-                "explosive power"
-              ]
-            },
-            {
-              "title": "conditioning 16min",
-              "lines": [
-                "9 rounds",
-                "9 hang power cleans",
-                "9 shoulder to overheads",
-                "9 v-ups",
-                "barbell: 40/30kg",
-                "muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-07-20/"
         }
       ]
     },
@@ -607,32 +606,30 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
-          "date": "2026-08-02",
+          "date": "2026-08-03",
           "sections": [
             {
-              "title": "Workout",
+              "title": "3 rounds for time of:",
               "lines": [
-                "Rest Day",
-                "There's a Reason CrossFit Athletes Never Stop Doing Olympic Lifts",
-                "Many programs skip the Olympic lifts because they seem too technical, too risky, or too advanced for everyday athletes. That is exactly the wrong call. Here is what you are leaving on the table when you omit them.",
-                "View the CrossFit map"
+                "800-meter run",
+                "15 overhead squats",
+                "â 105 lb",
+                "â 155 lb",
+                "Post time to comments."
               ]
             }
           ],
-          "url": "https://www.crossfit.com/260802"
+          "url": "https://www.crossfit.com/260803"
         },
         {
           "date": "2026-08-01",
           "sections": [
             {
-              "title": "5 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "10 dumbbell hang power cleans",
-                "10 dumbbell push presses",
-                "200-meter dumbbell farmers carry",
-                "â 35-lb dumbbells",
-                "â 50-lb dumbbells",
-                "Post time to comments."
+                "Saturday",
+                "260801",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -642,29 +639,30 @@
           "date": "2026-07-31",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "2 muscle-ups",
-                "2 back squats",
-                "4 muscle-ups",
-                "4 back squats",
-                "6 muscle-ups",
-                "6 back squats",
-                "8 muscle-ups",
-                "8 back squats",
-                "6 muscle-ups",
-                "6 back squats",
-                "4 muscle-ups",
-                "4 back squats",
-                "2 muscle-ups",
-                "2 back squats",
-                "â 155 lb",
-                "â 225 lb",
-                "Post time to comments."
+                "Friday",
+                "260731",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260731"
+        },
+        {
+          "date": "2026-07-30",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "The Smart CrossFit Athlete's Guide To Training Through Soreness",
+                "Waking up sore after a hard workout is not a signal to skip the gym. It is a sign your body is adapting, and how you respond determines how fast you recover. Learn when to train through soreness, when to scale, and how to tell the difference between soreness and pain.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260730"
         },
         {
           "date": "2026-07-29",
@@ -672,14 +670,9 @@
             {
               "title": "Workout",
               "lines": [
-                "For 5 rounds, as many reps as possible in 3 minutes of:",
-                "15/20-calorie row",
-                "20 alternating dumbbell hang snatches",
-                "Max dumbbell-facing burpees",
-                "Rest 1 minute between rounds.",
-                "â 35-lb dumbbell",
-                "â 50-lb dumbbell",
-                "Post reps to comments."
+                "Wednesday",
+                "260729",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -767,20 +760,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260721"
-        },
-        {
-          "date": "2026-07-20",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Monday",
-                "260720",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260720"
         }
       ]
     }
