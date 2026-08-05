@@ -1,11 +1,47 @@
 {
-  "last_updated": "2026-08-04T06:18:49.198112",
+  "last_updated": "2026-08-05T06:17:55.076046",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-08-05",
+          "sections": [
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "40 on / 20 off x6",
+                "1. calf stretch / crab stretch",
+                "2. ski / bike",
+                "3. plank push ups / squat jumps"
+              ]
+            },
+            {
+              "title": "conditioning 24min",
+              "lines": [
+                "on every 3:00 x 8 rounds",
+                "15/12cal bike/ski",
+                "9 box jumps 60/50cm",
+                "6 strict ring dips",
+                "score: slowest round",
+                "aerobic power"
+              ]
+            },
+            {
+              "title": "shoulder stability 8min",
+              "lines": [
+                "30sec on / 20sec off",
+                "1. rotating plank",
+                "2. prone press",
+                "3. handstand hold",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-08-05/"
+        },
         {
           "date": "2026-08-04",
           "sections": [
@@ -561,44 +597,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-07-23/"
-        },
-        {
-          "date": "2026-07-22",
-          "sections": [
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "line drills"
-              ]
-            },
-            {
-              "title": "push press 15min",
-              "lines": [
-                "4-5 sets",
-                "5 push press @75-77%"
-              ]
-            },
-            {
-              "title": "conditioning 15min",
-              "lines": [
-                "amrap 3:00 x 5 rounds",
-                "200m plate run 20/15kg",
-                "8 ring dips",
-                "max burpees on plate",
-                "score: total burpees",
-                "aerobic power"
-              ]
-            },
-            {
-              "title": "arms 4min",
-              "lines": [
-                "amrap 4min for quality",
-                "plate gun walk",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-07-22/"
         }
       ]
     },
@@ -607,6 +605,22 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-08-05",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Power clean 3-3-3-3-3 reps",
+                "Compare to",
+                "260717",
+                ".",
+                "Post loads to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260805"
+        },
         {
           "date": "2026-08-04",
           "sections": [
@@ -651,21 +665,6 @@
           "url": "https://www.crossfit.com/260803"
         },
         {
-          "date": "2026-08-02",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "There's a Reason CrossFit Athletes Never Stop Doing Olympic Lifts",
-                "Many programs skip the Olympic lifts because they seem too technical, too risky, or too advanced for everyday athletes. That is exactly the wrong call. Here is what you are leaving on the table when you omit them.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260802"
-        },
-        {
           "date": "2026-08-01",
           "sections": [
             {
@@ -683,44 +682,15 @@
           "date": "2026-07-31",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "2 muscle-ups",
-                "2 back squats",
-                "4 muscle-ups",
-                "4 back squats",
-                "6 muscle-ups",
-                "6 back squats",
-                "8 muscle-ups",
-                "8 back squats",
-                "6 muscle-ups",
-                "6 back squats",
-                "4 muscle-ups",
-                "4 back squats",
-                "2 muscle-ups",
-                "2 back squats",
-                "â 155 lb",
-                "â 225 lb",
-                "Post time to comments."
+                "Friday",
+                "260731",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260731"
-        },
-        {
-          "date": "2026-07-30",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "The Smart CrossFit Athlete's Guide To Training Through Soreness",
-                "Waking up sore after a hard workout is not a signal to skip the gym. It is a sign your body is adapting, and how you respond determines how fast you recover. Learn when to train through soreness, when to scale, and how to tell the difference between soreness and pain.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260730"
         },
         {
           "date": "2026-07-29",
@@ -728,14 +698,9 @@
             {
               "title": "Workout",
               "lines": [
-                "For 5 rounds, as many reps as possible in 3 minutes of:",
-                "15/20-calorie row",
-                "20 alternating dumbbell hang snatches",
-                "Max dumbbell-facing burpees",
-                "Rest 1 minute between rounds.",
-                "â 35-lb dumbbell",
-                "â 50-lb dumbbell",
-                "Post reps to comments."
+                "Wednesday",
+                "260729",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -747,19 +712,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Linda"
-              ]
-            },
-            {
-              "title": "10-9-8-7-6-5-4-3-2-1 reps for time of:",
-              "lines": [
-                "1 Â½-bodyweight deadlifts",
-                "Bodyweight bench press",
-                "Â¾-bodyweight squat cleans",
-                "Compare to",
-                "241118",
-                ".",
-                "Post time in comments."
+                "Tuesday",
+                "260728",
+                "Rewatch the Action â"
               ]
             }
           ],
@@ -797,28 +752,27 @@
           "date": "2026-07-24",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Friday",
-                "260724"
+                "1,000-meter row",
+                "Then,"
+              ]
+            },
+            {
+              "title": "5 rounds of:",
+              "lines": [
+                "25 pull-ups",
+                "7 push jerks",
+                "â 85 lb",
+                "â 135 lb",
+                "Compare to",
+                "230707",
+                ".",
+                "Post time to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260724"
-        },
-        {
-          "date": "2026-07-22",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Wednesday",
-                "260722",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260722"
         }
       ]
     }
