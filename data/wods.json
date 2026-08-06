@@ -1,11 +1,60 @@
 {
-  "last_updated": "2026-08-05T06:17:55.076046",
+  "last_updated": "2026-08-06T06:20:46.892660",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-08-06",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "samson stretch",
+                "hand walk",
+                "instep rotations",
+                "lying hip cross over"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "2-4-6-8....",
+                "burpees",
+                "hang high pulls",
+                "elbow rotations"
+              ]
+            },
+            {
+              "title": "power cleans 12min",
+              "lines": [
+                "on every 2:00 x 6 sets",
+                "2 squat jumps",
+                "2 power cleans",
+                "(build in weight)",
+                "explosive power"
+              ]
+            },
+            {
+              "title": "conditioning 15min",
+              "lines": [
+                "for time",
+                "25 burpees over the bar",
+                "25 power cleans",
+                "25 burpees over the bar",
+                "25 power cleans",
+                "25 burpees over the bar",
+                "barbell: 60/40kg",
+                "lactate threshold & aerobic power",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-08-06/"
+        },
         {
           "date": "2026-08-05",
           "sections": [
@@ -552,51 +601,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-07-24/"
-        },
-        {
-          "date": "2026-07-23",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "inverted hamstring stretch",
-                "calf stretch",
-                "lat stretch",
-                "lying hip cross over"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "20 single unders",
-                "10 staright leg sit ups",
-                "10 good mornings"
-              ]
-            },
-            {
-              "title": "deadlifts 15min",
-              "lines": [
-                "4-5 sets",
-                "5 deadlifts @75-77%"
-              ]
-            },
-            {
-              "title": "conditioning 15min",
-              "lines": [
-                "for time",
-                "4 rounds",
-                "20 toes to bar",
-                "75 double unders",
-                "40-30-20-10",
-                "alternating db snatches 22,5/15kg",
-                "aerobic power & muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-07-23/"
         }
       ]
     },
@@ -605,6 +609,19 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-08-06",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260806"
+        },
         {
           "date": "2026-08-05",
           "sections": [
@@ -652,17 +669,30 @@
           "date": "2026-08-03",
           "sections": [
             {
-              "title": "3 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "800-meter run",
-                "15 overhead squats",
-                "â 105 lb",
-                "â 155 lb",
-                "Post time to comments."
+                "Monday",
+                "260803",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260803"
+        },
+        {
+          "date": "2026-08-02",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "There's a Reason CrossFit Athletes Never Stop Doing Olympic Lifts",
+                "Many programs skip the Olympic lifts because they seem too technical, too risky, or too advanced for everyday athletes. That is exactly the wrong call. Here is what you are leaving on the table when you omit them.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260802"
         },
         {
           "date": "2026-08-01",
@@ -698,9 +728,14 @@
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260729",
-                "Learn the Movement â"
+                "For 5 rounds, as many reps as possible in 3 minutes of:",
+                "15/20-calorie row",
+                "20 alternating dumbbell hang snatches",
+                "Max dumbbell-facing burpees",
+                "Rest 1 minute between rounds.",
+                "â 35-lb dumbbell",
+                "â 50-lb dumbbell",
+                "Post reps to comments."
               ]
             }
           ],
@@ -712,9 +747,19 @@
             {
               "title": "Workout",
               "lines": [
-                "Tuesday",
-                "260728",
-                "Rewatch the Action â"
+                "Linda"
+              ]
+            },
+            {
+              "title": "10-9-8-7-6-5-4-3-2-1 reps for time of:",
+              "lines": [
+                "1 Â½-bodyweight deadlifts",
+                "Bodyweight bench press",
+                "Â¾-bodyweight squat cleans",
+                "Compare to",
+                "241118",
+                ".",
+                "Post time in comments."
               ]
             }
           ],
@@ -738,11 +783,16 @@
           "date": "2026-07-25",
           "sections": [
             {
-              "title": "Workout",
+              "title": "5 rounds for time of:",
               "lines": [
-                "Saturday",
-                "260725",
-                "Watch the Action â"
+                "5 deadlifts",
+                "10 burpees",
+                "â 185 lb",
+                "â 275 lb",
+                "Compare to",
+                "220724",
+                ".",
+                "Post time to comments."
               ]
             }
           ],
@@ -752,23 +802,10 @@
           "date": "2026-07-24",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "1,000-meter row",
-                "Then,"
-              ]
-            },
-            {
-              "title": "5 rounds of:",
-              "lines": [
-                "25 pull-ups",
-                "7 push jerks",
-                "â 85 lb",
-                "â 135 lb",
-                "Compare to",
-                "230707",
-                ".",
-                "Post time to comments."
+                "Friday",
+                "260724"
               ]
             }
           ],
