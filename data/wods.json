@@ -1,11 +1,51 @@
 {
-  "last_updated": "2026-08-06T06:20:46.892660",
+  "last_updated": "2026-08-07T05:27:00.652986",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-08-07",
+          "sections": [
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "40 on / 20 off x6 rounds",
+                "1. row",
+                "2. sumo squat stretch / scorpions",
+                "3. prone snow angels"
+              ]
+            },
+            {
+              "title": "push press 14min",
+              "lines": [
+                "4-5 sets",
+                "5 push press @77-80%"
+              ]
+            },
+            {
+              "title": "conditioning 10min",
+              "lines": [
+                "benchmark workout \"\"Karen\"\"",
+                "for time",
+                "150 wall balls 20/14lbs",
+                "muscular endurance"
+              ]
+            },
+            {
+              "title": "row conditioning 9min",
+              "lines": [
+                "for max cals row",
+                "30sec on/ 60sec off x 7 rounds",
+                "anaerobic capacity & lactate threshold",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-08-07/"
+        },
         {
           "date": "2026-08-06",
           "sections": [
@@ -573,34 +613,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-07-25/"
-        },
-        {
-          "date": "2026-07-24",
-          "sections": [
-            {
-              "title": "warm up 9min",
-              "lines": [
-                "emom 9min",
-                "1. sumo squat stretch/ hand walk / samson stretch",
-                "2. medball squats / - presses / - thrusters",
-                "3. row"
-              ]
-            },
-            {
-              "title": "conditioning 36min",
-              "lines": [
-                "on every 12:00 x 3 rounds",
-                "800/650m row",
-                "40 wall balls 20/14lbs",
-                "20 medball box step ups 60/50cm",
-                "10 burpees over rower",
-                "score: slowest round",
-                "aerobic power & muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-07-24/"
         }
       ]
     },
@@ -609,6 +621,38 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-08-07",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Community Cup Workout 1"
+              ]
+            },
+            {
+              "title": "For time:",
+              "lines": [
+                "1,000-meter row",
+                "Then,"
+              ]
+            },
+            {
+              "title": "5 rounds of:",
+              "lines": [
+                "25 pull-ups",
+                "7 shoulder-to-overheads",
+                "â 85-lb barbell",
+                "â 135-lb barbell",
+                "Compare to",
+                "200925",
+                ".",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260807"
+        },
         {
           "date": "2026-08-06",
           "sections": [
@@ -669,11 +713,13 @@
           "date": "2026-08-03",
           "sections": [
             {
-              "title": "Workout",
+              "title": "3 rounds for time of:",
               "lines": [
-                "Monday",
-                "260803",
-                "Learn the Movement â"
+                "800-meter run",
+                "15 overhead squats",
+                "â 105 lb",
+                "â 155 lb",
+                "Post time to comments."
               ]
             }
           ],
@@ -728,14 +774,9 @@
             {
               "title": "Workout",
               "lines": [
-                "For 5 rounds, as many reps as possible in 3 minutes of:",
-                "15/20-calorie row",
-                "20 alternating dumbbell hang snatches",
-                "Max dumbbell-facing burpees",
-                "Rest 1 minute between rounds.",
-                "â 35-lb dumbbell",
-                "â 50-lb dumbbell",
-                "Post reps to comments."
+                "Wednesday",
+                "260729",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -747,19 +788,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Linda"
-              ]
-            },
-            {
-              "title": "10-9-8-7-6-5-4-3-2-1 reps for time of:",
-              "lines": [
-                "1 Â½-bodyweight deadlifts",
-                "Bodyweight bench press",
-                "Â¾-bodyweight squat cleans",
-                "Compare to",
-                "241118",
-                ".",
-                "Post time in comments."
+                "Tuesday",
+                "260728",
+                "Rewatch the Action â"
               ]
             }
           ],
@@ -769,15 +800,33 @@
           "date": "2026-07-27",
           "sections": [
             {
-              "title": "Workout",
+              "title": "2 rounds, each for time of:",
               "lines": [
-                "Monday",
-                "260727",
-                "Rewatch the Action â"
+                "1,600-meter run",
+                "Check your time and rest exactly that amount of time before starting the second round.",
+                "Compare to similar",
+                "251222",
+                ".",
+                "Post times in comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260727"
+        },
+        {
+          "date": "2026-07-26",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "CrossFit Doesn't Change as You Age. Here's What Does.",
+                "Somewhere along the way, fitness culture decided that getting older means doing less. Fewer movements, lighter loads, lower expectations. CrossFit has never accepted that premise, and the evidence is on the gym floor every single day.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260726"
         },
         {
           "date": "2026-07-25",
@@ -797,19 +846,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260725"
-        },
-        {
-          "date": "2026-07-24",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Friday",
-                "260724"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260724"
         }
       ]
     }
