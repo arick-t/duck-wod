@@ -1,11 +1,48 @@
 {
-  "last_updated": "2026-08-07T05:27:00.652986",
+  "last_updated": "2026-08-08T04:45:14.543102",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-08-08",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "instep rotation",
+                "calf stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "amrap 5min",
+                "6 straight leg sit ups",
+                "6 db deadlifts",
+                "*partner is running 100m"
+              ]
+            },
+            {
+              "title": "conditioning 30min",
+              "lines": [
+                "in teams of 2",
+                "amrap 6min x 5 rounds",
+                "30 toes to bar",
+                "10 synchro burpees",
+                "400m partner run",
+                "max synchro db hang snatches 22,5/15kg",
+                "score: total synchro db snatches",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-08-08/"
+        },
         {
           "date": "2026-08-07",
           "sections": [
@@ -576,43 +613,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-07-26/"
-        },
-        {
-          "date": "2026-07-25",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "calf stretch",
-                "lying hip cross over",
-                "lat stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "amrap 5min",
-                "10 good mornings",
-                "10 ring rows",
-                "*partner is skiing"
-              ]
-            },
-            {
-              "title": "conditioning 36min",
-              "lines": [
-                "in teams of 2",
-                "amrap 36min",
-                "(I go, you go)",
-                "6 strict pull ups",
-                "9 deadlifts 80/60kg",
-                "12 box jumps 60/50cm",
-                "15/12cal ski",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-07-25/"
         }
       ]
     },
@@ -621,6 +621,22 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-08-08",
+          "sections": [
+            {
+              "title": "5 rounds for time of:",
+              "lines": [
+                "30 medicine-ball cleans",
+                "20 ring dips",
+                "â 14-lb medicine ball",
+                "â 20-lb medicine ball",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260808"
+        },
         {
           "date": "2026-08-07",
           "sections": [
@@ -654,19 +670,6 @@
           "url": "https://www.crossfit.com/260807"
         },
         {
-          "date": "2026-08-06",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260806"
-        },
-        {
           "date": "2026-08-05",
           "sections": [
             {
@@ -686,24 +689,11 @@
           "date": "2026-08-04",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "50 double-unders",
-                "50 AbMat sit-ups",
-                "5 strict muscle-ups",
-                "40 double-unders",
-                "40 AbMat sit-ups",
-                "4 strict muscle-ups",
-                "30 double-unders",
-                "30 AbMat sit-ups",
-                "3 strict muscle-ups",
-                "20 double-unders",
-                "20 AbMat sit-ups",
-                "2 strict muscle-ups",
-                "10 double-unders",
-                "10 AbMat sit-ups",
-                "1 strict muscle-up",
-                "Post time to comments."
+                "Tuesday",
+                "260804",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -724,21 +714,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260803"
-        },
-        {
-          "date": "2026-08-02",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "There's a Reason CrossFit Athletes Never Stop Doing Olympic Lifts",
-                "Many programs skip the Olympic lifts because they seem too technical, too risky, or too advanced for everyday athletes. That is exactly the wrong call. Here is what you are leaving on the table when you omit them.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260802"
         },
         {
           "date": "2026-08-01",
@@ -800,52 +775,15 @@
           "date": "2026-07-27",
           "sections": [
             {
-              "title": "2 rounds, each for time of:",
+              "title": "Workout",
               "lines": [
-                "1,600-meter run",
-                "Check your time and rest exactly that amount of time before starting the second round.",
-                "Compare to similar",
-                "251222",
-                ".",
-                "Post times in comments."
+                "Monday",
+                "260727",
+                "Rewatch the Action â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260727"
-        },
-        {
-          "date": "2026-07-26",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "CrossFit Doesn't Change as You Age. Here's What Does.",
-                "Somewhere along the way, fitness culture decided that getting older means doing less. Fewer movements, lighter loads, lower expectations. CrossFit has never accepted that premise, and the evidence is on the gym floor every single day.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260726"
-        },
-        {
-          "date": "2026-07-25",
-          "sections": [
-            {
-              "title": "5 rounds for time of:",
-              "lines": [
-                "5 deadlifts",
-                "10 burpees",
-                "â 185 lb",
-                "â 275 lb",
-                "Compare to",
-                "220724",
-                ".",
-                "Post time to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260725"
         }
       ]
     }
