@@ -1,11 +1,58 @@
 {
-  "last_updated": "2026-08-08T04:45:14.543102",
+  "last_updated": "2026-08-09T04:54:12.985256",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-08-09",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "lat stretch",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "30sec on / 15sec off x2 rounds",
+                "1. scap. push ups",
+                "2. row",
+                "3. kb deadlifts",
+                "4. box step ups"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "emom 35min (7 rounds)",
+                "1. 4-6 wall walks",
+                "2. 10-15cal row",
+                "3. 15-20 russian kb swings",
+                "4. 15-20 box jumps",
+                "5. rest",
+                "Sunday Endurance for Open Gym",
+                "5 rounds for time",
+                "200m ski",
+                "– rest :30 between rounds",
+                "4 rounds for time",
+                "400m ski",
+                "– rest 1:00 between rounds",
+                "3 rounds for time",
+                "600m ski",
+                "– rest 1:30 between rounds",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-08-09/"
+        },
         {
           "date": "2026-08-08",
           "sections": [
@@ -571,48 +618,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-07-27/"
-        },
-        {
-          "date": "2026-07-26",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "instep rotations",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "30sec on / 15sec off x2 rounds",
-                "1. air squats",
-                "2. row",
-                "3. straight leg sit ups",
-                "4. plank shoulder taps"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "emom 35min (7 rounds)",
-                "1. 30-50sec wall sit",
-                "2. 10-15cal row",
-                "3. 8-10 strict toes to bar",
-                "4. 12-16 kb gorilla rows",
-                "5. rest",
-                "Sunday Endurance for Open Gym",
-                "on the 3:00 x 6 rounds:",
-                "15/12 cal row [rpe 7-8]",
-                "15/12 cal bike or ski [rpe 4-5]",
-                "aerobic power [lactate threshold]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-07-26/"
         }
       ]
     },
@@ -621,6 +626,25 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-08-09",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day"
+              ]
+            },
+            {
+              "title": "From the Vault: Know Your Numbers",
+              "lines": [
+                "\"My Fran time? I know it was under 12 minutes with somewhere between 45 and 95 lb. Does that help?\" Sound familiar? If you can't remember your last Helen time or your deadlift PR, you're leaving results on the table. Top coaches reveal why tracking your numbers, not just showing up and working hard, is the real key to faster progress and hitting your goals.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260809"
+        },
         {
           "date": "2026-08-08",
           "sections": [
@@ -670,6 +694,19 @@
           "url": "https://www.crossfit.com/260807"
         },
         {
+          "date": "2026-08-06",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260806"
+        },
+        {
           "date": "2026-08-05",
           "sections": [
             {
@@ -689,11 +726,24 @@
           "date": "2026-08-04",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Tuesday",
-                "260804",
-                "Learn the Movement â"
+                "50 double-unders",
+                "50 AbMat sit-ups",
+                "5 strict muscle-ups",
+                "40 double-unders",
+                "40 AbMat sit-ups",
+                "4 strict muscle-ups",
+                "30 double-unders",
+                "30 AbMat sit-ups",
+                "3 strict muscle-ups",
+                "20 double-unders",
+                "20 AbMat sit-ups",
+                "2 strict muscle-ups",
+                "10 double-unders",
+                "10 AbMat sit-ups",
+                "1 strict muscle-up",
+                "Post time to comments."
               ]
             }
           ],
