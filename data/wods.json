@@ -1,11 +1,40 @@
 {
-  "last_updated": "2026-08-09T04:54:12.985256",
+  "last_updated": "2026-08-10T05:14:53.686227",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-08-10",
+          "sections": [
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "line drills"
+              ]
+            },
+            {
+              "title": "skill 8min",
+              "lines": [
+                "rope climb"
+              ]
+            },
+            {
+              "title": "conditioning 32min",
+              "lines": [
+                "10 rounds",
+                "20 air squats",
+                "200m run",
+                "2/1 rope climbs",
+                "aerobic capacity & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-08-10/"
+        },
         {
           "date": "2026-08-09",
           "sections": [
@@ -578,46 +607,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-07-28/"
-        },
-        {
-          "date": "2026-07-27",
-          "sections": [
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "line drills"
-              ]
-            },
-            {
-              "title": "push press 15min",
-              "lines": [
-                "4-5 sets",
-                "5 push presses @77-80%"
-              ]
-            },
-            {
-              "title": "conditioning 12min",
-              "lines": [
-                "for time",
-                "16-12-8-4",
-                "push presses",
-                "front rack reverse lunges",
-                "burpees over bar",
-                "barbell: 60/40kg",
-                "aerobic power & muscular endurance"
-              ]
-            },
-            {
-              "title": "stability 5min",
-              "lines": [
-                "20sec on / 20sec off x 8 rounds",
-                "overhead lunge hold @empty bar",
-                "(alternate legs)",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-07-27/"
         }
       ]
     },
@@ -626,6 +615,25 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-08-10",
+          "sections": [
+            {
+              "title": "5 rounds, each for time, of:",
+              "lines": [
+                "15 box jump-overs",
+                "12 dumbbell deadlifts",
+                "9 dumbbell hang power cleans",
+                "6 dumbbell shoulder-to-overheads",
+                "Rest exactly 2 minutes between rounds.",
+                "â 35-lb dumbbells and a 20-inch box",
+                "â 50-lb dumbbells and a 24-inch box",
+                "Post time for each round to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260810"
+        },
         {
           "date": "2026-08-09",
           "sections": [
@@ -649,13 +657,11 @@
           "date": "2026-08-08",
           "sections": [
             {
-              "title": "5 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "30 medicine-ball cleans",
-                "20 ring dips",
-                "â 14-lb medicine ball",
-                "â 20-lb medicine ball",
-                "Post time to comments."
+                "Saturday",
+                "260808",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -766,6 +772,21 @@
           "url": "https://www.crossfit.com/260803"
         },
         {
+          "date": "2026-08-02",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "There's a Reason CrossFit Athletes Never Stop Doing Olympic Lifts",
+                "Many programs skip the Olympic lifts because they seem too technical, too risky, or too advanced for everyday athletes. That is exactly the wrong call. Here is what you are leaving on the table when you omit them.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260802"
+        },
+        {
           "date": "2026-08-01",
           "sections": [
             {
@@ -820,20 +841,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260728"
-        },
-        {
-          "date": "2026-07-27",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Monday",
-                "260727",
-                "Rewatch the Action â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260727"
         }
       ]
     }
