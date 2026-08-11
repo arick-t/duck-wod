@@ -1,11 +1,54 @@
 {
-  "last_updated": "2026-08-10T05:14:53.686227",
+  "last_updated": "2026-08-11T04:57:06.489449",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-08-11",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "scorpions",
+                "crab stretch",
+                "lying hip cross over"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 scap. push ups",
+                "20sec plank hold",
+                "10 db deadlifts"
+              ]
+            },
+            {
+              "title": "push press 14min",
+              "lines": [
+                "4-5 sets",
+                "5 push press @80-83%"
+              ]
+            },
+            {
+              "title": "conditioning 16min",
+              "lines": [
+                "amrap 16min",
+                "24 sit ups",
+                "16 db hang snatches 25/17,5kg",
+                "8 ring dips",
+                "muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-08-11/"
+        },
         {
           "date": "2026-08-10",
           "sections": [
@@ -555,58 +598,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-07-29/"
-        },
-        {
-          "date": "2026-07-28",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "calf stretch",
-                "samson stretch",
-                "lat stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "30sec on / 15sec off x 6 rounds",
-                "1. db deadlifts / db snatches (single arm)",
-                "2. single unders / double unders",
-                "3. hollow hold / straight leg sit ups"
-              ]
-            },
-            {
-              "title": "conditioning 20min",
-              "lines": [
-                "amrap 10min",
-                "10 toes to bar",
-                "10 double db hang power snatches",
-                "30 double unders",
-                "2min rest",
-                "amrap 8min",
-                "8 toes to bar",
-                "8 double db hang power snatches",
-                "24 double unders",
-                "dumbbells: 2x15/10kg",
-                "score: total reps",
-                "aerobic capacity & muscular endurance"
-              ]
-            },
-            {
-              "title": "core & upper body stability 9min",
-              "lines": [
-                "30sec on /30sec off x 9 rounds",
-                "1. db plank rows",
-                "2. db russian twists",
-                "3. db hammer curls",
-                "(for quality)",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-07-28/"
         }
       ]
     },
@@ -615,6 +606,22 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-08-11",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "5,000-meter row",
+                "Compare to",
+                "250923",
+                ".",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260811"
+        },
         {
           "date": "2026-08-10",
           "sections": [
@@ -657,11 +664,13 @@
           "date": "2026-08-08",
           "sections": [
             {
-              "title": "Workout",
+              "title": "5 rounds for time of:",
               "lines": [
-                "Saturday",
-                "260808",
-                "Learn the Movement â"
+                "30 medicine-ball cleans",
+                "20 ring dips",
+                "â 14-lb medicine ball",
+                "â 20-lb medicine ball",
+                "Post time to comments."
               ]
             }
           ],
@@ -700,29 +709,14 @@
           "url": "https://www.crossfit.com/260807"
         },
         {
-          "date": "2026-08-06",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260806"
-        },
-        {
           "date": "2026-08-05",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Power clean 3-3-3-3-3 reps",
-                "Compare to",
-                "260717",
-                ".",
-                "Post loads to comments."
+                "Wednesday",
+                "260805",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -732,24 +726,11 @@
           "date": "2026-08-04",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "50 double-unders",
-                "50 AbMat sit-ups",
-                "5 strict muscle-ups",
-                "40 double-unders",
-                "40 AbMat sit-ups",
-                "4 strict muscle-ups",
-                "30 double-unders",
-                "30 AbMat sit-ups",
-                "3 strict muscle-ups",
-                "20 double-unders",
-                "20 AbMat sit-ups",
-                "2 strict muscle-ups",
-                "10 double-unders",
-                "10 AbMat sit-ups",
-                "1 strict muscle-up",
-                "Post time to comments."
+                "Tuesday",
+                "260804",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -759,32 +740,15 @@
           "date": "2026-08-03",
           "sections": [
             {
-              "title": "3 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "800-meter run",
-                "15 overhead squats",
-                "â 105 lb",
-                "â 155 lb",
-                "Post time to comments."
+                "Monday",
+                "260803",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260803"
-        },
-        {
-          "date": "2026-08-02",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "There's a Reason CrossFit Athletes Never Stop Doing Olympic Lifts",
-                "Many programs skip the Olympic lifts because they seem too technical, too risky, or too advanced for everyday athletes. That is exactly the wrong call. Here is what you are leaving on the table when you omit them.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260802"
         },
         {
           "date": "2026-08-01",
@@ -804,11 +768,25 @@
           "date": "2026-07-31",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Friday",
-                "260731",
-                "Learn the Movement â"
+                "2 muscle-ups",
+                "2 back squats",
+                "4 muscle-ups",
+                "4 back squats",
+                "6 muscle-ups",
+                "6 back squats",
+                "8 muscle-ups",
+                "8 back squats",
+                "6 muscle-ups",
+                "6 back squats",
+                "4 muscle-ups",
+                "4 back squats",
+                "2 muscle-ups",
+                "2 back squats",
+                "â 155 lb",
+                "â 225 lb",
+                "Post time to comments."
               ]
             }
           ],
@@ -827,20 +805,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260729"
-        },
-        {
-          "date": "2026-07-28",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Tuesday",
-                "260728",
-                "Rewatch the Action â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260728"
         }
       ]
     }
