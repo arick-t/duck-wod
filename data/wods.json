@@ -1,11 +1,55 @@
 {
-  "last_updated": "2026-08-11T04:57:06.489449",
+  "last_updated": "2026-08-12T05:22:34.023491",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-08-12",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "instep rotation",
+                "calf stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "100m run",
+                "10 squat jumps",
+                "10 box step ups",
+                "*remaining time row"
+              ]
+            },
+            {
+              "title": "bent over row 12min",
+              "lines": [
+                "4 sets of",
+                "10 barbell bent over rows"
+              ]
+            },
+            {
+              "title": "conditioning 16min",
+              "lines": [
+                "for time",
+                "1000/900m row",
+                "80 box jumps 60/50cm",
+                "600m d-ball run 20/15kg",
+                "40 d-ball box step ups",
+                "aerobic power",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-08-12/"
+        },
         {
           "date": "2026-08-11",
           "sections": [
@@ -553,51 +597,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-07-30/"
-        },
-        {
-          "date": "2026-07-29",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "sumo squat stretch",
-                "instep rotations",
-                "lat stretch",
-                "thoracic rotations"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10/8cal row",
-                "10 reverse lunges",
-                "20sec deep squat hold"
-              ]
-            },
-            {
-              "title": "front squats 15min",
-              "lines": [
-                "4-5 sets",
-                "5 front squats @77-80%"
-              ]
-            },
-            {
-              "title": "conditioning 16min",
-              "lines": [
-                "on the 8:00 x 2 rounds",
-                "(each for time)",
-                "21-15-9",
-                "cal row (women: 18-12-6)",
-                "front squats 40/30kg",
-                "score: total time (both rounds)",
-                "lactate threshold",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-07-29/"
         }
       ]
     },
@@ -606,6 +605,28 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-08-12",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "200-foot single-dumbbell walking lunge",
+                "20 deficit strict handstand push-ups",
+                "150-foot single-dumbbell walking lunge",
+                "15 deficit strict handstand push-ups",
+                "100-foot single-dumbbell walking lunge",
+                "10 deficit strict handstand push-ups",
+                "50-foot single-dumbbell walking lunge",
+                "5 deficit strict handstand push-ups",
+                "â 35-lb dumbbell and 2-inch deficit",
+                "â 50-lb dumbbell and a 4-inch deficit",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260812"
+        },
         {
           "date": "2026-08-11",
           "sections": [
@@ -626,16 +647,11 @@
           "date": "2026-08-10",
           "sections": [
             {
-              "title": "5 rounds, each for time, of:",
+              "title": "Workout",
               "lines": [
-                "15 box jump-overs",
-                "12 dumbbell deadlifts",
-                "9 dumbbell hang power cleans",
-                "6 dumbbell shoulder-to-overheads",
-                "Rest exactly 2 minutes between rounds.",
-                "â 35-lb dumbbells and a 20-inch box",
-                "â 50-lb dumbbells and a 24-inch box",
-                "Post time for each round to comments."
+                "Monday",
+                "260810",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -709,14 +725,29 @@
           "url": "https://www.crossfit.com/260807"
         },
         {
+          "date": "2026-08-06",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260806"
+        },
+        {
           "date": "2026-08-05",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260805",
-                "Learn the Movement â"
+                "Power clean 3-3-3-3-3 reps",
+                "Compare to",
+                "260717",
+                ".",
+                "Post loads to comments."
               ]
             }
           ],
@@ -726,11 +757,24 @@
           "date": "2026-08-04",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Tuesday",
-                "260804",
-                "Learn the Movement â"
+                "50 double-unders",
+                "50 AbMat sit-ups",
+                "5 strict muscle-ups",
+                "40 double-unders",
+                "40 AbMat sit-ups",
+                "4 strict muscle-ups",
+                "30 double-unders",
+                "30 AbMat sit-ups",
+                "3 strict muscle-ups",
+                "20 double-unders",
+                "20 AbMat sit-ups",
+                "2 strict muscle-ups",
+                "10 double-unders",
+                "10 AbMat sit-ups",
+                "1 strict muscle-up",
+                "Post time to comments."
               ]
             }
           ],
@@ -768,43 +812,15 @@
           "date": "2026-07-31",
           "sections": [
             {
-              "title": "For time:",
-              "lines": [
-                "2 muscle-ups",
-                "2 back squats",
-                "4 muscle-ups",
-                "4 back squats",
-                "6 muscle-ups",
-                "6 back squats",
-                "8 muscle-ups",
-                "8 back squats",
-                "6 muscle-ups",
-                "6 back squats",
-                "4 muscle-ups",
-                "4 back squats",
-                "2 muscle-ups",
-                "2 back squats",
-                "â 155 lb",
-                "â 225 lb",
-                "Post time to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260731"
-        },
-        {
-          "date": "2026-07-29",
-          "sections": [
-            {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260729",
+                "Friday",
+                "260731",
                 "Learn the Movement â"
               ]
             }
           ],
-          "url": "https://www.crossfit.com/260729"
+          "url": "https://www.crossfit.com/260731"
         }
       ]
     }
