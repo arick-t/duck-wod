@@ -1,11 +1,55 @@
 {
-  "last_updated": "2026-08-12T05:22:34.023491",
+  "last_updated": "2026-08-13T05:26:20.885655",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-08-13",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "sumo squat stretch",
+                "instep rotation",
+                "lat stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 reverse lunges",
+                "20sec deep squat hold",
+                "10 straight leg sit ups",
+                "*remaining time bike/ski"
+              ]
+            },
+            {
+              "title": "front squats 15min",
+              "lines": [
+                "4-5 sets",
+                "5 front squats @80-83%"
+              ]
+            },
+            {
+              "title": "conditioning 16min",
+              "lines": [
+                "4 rounds",
+                "21 toes to bar",
+                "15/12cal bike/ski",
+                "9 front squats 60/40kg",
+                "rx+: 70/50kg",
+                "aerobic power & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-08-13/"
+        },
         {
           "date": "2026-08-12",
           "sections": [
@@ -553,50 +597,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-07-31/"
-        },
-        {
-          "date": "2026-07-30",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "calf stretch",
-                "instep rotation",
-                "lat stretch on box"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 squat jumps",
-                "5 burpees",
-                "10 ring rows",
-                "*remaining time bike/ski"
-              ]
-            },
-            {
-              "title": "bent over row 12min",
-              "lines": [
-                "4 sets of",
-                "8 barbell bent over rows"
-              ]
-            },
-            {
-              "title": "condition 17min",
-              "lines": [
-                "for time",
-                "6 rounds",
-                "9 burpee pull ups",
-                "12/10cal bike/ski",
-                "15 box jumps 60/50cm",
-                "aerobic power & muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-07-30/"
         }
       ]
     },
@@ -605,6 +605,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-08-13",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Setting the Record Straight on CrossFit, Part 1: Why âOur Specialty Is Not Specializingâ",
+                "A well-known strength coach recently posted a list of things he doesn't love about CrossFit and got more than a few of them wrong. In Part 1 of this two-part response, we set the record straight on his claims about endurance athletes, work capacity, isolation exercises, and mixed-modality training, and explain why \"our specialty is not specializing\" isn't just a slogan; it's the whole point.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260813"
+        },
         {
           "date": "2026-08-12",
           "sections": [
@@ -647,11 +662,16 @@
           "date": "2026-08-10",
           "sections": [
             {
-              "title": "Workout",
+              "title": "5 rounds, each for time, of:",
               "lines": [
-                "Monday",
-                "260810",
-                "Learn the Movement â"
+                "15 box jump-overs",
+                "12 dumbbell deadlifts",
+                "9 dumbbell hang power cleans",
+                "6 dumbbell shoulder-to-overheads",
+                "Rest exactly 2 minutes between rounds.",
+                "â 35-lb dumbbells and a 20-inch box",
+                "â 50-lb dumbbells and a 24-inch box",
+                "Post time for each round to comments."
               ]
             }
           ],
@@ -743,11 +763,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Power clean 3-3-3-3-3 reps",
-                "Compare to",
-                "260717",
-                ".",
-                "Post loads to comments."
+                "Wednesday",
+                "260805",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -757,24 +775,11 @@
           "date": "2026-08-04",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "50 double-unders",
-                "50 AbMat sit-ups",
-                "5 strict muscle-ups",
-                "40 double-unders",
-                "40 AbMat sit-ups",
-                "4 strict muscle-ups",
-                "30 double-unders",
-                "30 AbMat sit-ups",
-                "3 strict muscle-ups",
-                "20 double-unders",
-                "20 AbMat sit-ups",
-                "2 strict muscle-ups",
-                "10 double-unders",
-                "10 AbMat sit-ups",
-                "1 strict muscle-up",
-                "Post time to comments."
+                "Tuesday",
+                "260804",
+                "Learn the Movement â"
               ]
             }
           ],
