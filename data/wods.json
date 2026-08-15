@@ -1,11 +1,49 @@
 {
-  "last_updated": "2026-08-14T05:23:26.276846",
+  "last_updated": "2026-08-15T04:18:38.021862",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-08-15",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "scorpions",
+                "lat stretch",
+                "calf stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "amrap 5min",
+                "8 scap. push ups",
+                "8 ring rows",
+                "*partner is holding plank"
+              ]
+            },
+            {
+              "title": "conditioning 30min",
+              "lines": [
+                "in teams of 2",
+                "for time",
+                "3 rounds",
+                "50 pull ups",
+                "40 v-ups",
+                "30 push ups (each)",
+                "20 synchro goblet squats 32/24kg",
+                "100m suitcase carry",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-08-15/"
+        },
         {
           "date": "2026-08-14",
           "sections": [
@@ -554,49 +592,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-08-02/"
-        },
-        {
-          "date": "2026-08-01",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "instep rotation",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "amrap 5min",
-                "10 push ups to down dog",
-                "10 straight leg sit ups",
-                "*partner is biking"
-              ]
-            },
-            {
-              "title": "conditioning 30min",
-              "lines": [
-                "in teams of 2",
-                "for time",
-                "3 rounds",
-                "8 wall walks",
-                "20/18/16cal bike",
-                "into",
-                "3 rounds",
-                "50 sit ups",
-                "20/18/16cal bike",
-                "into",
-                "3 rounds",
-                "8 wall walks",
-                "50 sit ups",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-08-01/"
         }
       ]
     },
@@ -605,6 +600,33 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-08-15",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "LGOP (Little Groups of Paratroopers)"
+              ]
+            },
+            {
+              "title": "In teams of 2-4, 2 rounds for time of:",
+              "lines": [
+                "1,940-meter run (together)",
+                "250 air squats (split reps)",
+                "48 burpees (split reps)",
+                "509-meter run with one plate (together, share the plate)",
+                "101 push presses (split reps)",
+                "11 pull-ups (each athlete)",
+                "82 power cleans (split reps)",
+                "â 75-lb barbell and a 35-lb plate",
+                "â 115-lb barbell and a 45-lb plate",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260815"
+        },
         {
           "date": "2026-08-14",
           "sections": [
@@ -666,13 +688,11 @@
           "date": "2026-08-11",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "5,000-meter row",
-                "Compare to",
-                "250923",
-                ".",
-                "Post time to comments."
+                "Tuesday",
+                "260811",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -682,16 +702,11 @@
           "date": "2026-08-10",
           "sections": [
             {
-              "title": "5 rounds, each for time, of:",
+              "title": "Workout",
               "lines": [
-                "15 box jump-overs",
-                "12 dumbbell deadlifts",
-                "9 dumbbell hang power cleans",
-                "6 dumbbell shoulder-to-overheads",
-                "Rest exactly 2 minutes between rounds.",
-                "â 35-lb dumbbells and a 20-inch box",
-                "â 50-lb dumbbells and a 24-inch box",
-                "Post time for each round to comments."
+                "Monday",
+                "260810",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -738,44 +753,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Community Cup Workout 1"
-              ]
-            },
-            {
-              "title": "For time:",
-              "lines": [
-                "1,000-meter row",
-                "Then,"
-              ]
-            },
-            {
-              "title": "5 rounds of:",
-              "lines": [
-                "25 pull-ups",
-                "7 shoulder-to-overheads",
-                "â 85-lb barbell",
-                "â 135-lb barbell",
-                "Compare to",
-                "200925",
-                ".",
-                "Post time to comments."
+                "Friday",
+                "260807",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260807"
-        },
-        {
-          "date": "2026-08-06",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260806"
         },
         {
           "date": "2026-08-05",
@@ -783,11 +767,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Power clean 3-3-3-3-3 reps",
-                "Compare to",
-                "260717",
-                ".",
-                "Post loads to comments."
+                "Wednesday",
+                "260805",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -820,23 +802,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260803"
-        },
-        {
-          "date": "2026-08-01",
-          "sections": [
-            {
-              "title": "5 rounds for time of:",
-              "lines": [
-                "10 dumbbell hang power cleans",
-                "10 dumbbell push presses",
-                "200-meter dumbbell farmers carry",
-                "â 35-lb dumbbells",
-                "â 50-lb dumbbells",
-                "Post time to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260801"
         }
       ]
     }
