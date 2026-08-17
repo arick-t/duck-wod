@@ -1,11 +1,61 @@
 {
-  "last_updated": "2026-08-16T04:24:27.250152",
+  "last_updated": "2026-08-17T04:30:30.572215",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-08-17",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "samson stretch",
+                "hand walk",
+                "instep rotations",
+                "lying hip cross over"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "2-4-6-8....",
+                "clean deadlifts",
+                "elbow rotations",
+                "push press"
+              ]
+            },
+            {
+              "title": "clean and jerk 10min",
+              "lines": [
+                "on every 2:00 x 5 sets",
+                "1 power clean",
+                "1 paused push jerk",
+                "(build in weight)",
+                "explosive power"
+              ]
+            },
+            {
+              "title": "conditioning 16min",
+              "lines": [
+                "for time",
+                "2 rounds",
+                "500/450m row",
+                "15 push jerks 60/40kg",
+                "into",
+                "2 rounds",
+                "500/450m row",
+                "15 power cleans 60/40kg",
+                "aerobic power & barbell cycling",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-08-17/"
+        },
         {
           "date": "2026-08-16",
           "sections": [
@@ -543,51 +593,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-08-04/"
-        },
-        {
-          "date": "2026-08-03",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "calf stretch",
-                "sumo squat stretch",
-                "thoracic rotations"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 reverse lunges",
-                "20sec deep squat hold",
-                "10 push ups to down dog",
-                "*remaining time double under"
-              ]
-            },
-            {
-              "title": "front squats 15min",
-              "lines": [
-                "4-5 sets",
-                "5 front squats @77-80%"
-              ]
-            },
-            {
-              "title": "conditioning 17min",
-              "lines": [
-                "for time",
-                "7 rounds",
-                "10 double db front squats",
-                "10 db push ups",
-                "40 double unders",
-                "dumbbells: 2x22,5/15kg",
-                "muscular endurance & aerobic capacity",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-08-03/"
         }
       ]
     },
@@ -596,6 +601,23 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-08-17",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "50 pull-ups",
+                "50 hang squat cleans",
+                "50-calorie row",
+                "â 65-lb barbell",
+                "â 95-lb barbell",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260817"
+        },
         {
           "date": "2026-08-16",
           "sections": [
@@ -699,11 +721,13 @@
           "date": "2026-08-11",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Tuesday",
-                "260811",
-                "Learn the Movement â"
+                "5,000-meter row",
+                "Compare to",
+                "250923",
+                ".",
+                "Post time to comments."
               ]
             }
           ],
@@ -713,25 +737,51 @@
           "date": "2026-08-10",
           "sections": [
             {
-              "title": "Workout",
+              "title": "5 rounds, each for time, of:",
               "lines": [
-                "Monday",
-                "260810",
-                "Learn the Movement â"
+                "15 box jump-overs",
+                "12 dumbbell deadlifts",
+                "9 dumbbell hang power cleans",
+                "6 dumbbell shoulder-to-overheads",
+                "Rest exactly 2 minutes between rounds.",
+                "â 35-lb dumbbells and a 20-inch box",
+                "â 50-lb dumbbells and a 24-inch box",
+                "Post time for each round to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260810"
         },
         {
-          "date": "2026-08-08",
+          "date": "2026-08-09",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260808",
-                "Learn the Movement â"
+                "Rest Day"
+              ]
+            },
+            {
+              "title": "From the Vault: Know Your Numbers",
+              "lines": [
+                "\"My Fran time? I know it was under 12 minutes with somewhere between 45 and 95 lb. Does that help?\" Sound familiar? If you can't remember your last Helen time or your deadlift PR, you're leaving results on the table. Top coaches reveal why tracking your numbers, not just showing up and working hard, is the real key to faster progress and hitting your goals.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260809"
+        },
+        {
+          "date": "2026-08-08",
+          "sections": [
+            {
+              "title": "5 rounds for time of:",
+              "lines": [
+                "30 medicine-ball cleans",
+                "20 ring dips",
+                "â 14-lb medicine ball",
+                "â 20-lb medicine ball",
+                "Post time to comments."
               ]
             }
           ],
@@ -743,9 +793,27 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260807",
-                "Learn the Movement â"
+                "Community Cup Workout 1"
+              ]
+            },
+            {
+              "title": "For time:",
+              "lines": [
+                "1,000-meter row",
+                "Then,"
+              ]
+            },
+            {
+              "title": "5 rounds of:",
+              "lines": [
+                "25 pull-ups",
+                "7 shoulder-to-overheads",
+                "â 85-lb barbell",
+                "â 135-lb barbell",
+                "Compare to",
+                "200925",
+                ".",
+                "Post time to comments."
               ]
             }
           ],
@@ -806,22 +874,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260804"
-        },
-        {
-          "date": "2026-08-03",
-          "sections": [
-            {
-              "title": "3 rounds for time of:",
-              "lines": [
-                "800-meter run",
-                "15 overhead squats",
-                "â 105 lb",
-                "â 155 lb",
-                "Post time to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260803"
         }
       ]
     }
