@@ -1,11 +1,58 @@
 {
-  "last_updated": "2026-08-17T04:30:30.572215",
+  "last_updated": "2026-08-18T04:23:56.912921",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-08-18",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "seated pike stretch",
+                "lat stretch on box",
+                "calf stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 burpees",
+                "10 squat jumps",
+                "10 straight leg sit ups",
+                "*remaining time bike/ski"
+              ]
+            },
+            {
+              "title": "conditioning 22min",
+              "lines": [
+                "amrap 4min x 4 rounds",
+                "20 toes to bar",
+                "15 burpee box jumps",
+                "max cal bike/ski",
+                "2min rest between amraps",
+                "score: total cals",
+                "muscular endurance & aerobic power"
+              ]
+            },
+            {
+              "title": "shoulder stability 8min",
+              "lines": [
+                "30sec on / 20sec off",
+                "1. rotating plank",
+                "2. scap. pull up hold",
+                "3. handstand shoulder taps",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-08-18/"
+        },
         {
           "date": "2026-08-17",
           "sections": [
@@ -548,51 +595,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-08-05/"
-        },
-        {
-          "date": "2026-08-04",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "inverted hamstring stretch",
-                "lat stretch",
-                "90/90 hip rotation",
-                "lying hip cross over"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 ring rows",
-                "20sec plank hold",
-                "10 good mornings"
-              ]
-            },
-            {
-              "title": "deadlifts 15min",
-              "lines": [
-                "4-5 sets",
-                "5 deadlifts @77-80%"
-              ]
-            },
-            {
-              "title": "conditioning 15min",
-              "lines": [
-                "amrap 4min x 3 rounds",
-                "10 deadlifts 90/65kg",
-                "15 pull ups",
-                "20 sit ups",
-                "1min rest between amraps",
-                "*pick up where you left off",
-                "lactate threshold & muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-08-04/"
         }
       ]
     },
@@ -601,6 +603,22 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-08-18",
+          "sections": [
+            {
+              "title": "21-18-15-12-9 reps for time of:",
+              "lines": [
+                "Dumbbell bench presses",
+                "Hand-release push-ups",
+                "â 35-lb dumbbells",
+                "â 50-lb dumbbells",
+                "Post your time to the comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260818"
+        },
         {
           "date": "2026-08-17",
           "sections": [
@@ -639,22 +657,9 @@
             {
               "title": "Workout",
               "lines": [
-                "LGOP (Little Groups of Paratroopers)"
-              ]
-            },
-            {
-              "title": "In teams of 2-4, 2 rounds for time of:",
-              "lines": [
-                "1,940-meter run (together)",
-                "250 air squats (split reps)",
-                "48 burpees (split reps)",
-                "509-meter run with one plate (together, share the plate)",
-                "101 push presses (split reps)",
-                "11 pull-ups (each athlete)",
-                "82 power cleans (split reps)",
-                "â 75-lb barbell and a 35-lb plate",
-                "â 115-lb barbell and a 45-lb plate",
-                "Post time to comments."
+                "Saturday",
+                "260815",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -666,52 +671,23 @@
             {
               "title": "Workout",
               "lines": [
-                "Community Cup Workout 2",
-                "The CrossFit Total",
-                "1-rep-max back squat",
-                "1-rep-max press",
-                "1-rep-max deadlift",
-                "Compare to",
-                "220810",
-                ".",
-                "Post loads to comments."
+                "Friday",
+                "260814",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260814"
         },
         {
-          "date": "2026-08-13",
+          "date": "2026-08-12",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "Setting the Record Straight on CrossFit, Part 1: Why âOur Specialty Is Not Specializingâ",
-                "A well-known strength coach recently posted a list of things he doesn't love about CrossFit and got more than a few of them wrong. In Part 1 of this two-part response, we set the record straight on his claims about endurance athletes, work capacity, isolation exercises, and mixed-modality training, and explain why \"our specialty is not specializing\" isn't just a slogan; it's the whole point.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260813"
-        },
-        {
-          "date": "2026-08-12",
-          "sections": [
-            {
-              "title": "For time:",
-              "lines": [
-                "200-foot single-dumbbell walking lunge",
-                "20 deficit strict handstand push-ups",
-                "150-foot single-dumbbell walking lunge",
-                "15 deficit strict handstand push-ups",
-                "100-foot single-dumbbell walking lunge",
-                "10 deficit strict handstand push-ups",
-                "50-foot single-dumbbell walking lunge",
-                "5 deficit strict handstand push-ups",
-                "â 35-lb dumbbell and 2-inch deficit",
-                "â 50-lb dumbbell and a 4-inch deficit",
-                "Post time to comments."
+                "Wednesday",
+                "260812",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -721,13 +697,11 @@
           "date": "2026-08-11",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "5,000-meter row",
-                "Compare to",
-                "250923",
-                ".",
-                "Post time to comments."
+                "Tuesday",
+                "260811",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -737,51 +711,25 @@
           "date": "2026-08-10",
           "sections": [
             {
-              "title": "5 rounds, each for time, of:",
+              "title": "Workout",
               "lines": [
-                "15 box jump-overs",
-                "12 dumbbell deadlifts",
-                "9 dumbbell hang power cleans",
-                "6 dumbbell shoulder-to-overheads",
-                "Rest exactly 2 minutes between rounds.",
-                "â 35-lb dumbbells and a 20-inch box",
-                "â 50-lb dumbbells and a 24-inch box",
-                "Post time for each round to comments."
+                "Monday",
+                "260810",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260810"
         },
         {
-          "date": "2026-08-09",
+          "date": "2026-08-08",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day"
-              ]
-            },
-            {
-              "title": "From the Vault: Know Your Numbers",
-              "lines": [
-                "\"My Fran time? I know it was under 12 minutes with somewhere between 45 and 95 lb. Does that help?\" Sound familiar? If you can't remember your last Helen time or your deadlift PR, you're leaving results on the table. Top coaches reveal why tracking your numbers, not just showing up and working hard, is the real key to faster progress and hitting your goals.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260809"
-        },
-        {
-          "date": "2026-08-08",
-          "sections": [
-            {
-              "title": "5 rounds for time of:",
-              "lines": [
-                "30 medicine-ball cleans",
-                "20 ring dips",
-                "â 14-lb medicine ball",
-                "â 20-lb medicine ball",
-                "Post time to comments."
+                "Saturday",
+                "260808",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -793,44 +741,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Community Cup Workout 1"
-              ]
-            },
-            {
-              "title": "For time:",
-              "lines": [
-                "1,000-meter row",
-                "Then,"
-              ]
-            },
-            {
-              "title": "5 rounds of:",
-              "lines": [
-                "25 pull-ups",
-                "7 shoulder-to-overheads",
-                "â 85-lb barbell",
-                "â 135-lb barbell",
-                "Compare to",
-                "200925",
-                ".",
-                "Post time to comments."
+                "Friday",
+                "260807",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260807"
-        },
-        {
-          "date": "2026-08-06",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260806"
         },
         {
           "date": "2026-08-05",
@@ -838,42 +755,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Power clean 3-3-3-3-3 reps",
-                "Compare to",
-                "260717",
-                ".",
-                "Post loads to comments."
+                "Wednesday",
+                "260805",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260805"
-        },
-        {
-          "date": "2026-08-04",
-          "sections": [
-            {
-              "title": "For time:",
-              "lines": [
-                "50 double-unders",
-                "50 AbMat sit-ups",
-                "5 strict muscle-ups",
-                "40 double-unders",
-                "40 AbMat sit-ups",
-                "4 strict muscle-ups",
-                "30 double-unders",
-                "30 AbMat sit-ups",
-                "3 strict muscle-ups",
-                "20 double-unders",
-                "20 AbMat sit-ups",
-                "2 strict muscle-ups",
-                "10 double-unders",
-                "10 AbMat sit-ups",
-                "1 strict muscle-up",
-                "Post time to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260804"
         }
       ]
     }
