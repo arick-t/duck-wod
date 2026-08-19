@@ -1,11 +1,43 @@
 {
-  "last_updated": "2026-08-18T04:23:56.912921",
+  "last_updated": "2026-08-19T04:25:12.927460",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-08-19",
+          "sections": [
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "line drills"
+              ]
+            },
+            {
+              "title": "deadlifts 14min",
+              "lines": [
+                "4-5 sets",
+                "5 deadlifts @70-73%"
+              ]
+            },
+            {
+              "title": "conditioning 18min",
+              "lines": [
+                "amrap 18min",
+                "20 db deadlifts",
+                "200m run",
+                "10 db push ups",
+                "100 farmers carry",
+                "dumbbells: 2x22,5/15kg",
+                "aerobic capacity & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-08-19/"
+        },
         {
           "date": "2026-08-18",
           "sections": [
@@ -559,42 +591,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-08-06/"
-        },
-        {
-          "date": "2026-08-05",
-          "sections": [
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "40 on / 20 off x6",
-                "1. calf stretch / crab stretch",
-                "2. ski / bike",
-                "3. plank push ups / squat jumps"
-              ]
-            },
-            {
-              "title": "conditioning 24min",
-              "lines": [
-                "on every 3:00 x 8 rounds",
-                "15/12cal bike/ski",
-                "9 box jumps 60/50cm",
-                "6 strict ring dips",
-                "score: slowest round",
-                "aerobic power"
-              ]
-            },
-            {
-              "title": "shoulder stability 8min",
-              "lines": [
-                "30sec on / 20sec off",
-                "1. rotating plank",
-                "2. prone press",
-                "3. handstand hold",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-08-05/"
         }
       ]
     },
@@ -603,6 +599,23 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-08-19",
+          "sections": [
+            {
+              "title": "3 rounds for time of:",
+              "lines": [
+                "30 GHD sit-ups",
+                "30 medicine-ball box step-ups",
+                "400-meter medicine-ball run",
+                "â 14-lb medicine ball and a 20-inch box",
+                "â 20-lb medicine ball and a 24-inch box",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260819"
+        },
         {
           "date": "2026-08-18",
           "sections": [
@@ -657,9 +670,22 @@
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260815",
-                "Learn the Movement â"
+                "LGOP (Little Groups of Paratroopers)"
+              ]
+            },
+            {
+              "title": "In teams of 2-4, 2 rounds for time of:",
+              "lines": [
+                "1,940-meter run (together)",
+                "250 air squats (split reps)",
+                "48 burpees (split reps)",
+                "509-meter run with one plate (together, share the plate)",
+                "101 push presses (split reps)",
+                "11 pull-ups (each athlete)",
+                "82 power cleans (split reps)",
+                "â 75-lb barbell and a 35-lb plate",
+                "â 115-lb barbell and a 45-lb plate",
+                "Post time to comments."
               ]
             }
           ],
@@ -671,13 +697,34 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260814",
-                "Learn the Movement â"
+                "Community Cup Workout 2",
+                "The CrossFit Total",
+                "1-rep-max back squat",
+                "1-rep-max press",
+                "1-rep-max deadlift",
+                "Compare to",
+                "220810",
+                ".",
+                "Post loads to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260814"
+        },
+        {
+          "date": "2026-08-13",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Setting the Record Straight on CrossFit, Part 1: Why âOur Specialty Is Not Specializingâ",
+                "A well-known strength coach recently posted a list of things he doesn't love about CrossFit and got more than a few of them wrong. In Part 1 of this two-part response, we set the record straight on his claims about endurance athletes, work capacity, isolation exercises, and mixed-modality training, and explain why \"our specialty is not specializing\" isn't just a slogan; it's the whole point.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260813"
         },
         {
           "date": "2026-08-12",
@@ -748,20 +795,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260807"
-        },
-        {
-          "date": "2026-08-05",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Wednesday",
-                "260805",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260805"
         }
       ]
     }
