@@ -1,11 +1,55 @@
 {
-  "last_updated": "2026-08-19T04:25:12.927460",
+  "last_updated": "2026-08-20T04:25:15.722847",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-08-20",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "lat stretch",
+                "90/90 hip rotatios",
+                "calf stretch",
+                "sumo squat stretch"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "20 single unders",
+                "20sec deep squat hold",
+                "10 ring rows"
+              ]
+            },
+            {
+              "title": "front squats 15min",
+              "lines": [
+                "4-5 sets",
+                "5 front squats @70-73%"
+              ]
+            },
+            {
+              "title": "conditioning 16min",
+              "lines": [
+                "for time",
+                "21-15-9-15-21",
+                "pull ups",
+                "front squats 40/30kg",
+                "*60 double unders",
+                "aerobic power & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-08-20/"
+        },
         {
           "date": "2026-08-19",
           "sections": [
@@ -542,55 +586,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-08-07/"
-        },
-        {
-          "date": "2026-08-06",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "samson stretch",
-                "hand walk",
-                "instep rotations",
-                "lying hip cross over"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "2-4-6-8....",
-                "burpees",
-                "hang high pulls",
-                "elbow rotations"
-              ]
-            },
-            {
-              "title": "power cleans 12min",
-              "lines": [
-                "on every 2:00 x 6 sets",
-                "2 squat jumps",
-                "2 power cleans",
-                "(build in weight)",
-                "explosive power"
-              ]
-            },
-            {
-              "title": "conditioning 15min",
-              "lines": [
-                "for time",
-                "25 burpees over the bar",
-                "25 power cleans",
-                "25 burpees over the bar",
-                "25 power cleans",
-                "25 burpees over the bar",
-                "barbell: 60/40kg",
-                "lactate threshold & aerobic power",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-08-06/"
         }
       ]
     },
@@ -599,6 +594,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-08-20",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Women Donât Need a Special CrossFit Program",
+                "For decades, women have been told they need to train differently than men: lighter weights, less intensity, more caution. Two experienced CrossFit coaches break down why that message has always been wrong, what CrossFit's stance on training has been since day one, and how that plays out in real life, from heavy days and menopause to pregnancy and postpartum.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260820"
+        },
         {
           "date": "2026-08-19",
           "sections": [
@@ -648,21 +658,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260817"
-        },
-        {
-          "date": "2026-08-16",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Setting the Record Straight on CrossFit, Part 2: Olympic Lifts, Community, and the Truth About Intensity",
-                "In Part 2 of our response to a viral CrossFit critique, we tackle the toughest claims yet: Olympic lifts are too dangerous to train under fatigue, CrossFit culture looks down on other athletes, and intensity is just about how destroyed you feel afterward. Here's what the critique got wrong, and what CrossFit actually teaches.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260816"
         },
         {
           "date": "2026-08-15",
@@ -730,11 +725,19 @@
           "date": "2026-08-12",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Wednesday",
-                "260812",
-                "Learn the Movement â"
+                "200-foot single-dumbbell walking lunge",
+                "20 deficit strict handstand push-ups",
+                "150-foot single-dumbbell walking lunge",
+                "15 deficit strict handstand push-ups",
+                "100-foot single-dumbbell walking lunge",
+                "10 deficit strict handstand push-ups",
+                "50-foot single-dumbbell walking lunge",
+                "5 deficit strict handstand push-ups",
+                "â 35-lb dumbbell and 2-inch deficit",
+                "â 50-lb dumbbell and a 4-inch deficit",
+                "Post time to comments."
               ]
             }
           ],
