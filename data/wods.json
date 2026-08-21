@@ -1,11 +1,55 @@
 {
-  "last_updated": "2026-08-20T04:25:15.722847",
+  "last_updated": "2026-08-21T04:27:18.550509",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-08-21",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "instep rotation",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 prone snow angels",
+                "10 scap. push ups",
+                "10 db deadlifts",
+                "*remaining time row"
+              ]
+            },
+            {
+              "title": "push press 14min",
+              "lines": [
+                "4-5 sets",
+                "5 push press @70-73%"
+              ]
+            },
+            {
+              "title": "conditioning 16min",
+              "lines": [
+                "for time",
+                "120 sit ups",
+                "100 db snatches",
+                "80/64cal row",
+                "*partition however",
+                "aerobic capacity & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-08-21/"
+        },
         {
           "date": "2026-08-20",
           "sections": [
@@ -546,46 +590,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-08-08/"
-        },
-        {
-          "date": "2026-08-07",
-          "sections": [
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "40 on / 20 off x6 rounds",
-                "1. row",
-                "2. sumo squat stretch / scorpions",
-                "3. prone snow angels"
-              ]
-            },
-            {
-              "title": "push press 14min",
-              "lines": [
-                "4-5 sets",
-                "5 push press @77-80%"
-              ]
-            },
-            {
-              "title": "conditioning 10min",
-              "lines": [
-                "benchmark workout \"\"Karen\"\"",
-                "for time",
-                "150 wall balls 20/14lbs",
-                "muscular endurance"
-              ]
-            },
-            {
-              "title": "row conditioning 9min",
-              "lines": [
-                "for max cals row",
-                "30sec on/ 60sec off x 7 rounds",
-                "anaerobic capacity & lactate threshold",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-08-07/"
         }
       ]
     },
@@ -594,6 +598,41 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-08-21",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Community Cup Workout 3"
+              ]
+            },
+            {
+              "title": "For total reps:",
+              "lines": [
+                "As many reps as possible in 4 minutes of:",
+                "10 shuttle runs",
+                "21 toes-to-bars",
+                "Max power snatches",
+                "Rest 2 minutes",
+                "As many reps as possible in 4 minutes of:",
+                "10 shuttle runs",
+                "21 toes-to-bars",
+                "Max overhead squats",
+                "Rest 2 minutes",
+                "As many reps as possible in 4 minutes of:",
+                "10 shuttle runs",
+                "21 toes-to-bars",
+                "Max squat snatches",
+                "One shuttle run is 25 feet down and 25 feet back.",
+                "â 95-lb barbell",
+                "â 135-lb barbell",
+                "Post reps to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260821"
+        },
         {
           "date": "2026-08-20",
           "sections": [
@@ -658,6 +697,21 @@
             }
           ],
           "url": "https://www.crossfit.com/260817"
+        },
+        {
+          "date": "2026-08-16",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Setting the Record Straight on CrossFit, Part 2: Olympic Lifts, Community, and the Truth About Intensity",
+                "In Part 2 of our response to a viral CrossFit critique, we tackle the toughest claims yet: Olympic lifts are too dangerous to train under fatigue, CrossFit culture looks down on other athletes, and intensity is just about how destroyed you feel afterward. Here's what the critique got wrong, and what CrossFit actually teaches.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260816"
         },
         {
           "date": "2026-08-15",
@@ -761,43 +815,55 @@
           "date": "2026-08-10",
           "sections": [
             {
-              "title": "Workout",
+              "title": "5 rounds, each for time, of:",
               "lines": [
-                "Monday",
-                "260810",
-                "Learn the Movement â"
+                "15 box jump-overs",
+                "12 dumbbell deadlifts",
+                "9 dumbbell hang power cleans",
+                "6 dumbbell shoulder-to-overheads",
+                "Rest exactly 2 minutes between rounds.",
+                "â 35-lb dumbbells and a 20-inch box",
+                "â 50-lb dumbbells and a 24-inch box",
+                "Post time for each round to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260810"
         },
         {
-          "date": "2026-08-08",
+          "date": "2026-08-09",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260808",
-                "Learn the Movement â"
+                "Rest Day"
+              ]
+            },
+            {
+              "title": "From the Vault: Know Your Numbers",
+              "lines": [
+                "\"My Fran time? I know it was under 12 minutes with somewhere between 45 and 95 lb. Does that help?\" Sound familiar? If you can't remember your last Helen time or your deadlift PR, you're leaving results on the table. Top coaches reveal why tracking your numbers, not just showing up and working hard, is the real key to faster progress and hitting your goals.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260809"
+        },
+        {
+          "date": "2026-08-08",
+          "sections": [
+            {
+              "title": "5 rounds for time of:",
+              "lines": [
+                "30 medicine-ball cleans",
+                "20 ring dips",
+                "â 14-lb medicine ball",
+                "â 20-lb medicine ball",
+                "Post time to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260808"
-        },
-        {
-          "date": "2026-08-07",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Friday",
-                "260807",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260807"
         }
       ]
     }
