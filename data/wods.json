@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-08-22T04:20:49.811157",
+  "last_updated": "2026-08-23T04:25:54.543232",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-08-23",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "lat stretch",
+                "calf stretch"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "30sec on / 15sec off x2 rounds",
+                "1. scap. push ups",
+                "2. row",
+                "3. ring rows",
+                "4. squat jumps"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "emom 35min (7 rounds)",
+                "1. 3-5 wall walks",
+                "2. 10-15cal row",
+                "3. 6-10 feet elevated ring rows",
+                "4. 15-20 box jumps",
+                "5. rest",
+                "Sunday Endurance for Open Gym",
+                "“threshold pyramids” protocol",
+                "1-2-3-4-3-2-1 min work [rpe 7-8]",
+                "1-2-3-4-3-2-1 min easy [rpe 1-2]",
+                "choose: run, bike, row, or ski",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-08-23/"
+        },
         {
           "date": "2026-08-22",
           "sections": [
@@ -546,53 +588,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-08-10/"
-        },
-        {
-          "date": "2026-08-09",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "lat stretch",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "30sec on / 15sec off x2 rounds",
-                "1. scap. push ups",
-                "2. row",
-                "3. kb deadlifts",
-                "4. box step ups"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "emom 35min (7 rounds)",
-                "1. 4-6 wall walks",
-                "2. 10-15cal row",
-                "3. 15-20 russian kb swings",
-                "4. 15-20 box jumps",
-                "5. rest",
-                "Sunday Endurance for Open Gym",
-                "5 rounds for time",
-                "200m ski",
-                "– rest :30 between rounds",
-                "4 rounds for time",
-                "400m ski",
-                "– rest 1:00 between rounds",
-                "3 rounds for time",
-                "600m ski",
-                "– rest 1:30 between rounds",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-08-09/"
         }
       ]
     },
@@ -601,6 +596,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-08-23",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Happy Feet: Rooting Your Foundation and Routine",
+                "Before the barbell even loads, your feet are already talking. The stomp, kick, twist, and rock are small rituals, not quirks. They're how your body finds stability before a heavy lift. Jason Watson breaks down the most common setup habits athletes rely on and shows you how to turn yours into a stronger, more consistent foundation.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260823"
+        },
         {
           "date": "2026-08-22",
           "sections": [
@@ -661,11 +671,14 @@
           "date": "2026-08-19",
           "sections": [
             {
-              "title": "Workout",
+              "title": "3 rounds for time of:",
               "lines": [
-                "Wednesday",
-                "260819",
-                "Learn the Movement â"
+                "30 GHD sit-ups",
+                "30 medicine-ball box step-ups",
+                "400-meter medicine-ball run",
+                "â 14-lb medicine ball and a 20-inch box",
+                "â 20-lb medicine ball and a 24-inch box",
+                "Post time to comments."
               ]
             }
           ],
@@ -689,33 +702,15 @@
           "date": "2026-08-17",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "50 pull-ups",
-                "50 hang squat cleans",
-                "50-calorie row",
-                "â 65-lb barbell",
-                "â 95-lb barbell",
-                "Post time to comments."
+                "Monday",
+                "260817",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260817"
-        },
-        {
-          "date": "2026-08-16",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Setting the Record Straight on CrossFit, Part 2: Olympic Lifts, Community, and the Truth About Intensity",
-                "In Part 2 of our response to a viral CrossFit critique, we tackle the toughest claims yet: Olympic lifts are too dangerous to train under fatigue, CrossFit culture looks down on other athletes, and intensity is just about how destroyed you feel afterward. Here's what the critique got wrong, and what CrossFit actually teaches.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260816"
         },
         {
           "date": "2026-08-15",
@@ -723,22 +718,9 @@
             {
               "title": "Workout",
               "lines": [
-                "LGOP (Little Groups of Paratroopers)"
-              ]
-            },
-            {
-              "title": "In teams of 2-4, 2 rounds for time of:",
-              "lines": [
-                "1,940-meter run (together)",
-                "250 air squats (split reps)",
-                "48 burpees (split reps)",
-                "509-meter run with one plate (together, share the plate)",
-                "101 push presses (split reps)",
-                "11 pull-ups (each athlete)",
-                "82 power cleans (split reps)",
-                "â 75-lb barbell and a 35-lb plate",
-                "â 115-lb barbell and a 45-lb plate",
-                "Post time to comments."
+                "Saturday",
+                "260815",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -750,52 +732,23 @@
             {
               "title": "Workout",
               "lines": [
-                "Community Cup Workout 2",
-                "The CrossFit Total",
-                "1-rep-max back squat",
-                "1-rep-max press",
-                "1-rep-max deadlift",
-                "Compare to",
-                "220810",
-                ".",
-                "Post loads to comments."
+                "Friday",
+                "260814",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260814"
         },
         {
-          "date": "2026-08-13",
+          "date": "2026-08-12",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "Setting the Record Straight on CrossFit, Part 1: Why âOur Specialty Is Not Specializingâ",
-                "A well-known strength coach recently posted a list of things he doesn't love about CrossFit and got more than a few of them wrong. In Part 1 of this two-part response, we set the record straight on his claims about endurance athletes, work capacity, isolation exercises, and mixed-modality training, and explain why \"our specialty is not specializing\" isn't just a slogan; it's the whole point.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260813"
-        },
-        {
-          "date": "2026-08-12",
-          "sections": [
-            {
-              "title": "For time:",
-              "lines": [
-                "200-foot single-dumbbell walking lunge",
-                "20 deficit strict handstand push-ups",
-                "150-foot single-dumbbell walking lunge",
-                "15 deficit strict handstand push-ups",
-                "100-foot single-dumbbell walking lunge",
-                "10 deficit strict handstand push-ups",
-                "50-foot single-dumbbell walking lunge",
-                "5 deficit strict handstand push-ups",
-                "â 35-lb dumbbell and 2-inch deficit",
-                "â 50-lb dumbbell and a 4-inch deficit",
-                "Post time to comments."
+                "Wednesday",
+                "260812",
+                "Learn the Movement â"
               ]
             }
           ],
