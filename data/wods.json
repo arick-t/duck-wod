@@ -1,11 +1,54 @@
 {
-  "last_updated": "2026-08-23T04:25:54.543232",
+  "last_updated": "2026-08-24T04:34:00.914257",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-08-24",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "lat stretch",
+                "90/90 hip rotatios",
+                "calf stretch",
+                "sumo squat stretch"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 cossack squats",
+                "10 kb deadlifts",
+                "20sec hollow hold"
+              ]
+            },
+            {
+              "title": "sumo deadlifts 15min",
+              "lines": [
+                "4 Sets",
+                "4 (paused) sumo deadlifts @ 70–75 %"
+              ]
+            },
+            {
+              "title": "conditioning 15min",
+              "lines": [
+                "amrap 3min x 5 rounds",
+                "20 kb swings 24/16kg",
+                "100m run",
+                "max toes to bar",
+                "aerobic power & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-08-24/"
+        },
         {
           "date": "2026-08-23",
           "sections": [
@@ -559,35 +602,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-08-11/"
-        },
-        {
-          "date": "2026-08-10",
-          "sections": [
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "line drills"
-              ]
-            },
-            {
-              "title": "skill 8min",
-              "lines": [
-                "rope climb"
-              ]
-            },
-            {
-              "title": "conditioning 32min",
-              "lines": [
-                "10 rounds",
-                "20 air squats",
-                "200m run",
-                "2/1 rope climbs",
-                "aerobic capacity & muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-08-10/"
         }
       ]
     },
@@ -596,6 +610,24 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-08-24",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Snatch 2-2-2-2-2-2-2 reps",
+                "Compare to",
+                "260105",
+                "or",
+                "260309",
+                ".",
+                "Post loads to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260824"
+        },
         {
           "date": "2026-08-23",
           "sections": [
@@ -666,6 +698,21 @@
             }
           ],
           "url": "https://www.crossfit.com/260821"
+        },
+        {
+          "date": "2026-08-20",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Women Donât Need a Special CrossFit Program",
+                "For decades, women have been told they need to train differently than men: lighter weights, less intensity, more caution. Two experienced CrossFit coaches break down why that message has always been wrong, what CrossFit's stance on training has been since day one, and how that plays out in real life, from heavy days and menopause to pregnancy and postpartum.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260820"
         },
         {
           "date": "2026-08-19",
@@ -767,20 +814,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260811"
-        },
-        {
-          "date": "2026-08-10",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Monday",
-                "260810",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260810"
         }
       ]
     }
