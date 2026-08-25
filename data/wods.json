@@ -1,11 +1,56 @@
 {
-  "last_updated": "2026-08-24T04:34:00.914257",
+  "last_updated": "2026-08-25T04:28:04.730518",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-08-25",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "crab stretch",
+                "instep rotation",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 prone snow angels",
+                "10 scap. push ups",
+                "10 box step ups",
+                "*remaining time bike/ski"
+              ]
+            },
+            {
+              "title": "skill 10min",
+              "lines": [
+                "emom 10min",
+                "1. 20-30sec headstand hold",
+                "2. 3-5 slow eccentric handstand push ups"
+              ]
+            },
+            {
+              "title": "conditioning 20min",
+              "lines": [
+                "for time",
+                "10 rounds",
+                "4 handstand push ups",
+                "8 d-ball box step ups 20/15kg 60/50cm",
+                "12/10cal bike/ski",
+                "skill capacity & aerobic power",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-08-25/"
+        },
         {
           "date": "2026-08-24",
           "sections": [
@@ -559,49 +604,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-08-12/"
-        },
-        {
-          "date": "2026-08-11",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "scorpions",
-                "crab stretch",
-                "lying hip cross over"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 scap. push ups",
-                "20sec plank hold",
-                "10 db deadlifts"
-              ]
-            },
-            {
-              "title": "push press 14min",
-              "lines": [
-                "4-5 sets",
-                "5 push press @80-83%"
-              ]
-            },
-            {
-              "title": "conditioning 16min",
-              "lines": [
-                "amrap 16min",
-                "24 sit ups",
-                "16 db hang snatches 25/17,5kg",
-                "8 ring dips",
-                "muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-08-11/"
         }
       ]
     },
@@ -610,6 +612,39 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-08-25",
+          "sections": [
+            {
+              "title": "On a 3-minute clock:",
+              "lines": [
+                "400-meter run",
+                "Max chest-to-bar pull-ups",
+                "Rest 1 minute"
+              ]
+            },
+            {
+              "title": "On a 3-minute clock:",
+              "lines": [
+                "400-meter run",
+                "Max handstand push-ups",
+                "Rest 1 minute"
+              ]
+            },
+            {
+              "title": "On a 3-minute clock:",
+              "lines": [
+                "400-meter run",
+                "Max dumbbell goblet squats",
+                "Rest 1 minute",
+                "â 35-lb dumbbell",
+                "â 50-lb dumbbell",
+                "Post total reps to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260825"
+        },
         {
           "date": "2026-08-24",
           "sections": [
@@ -735,11 +770,13 @@
           "date": "2026-08-18",
           "sections": [
             {
-              "title": "Workout",
+              "title": "21-18-15-12-9 reps for time of:",
               "lines": [
-                "Tuesday",
-                "260818",
-                "Learn the Movement â"
+                "Dumbbell bench presses",
+                "Hand-release push-ups",
+                "â 35-lb dumbbells",
+                "â 50-lb dumbbells",
+                "Post your time to the comments."
               ]
             }
           ],
@@ -749,11 +786,14 @@
           "date": "2026-08-17",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Monday",
-                "260817",
-                "Learn the Movement â"
+                "50 pull-ups",
+                "50 hang squat cleans",
+                "50-calorie row",
+                "â 65-lb barbell",
+                "â 95-lb barbell",
+                "Post time to comments."
               ]
             }
           ],
@@ -788,6 +828,21 @@
           "url": "https://www.crossfit.com/260814"
         },
         {
+          "date": "2026-08-13",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Setting the Record Straight on CrossFit, Part 1: Why âOur Specialty Is Not Specializingâ",
+                "A well-known strength coach recently posted a list of things he doesn't love about CrossFit and got more than a few of them wrong. In Part 1 of this two-part response, we set the record straight on his claims about endurance athletes, work capacity, isolation exercises, and mixed-modality training, and explain why \"our specialty is not specializing\" isn't just a slogan; it's the whole point.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260813"
+        },
+        {
           "date": "2026-08-12",
           "sections": [
             {
@@ -800,20 +855,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260812"
-        },
-        {
-          "date": "2026-08-11",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Tuesday",
-                "260811",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260811"
         }
       ]
     }
