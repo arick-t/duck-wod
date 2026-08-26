@@ -1,11 +1,36 @@
 {
-  "last_updated": "2026-08-25T04:28:04.730518",
+  "last_updated": "2026-08-26T04:28:48.309327",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-08-26",
+          "sections": [
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "line drills"
+              ]
+            },
+            {
+              "title": "conditioning 30min",
+              "lines": [
+                "amrap 30min",
+                "30 pull ups",
+                "30 box jumps 60/50cm",
+                "30 double db hang cleans 2x22,5/15kg",
+                "30 burpees to target",
+                "on every 5:00 (starting at 00:00) 200m run",
+                "aerobic capacity & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-08-26/"
+        },
         {
           "date": "2026-08-25",
           "sections": [
@@ -560,50 +585,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-08-13/"
-        },
-        {
-          "date": "2026-08-12",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "instep rotation",
-                "calf stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "100m run",
-                "10 squat jumps",
-                "10 box step ups",
-                "*remaining time row"
-              ]
-            },
-            {
-              "title": "bent over row 12min",
-              "lines": [
-                "4 sets of",
-                "10 barbell bent over rows"
-              ]
-            },
-            {
-              "title": "conditioning 16min",
-              "lines": [
-                "for time",
-                "1000/900m row",
-                "80 box jumps 60/50cm",
-                "600m d-ball run 20/15kg",
-                "40 d-ball box step ups",
-                "aerobic power",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-08-12/"
         }
       ]
     },
@@ -612,6 +593,23 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-08-26",
+          "sections": [
+            {
+              "title": "3 rounds for time of:",
+              "lines": [
+                "600/750-meter row",
+                "50 AbMat sit-ups",
+                "25 box jump-overs",
+                "â 24-inch box",
+                "â 30-inch box",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260826"
+        },
         {
           "date": "2026-08-25",
           "sections": [
@@ -753,14 +751,11 @@
           "date": "2026-08-19",
           "sections": [
             {
-              "title": "3 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "30 GHD sit-ups",
-                "30 medicine-ball box step-ups",
-                "400-meter medicine-ball run",
-                "â 14-lb medicine ball and a 20-inch box",
-                "â 20-lb medicine ball and a 24-inch box",
-                "Post time to comments."
+                "Wednesday",
+                "260819",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -770,13 +765,11 @@
           "date": "2026-08-18",
           "sections": [
             {
-              "title": "21-18-15-12-9 reps for time of:",
+              "title": "Workout",
               "lines": [
-                "Dumbbell bench presses",
-                "Hand-release push-ups",
-                "â 35-lb dumbbells",
-                "â 50-lb dumbbells",
-                "Post your time to the comments."
+                "Tuesday",
+                "260818",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -786,14 +779,11 @@
           "date": "2026-08-17",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "50 pull-ups",
-                "50 hang squat cleans",
-                "50-calorie row",
-                "â 65-lb barbell",
-                "â 95-lb barbell",
-                "Post time to comments."
+                "Monday",
+                "260817",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -826,35 +816,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260814"
-        },
-        {
-          "date": "2026-08-13",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Setting the Record Straight on CrossFit, Part 1: Why âOur Specialty Is Not Specializingâ",
-                "A well-known strength coach recently posted a list of things he doesn't love about CrossFit and got more than a few of them wrong. In Part 1 of this two-part response, we set the record straight on his claims about endurance athletes, work capacity, isolation exercises, and mixed-modality training, and explain why \"our specialty is not specializing\" isn't just a slogan; it's the whole point.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260813"
-        },
-        {
-          "date": "2026-08-12",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Wednesday",
-                "260812",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260812"
         }
       ]
     }
