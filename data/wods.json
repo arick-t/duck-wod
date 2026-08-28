@@ -1,11 +1,55 @@
 {
-  "last_updated": "2026-08-27T14:51:07.522952",
+  "last_updated": "2026-08-28T15:45:41.902439",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-08-28",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "calf stretch",
+                "hand walk",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 prone snow angels",
+                "10 push ups to downdog",
+                "30sec kb march",
+                "*remaining time double unders"
+              ]
+            },
+            {
+              "title": "bench presses 15min",
+              "lines": [
+                "4 Sets",
+                "4 (paused) bench presses @ 70–75 %"
+              ]
+            },
+            {
+              "title": "conditioning 16min",
+              "lines": [
+                "on every 4:00x 4 rounds",
+                "6 wall walks",
+                "70 double unders",
+                "100m farmers carry 2x32/24kg",
+                "score: slowest round",
+                "aerobic power",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-08-28/"
+        },
         {
           "date": "2026-08-27",
           "sections": [
@@ -540,50 +584,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-08-15/"
-        },
-        {
-          "date": "2026-08-14",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "inverted hamstring stretch",
-                "calf stretch",
-                "90/90 hip rotation",
-                "lying hip cross over"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "20 single unders",
-                "20sec glute bridge hold",
-                "10 good mornings"
-              ]
-            },
-            {
-              "title": "deadlifts 15min",
-              "lines": [
-                "4-5 sets",
-                "5 deadlifts @80-83%"
-              ]
-            },
-            {
-              "title": "conditioning 15min",
-              "lines": [
-                "1:00 amrap x 8 rounds",
-                "30 double unders",
-                "max kb swings 32/24kg",
-                "1min rest between amraps",
-                "score: total kb swings",
-                "anaerobic capacity",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-08-14/"
         }
       ]
     },
@@ -592,6 +592,29 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-08-28",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "2026 Community Cup Workout 4"
+              ]
+            },
+            {
+              "title": "2 rounds for time of:",
+              "lines": [
+                "150 double-unders",
+                "100 air squats",
+                "50 alternating dumbbell snatches",
+                "â 35-lb dumbbell",
+                "â 50-lb dumbbell",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260828"
+        },
         {
           "date": "2026-08-27",
           "sections": [
@@ -674,21 +697,6 @@
           "url": "https://www.crossfit.com/260824"
         },
         {
-          "date": "2026-08-23",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Happy Feet: Rooting Your Foundation and Routine",
-                "Before the barbell even loads, your feet are already talking. The stomp, kick, twist, and rock are small rituals, not quirks. They're how your body finds stability before a heavy lift. Jason Watson breaks down the most common setup habits athletes rely on and shows you how to turn yours into a stronger, more consistent foundation.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260823"
-        },
-        {
           "date": "2026-08-22",
           "sections": [
             {
@@ -717,21 +725,6 @@
           "url": "https://www.crossfit.com/260821"
         },
         {
-          "date": "2026-08-20",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Women Donât Need a Special CrossFit Program",
-                "For decades, women have been told they need to train differently than men: lighter weights, less intensity, more caution. Two experienced CrossFit coaches break down why that message has always been wrong, what CrossFit's stance on training has been since day one, and how that plays out in real life, from heavy days and menopause to pregnancy and postpartum.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260820"
-        },
-        {
           "date": "2026-08-19",
           "sections": [
             {
@@ -752,13 +745,11 @@
           "date": "2026-08-18",
           "sections": [
             {
-              "title": "21-18-15-12-9 reps for time of:",
+              "title": "Workout",
               "lines": [
-                "Dumbbell bench presses",
-                "Hand-release push-ups",
-                "â 35-lb dumbbells",
-                "â 50-lb dumbbells",
-                "Post your time to the comments."
+                "Tuesday",
+                "260818",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -768,33 +759,15 @@
           "date": "2026-08-17",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "50 pull-ups",
-                "50 hang squat cleans",
-                "50-calorie row",
-                "â 65-lb barbell",
-                "â 95-lb barbell",
-                "Post time to comments."
+                "Monday",
+                "260817",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260817"
-        },
-        {
-          "date": "2026-08-16",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Setting the Record Straight on CrossFit, Part 2: Olympic Lifts, Community, and the Truth About Intensity",
-                "In Part 2 of our response to a viral CrossFit critique, we tackle the toughest claims yet: Olympic lifts are too dangerous to train under fatigue, CrossFit culture looks down on other athletes, and intensity is just about how destroyed you feel afterward. Here's what the critique got wrong, and what CrossFit actually teaches.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260816"
         },
         {
           "date": "2026-08-15",
@@ -802,46 +775,13 @@
             {
               "title": "Workout",
               "lines": [
-                "LGOP (Little Groups of Paratroopers)"
-              ]
-            },
-            {
-              "title": "In teams of 2-4, 2 rounds for time of:",
-              "lines": [
-                "1,940-meter run (together)",
-                "250 air squats (split reps)",
-                "48 burpees (split reps)",
-                "509-meter run with one plate (together, share the plate)",
-                "101 push presses (split reps)",
-                "11 pull-ups (each athlete)",
-                "82 power cleans (split reps)",
-                "â 75-lb barbell and a 35-lb plate",
-                "â 115-lb barbell and a 45-lb plate",
-                "Post time to comments."
+                "Saturday",
+                "260815",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260815"
-        },
-        {
-          "date": "2026-08-14",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Community Cup Workout 2",
-                "The CrossFit Total",
-                "1-rep-max back squat",
-                "1-rep-max press",
-                "1-rep-max deadlift",
-                "Compare to",
-                "220810",
-                ".",
-                "Post loads to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260814"
         }
       ]
     }
