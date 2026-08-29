@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-08-28T15:45:41.902439",
+  "last_updated": "2026-08-29T10:32:50.272109",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-08-29",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "lat stretch",
+                "lying hip cross over"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "amrap 5min",
+                "8 good mornings",
+                "8 elbow rotations",
+                "*partner is skiing"
+              ]
+            },
+            {
+              "title": "conditioning 32min",
+              "lines": [
+                "in teams of 2",
+                "amrap 16min",
+                "20 power cleans",
+                "20 v-ups",
+                "20/18/16cal ski",
+                "into",
+                "amrap 16min",
+                "40 deadlifts",
+                "40 sit ups",
+                "40/36/32cal ski",
+                "barbell: 60/40kg",
+                "score: total rounds + reps",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-08-29/"
+        },
         {
           "date": "2026-08-28",
           "sections": [
@@ -546,44 +588,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-08-16/"
-        },
-        {
-          "date": "2026-08-15",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "scorpions",
-                "lat stretch",
-                "calf stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "amrap 5min",
-                "8 scap. push ups",
-                "8 ring rows",
-                "*partner is holding plank"
-              ]
-            },
-            {
-              "title": "conditioning 30min",
-              "lines": [
-                "in teams of 2",
-                "for time",
-                "3 rounds",
-                "50 pull ups",
-                "40 v-ups",
-                "30 push ups (each)",
-                "20 synchro goblet squats 32/24kg",
-                "100m suitcase carry",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-08-15/"
         }
       ]
     },
@@ -593,53 +597,49 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
+          "date": "2026-08-29",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "21 power cleans, weight 1",
+                "21 high-ring dips",
+                "15 power cleans, weight 2",
+                "15 high-ring dips",
+                "9 power cleans, weight 3",
+                "9 high-ring dips",
+                "Perform a muscle-up to get to the high rings before beginning each set of dips and any time you break the reps.",
+                "â 95/125/155-lb barbell",
+                "â 135/185/225-lb barbell",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260829"
+        },
+        {
           "date": "2026-08-28",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "2026 Community Cup Workout 4"
-              ]
-            },
-            {
-              "title": "2 rounds for time of:",
-              "lines": [
-                "150 double-unders",
-                "100 air squats",
-                "50 alternating dumbbell snatches",
-                "â 35-lb dumbbell",
-                "â 50-lb dumbbell",
-                "Post time to comments."
+                "Friday",
+                "260828",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260828"
         },
         {
-          "date": "2026-08-27",
+          "date": "2026-08-26",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "CrossFit Gets Called \"Too Intense,\" But This Gets a Pass?"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260827"
-        },
-        {
-          "date": "2026-08-26",
-          "sections": [
-            {
-              "title": "3 rounds for time of:",
-              "lines": [
-                "600/750-meter row",
-                "50 AbMat sit-ups",
-                "25 box jump-overs",
-                "â 24-inch box",
-                "â 30-inch box",
-                "Post time to comments."
+                "Wednesday",
+                "260826",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -649,30 +649,11 @@
           "date": "2026-08-25",
           "sections": [
             {
-              "title": "On a 3-minute clock:",
+              "title": "Workout",
               "lines": [
-                "400-meter run",
-                "Max chest-to-bar pull-ups",
-                "Rest 1 minute"
-              ]
-            },
-            {
-              "title": "On a 3-minute clock:",
-              "lines": [
-                "400-meter run",
-                "Max handstand push-ups",
-                "Rest 1 minute"
-              ]
-            },
-            {
-              "title": "On a 3-minute clock:",
-              "lines": [
-                "400-meter run",
-                "Max dumbbell goblet squats",
-                "Rest 1 minute",
-                "â 35-lb dumbbell",
-                "â 50-lb dumbbell",
-                "Post total reps to comments."
+                "Tuesday",
+                "260825",
+                "Drill the Movement â"
               ]
             }
           ],
@@ -684,13 +665,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Snatch 2-2-2-2-2-2-2 reps",
-                "Compare to",
-                "260105",
-                "or",
-                "260309",
-                ".",
-                "Post loads to comments."
+                "Monday",
+                "260824",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -728,14 +705,11 @@
           "date": "2026-08-19",
           "sections": [
             {
-              "title": "3 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "30 GHD sit-ups",
-                "30 medicine-ball box step-ups",
-                "400-meter medicine-ball run",
-                "â 14-lb medicine ball and a 20-inch box",
-                "â 20-lb medicine ball and a 24-inch box",
-                "Post time to comments."
+                "Wednesday",
+                "260819",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -768,20 +742,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260817"
-        },
-        {
-          "date": "2026-08-15",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Saturday",
-                "260815",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260815"
         }
       ]
     }
