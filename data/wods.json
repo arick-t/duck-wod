@@ -1,11 +1,54 @@
 {
-  "last_updated": "2026-08-29T10:32:50.272109",
+  "last_updated": "2026-08-30T09:32:31.670084",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-08-30",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "lat stretch",
+                "calf stretch"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "30sec on / 15sec off x2 rounds",
+                "1. air squats",
+                "2. row",
+                "3. scap. push ups",
+                "4. burpees"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "emom 35min (7 rounds)",
+                "1. 30-40sec (weighted) wall sit",
+                "2. 10-15cal row",
+                "3. 4-8 ring dips",
+                "4. 10-15 burpee box get over 60/50cm",
+                "5. rest",
+                "Sunday Endurance for Open Gym",
+                "10 rounds",
+                "2:00 work [rpe 6-7]",
+                "0:30 rest",
+                "choose: row, bike, ski, run",
+                "aerobic power [lactate threshold]",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-08-30/"
+        },
         {
           "date": "2026-08-29",
           "sections": [
@@ -546,48 +589,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-08-17/"
-        },
-        {
-          "date": "2026-08-16",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "lat stretch",
-                "samson stretch"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "30sec on / 15sec off x2 rounds",
-                "1. push up to down dog",
-                "2. row",
-                "3. hollow hold",
-                "4. reverse lunges"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "emom 35min (7 rounds)",
-                "1. 8-10 single arm devils press",
-                "2. 10-15cal row",
-                "3. 6-10 strict toes to bar",
-                "4. 16-20 jumping lunges",
-                "5. rest",
-                "Sunday Endurance for Open Gym",
-                "4-6 rounds",
-                "2:00 bike [rpe 8]",
-                "2:00 row [rpe 4]",
-                "aerobic power [lactate threshold]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-08-16/"
         }
       ]
     },
@@ -596,6 +597,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-08-30",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "More Than a Workout: How the CrossFit Community Rewires Identity",
+                "We don't change our habits through willpower alone; we change them by changing who we surround ourselves with. Decades of research show health behaviors spread through social ties almost like contagion, and CrossFit's group structure puts that mechanism to work by design. This piece breaks down the science behind why the community isn't just a nice bonus; it's doing real, measurable work.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260830"
+        },
         {
           "date": "2026-08-29",
           "sections": [
@@ -623,9 +639,18 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260828",
-                "Learn the Movement â"
+                "2026 Community Cup Workout 4"
+              ]
+            },
+            {
+              "title": "2 rounds for time of:",
+              "lines": [
+                "150 double-unders",
+                "100 air squats",
+                "50 alternating dumbbell snatches",
+                "â 35-lb dumbbell",
+                "â 50-lb dumbbell",
+                "Post time to comments."
               ]
             }
           ],
@@ -635,11 +660,14 @@
           "date": "2026-08-26",
           "sections": [
             {
-              "title": "Workout",
+              "title": "3 rounds for time of:",
               "lines": [
-                "Wednesday",
-                "260826",
-                "Learn the Movement â"
+                "600/750-meter row",
+                "50 AbMat sit-ups",
+                "25 box jump-overs",
+                "â 24-inch box",
+                "â 30-inch box",
+                "Post time to comments."
               ]
             }
           ],
