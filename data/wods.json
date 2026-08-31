@@ -1,11 +1,62 @@
 {
-  "last_updated": "2026-08-30T09:32:31.670084",
+  "last_updated": "2026-08-31T10:12:35.212438",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-08-31",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "lat stretch",
+                "instep rotations",
+                "sumo squat stretch"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 scap. pull ups",
+                "10 reverse lunges",
+                "20sec deep squat hold"
+              ]
+            },
+            {
+              "title": "back squats 14min",
+              "lines": [
+                "4 Sets",
+                "4 (paused) back squats",
+                "@ 72–77 %"
+              ]
+            },
+            {
+              "title": "conditioning 10min",
+              "lines": [
+                "for time",
+                "2-4-6-8-6-4-2",
+                "front squats 70/50kg",
+                "burpee pull ups",
+                "strength endurance & lactate threshold"
+              ]
+            },
+            {
+              "title": "arms & core 6min",
+              "lines": [
+                "20sec on / 15sec off x 10 rounds",
+                "1. pronated barbell curls",
+                "2. barbell straight leg sit ups",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-08-31/"
+        },
         {
           "date": "2026-08-30",
           "sections": [
@@ -539,56 +590,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-08-18/"
-        },
-        {
-          "date": "2026-08-17",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "samson stretch",
-                "hand walk",
-                "instep rotations",
-                "lying hip cross over"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "2-4-6-8....",
-                "clean deadlifts",
-                "elbow rotations",
-                "push press"
-              ]
-            },
-            {
-              "title": "clean and jerk 10min",
-              "lines": [
-                "on every 2:00 x 5 sets",
-                "1 power clean",
-                "1 paused push jerk",
-                "(build in weight)",
-                "explosive power"
-              ]
-            },
-            {
-              "title": "conditioning 16min",
-              "lines": [
-                "for time",
-                "2 rounds",
-                "500/450m row",
-                "15 push jerks 60/40kg",
-                "into",
-                "2 rounds",
-                "500/450m row",
-                "15 power cleans 60/40kg",
-                "aerobic power & barbell cycling",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-08-17/"
         }
       ]
     },
@@ -597,6 +598,35 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-08-31",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Fight Gone Bad"
+              ]
+            },
+            {
+              "title": "3 rounds for max reps of:",
+              "lines": [
+                "1 minute of wall-ball shots",
+                "1 minute of sumo deadlift high pulls",
+                "1 minute of box jumps",
+                "1 minute of push presses",
+                "1 minute of rowing for calories",
+                "Rest 1 minute",
+                "â 55-lb barbell, 14-lb medicine ball to a 9-foot target, and a 20-inch box",
+                "â 75-lb barbell, 20-lb medicine ball to a 10-foot target, and a 20-inch box",
+                "Compare to",
+                "250503",
+                ".",
+                "Post reps to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260831"
+        },
         {
           "date": "2026-08-30",
           "sections": [
@@ -657,6 +687,19 @@
           "url": "https://www.crossfit.com/260828"
         },
         {
+          "date": "2026-08-27",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "CrossFit Gets Called \"Too Intense,\" But This Gets a Pass?"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260827"
+        },
+        {
           "date": "2026-08-26",
           "sections": [
             {
@@ -677,11 +720,30 @@
           "date": "2026-08-25",
           "sections": [
             {
-              "title": "Workout",
+              "title": "On a 3-minute clock:",
               "lines": [
-                "Tuesday",
-                "260825",
-                "Drill the Movement â"
+                "400-meter run",
+                "Max chest-to-bar pull-ups",
+                "Rest 1 minute"
+              ]
+            },
+            {
+              "title": "On a 3-minute clock:",
+              "lines": [
+                "400-meter run",
+                "Max handstand push-ups",
+                "Rest 1 minute"
+              ]
+            },
+            {
+              "title": "On a 3-minute clock:",
+              "lines": [
+                "400-meter run",
+                "Max dumbbell goblet squats",
+                "Rest 1 minute",
+                "â 35-lb dumbbell",
+                "â 50-lb dumbbell",
+                "Post total reps to comments."
               ]
             }
           ],
@@ -693,23 +755,49 @@
             {
               "title": "Workout",
               "lines": [
-                "Monday",
-                "260824",
-                "Learn the Movement â"
+                "Snatch 2-2-2-2-2-2-2 reps",
+                "Compare to",
+                "260105",
+                "or",
+                "260309",
+                ".",
+                "Post loads to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260824"
         },
         {
-          "date": "2026-08-22",
+          "date": "2026-08-23",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260822",
-                "Learn the Movement â"
+                "Rest Day",
+                "Happy Feet: Rooting Your Foundation and Routine",
+                "Before the barbell even loads, your feet are already talking. The stomp, kick, twist, and rock are small rituals, not quirks. They're how your body finds stability before a heavy lift. Jason Watson breaks down the most common setup habits athletes rely on and shows you how to turn yours into a stronger, more consistent foundation.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260823"
+        },
+        {
+          "date": "2026-08-22",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "30-second L-sit hold",
+                "20 deadlifts",
+                "30-second L-sit hold",
+                "40 bar-facing burpees",
+                "30-second L-sit hold",
+                "20 deadlifts",
+                "30-second L-sit hold",
+                "â 225-lb barbell",
+                "â 315-lb barbell",
+                "Post time to comments."
               ]
             }
           ],
@@ -721,23 +809,62 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260821",
-                "Learn the Movement â"
+                "Community Cup Workout 3"
+              ]
+            },
+            {
+              "title": "For total reps:",
+              "lines": [
+                "As many reps as possible in 4 minutes of:",
+                "10 shuttle runs",
+                "21 toes-to-bars",
+                "Max power snatches",
+                "Rest 2 minutes",
+                "As many reps as possible in 4 minutes of:",
+                "10 shuttle runs",
+                "21 toes-to-bars",
+                "Max overhead squats",
+                "Rest 2 minutes",
+                "As many reps as possible in 4 minutes of:",
+                "10 shuttle runs",
+                "21 toes-to-bars",
+                "Max squat snatches",
+                "One shuttle run is 25 feet down and 25 feet back.",
+                "â 95-lb barbell",
+                "â 135-lb barbell",
+                "Post reps to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260821"
         },
         {
-          "date": "2026-08-19",
+          "date": "2026-08-20",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260819",
-                "Learn the Movement â"
+                "Rest Day",
+                "Women Donât Need a Special CrossFit Program",
+                "For decades, women have been told they need to train differently than men: lighter weights, less intensity, more caution. Two experienced CrossFit coaches break down why that message has always been wrong, what CrossFit's stance on training has been since day one, and how that plays out in real life, from heavy days and menopause to pregnancy and postpartum.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260820"
+        },
+        {
+          "date": "2026-08-19",
+          "sections": [
+            {
+              "title": "3 rounds for time of:",
+              "lines": [
+                "30 GHD sit-ups",
+                "30 medicine-ball box step-ups",
+                "400-meter medicine-ball run",
+                "â 14-lb medicine ball and a 20-inch box",
+                "â 20-lb medicine ball and a 24-inch box",
+                "Post time to comments."
               ]
             }
           ],
@@ -756,20 +883,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260818"
-        },
-        {
-          "date": "2026-08-17",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Monday",
-                "260817",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260817"
         }
       ]
     }
