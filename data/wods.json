@@ -1,11 +1,39 @@
 {
-  "last_updated": "2026-08-31T10:12:35.212438",
+  "last_updated": "2026-09-01T08:58:37.442716",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-09-01",
+          "sections": [
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "40 on / 20 off x6",
+                "1. lat stretch / calf stretch",
+                "2. ski / bike",
+                "3. plank push ups / squat jumps"
+              ]
+            },
+            {
+              "title": "conditioning 33min",
+              "lines": [
+                "for max reps/cals",
+                "1:00 on / 1:00 off x 32 rounds",
+                "1. double db push press 2x22,5/15kg",
+                "2. cal ski",
+                "3. box jumps 60/50cm",
+                "4. cal bike",
+                "repeatable high-intensity output (aerobic power)",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-09-01/"
+        },
         {
           "date": "2026-08-31",
           "sections": [
@@ -543,53 +571,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-08-19/"
-        },
-        {
-          "date": "2026-08-18",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "seated pike stretch",
-                "lat stretch on box",
-                "calf stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 burpees",
-                "10 squat jumps",
-                "10 straight leg sit ups",
-                "*remaining time bike/ski"
-              ]
-            },
-            {
-              "title": "conditioning 22min",
-              "lines": [
-                "amrap 4min x 4 rounds",
-                "20 toes to bar",
-                "15 burpee box jumps",
-                "max cal bike/ski",
-                "2min rest between amraps",
-                "score: total cals",
-                "muscular endurance & aerobic power"
-              ]
-            },
-            {
-              "title": "shoulder stability 8min",
-              "lines": [
-                "30sec on / 20sec off",
-                "1. rotating plank",
-                "2. scap. pull up hold",
-                "3. handstand shoulder taps",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-08-18/"
         }
       ]
     },
@@ -598,6 +579,24 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-09-01",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Front squat 3-3-3-2-2-1-1 reps",
+                "Compare to similar on",
+                "260707",
+                "and",
+                "260408",
+                ".",
+                "Post loads to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260901"
+        },
         {
           "date": "2026-08-31",
           "sections": [
@@ -687,30 +686,14 @@
           "url": "https://www.crossfit.com/260828"
         },
         {
-          "date": "2026-08-27",
+          "date": "2026-08-26",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "CrossFit Gets Called \"Too Intense,\" But This Gets a Pass?"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260827"
-        },
-        {
-          "date": "2026-08-26",
-          "sections": [
-            {
-              "title": "3 rounds for time of:",
-              "lines": [
-                "600/750-meter row",
-                "50 AbMat sit-ups",
-                "25 box jump-overs",
-                "â 24-inch box",
-                "â 30-inch box",
-                "Post time to comments."
+                "Wednesday",
+                "260826",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -766,21 +749,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260824"
-        },
-        {
-          "date": "2026-08-23",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Happy Feet: Rooting Your Foundation and Routine",
-                "Before the barbell even loads, your feet are already talking. The stomp, kick, twist, and rock are small rituals, not quirks. They're how your body finds stability before a heavy lift. Jason Watson breaks down the most common setup habits athletes rely on and shows you how to turn yours into a stronger, more consistent foundation.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260823"
         },
         {
           "date": "2026-08-22",
@@ -869,20 +837,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260819"
-        },
-        {
-          "date": "2026-08-18",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Tuesday",
-                "260818",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260818"
         }
       ]
     }
