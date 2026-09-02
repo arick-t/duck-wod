@@ -1,11 +1,54 @@
 {
-  "last_updated": "2026-09-01T08:58:37.442716",
+  "last_updated": "2026-09-02T08:12:25.506099",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-09-02",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "lat stretch",
+                "90/90 hip rotatios",
+                "seated pike stretch",
+                "lying hip cross over"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 cossack squats",
+                "10 good mornings",
+                "20sec hollow hold"
+              ]
+            },
+            {
+              "title": "sumo deadlifts 15min",
+              "lines": [
+                "4 Sets",
+                "4 (paused) sumo deadlifts @ 72–77 %"
+              ]
+            },
+            {
+              "title": "conditioning 14min",
+              "lines": [
+                "amrap 14min",
+                "4 deadlifts 120/85kg",
+                "8 burpees over the bar",
+                "12 toes to bar",
+                "strength endurance & lactate threshold",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-09-02/"
+        },
         {
           "date": "2026-09-01",
           "sections": [
@@ -539,38 +582,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-08-20/"
-        },
-        {
-          "date": "2026-08-19",
-          "sections": [
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "line drills"
-              ]
-            },
-            {
-              "title": "deadlifts 14min",
-              "lines": [
-                "4-5 sets",
-                "5 deadlifts @70-73%"
-              ]
-            },
-            {
-              "title": "conditioning 18min",
-              "lines": [
-                "amrap 18min",
-                "20 db deadlifts",
-                "200m run",
-                "10 db push ups",
-                "100 farmers carry",
-                "dumbbells: 2x22,5/15kg",
-                "aerobic capacity & muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-08-19/"
         }
       ]
     },
@@ -580,18 +591,32 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
+          "date": "2026-09-02",
+          "sections": [
+            {
+              "title": "On a 10-minute clock, complete:",
+              "lines": [
+                "50 burpee pull-ups",
+                "75 kettlebell swings",
+                "Max burpee pull-ups in the remaining time",
+                "The pull-up bar should be 6 inches above the fingertips with arms extended overhead. Your score is the number of burpee pull-ups completed.",
+                "â 35-lb kettlebell",
+                "â 53-lb kettlebell",
+                "Post your reps to the comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260902"
+        },
+        {
           "date": "2026-09-01",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Front squat 3-3-3-2-2-1-1 reps",
-                "Compare to similar on",
-                "260707",
-                "and",
-                "260408",
-                ".",
-                "Post loads to comments."
+                "Tuesday",
+                "260901",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -625,21 +650,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260831"
-        },
-        {
-          "date": "2026-08-30",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "More Than a Workout: How the CrossFit Community Rewires Identity",
-                "We don't change our habits through willpower alone; we change them by changing who we surround ourselves with. Decades of research show health behaviors spread through social ties almost like contagion, and CrossFit's group structure puts that mechanism to work by design. This piece breaks down the science behind why the community isn't just a nice bonus; it's doing real, measurable work.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260830"
         },
         {
           "date": "2026-08-29",
@@ -703,30 +713,11 @@
           "date": "2026-08-25",
           "sections": [
             {
-              "title": "On a 3-minute clock:",
+              "title": "Workout",
               "lines": [
-                "400-meter run",
-                "Max chest-to-bar pull-ups",
-                "Rest 1 minute"
-              ]
-            },
-            {
-              "title": "On a 3-minute clock:",
-              "lines": [
-                "400-meter run",
-                "Max handstand push-ups",
-                "Rest 1 minute"
-              ]
-            },
-            {
-              "title": "On a 3-minute clock:",
-              "lines": [
-                "400-meter run",
-                "Max dumbbell goblet squats",
-                "Rest 1 minute",
-                "â 35-lb dumbbell",
-                "â 50-lb dumbbell",
-                "Post total reps to comments."
+                "Tuesday",
+                "260825",
+                "Drill the Movement â"
               ]
             }
           ],
@@ -738,13 +729,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Snatch 2-2-2-2-2-2-2 reps",
-                "Compare to",
-                "260105",
-                "or",
-                "260309",
-                ".",
-                "Post loads to comments."
+                "Monday",
+                "260824",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -754,18 +741,11 @@
           "date": "2026-08-22",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "30-second L-sit hold",
-                "20 deadlifts",
-                "30-second L-sit hold",
-                "40 bar-facing burpees",
-                "30-second L-sit hold",
-                "20 deadlifts",
-                "30-second L-sit hold",
-                "â 225-lb barbell",
-                "â 315-lb barbell",
-                "Post time to comments."
+                "Saturday",
+                "260822",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -777,66 +757,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Community Cup Workout 3"
-              ]
-            },
-            {
-              "title": "For total reps:",
-              "lines": [
-                "As many reps as possible in 4 minutes of:",
-                "10 shuttle runs",
-                "21 toes-to-bars",
-                "Max power snatches",
-                "Rest 2 minutes",
-                "As many reps as possible in 4 minutes of:",
-                "10 shuttle runs",
-                "21 toes-to-bars",
-                "Max overhead squats",
-                "Rest 2 minutes",
-                "As many reps as possible in 4 minutes of:",
-                "10 shuttle runs",
-                "21 toes-to-bars",
-                "Max squat snatches",
-                "One shuttle run is 25 feet down and 25 feet back.",
-                "â 95-lb barbell",
-                "â 135-lb barbell",
-                "Post reps to comments."
+                "Friday",
+                "260821",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260821"
-        },
-        {
-          "date": "2026-08-20",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Women Donât Need a Special CrossFit Program",
-                "For decades, women have been told they need to train differently than men: lighter weights, less intensity, more caution. Two experienced CrossFit coaches break down why that message has always been wrong, what CrossFit's stance on training has been since day one, and how that plays out in real life, from heavy days and menopause to pregnancy and postpartum.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260820"
-        },
-        {
-          "date": "2026-08-19",
-          "sections": [
-            {
-              "title": "3 rounds for time of:",
-              "lines": [
-                "30 GHD sit-ups",
-                "30 medicine-ball box step-ups",
-                "400-meter medicine-ball run",
-                "â 14-lb medicine ball and a 20-inch box",
-                "â 20-lb medicine ball and a 24-inch box",
-                "Post time to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260819"
         }
       ]
     }
