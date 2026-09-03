@@ -1,11 +1,54 @@
 {
-  "last_updated": "2026-09-02T08:12:25.506099",
+  "last_updated": "2026-09-03T08:21:44.959873",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-09-03",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "lat stretch",
+                "thoracic rotatios",
+                "calf stretch"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "100m run",
+                "10 ring rows",
+                "30sec plank hold"
+              ]
+            },
+            {
+              "title": "bent over row 12 min",
+              "lines": [
+                "4 sets",
+                "12 barbell bent over rows"
+              ]
+            },
+            {
+              "title": "conditioning 20min",
+              "lines": [
+                "for time",
+                "5 rounds",
+                "400m run",
+                "2 rope climbs",
+                "100m double db overhead carry 2x15/10kg",
+                "aerobic capacity",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-09-03/"
+        },
         {
           "date": "2026-09-02",
           "sections": [
@@ -538,50 +581,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-08-21/"
-        },
-        {
-          "date": "2026-08-20",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "lat stretch",
-                "90/90 hip rotatios",
-                "calf stretch",
-                "sumo squat stretch"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "20 single unders",
-                "20sec deep squat hold",
-                "10 ring rows"
-              ]
-            },
-            {
-              "title": "front squats 15min",
-              "lines": [
-                "4-5 sets",
-                "5 front squats @70-73%"
-              ]
-            },
-            {
-              "title": "conditioning 16min",
-              "lines": [
-                "for time",
-                "21-15-9-15-21",
-                "pull ups",
-                "front squats 40/30kg",
-                "*60 double unders",
-                "aerobic power & muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-08-20/"
         }
       ]
     },
@@ -594,15 +593,11 @@
           "date": "2026-09-02",
           "sections": [
             {
-              "title": "On a 10-minute clock, complete:",
+              "title": "Workout",
               "lines": [
-                "50 burpee pull-ups",
-                "75 kettlebell swings",
-                "Max burpee pull-ups in the remaining time",
-                "The pull-up bar should be 6 inches above the fingertips with arms extended overhead. Your score is the number of burpee pull-ups completed.",
-                "â 35-lb kettlebell",
-                "â 53-lb kettlebell",
-                "Post your reps to the comments."
+                "Wednesday",
+                "260902",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -614,9 +609,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Tuesday",
-                "260901",
-                "Learn the Movement â"
+                "Front squat 3-3-3-2-2-1-1 reps",
+                "Compare to similar on",
+                "260707",
+                "and",
+                "260408",
+                ".",
+                "Post loads to comments."
               ]
             }
           ],
@@ -699,11 +698,14 @@
           "date": "2026-08-26",
           "sections": [
             {
-              "title": "Workout",
+              "title": "3 rounds for time of:",
               "lines": [
-                "Wednesday",
-                "260826",
-                "Learn the Movement â"
+                "600/750-meter row",
+                "50 AbMat sit-ups",
+                "25 box jump-overs",
+                "â 24-inch box",
+                "â 30-inch box",
+                "Post time to comments."
               ]
             }
           ],
@@ -757,9 +759,30 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260821",
-                "Learn the Movement â"
+                "Community Cup Workout 3"
+              ]
+            },
+            {
+              "title": "For total reps:",
+              "lines": [
+                "As many reps as possible in 4 minutes of:",
+                "10 shuttle runs",
+                "21 toes-to-bars",
+                "Max power snatches",
+                "Rest 2 minutes",
+                "As many reps as possible in 4 minutes of:",
+                "10 shuttle runs",
+                "21 toes-to-bars",
+                "Max overhead squats",
+                "Rest 2 minutes",
+                "As many reps as possible in 4 minutes of:",
+                "10 shuttle runs",
+                "21 toes-to-bars",
+                "Max squat snatches",
+                "One shuttle run is 25 feet down and 25 feet back.",
+                "â 95-lb barbell",
+                "â 135-lb barbell",
+                "Post reps to comments."
               ]
             }
           ],
