@@ -1,11 +1,46 @@
 {
-  "last_updated": "2026-09-03T08:21:44.959873",
+  "last_updated": "2026-09-04T08:17:42.906603",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-09-04",
+          "sections": [
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "40 on / 20 off x6",
+                "1. scorpions / lat stretch",
+                "2. reverse lunges / elbow rotations",
+                "3. push ups / deadlifts"
+              ]
+            },
+            {
+              "title": "bench presses 13min",
+              "lines": [
+                "4 Sets",
+                "4 (paused) bench presses @ 72–77%"
+              ]
+            },
+            {
+              "title": "benchmark conditioning 19min",
+              "lines": [
+                "\"The Chief\"",
+                "amrap 3min x 5 rounds",
+                "3 power cleans 60/40kg",
+                "6 push ups",
+                "9 air squats",
+                "1min rest between rounds",
+                "*pick up where you left off",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-09-04/"
+        },
         {
           "date": "2026-09-03",
           "sections": [
@@ -537,50 +572,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-08-22/"
-        },
-        {
-          "date": "2026-08-21",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "instep rotation",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 prone snow angels",
-                "10 scap. push ups",
-                "10 db deadlifts",
-                "*remaining time row"
-              ]
-            },
-            {
-              "title": "push press 14min",
-              "lines": [
-                "4-5 sets",
-                "5 push press @70-73%"
-              ]
-            },
-            {
-              "title": "conditioning 16min",
-              "lines": [
-                "for time",
-                "120 sit ups",
-                "100 db snatches",
-                "80/64cal row",
-                "*partition however",
-                "aerobic capacity & muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-08-21/"
         }
       ]
     },
@@ -590,14 +581,41 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
+          "date": "2026-09-04",
+          "sections": [
+            {
+              "title": "21-15-9* reps for time of:",
+              "lines": [
+                "Clean and jerks",
+                "Echo bike calories",
+                "*Women complete 15-12-9 Echo bike calories."
+              ]
+            },
+            {
+              "title": "Then, at 20 minutes:",
+              "lines": [
+                "Build to a challenging power clean and jerk",
+                "â 65-lb barbell",
+                "â 95-lb barbell",
+                "Post time and load to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260904"
+        },
+        {
           "date": "2026-09-02",
           "sections": [
             {
-              "title": "Workout",
+              "title": "On a 10-minute clock, complete:",
               "lines": [
-                "Wednesday",
-                "260902",
-                "Learn the Movement â"
+                "50 burpee pull-ups",
+                "75 kettlebell swings",
+                "Max burpee pull-ups in the remaining time",
+                "The pull-up bar should be 6 inches above the fingertips with arms extended overhead. Your score is the number of burpee pull-ups completed.",
+                "â 35-lb kettlebell",
+                "â 53-lb kettlebell",
+                "Post your reps to the comments."
               ]
             }
           ],
@@ -651,6 +669,21 @@
           "url": "https://www.crossfit.com/260831"
         },
         {
+          "date": "2026-08-30",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "More Than a Workout: How the CrossFit Community Rewires Identity",
+                "We don't change our habits through willpower alone; we change them by changing who we surround ourselves with. Decades of research show health behaviors spread through social ties almost like contagion, and CrossFit's group structure puts that mechanism to work by design. This piece breaks down the science behind why the community isn't just a nice bonus; it's doing real, measurable work.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260830"
+        },
+        {
           "date": "2026-08-29",
           "sections": [
             {
@@ -695,6 +728,19 @@
           "url": "https://www.crossfit.com/260828"
         },
         {
+          "date": "2026-08-27",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "CrossFit Gets Called \"Too Intense,\" But This Gets a Pass?"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260827"
+        },
+        {
           "date": "2026-08-26",
           "sections": [
             {
@@ -715,11 +761,30 @@
           "date": "2026-08-25",
           "sections": [
             {
-              "title": "Workout",
+              "title": "On a 3-minute clock:",
               "lines": [
-                "Tuesday",
-                "260825",
-                "Drill the Movement â"
+                "400-meter run",
+                "Max chest-to-bar pull-ups",
+                "Rest 1 minute"
+              ]
+            },
+            {
+              "title": "On a 3-minute clock:",
+              "lines": [
+                "400-meter run",
+                "Max handstand push-ups",
+                "Rest 1 minute"
+              ]
+            },
+            {
+              "title": "On a 3-minute clock:",
+              "lines": [
+                "400-meter run",
+                "Max dumbbell goblet squats",
+                "Rest 1 minute",
+                "â 35-lb dumbbell",
+                "â 50-lb dumbbell",
+                "Post total reps to comments."
               ]
             }
           ],
@@ -731,62 +796,53 @@
             {
               "title": "Workout",
               "lines": [
-                "Monday",
-                "260824",
-                "Learn the Movement â"
+                "Snatch 2-2-2-2-2-2-2 reps",
+                "Compare to",
+                "260105",
+                "or",
+                "260309",
+                ".",
+                "Post loads to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260824"
         },
         {
-          "date": "2026-08-22",
+          "date": "2026-08-23",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260822",
-                "Learn the Movement â"
+                "Rest Day",
+                "Happy Feet: Rooting Your Foundation and Routine",
+                "Before the barbell even loads, your feet are already talking. The stomp, kick, twist, and rock are small rituals, not quirks. They're how your body finds stability before a heavy lift. Jason Watson breaks down the most common setup habits athletes rely on and shows you how to turn yours into a stronger, more consistent foundation.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260823"
+        },
+        {
+          "date": "2026-08-22",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "30-second L-sit hold",
+                "20 deadlifts",
+                "30-second L-sit hold",
+                "40 bar-facing burpees",
+                "30-second L-sit hold",
+                "20 deadlifts",
+                "30-second L-sit hold",
+                "â 225-lb barbell",
+                "â 315-lb barbell",
+                "Post time to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260822"
-        },
-        {
-          "date": "2026-08-21",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Community Cup Workout 3"
-              ]
-            },
-            {
-              "title": "For total reps:",
-              "lines": [
-                "As many reps as possible in 4 minutes of:",
-                "10 shuttle runs",
-                "21 toes-to-bars",
-                "Max power snatches",
-                "Rest 2 minutes",
-                "As many reps as possible in 4 minutes of:",
-                "10 shuttle runs",
-                "21 toes-to-bars",
-                "Max overhead squats",
-                "Rest 2 minutes",
-                "As many reps as possible in 4 minutes of:",
-                "10 shuttle runs",
-                "21 toes-to-bars",
-                "Max squat snatches",
-                "One shuttle run is 25 feet down and 25 feet back.",
-                "â 95-lb barbell",
-                "â 135-lb barbell",
-                "Post reps to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260821"
         }
       ]
     }
