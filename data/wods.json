@@ -1,11 +1,56 @@
 {
-  "last_updated": "2026-09-05T07:54:49.219805",
+  "last_updated": "2026-09-06T08:11:21.399301",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-09-06",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "lat stretch",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "30sec on / 15sec off x2 rounds",
+                "1. scap. push ups",
+                "2. row",
+                "3. hollow hold",
+                "4. air squats"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "emom 35min (7 rounds)",
+                "1. 20 handstand shoulder taps",
+                "2. 10-15cal row",
+                "3. 6-8 stricht toes to bar",
+                "4. 12-16 goblet cossack squats",
+                "5. rest",
+                "Sunday Endurance for Open Gym",
+                "2 sets",
+                "3:00 bike at rpe 4",
+                "3:00 bike at rpe 5",
+                "3:00 bike at rpe 6",
+                "3:00 bike at rpe 7",
+                "rest 2:00 between sets",
+                "aerobic power [lactate threshold]",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-09-06/"
+        },
         {
           "date": "2026-09-05",
           "sections": [
@@ -527,48 +572,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-08-24/"
-        },
-        {
-          "date": "2026-08-23",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "lat stretch",
-                "calf stretch"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "30sec on / 15sec off x2 rounds",
-                "1. scap. push ups",
-                "2. row",
-                "3. ring rows",
-                "4. squat jumps"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "emom 35min (7 rounds)",
-                "1. 3-5 wall walks",
-                "2. 10-15cal row",
-                "3. 6-10 feet elevated ring rows",
-                "4. 15-20 box jumps",
-                "5. rest",
-                "Sunday Endurance for Open Gym",
-                "“threshold pyramids” protocol",
-                "1-2-3-4-3-2-1 min work [rpe 7-8]",
-                "1-2-3-4-3-2-1 min easy [rpe 1-2]",
-                "choose: run, bike, row, or ski",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-08-23/"
         }
       ]
     },
@@ -577,6 +580,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-09-06",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Strength Training Isnât Optional for Women. Itâs a Must.",
+                "Most of what passes for \"strength training\" for women isn't building the one thing that determines how they age: muscle. From immune resilience to bone density to metabolic health, the research points to the same lever, and it's not the number on the scale. Here's why every woman needs to put down the light dumbbells and pick up a barbell.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260906"
+        },
         {
           "date": "2026-09-05",
           "sections": [
@@ -617,33 +635,14 @@
           "url": "https://www.crossfit.com/260904"
         },
         {
-          "date": "2026-09-03",
+          "date": "2026-09-02",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "A Coach for Coaches: What Chuck Carswell Taught Me",
-                "Chuck Carswell has spent two decades as the heart of CrossFit's coaching education, shaping thousands of trainers with humility, patience, and an infectious laugh. This is a look at the coach behind the seminars: what makes him beloved, what makes him effective, and 10 videos and articles where you can learn from him directly. Whether youâre an athlete trying to improve a little bit every day, a coach who wants to learn from the best, or just want some hard-earned wisdom to help you over your next hurdle in life, this is for you",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260903"
-        },
-        {
-          "date": "2026-09-02",
-          "sections": [
-            {
-              "title": "On a 10-minute clock, complete:",
-              "lines": [
-                "50 burpee pull-ups",
-                "75 kettlebell swings",
-                "Max burpee pull-ups in the remaining time",
-                "The pull-up bar should be 6 inches above the fingertips with arms extended overhead. Your score is the number of burpee pull-ups completed.",
-                "â 35-lb kettlebell",
-                "â 53-lb kettlebell",
-                "Post your reps to the comments."
+                "Wednesday",
+                "260902",
+                "Learn the Movement â"
               ]
             }
           ],
