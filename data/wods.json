@@ -1,11 +1,56 @@
 {
-  "last_updated": "2026-09-06T08:11:21.399301",
+  "last_updated": "2026-09-07T08:42:46.568671",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-09-07",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "lat stretch",
+                "90/90 hip rotatios",
+                "lying hip cross over",
+                "samson stretch"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 cossack squats",
+                "10 good mornings",
+                "10 plank push ups"
+              ]
+            },
+            {
+              "title": "sumo deadlifts 15min",
+              "lines": [
+                "4 Sets",
+                "3 (paused) sumo deadlifts @ 77-82 %"
+              ]
+            },
+            {
+              "title": "conditioning 15min",
+              "lines": [
+                "for time",
+                "6 rounds",
+                "10 db hang power cleans",
+                "10 db push presses",
+                "100m db farmers carry",
+                "dumbbells: 2x22,5/15kg",
+                "muscular endurance & aerobic power",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-09-07/"
+        },
         {
           "date": "2026-09-06",
           "sections": [
@@ -529,49 +574,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-08-25/"
-        },
-        {
-          "date": "2026-08-24",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "lat stretch",
-                "90/90 hip rotatios",
-                "calf stretch",
-                "sumo squat stretch"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 cossack squats",
-                "10 kb deadlifts",
-                "20sec hollow hold"
-              ]
-            },
-            {
-              "title": "sumo deadlifts 15min",
-              "lines": [
-                "4 Sets",
-                "4 (paused) sumo deadlifts @ 70–75 %"
-              ]
-            },
-            {
-              "title": "conditioning 15min",
-              "lines": [
-                "amrap 3min x 5 rounds",
-                "20 kb swings 24/16kg",
-                "100m run",
-                "max toes to bar",
-                "aerobic power & muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-08-24/"
         }
       ]
     },
@@ -580,6 +582,22 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-09-07",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Push press 5-5-5-5-5 reps",
+                "Compare to",
+                "250709",
+                ".",
+                "Post loads to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260907"
+        },
         {
           "date": "2026-09-06",
           "sections": [
@@ -635,14 +653,33 @@
           "url": "https://www.crossfit.com/260904"
         },
         {
-          "date": "2026-09-02",
+          "date": "2026-09-03",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260902",
-                "Learn the Movement â"
+                "Rest Day",
+                "A Coach for Coaches: What Chuck Carswell Taught Me",
+                "Chuck Carswell has spent two decades as the heart of CrossFit's coaching education, shaping thousands of trainers with humility, patience, and an infectious laugh. This is a look at the coach behind the seminars: what makes him beloved, what makes him effective, and 10 videos and articles where you can learn from him directly. Whether youâre an athlete trying to improve a little bit every day, a coach who wants to learn from the best, or just want some hard-earned wisdom to help you over your next hurdle in life, this is for you",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260903"
+        },
+        {
+          "date": "2026-09-02",
+          "sections": [
+            {
+              "title": "On a 10-minute clock, complete:",
+              "lines": [
+                "50 burpee pull-ups",
+                "75 kettlebell swings",
+                "Max burpee pull-ups in the remaining time",
+                "The pull-up bar should be 6 inches above the fingertips with arms extended overhead. Your score is the number of burpee pull-ups completed.",
+                "â 35-lb kettlebell",
+                "â 53-lb kettlebell",
+                "Post your reps to the comments."
               ]
             }
           ],
@@ -654,9 +691,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Tuesday",
-                "260901",
-                "Learn the Movement â"
+                "Front squat 3-3-3-2-2-1-1 reps",
+                "Compare to similar on",
+                "260707",
+                "and",
+                "260408",
+                ".",
+                "Post loads to comments."
               ]
             }
           ],
@@ -668,23 +709,60 @@
             {
               "title": "Workout",
               "lines": [
-                "Monday",
-                "260831",
-                "Learn the Movement â"
+                "Fight Gone Bad"
+              ]
+            },
+            {
+              "title": "3 rounds for max reps of:",
+              "lines": [
+                "1 minute of wall-ball shots",
+                "1 minute of sumo deadlift high pulls",
+                "1 minute of box jumps",
+                "1 minute of push presses",
+                "1 minute of rowing for calories",
+                "Rest 1 minute",
+                "â 55-lb barbell, 14-lb medicine ball to a 9-foot target, and a 20-inch box",
+                "â 75-lb barbell, 20-lb medicine ball to a 10-foot target, and a 20-inch box",
+                "Compare to",
+                "250503",
+                ".",
+                "Post reps to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260831"
         },
         {
-          "date": "2026-08-29",
+          "date": "2026-08-30",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260829",
-                "Learn the Movement â"
+                "Rest Day",
+                "More Than a Workout: How the CrossFit Community Rewires Identity",
+                "We don't change our habits through willpower alone; we change them by changing who we surround ourselves with. Decades of research show health behaviors spread through social ties almost like contagion, and CrossFit's group structure puts that mechanism to work by design. This piece breaks down the science behind why the community isn't just a nice bonus; it's doing real, measurable work.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260830"
+        },
+        {
+          "date": "2026-08-29",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "21 power cleans, weight 1",
+                "21 high-ring dips",
+                "15 power cleans, weight 2",
+                "15 high-ring dips",
+                "9 power cleans, weight 3",
+                "9 high-ring dips",
+                "Perform a muscle-up to get to the high rings before beginning each set of dips and any time you break the reps.",
+                "â 95/125/155-lb barbell",
+                "â 135/185/225-lb barbell",
+                "Post time to comments."
               ]
             }
           ],
@@ -696,23 +774,48 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260828",
-                "Learn the Movement â"
+                "2026 Community Cup Workout 4"
+              ]
+            },
+            {
+              "title": "2 rounds for time of:",
+              "lines": [
+                "150 double-unders",
+                "100 air squats",
+                "50 alternating dumbbell snatches",
+                "â 35-lb dumbbell",
+                "â 50-lb dumbbell",
+                "Post time to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260828"
         },
         {
-          "date": "2026-08-26",
+          "date": "2026-08-27",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260826",
-                "Learn the Movement â"
+                "Rest Day",
+                "CrossFit Gets Called \"Too Intense,\" But This Gets a Pass?"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260827"
+        },
+        {
+          "date": "2026-08-26",
+          "sections": [
+            {
+              "title": "3 rounds for time of:",
+              "lines": [
+                "600/750-meter row",
+                "50 AbMat sit-ups",
+                "25 box jump-overs",
+                "â 24-inch box",
+                "â 30-inch box",
+                "Post time to comments."
               ]
             }
           ],
@@ -722,29 +825,34 @@
           "date": "2026-08-25",
           "sections": [
             {
-              "title": "Workout",
+              "title": "On a 3-minute clock:",
               "lines": [
-                "Tuesday",
-                "260825",
-                "Drill the Movement â"
+                "400-meter run",
+                "Max chest-to-bar pull-ups",
+                "Rest 1 minute"
+              ]
+            },
+            {
+              "title": "On a 3-minute clock:",
+              "lines": [
+                "400-meter run",
+                "Max handstand push-ups",
+                "Rest 1 minute"
+              ]
+            },
+            {
+              "title": "On a 3-minute clock:",
+              "lines": [
+                "400-meter run",
+                "Max dumbbell goblet squats",
+                "Rest 1 minute",
+                "â 35-lb dumbbell",
+                "â 50-lb dumbbell",
+                "Post total reps to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260825"
-        },
-        {
-          "date": "2026-08-24",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Monday",
-                "260824",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260824"
         }
       ]
     }
