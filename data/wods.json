@@ -1,11 +1,54 @@
 {
-  "last_updated": "2026-09-08T08:24:05.856527",
+  "last_updated": "2026-09-09T08:26:24.267126",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-09-09",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "crab stretch",
+                "instep rotation",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "on every 2:00 x 2 rounds",
+                "10 prone snow angels",
+                "10 scap. push ups",
+                "*remaining time bike/ski"
+              ]
+            },
+            {
+              "title": "bench presses 14min",
+              "lines": [
+                "4 Sets",
+                "3 (paused) bench presses @77-82%"
+              ]
+            },
+            {
+              "title": "conditioning 18min",
+              "lines": [
+                "amrap 3:00 x 6",
+                "8/6 ring dips",
+                "10 hand release push ups",
+                "max cal bike/ski",
+                "score: total cals",
+                "muscular endurance & aerobic power",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-09-09/"
+        },
         {
           "date": "2026-09-08",
           "sections": [
@@ -529,31 +572,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-08-27/"
-        },
-        {
-          "date": "2026-08-26",
-          "sections": [
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "line drills"
-              ]
-            },
-            {
-              "title": "conditioning 30min",
-              "lines": [
-                "amrap 30min",
-                "30 pull ups",
-                "30 box jumps 60/50cm",
-                "30 double db hang cleans 2x22,5/15kg",
-                "30 burpees to target",
-                "on every 5:00 (starting at 00:00) 200m run",
-                "aerobic capacity & muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-08-26/"
         }
       ]
     },
@@ -563,22 +581,30 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
+          "date": "2026-09-09",
+          "sections": [
+            {
+              "title": "15-12-9 reps for load and time of:",
+              "lines": [
+                "Hang power cleans",
+                "Bar-facing burpees",
+                "Use the same weight for all three sets.",
+                "All hang power clean sets must be unbroken; if you drop the bar, start the set over.",
+                "Post load and time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260909"
+        },
+        {
           "date": "2026-09-08",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "800-meter run",
-                "42 kettlebell swings",
-                "21 kettlebell goblet squats",
-                "30 kettlebell swings",
-                "15 kettlebell goblet squats",
-                "18 kettlebell swings",
-                "9 kettlebell goblet squats",
-                "800-meter run",
-                "â 53-lb kettlebell",
-                "â 70-lb kettlebell",
-                "Post time to comments."
+                "Tuesday",
+                "260908",
+                "See Course Photos â"
               ]
             }
           ],
@@ -735,14 +761,36 @@
           "url": "https://www.crossfit.com/260831"
         },
         {
-          "date": "2026-08-29",
+          "date": "2026-08-30",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260829",
-                "Learn the Movement â"
+                "Rest Day",
+                "More Than a Workout: How the CrossFit Community Rewires Identity",
+                "We don't change our habits through willpower alone; we change them by changing who we surround ourselves with. Decades of research show health behaviors spread through social ties almost like contagion, and CrossFit's group structure puts that mechanism to work by design. This piece breaks down the science behind why the community isn't just a nice bonus; it's doing real, measurable work.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260830"
+        },
+        {
+          "date": "2026-08-29",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "21 power cleans, weight 1",
+                "21 high-ring dips",
+                "15 power cleans, weight 2",
+                "15 high-ring dips",
+                "9 power cleans, weight 3",
+                "9 high-ring dips",
+                "Perform a muscle-up to get to the high rings before beginning each set of dips and any time you break the reps.",
+                "â 95/125/155-lb barbell",
+                "â 135/185/225-lb barbell",
+                "Post time to comments."
               ]
             }
           ],
@@ -754,27 +802,35 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260828",
-                "Learn the Movement â"
+                "2026 Community Cup Workout 4"
+              ]
+            },
+            {
+              "title": "2 rounds for time of:",
+              "lines": [
+                "150 double-unders",
+                "100 air squats",
+                "50 alternating dumbbell snatches",
+                "â 35-lb dumbbell",
+                "â 50-lb dumbbell",
+                "Post time to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260828"
         },
         {
-          "date": "2026-08-26",
+          "date": "2026-08-27",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260826",
-                "Learn the Movement â"
+                "Rest Day",
+                "CrossFit Gets Called \"Too Intense,\" But This Gets a Pass?"
               ]
             }
           ],
-          "url": "https://www.crossfit.com/260826"
+          "url": "https://www.crossfit.com/260827"
         }
       ]
     }
