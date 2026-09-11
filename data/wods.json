@@ -1,11 +1,56 @@
 {
-  "last_updated": "2026-09-10T08:28:49.600744",
+  "last_updated": "2026-09-11T08:22:51.332667",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-09-11",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "lat stretch",
+                "sumo squat stretch",
+                "instep rotation"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 prone snow angels",
+                "10 air squats",
+                "10 ring rows",
+                "*remaining time row"
+              ]
+            },
+            {
+              "title": "back squats 15min",
+              "lines": [
+                "4 Sets",
+                "3 (paused) back squats",
+                "@ 77-82%"
+              ]
+            },
+            {
+              "title": "conditioning 16min",
+              "lines": [
+                "for time",
+                "5 rounds",
+                "21 wall balls 20/14lbs",
+                "15/12cal row",
+                "9 strict pull ups",
+                "lactate threshold & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-09-11/"
+        },
         {
           "date": "2026-09-10",
           "sections": [
@@ -535,50 +580,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-08-29/"
-        },
-        {
-          "date": "2026-08-28",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "calf stretch",
-                "hand walk",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 prone snow angels",
-                "10 push ups to downdog",
-                "30sec kb march",
-                "*remaining time double unders"
-              ]
-            },
-            {
-              "title": "bench presses 15min",
-              "lines": [
-                "4 Sets",
-                "4 (paused) bench presses @ 70–75 %"
-              ]
-            },
-            {
-              "title": "conditioning 16min",
-              "lines": [
-                "on every 4:00x 4 rounds",
-                "6 wall walks",
-                "70 double unders",
-                "100m farmers carry 2x32/24kg",
-                "score: slowest round",
-                "aerobic power",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-08-28/"
         }
       ]
     },
@@ -588,19 +589,31 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
-          "date": "2026-09-10",
+          "date": "2026-09-11",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "Are You Sick, Well, or Fit? Why You Need to Track Your Health Markers",
-                "Fitness isn't a look. It's a capacity. CrossFit defines fitness as the ability to perform well across a wide range of tasks, movements, and time domains, and health as the ability to sustain that capacity for life. Picture a continuum running from sickness to wellness to fitness. Where you sit on it determines your buffer against disease. Track the numbers that matter: blood sugar, lipid profiles, and performance markers. Then use what you learn. Every healthy behavior you adopt moves you further up the continuum, building the vitality and resilience that keep decrepitude at bay.",
-                "View the CrossFit map"
+                "Andi"
+              ]
+            },
+            {
+              "title": "For time:",
+              "lines": [
+                "100 hang power snatches",
+                "100 push presses",
+                "100 sumo deadlift high pulls",
+                "100 front squats",
+                "â 45-lb barbell",
+                "â 65-lb barbell",
+                "Compare to",
+                "260429",
+                ".",
+                "Post your time to the comments."
               ]
             }
           ],
-          "url": "https://www.crossfit.com/260910"
+          "url": "https://www.crossfit.com/260911"
         },
         {
           "date": "2026-09-09",
@@ -657,31 +670,14 @@
           "url": "https://www.crossfit.com/260907"
         },
         {
-          "date": "2026-09-06",
+          "date": "2026-09-05",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "Strength Training Isnât Optional for Women. Itâs a Must.",
-                "Most of what passes for \"strength training\" for women isn't building the one thing that determines how they age: muscle. From immune resilience to bone density to metabolic health, the research points to the same lever, and it's not the number on the scale. Here's why every woman needs to put down the light dumbbells and pick up a barbell.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260906"
-        },
-        {
-          "date": "2026-09-05",
-          "sections": [
-            {
-              "title": "5 rounds for time of:",
-              "lines": [
-                "200-meter run",
-                "20 air squats",
-                "20 push-ups",
-                "20 lunges",
-                "Post time to comments."
+                "Saturday",
+                "260905",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -691,53 +687,24 @@
           "date": "2026-09-04",
           "sections": [
             {
-              "title": "21-15-9* reps for time of:",
+              "title": "Workout",
               "lines": [
-                "Clean and jerks",
-                "Echo bike calories",
-                "*Women complete 15-12-9 Echo bike calories."
-              ]
-            },
-            {
-              "title": "Then, at 20 minutes:",
-              "lines": [
-                "Build to a challenging power clean and jerk",
-                "â 65-lb barbell",
-                "â 95-lb barbell",
-                "Post time and load to comments."
+                "Friday",
+                "260904"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260904"
         },
         {
-          "date": "2026-09-03",
+          "date": "2026-09-02",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "A Coach for Coaches: What Chuck Carswell Taught Me",
-                "Chuck Carswell has spent two decades as the heart of CrossFit's coaching education, shaping thousands of trainers with humility, patience, and an infectious laugh. This is a look at the coach behind the seminars: what makes him beloved, what makes him effective, and 10 videos and articles where you can learn from him directly. Whether youâre an athlete trying to improve a little bit every day, a coach who wants to learn from the best, or just want some hard-earned wisdom to help you over your next hurdle in life, this is for you",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260903"
-        },
-        {
-          "date": "2026-09-02",
-          "sections": [
-            {
-              "title": "On a 10-minute clock, complete:",
-              "lines": [
-                "50 burpee pull-ups",
-                "75 kettlebell swings",
-                "Max burpee pull-ups in the remaining time",
-                "The pull-up bar should be 6 inches above the fingertips with arms extended overhead. Your score is the number of burpee pull-ups completed.",
-                "â 35-lb kettlebell",
-                "â 53-lb kettlebell",
-                "Post your reps to the comments."
+                "Wednesday",
+                "260902",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -749,13 +716,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Front squat 3-3-3-2-2-1-1 reps",
-                "Compare to similar on",
-                "260707",
-                "and",
-                "260408",
-                ".",
-                "Post loads to comments."
+                "Tuesday",
+                "260901",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -767,87 +730,27 @@
             {
               "title": "Workout",
               "lines": [
-                "Fight Gone Bad"
-              ]
-            },
-            {
-              "title": "3 rounds for max reps of:",
-              "lines": [
-                "1 minute of wall-ball shots",
-                "1 minute of sumo deadlift high pulls",
-                "1 minute of box jumps",
-                "1 minute of push presses",
-                "1 minute of rowing for calories",
-                "Rest 1 minute",
-                "â 55-lb barbell, 14-lb medicine ball to a 9-foot target, and a 20-inch box",
-                "â 75-lb barbell, 20-lb medicine ball to a 10-foot target, and a 20-inch box",
-                "Compare to",
-                "250503",
-                ".",
-                "Post reps to comments."
+                "Monday",
+                "260831",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260831"
         },
         {
-          "date": "2026-08-30",
+          "date": "2026-08-29",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "More Than a Workout: How the CrossFit Community Rewires Identity",
-                "We don't change our habits through willpower alone; we change them by changing who we surround ourselves with. Decades of research show health behaviors spread through social ties almost like contagion, and CrossFit's group structure puts that mechanism to work by design. This piece breaks down the science behind why the community isn't just a nice bonus; it's doing real, measurable work.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260830"
-        },
-        {
-          "date": "2026-08-29",
-          "sections": [
-            {
-              "title": "For time:",
-              "lines": [
-                "21 power cleans, weight 1",
-                "21 high-ring dips",
-                "15 power cleans, weight 2",
-                "15 high-ring dips",
-                "9 power cleans, weight 3",
-                "9 high-ring dips",
-                "Perform a muscle-up to get to the high rings before beginning each set of dips and any time you break the reps.",
-                "â 95/125/155-lb barbell",
-                "â 135/185/225-lb barbell",
-                "Post time to comments."
+                "Saturday",
+                "260829",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260829"
-        },
-        {
-          "date": "2026-08-28",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "2026 Community Cup Workout 4"
-              ]
-            },
-            {
-              "title": "2 rounds for time of:",
-              "lines": [
-                "150 double-unders",
-                "100 air squats",
-                "50 alternating dumbbell snatches",
-                "â 35-lb dumbbell",
-                "â 50-lb dumbbell",
-                "Post time to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260828"
         }
       ]
     }
