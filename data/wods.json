@@ -1,11 +1,49 @@
 {
-  "last_updated": "2026-09-11T08:22:51.332667",
+  "last_updated": "2026-09-12T08:11:55.303193",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-09-12",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "calf stretch",
+                "samson stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "amrap 5min",
+                "8 good mornings",
+                "8 burpee box step ups",
+                "*partner is biking"
+              ]
+            },
+            {
+              "title": "conditioning 32min",
+              "lines": [
+                "in teams of 2",
+                "amrap 32min",
+                "40 burpee box jumps 60/50cm",
+                "8 wall walks",
+                "40/36/32cal bike",
+                "8 wall walks",
+                "40 deadlifts 80/60kg",
+                "8 wall walks",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-09-12/"
+        },
         {
           "date": "2026-09-11",
           "sections": [
@@ -538,48 +576,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-08-30/"
-        },
-        {
-          "date": "2026-08-29",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "lat stretch",
-                "lying hip cross over"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "amrap 5min",
-                "8 good mornings",
-                "8 elbow rotations",
-                "*partner is skiing"
-              ]
-            },
-            {
-              "title": "conditioning 32min",
-              "lines": [
-                "in teams of 2",
-                "amrap 16min",
-                "20 power cleans",
-                "20 v-ups",
-                "20/18/16cal ski",
-                "into",
-                "amrap 16min",
-                "40 deadlifts",
-                "40 sit ups",
-                "40/36/32cal ski",
-                "barbell: 60/40kg",
-                "score: total rounds + reps",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-08-29/"
         }
       ]
     },
@@ -588,6 +584,22 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-09-12",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Complete as many reps as possible in 12 minutes of:",
+                "2 wall walks",
+                "2 legless rope climbs",
+                "Add 1 wall walk every round.",
+                "Post reps to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260912"
+        },
         {
           "date": "2026-09-11",
           "sections": [
@@ -616,16 +628,29 @@
           "url": "https://www.crossfit.com/260911"
         },
         {
+          "date": "2026-09-10",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Are You Sick, Well, or Fit? Why You Need to Track Your Health Markers",
+                "Fitness isn't a look. It's a capacity. CrossFit defines fitness as the ability to perform well across a wide range of tasks, movements, and time domains, and health as the ability to sustain that capacity for life. Picture a continuum running from sickness to wellness to fitness. Where you sit on it determines your buffer against disease. Track the numbers that matter: blood sugar, lipid profiles, and performance markers. Then use what you learn. Every healthy behavior you adopt moves you further up the continuum, building the vitality and resilience that keep decrepitude at bay.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260910"
+        },
+        {
           "date": "2026-09-09",
           "sections": [
             {
-              "title": "15-12-9 reps for load and time of:",
+              "title": "Workout",
               "lines": [
-                "Hang power cleans",
-                "Bar-facing burpees",
-                "Use the same weight for all three sets.",
-                "All hang power clean sets must be unbroken; if you drop the bar, start the set over.",
-                "Post load and time to comments."
+                "Wednesday",
+                "260909",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -737,20 +762,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260831"
-        },
-        {
-          "date": "2026-08-29",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Saturday",
-                "260829",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260829"
         }
       ]
     }
