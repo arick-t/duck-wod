@@ -1,11 +1,54 @@
 {
-  "last_updated": "2026-09-12T08:11:55.303193",
+  "last_updated": "2026-09-13T08:36:21.610767",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-09-13",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "lat stretch",
+                "samson stretch"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "30sec on / 15sec off x2 rounds",
+                "1. reverse lunges",
+                "2. row",
+                "3. ring rows",
+                "4. burpees"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "emom 35min (7 rounds)",
+                "1. 14-20 goblet reverse lunges",
+                "2. 10-15cal row",
+                "3. 6-8 stricht chin ups",
+                "4. 8-12 devil presses",
+                "5. rest",
+                "Sunday Endurance for Open Gym",
+                "10-20 rounds",
+                "0:30 hard [rpe 9]",
+                "0:30 easy [rpe 2-3]",
+                "choose: run, bike, row, or ski",
+                "aerobic power [vo2 max]",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-09-13/"
+        },
         {
           "date": "2026-09-12",
           "sections": [
@@ -533,49 +576,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-08-31/"
-        },
-        {
-          "date": "2026-08-30",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "lat stretch",
-                "calf stretch"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "30sec on / 15sec off x2 rounds",
-                "1. air squats",
-                "2. row",
-                "3. scap. push ups",
-                "4. burpees"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "emom 35min (7 rounds)",
-                "1. 30-40sec (weighted) wall sit",
-                "2. 10-15cal row",
-                "3. 4-8 ring dips",
-                "4. 10-15 burpee box get over 60/50cm",
-                "5. rest",
-                "Sunday Endurance for Open Gym",
-                "10 rounds",
-                "2:00 work [rpe 6-7]",
-                "0:30 rest",
-                "choose: row, bike, ski, run",
-                "aerobic power [lactate threshold]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-08-30/"
         }
       ]
     },
@@ -584,6 +584,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-09-13",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "In CrossFit, We Donât Negotiate On This and Neither Should You",
+                "Why did CrossFitâs founder insist that \"range of motion is non-negotiableâ? Discover how moving through full, natural ranges in functional movements not only maximizes your performance and power output but also serves as your best defense against injury. Learn when ROM can be modified, how to safely progress toward ideal positions, and why settling for limited movement patterns might hold back your performance potential.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260913"
+        },
         {
           "date": "2026-09-12",
           "sections": [
@@ -646,11 +661,13 @@
           "date": "2026-09-09",
           "sections": [
             {
-              "title": "Workout",
+              "title": "15-12-9 reps for load and time of:",
               "lines": [
-                "Wednesday",
-                "260909",
-                "Learn the Movement â"
+                "Hang power cleans",
+                "Bar-facing burpees",
+                "Use the same weight for all three sets.",
+                "All hang power clean sets must be unbroken; if you drop the bar, start the set over.",
+                "Post load and time to comments."
               ]
             }
           ],
@@ -684,25 +701,40 @@
             {
               "title": "Workout",
               "lines": [
-                "Push press 5-5-5-5-5 reps",
-                "Compare to",
-                "250709",
-                ".",
-                "Post loads to comments."
+                "Monday",
+                "260907",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260907"
         },
         {
-          "date": "2026-09-05",
+          "date": "2026-09-06",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260905",
-                "Learn the Movement â"
+                "Rest Day",
+                "Strength Training Isnât Optional for Women. Itâs a Must.",
+                "Most of what passes for \"strength training\" for women isn't building the one thing that determines how they age: muscle. From immune resilience to bone density to metabolic health, the research points to the same lever, and it's not the number on the scale. Here's why every woman needs to put down the light dumbbells and pick up a barbell.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260906"
+        },
+        {
+          "date": "2026-09-05",
+          "sections": [
+            {
+              "title": "5 rounds for time of:",
+              "lines": [
+                "200-meter run",
+                "20 air squats",
+                "20 push-ups",
+                "20 lunges",
+                "Post time to comments."
               ]
             }
           ],
@@ -712,24 +744,53 @@
           "date": "2026-09-04",
           "sections": [
             {
-              "title": "Workout",
+              "title": "21-15-9* reps for time of:",
               "lines": [
-                "Friday",
-                "260904"
+                "Clean and jerks",
+                "Echo bike calories",
+                "*Women complete 15-12-9 Echo bike calories."
+              ]
+            },
+            {
+              "title": "Then, at 20 minutes:",
+              "lines": [
+                "Build to a challenging power clean and jerk",
+                "â 65-lb barbell",
+                "â 95-lb barbell",
+                "Post time and load to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260904"
         },
         {
-          "date": "2026-09-02",
+          "date": "2026-09-03",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260902",
-                "Learn the Movement â"
+                "Rest Day",
+                "A Coach for Coaches: What Chuck Carswell Taught Me",
+                "Chuck Carswell has spent two decades as the heart of CrossFit's coaching education, shaping thousands of trainers with humility, patience, and an infectious laugh. This is a look at the coach behind the seminars: what makes him beloved, what makes him effective, and 10 videos and articles where you can learn from him directly. Whether youâre an athlete trying to improve a little bit every day, a coach who wants to learn from the best, or just want some hard-earned wisdom to help you over your next hurdle in life, this is for you",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260903"
+        },
+        {
+          "date": "2026-09-02",
+          "sections": [
+            {
+              "title": "On a 10-minute clock, complete:",
+              "lines": [
+                "50 burpee pull-ups",
+                "75 kettlebell swings",
+                "Max burpee pull-ups in the remaining time",
+                "The pull-up bar should be 6 inches above the fingertips with arms extended overhead. Your score is the number of burpee pull-ups completed.",
+                "â 35-lb kettlebell",
+                "â 53-lb kettlebell",
+                "Post your reps to the comments."
               ]
             }
           ],
@@ -741,9 +802,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Tuesday",
-                "260901",
-                "Learn the Movement â"
+                "Front squat 3-3-3-2-2-1-1 reps",
+                "Compare to similar on",
+                "260707",
+                "and",
+                "260408",
+                ".",
+                "Post loads to comments."
               ]
             }
           ],
@@ -755,9 +820,24 @@
             {
               "title": "Workout",
               "lines": [
-                "Monday",
-                "260831",
-                "Learn the Movement â"
+                "Fight Gone Bad"
+              ]
+            },
+            {
+              "title": "3 rounds for max reps of:",
+              "lines": [
+                "1 minute of wall-ball shots",
+                "1 minute of sumo deadlift high pulls",
+                "1 minute of box jumps",
+                "1 minute of push presses",
+                "1 minute of rowing for calories",
+                "Rest 1 minute",
+                "â 55-lb barbell, 14-lb medicine ball to a 9-foot target, and a 20-inch box",
+                "â 75-lb barbell, 20-lb medicine ball to a 10-foot target, and a 20-inch box",
+                "Compare to",
+                "250503",
+                ".",
+                "Post reps to comments."
               ]
             }
           ],
