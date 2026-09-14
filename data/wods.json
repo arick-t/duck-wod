@@ -1,11 +1,63 @@
 {
-  "last_updated": "2026-09-13T08:36:21.610767",
+  "last_updated": "2026-09-14T09:21:27.827924",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-09-14",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "lat stretch",
+                "seated pike stretch",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 straight leg sit ups",
+                "10 push ups",
+                "100m run"
+              ]
+            },
+            {
+              "title": "bench presses 14min",
+              "lines": [
+                "4 Sets",
+                "3 (paused) bench presses @82-85%"
+              ]
+            },
+            {
+              "title": "conditioning 12min",
+              "lines": [
+                "on every 3:00 x 4 rounds",
+                "10 toes to bar",
+                "200m run",
+                "10 toes to bar",
+                "score: slowest round",
+                "skill capacity & aerobic power"
+              ]
+            },
+            {
+              "title": "pulling capacity 8min",
+              "lines": [
+                "for quality",
+                "30sec on / 30sec of x 8 sets",
+                "1. max chin over bar hold",
+                "2. max ring rows",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-09-14/"
+        },
         {
           "date": "2026-09-13",
           "sections": [
@@ -525,57 +577,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-09-01/"
-        },
-        {
-          "date": "2026-08-31",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "lat stretch",
-                "instep rotations",
-                "sumo squat stretch"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 scap. pull ups",
-                "10 reverse lunges",
-                "20sec deep squat hold"
-              ]
-            },
-            {
-              "title": "back squats 14min",
-              "lines": [
-                "4 Sets",
-                "4 (paused) back squats",
-                "@ 72–77 %"
-              ]
-            },
-            {
-              "title": "conditioning 10min",
-              "lines": [
-                "for time",
-                "2-4-6-8-6-4-2",
-                "front squats 70/50kg",
-                "burpee pull ups",
-                "strength endurance & lactate threshold"
-              ]
-            },
-            {
-              "title": "arms & core 6min",
-              "lines": [
-                "20sec on / 15sec off x 10 rounds",
-                "1. pronated barbell curls",
-                "2. barbell straight leg sit ups",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-08-31/"
         }
       ]
     },
@@ -584,6 +585,25 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-09-14",
+          "sections": [
+            {
+              "title": "From 0:00-10:00, for time:",
+              "lines": [
+                "Run 1,600 meters"
+              ]
+            },
+            {
+              "title": "10:00-20:00:",
+              "lines": [
+                "Build to a 5-rep-max bench press",
+                "Post time and load to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260914"
+        },
         {
           "date": "2026-09-13",
           "sections": [
@@ -701,9 +721,11 @@
             {
               "title": "Workout",
               "lines": [
-                "Monday",
-                "260907",
-                "Learn the Movement â"
+                "Push press 5-5-5-5-5 reps",
+                "Compare to",
+                "250709",
+                ".",
+                "Post loads to comments."
               ]
             }
           ],
@@ -813,35 +835,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260901"
-        },
-        {
-          "date": "2026-08-31",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Fight Gone Bad"
-              ]
-            },
-            {
-              "title": "3 rounds for max reps of:",
-              "lines": [
-                "1 minute of wall-ball shots",
-                "1 minute of sumo deadlift high pulls",
-                "1 minute of box jumps",
-                "1 minute of push presses",
-                "1 minute of rowing for calories",
-                "Rest 1 minute",
-                "â 55-lb barbell, 14-lb medicine ball to a 9-foot target, and a 20-inch box",
-                "â 75-lb barbell, 20-lb medicine ball to a 10-foot target, and a 20-inch box",
-                "Compare to",
-                "250503",
-                ".",
-                "Post reps to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260831"
         }
       ]
     }
