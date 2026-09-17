@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-09-16T08:54:27.860378",
+  "last_updated": "2026-09-17T08:59:19.025116",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-09-17",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "lat stretch",
+                "scorpions",
+                "crab stretch"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 scap. push ups",
+                "10 ring rows",
+                "30sec plank hold"
+              ]
+            },
+            {
+              "title": "chin ups 12min",
+              "lines": [
+                "find a heavy set of",
+                "3 paused chin ups"
+              ]
+            },
+            {
+              "title": "conditioning 20min",
+              "lines": [
+                "amrap 20min",
+                "20 pull ups",
+                "30 hand release push ups",
+                "40 sit ups",
+                "muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-09-17/"
+        },
         {
           "date": "2026-09-16",
           "sections": [
@@ -557,49 +599,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-09-04/"
-        },
-        {
-          "date": "2026-09-03",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "lat stretch",
-                "thoracic rotatios",
-                "calf stretch"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "100m run",
-                "10 ring rows",
-                "30sec plank hold"
-              ]
-            },
-            {
-              "title": "bent over row 12 min",
-              "lines": [
-                "4 sets",
-                "12 barbell bent over rows"
-              ]
-            },
-            {
-              "title": "conditioning 20min",
-              "lines": [
-                "for time",
-                "5 rounds",
-                "400m run",
-                "2 rope climbs",
-                "100m double db overhead carry 2x15/10kg",
-                "aerobic capacity",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-09-03/"
         }
       ]
     },
@@ -614,32 +613,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Service Cup Workout 3",
-                "Part A"
-              ]
-            },
-            {
-              "title": "On a 15-minute clock, for time:",
-              "lines": [
-                "10 shuttle runs",
-                "15 clean and jerks",
-                "10 shuttle runs",
-                "12 clean and jerks",
-                "10 shuttle runs",
-                "9 clean and jerks",
-                "10 shuttle runs",
-                "9 clean and jerks",
-                "One shuttle run is 25 feet down and 25 feet back.",
-                "â 95-lb barbell",
-                "â 135-lb barbell",
-                "Part B"
-              ]
-            },
-            {
-              "title": "At 15 minutes, on a 3-minute clock:",
-              "lines": [
-                "Build to a 1-rep-max clean and jerk",
-                "Post time and heaviest lift to comments."
+                "Wednesday",
+                "260916",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -745,31 +721,14 @@
           "url": "https://www.crossfit.com/260911"
         },
         {
-          "date": "2026-09-10",
+          "date": "2026-09-09",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "Are You Sick, Well, or Fit? Why You Need to Track Your Health Markers",
-                "Fitness isn't a look. It's a capacity. CrossFit defines fitness as the ability to perform well across a wide range of tasks, movements, and time domains, and health as the ability to sustain that capacity for life. Picture a continuum running from sickness to wellness to fitness. Where you sit on it determines your buffer against disease. Track the numbers that matter: blood sugar, lipid profiles, and performance markers. Then use what you learn. Every healthy behavior you adopt moves you further up the continuum, building the vitality and resilience that keep decrepitude at bay.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260910"
-        },
-        {
-          "date": "2026-09-09",
-          "sections": [
-            {
-              "title": "15-12-9 reps for load and time of:",
-              "lines": [
-                "Hang power cleans",
-                "Bar-facing burpees",
-                "Use the same weight for all three sets.",
-                "All hang power clean sets must be unbroken; if you drop the bar, start the set over.",
-                "Post load and time to comments."
+                "Wednesday",
+                "260909",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -803,9 +762,11 @@
             {
               "title": "Workout",
               "lines": [
-                "Monday",
-                "260907",
-                "Learn the Movement â"
+                "Push press 5-5-5-5-5 reps",
+                "Compare to",
+                "250709",
+                ".",
+                "Post loads to comments."
               ]
             }
           ],
