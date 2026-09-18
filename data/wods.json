@@ -1,11 +1,57 @@
 {
-  "last_updated": "2026-09-17T08:59:19.025116",
+  "last_updated": "2026-09-18T08:34:05.638663",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-09-18",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "calf stretch",
+                "90/90 hip rotatios",
+                "lying hip cross over",
+                "hand walk"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 cossack squats",
+                "10 good mornings",
+                "20 single unders"
+              ]
+            },
+            {
+              "title": "sumo deadlifts 14min",
+              "lines": [
+                "4 Sets",
+                "3 (paused) sumo deadlifts @ 82-85 %"
+              ]
+            },
+            {
+              "title": "conditioning 17min",
+              "lines": [
+                "for time",
+                "5 rounds",
+                "20-40-60-80-100",
+                "double unders",
+                "2-4-6-8-10",
+                "deadlifts 100/80kg",
+                "*15/12cal row after each round",
+                "muscular endurance & aerobic power",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-09-18/"
+        },
         {
           "date": "2026-09-17",
           "sections": [
@@ -564,41 +610,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-09-05/"
-        },
-        {
-          "date": "2026-09-04",
-          "sections": [
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "40 on / 20 off x6",
-                "1. scorpions / lat stretch",
-                "2. reverse lunges / elbow rotations",
-                "3. push ups / deadlifts"
-              ]
-            },
-            {
-              "title": "bench presses 13min",
-              "lines": [
-                "4 Sets",
-                "4 (paused) bench presses @ 72–77%"
-              ]
-            },
-            {
-              "title": "benchmark conditioning 19min",
-              "lines": [
-                "\"The Chief\"",
-                "amrap 3min x 5 rounds",
-                "3 power cleans 60/40kg",
-                "6 push ups",
-                "9 air squats",
-                "1min rest between rounds",
-                "*pick up where you left off",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-09-04/"
         }
       ]
     },
@@ -608,14 +619,83 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
+          "date": "2026-09-18",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Service Cup Workout 1"
+              ]
+            },
+            {
+              "title": "For time:",
+              "lines": [
+                "50 wall-ball shots",
+                "50 box jump-overs",
+                "50 wall-ball shots",
+                "50 medicine-ball box step-overs",
+                "50 wall-ball shots",
+                "50 lateral burpee box jump-overs"
+              ]
+            },
+            {
+              "title": "Time cap: 25 minutes",
+              "lines": [
+                "â 14-lb medicine ball to a 10-foot target and a 20-inch box",
+                "â 20-lb medicine ball to a 10-foot target and a 24-inch box",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260918"
+        },
+        {
+          "date": "2026-09-17",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Optimal Nutrition: The Goalpost Doesnât Move",
+                "Everyone's got an opinion on food. Ours hasn't changed in 25 years, because it works. Food quality and quantity. Activity levels. Strategies that hold up for everyday athletes, elite competitors, and anyone managing chronic disease. This episode digs into all of it. No trends. No gimmicks. Just what the science and hundreds of thousands of CrossFit athletes have proven. And if you want to learn even more about how to dial in your nutrition or help others do the same, check out our Applied Nutrition courses near you.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260917"
+        },
+        {
           "date": "2026-09-16",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260916",
-                "Learn the Movement â"
+                "Service Cup Workout 3",
+                "Part A"
+              ]
+            },
+            {
+              "title": "On a 15-minute clock, for time:",
+              "lines": [
+                "10 shuttle runs",
+                "15 clean and jerks",
+                "10 shuttle runs",
+                "12 clean and jerks",
+                "10 shuttle runs",
+                "9 clean and jerks",
+                "10 shuttle runs",
+                "9 clean and jerks",
+                "One shuttle run is 25 feet down and 25 feet back.",
+                "â 95-lb barbell",
+                "â 135-lb barbell",
+                "Part B"
+              ]
+            },
+            {
+              "title": "At 15 minutes, on a 3-minute clock:",
+              "lines": [
+                "Build to a 1-rep-max clean and jerk",
+                "Post time and heaviest lift to comments."
               ]
             }
           ],
@@ -721,14 +801,31 @@
           "url": "https://www.crossfit.com/260911"
         },
         {
-          "date": "2026-09-09",
+          "date": "2026-09-10",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260909",
-                "Learn the Movement â"
+                "Rest Day",
+                "Are You Sick, Well, or Fit? Why You Need to Track Your Health Markers",
+                "Fitness isn't a look. It's a capacity. CrossFit defines fitness as the ability to perform well across a wide range of tasks, movements, and time domains, and health as the ability to sustain that capacity for life. Picture a continuum running from sickness to wellness to fitness. Where you sit on it determines your buffer against disease. Track the numbers that matter: blood sugar, lipid profiles, and performance markers. Then use what you learn. Every healthy behavior you adopt moves you further up the continuum, building the vitality and resilience that keep decrepitude at bay.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260910"
+        },
+        {
+          "date": "2026-09-09",
+          "sections": [
+            {
+              "title": "15-12-9 reps for load and time of:",
+              "lines": [
+                "Hang power cleans",
+                "Bar-facing burpees",
+                "Use the same weight for all three sets.",
+                "All hang power clean sets must be unbroken; if you drop the bar, start the set over.",
+                "Post load and time to comments."
               ]
             }
           ],
@@ -762,11 +859,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Push press 5-5-5-5-5 reps",
-                "Compare to",
-                "250709",
-                ".",
-                "Post loads to comments."
+                "Monday",
+                "260907",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -776,28 +871,17 @@
           "date": "2026-09-05",
           "sections": [
             {
-              "title": "Workout",
+              "title": "5 rounds for time of:",
               "lines": [
-                "Saturday",
-                "260905",
-                "Learn the Movement â"
+                "200-meter run",
+                "20 air squats",
+                "20 push-ups",
+                "20 lunges",
+                "Post time to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260905"
-        },
-        {
-          "date": "2026-09-04",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Friday",
-                "260904"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260904"
         }
       ]
     }
