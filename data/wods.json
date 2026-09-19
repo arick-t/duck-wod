@@ -1,11 +1,51 @@
 {
-  "last_updated": "2026-09-18T08:34:05.638663",
+  "last_updated": "2026-09-19T08:21:16.089762",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-09-19",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "sumo squat stretch",
+                "instep rotations",
+                "lat stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "amrap 5min",
+                "8 db deadlifts",
+                "8 air squats",
+                "8 prone snow angels",
+                "*partner is skiing"
+              ]
+            },
+            {
+              "title": "conditioning 30min",
+              "lines": [
+                "in teams of 2",
+                "for time",
+                "80 burpees over db",
+                "80 synchro db goblet squats",
+                "80 synchro db hang snatches",
+                "80 synchro db push press",
+                "160/145/130cal ski",
+                "*partition however",
+                "dumbbell: 25/17,5kg",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-09-19/"
+        },
         {
           "date": "2026-09-18",
           "sections": [
@@ -573,43 +613,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-09-06/"
-        },
-        {
-          "date": "2026-09-05",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "calf stretch",
-                "samson stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "amrap 5min",
-                "10 burpees",
-                "10 db deadlifts",
-                "*partner is rowing"
-              ]
-            },
-            {
-              "title": "conditioning 30min",
-              "lines": [
-                "in teams of 2",
-                "for time",
-                "3 rounds",
-                "1000/950/900m row",
-                "120 fat rope single unders",
-                "28 devil presses 22,5/15kg",
-                "lactate threshold & muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-09-05/"
         }
       ]
     },
@@ -618,6 +621,34 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-09-19",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Service Cup Workout 4"
+              ]
+            },
+            {
+              "title": "For time:",
+              "lines": [
+                "100 double-unders",
+                "50 alternating dumbbell snatches",
+                "100 double-unders"
+              ]
+            },
+            {
+              "title": "Time cap: 5 minutes",
+              "lines": [
+                "â 35-lb dumbbell",
+                "â 50-lb dumbbell",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260919"
+        },
         {
           "date": "2026-09-18",
           "sections": [
@@ -801,21 +832,6 @@
           "url": "https://www.crossfit.com/260911"
         },
         {
-          "date": "2026-09-10",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Are You Sick, Well, or Fit? Why You Need to Track Your Health Markers",
-                "Fitness isn't a look. It's a capacity. CrossFit defines fitness as the ability to perform well across a wide range of tasks, movements, and time domains, and health as the ability to sustain that capacity for life. Picture a continuum running from sickness to wellness to fitness. Where you sit on it determines your buffer against disease. Track the numbers that matter: blood sugar, lipid profiles, and performance markers. Then use what you learn. Every healthy behavior you adopt moves you further up the continuum, building the vitality and resilience that keep decrepitude at bay.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260910"
-        },
-        {
           "date": "2026-09-09",
           "sections": [
             {
@@ -835,19 +851,11 @@
           "date": "2026-09-08",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "800-meter run",
-                "42 kettlebell swings",
-                "21 kettlebell goblet squats",
-                "30 kettlebell swings",
-                "15 kettlebell goblet squats",
-                "18 kettlebell swings",
-                "9 kettlebell goblet squats",
-                "800-meter run",
-                "â 53-lb kettlebell",
-                "â 70-lb kettlebell",
-                "Post time to comments."
+                "Tuesday",
+                "260908",
+                "See Course Photos â"
               ]
             }
           ],
@@ -866,22 +874,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260907"
-        },
-        {
-          "date": "2026-09-05",
-          "sections": [
-            {
-              "title": "5 rounds for time of:",
-              "lines": [
-                "200-meter run",
-                "20 air squats",
-                "20 push-ups",
-                "20 lunges",
-                "Post time to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260905"
         }
       ]
     }
