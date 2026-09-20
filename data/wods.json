@@ -1,11 +1,62 @@
 {
-  "last_updated": "2026-09-19T08:21:16.089762",
+  "last_updated": "2026-09-20T08:52:45.333927",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-09-20",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "crab stretch",
+                "hand walk",
+                "calf stretch"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "30sec on / 15sec off x2 rounds",
+                "1. scap. push ups",
+                "2. row",
+                "3. straight leg sit ups",
+                "4. squat jumps"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "emom 35min (7 rounds)",
+                "1. 10-15 bench dips",
+                "2. 10-15cal row",
+                "3. 6-8 stricht toes to bar",
+                "4. 12-20 box jumps",
+                "5. rest",
+                "Sunday Endurance for Open Gym",
+                "[wave 1]",
+                "2:00 at rpe 5, 1:00 easy",
+                "1:30 at rpe 6, 1:00 easy",
+                "1:00 at rpe 7, 1:00 easy",
+                "0:30 at rpe 8",
+                "5:00 easy between waves",
+                "[wave 2]",
+                "2:00 at rpe 6, 1:00 easy",
+                "1:30 at rpe 7, 1:00 easy",
+                "1:00 at rpe 8, 1:00 easy",
+                "0:30 at rpe 9",
+                "choose: run, bike, row, or ski",
+                "aerobic power [lactate threshold]",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-09-20/"
+        },
         {
           "date": "2026-09-19",
           "sections": [
@@ -568,51 +619,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-09-07/"
-        },
-        {
-          "date": "2026-09-06",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "lat stretch",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "30sec on / 15sec off x2 rounds",
-                "1. scap. push ups",
-                "2. row",
-                "3. hollow hold",
-                "4. air squats"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "emom 35min (7 rounds)",
-                "1. 20 handstand shoulder taps",
-                "2. 10-15cal row",
-                "3. 6-8 stricht toes to bar",
-                "4. 12-16 goblet cossack squats",
-                "5. rest",
-                "Sunday Endurance for Open Gym",
-                "2 sets",
-                "3:00 bike at rpe 4",
-                "3:00 bike at rpe 5",
-                "3:00 bike at rpe 6",
-                "3:00 bike at rpe 7",
-                "rest 2:00 between sets",
-                "aerobic power [lactate threshold]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-09-06/"
         }
       ]
     },
@@ -621,6 +627,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-09-20",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Ring Training Part 1: CrossFit And Gymnastics Rings â A Perfect Marriage",
+                "Two circles and a set of straps look simple, but rings expose weaknesses that a fixed bar can hide, no matter how strong you are on it. This four-part series traces rings from gymnastics' men's-only apparatus to a core piece of CrossFit's movement library, then walks the full path from support hold to muscle-up to long-term shoulder health.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260920"
+        },
         {
           "date": "2026-09-19",
           "sections": [
@@ -681,52 +702,14 @@
           "url": "https://www.crossfit.com/260918"
         },
         {
-          "date": "2026-09-17",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Optimal Nutrition: The Goalpost Doesnât Move",
-                "Everyone's got an opinion on food. Ours hasn't changed in 25 years, because it works. Food quality and quantity. Activity levels. Strategies that hold up for everyday athletes, elite competitors, and anyone managing chronic disease. This episode digs into all of it. No trends. No gimmicks. Just what the science and hundreds of thousands of CrossFit athletes have proven. And if you want to learn even more about how to dial in your nutrition or help others do the same, check out our Applied Nutrition courses near you.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260917"
-        },
-        {
           "date": "2026-09-16",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Service Cup Workout 3",
-                "Part A"
-              ]
-            },
-            {
-              "title": "On a 15-minute clock, for time:",
-              "lines": [
-                "10 shuttle runs",
-                "15 clean and jerks",
-                "10 shuttle runs",
-                "12 clean and jerks",
-                "10 shuttle runs",
-                "9 clean and jerks",
-                "10 shuttle runs",
-                "9 clean and jerks",
-                "One shuttle run is 25 feet down and 25 feet back.",
-                "â 95-lb barbell",
-                "â 135-lb barbell",
-                "Part B"
-              ]
-            },
-            {
-              "title": "At 15 minutes, on a 3-minute clock:",
-              "lines": [
-                "Build to a 1-rep-max clean and jerk",
-                "Post time and heaviest lift to comments."
+                "Wednesday",
+                "260916",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -738,17 +721,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Service Cup Workout 2",
-                "Complete as many reps as possible in 8 minutes of:",
-                "50-foot back rack lunges",
-                "25 pull-ups",
-                "50-foot front rack lunges",
-                "25 chest-to-bar pull-ups",
-                "50-foot overhead lunges",
-                "Max bar muscle-ups",
-                "â 80-lb barbell",
-                "â 115-lb barbell",
-                "Post reps to comments."
+                "Tuesday",
+                "260915",
+                "See Course Photos â"
               ]
             }
           ],
@@ -758,35 +733,15 @@
           "date": "2026-09-14",
           "sections": [
             {
-              "title": "From 0:00-10:00, for time:",
+              "title": "Workout",
               "lines": [
-                "Run 1,600 meters"
-              ]
-            },
-            {
-              "title": "10:00-20:00:",
-              "lines": [
-                "Build to a 5-rep-max bench press",
-                "Post time and load to comments."
+                "Monday",
+                "260914",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260914"
-        },
-        {
-          "date": "2026-09-13",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "In CrossFit, We Donât Negotiate On This and Neither Should You",
-                "Why did CrossFitâs founder insist that \"range of motion is non-negotiableâ? Discover how moving through full, natural ranges in functional movements not only maximizes your performance and power output but also serves as your best defense against injury. Learn when ROM can be modified, how to safely progress toward ideal positions, and why settling for limited movement patterns might hold back your performance potential.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260913"
         },
         {
           "date": "2026-09-12",
@@ -794,11 +749,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Complete as many reps as possible in 12 minutes of:",
-                "2 wall walks",
-                "2 legless rope climbs",
-                "Add 1 wall walk every round.",
-                "Post reps to comments."
+                "Saturday",
+                "260912",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -810,22 +763,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Andi"
-              ]
-            },
-            {
-              "title": "For time:",
-              "lines": [
-                "100 hang power snatches",
-                "100 push presses",
-                "100 sumo deadlift high pulls",
-                "100 front squats",
-                "â 45-lb barbell",
-                "â 65-lb barbell",
-                "Compare to",
-                "260429",
-                ".",
-                "Post your time to the comments."
+                "Friday",
+                "260911",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -835,13 +775,11 @@
           "date": "2026-09-09",
           "sections": [
             {
-              "title": "15-12-9 reps for load and time of:",
+              "title": "Workout",
               "lines": [
-                "Hang power cleans",
-                "Bar-facing burpees",
-                "Use the same weight for all three sets.",
-                "All hang power clean sets must be unbroken; if you drop the bar, start the set over.",
-                "Post load and time to comments."
+                "Wednesday",
+                "260909",
+                "Learn the Movement â"
               ]
             }
           ],
