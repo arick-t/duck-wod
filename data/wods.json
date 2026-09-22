@@ -1,11 +1,56 @@
 {
-  "last_updated": "2026-09-21T09:22:46.223086",
+  "last_updated": "2026-09-22T08:52:14.563308",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-09-22",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "calf stretch",
+                "seated pike stretch",
+                "scorpions",
+                "thoracic rotations"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 straight leg sit ups",
+                "10 scap. push ups",
+                "10 squat jumps"
+              ]
+            },
+            {
+              "title": "bench presses 15min",
+              "lines": [
+                "4 Sets",
+                "2 bench presses @85-90%"
+              ]
+            },
+            {
+              "title": "conditioning 17min",
+              "lines": [
+                "for time",
+                "21-15-9-15-21",
+                "v-ups",
+                "high box jumps 75/60cm",
+                "5 wall walks* after each round",
+                "*rx+: 5 strict handstand push ups",
+                "muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-09-22/"
+        },
         {
           "date": "2026-09-21",
           "sections": [
@@ -587,31 +632,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-09-09/"
-        },
-        {
-          "date": "2026-09-08",
-          "sections": [
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "line drills"
-              ]
-            },
-            {
-              "title": "conditioning 32min",
-              "lines": [
-                "on every 8:00 x 4 rounds",
-                "40 air squats",
-                "200m run",
-                "20 pull ups",
-                "40 sit ups",
-                "score: slowest round",
-                "muscular endurance & aerobic capacity",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-09-08/"
         }
       ]
     },
@@ -626,9 +646,19 @@
             {
               "title": "Workout",
               "lines": [
-                "Monday",
-                "260921",
-                "Learn the Movement â"
+                "Grace"
+              ]
+            },
+            {
+              "title": "For time:",
+              "lines": [
+                "30 clean and jerks",
+                "â 95-lb barbell",
+                "â 135-lb barbell",
+                "Compare to",
+                "260113",
+                ".",
+                "Post time to comments."
               ]
             }
           ],
@@ -650,195 +680,35 @@
           "url": "https://www.crossfit.com/260920"
         },
         {
-          "date": "2026-09-19",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Service Cup Workout 4"
-              ]
-            },
-            {
-              "title": "For time:",
-              "lines": [
-                "100 double-unders",
-                "50 alternating dumbbell snatches",
-                "100 double-unders"
-              ]
-            },
-            {
-              "title": "Time cap: 5 minutes",
-              "lines": [
-                "â 35-lb dumbbell",
-                "â 50-lb dumbbell",
-                "Post time to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260919"
-        },
-        {
           "date": "2026-09-18",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260918",
-                "Learn the Movement â"
+                "Service Cup Workout 1"
+              ]
+            },
+            {
+              "title": "For time:",
+              "lines": [
+                "50 wall-ball shots",
+                "50 box jump-overs",
+                "50 wall-ball shots",
+                "50 medicine-ball box step-overs",
+                "50 wall-ball shots",
+                "50 lateral burpee box jump-overs"
+              ]
+            },
+            {
+              "title": "Time cap: 25 minutes",
+              "lines": [
+                "â 14-lb medicine ball to a 10-foot target and a 20-inch box",
+                "â 20-lb medicine ball to a 10-foot target and a 24-inch box",
+                "Post time to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260918"
-        },
-        {
-          "date": "2026-09-17",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Optimal Nutrition: The Goalpost Doesnât Move",
-                "Everyone's got an opinion on food. Ours hasn't changed in 25 years, because it works. Food quality and quantity. Activity levels. Strategies that hold up for everyday athletes, elite competitors, and anyone managing chronic disease. This episode digs into all of it. No trends. No gimmicks. Just what the science and hundreds of thousands of CrossFit athletes have proven. And if you want to learn even more about how to dial in your nutrition or help others do the same, check out our Applied Nutrition courses near you.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260917"
-        },
-        {
-          "date": "2026-09-16",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Service Cup Workout 3",
-                "Part A"
-              ]
-            },
-            {
-              "title": "On a 15-minute clock, for time:",
-              "lines": [
-                "10 shuttle runs",
-                "15 clean and jerks",
-                "10 shuttle runs",
-                "12 clean and jerks",
-                "10 shuttle runs",
-                "9 clean and jerks",
-                "10 shuttle runs",
-                "9 clean and jerks",
-                "One shuttle run is 25 feet down and 25 feet back.",
-                "â 95-lb barbell",
-                "â 135-lb barbell",
-                "Part B"
-              ]
-            },
-            {
-              "title": "At 15 minutes, on a 3-minute clock:",
-              "lines": [
-                "Build to a 1-rep-max clean and jerk",
-                "Post time and heaviest lift to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260916"
-        },
-        {
-          "date": "2026-09-15",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Service Cup Workout 2",
-                "Complete as many reps as possible in 8 minutes of:",
-                "50-foot back rack lunges",
-                "25 pull-ups",
-                "50-foot front rack lunges",
-                "25 chest-to-bar pull-ups",
-                "50-foot overhead lunges",
-                "Max bar muscle-ups",
-                "â 80-lb barbell",
-                "â 115-lb barbell",
-                "Post reps to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260915"
-        },
-        {
-          "date": "2026-09-14",
-          "sections": [
-            {
-              "title": "From 0:00-10:00, for time:",
-              "lines": [
-                "Run 1,600 meters"
-              ]
-            },
-            {
-              "title": "10:00-20:00:",
-              "lines": [
-                "Build to a 5-rep-max bench press",
-                "Post time and load to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260914"
-        },
-        {
-          "date": "2026-09-12",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Saturday",
-                "260912",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260912"
-        },
-        {
-          "date": "2026-09-11",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Friday",
-                "260911",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260911"
-        },
-        {
-          "date": "2026-09-09",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Wednesday",
-                "260909",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260909"
-        },
-        {
-          "date": "2026-09-08",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Tuesday",
-                "260908",
-                "See Course Photos â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260908"
         }
       ]
     }
