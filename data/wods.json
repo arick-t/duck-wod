@@ -1,11 +1,56 @@
 {
-  "last_updated": "2026-09-22T08:52:14.563308",
+  "last_updated": "2026-09-23T08:54:03.972853",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-09-23",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "sumo squat stretch",
+                "lat stretch",
+                "instep rotations"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 scap. pull ups",
+                "10 reverse lunges",
+                "20sec deep squat hold",
+                "*remaining time bike/ski"
+              ]
+            },
+            {
+              "title": "back squats 16min",
+              "lines": [
+                "4 Sets",
+                "2 back squats",
+                "@ 85-90%"
+              ]
+            },
+            {
+              "title": "conditioning 17min",
+              "lines": [
+                "amrap 2min x 6 rounds",
+                "18/14cal bike/ski",
+                "max strict pull ups",
+                "1min rest between amraps",
+                "score: total pull ups",
+                "aerobic power & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-09-23/"
+        },
         {
           "date": "2026-09-22",
           "sections": [
@@ -589,49 +634,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-09-10/"
-        },
-        {
-          "date": "2026-09-09",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "crab stretch",
-                "instep rotation",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "on every 2:00 x 2 rounds",
-                "10 prone snow angels",
-                "10 scap. push ups",
-                "*remaining time bike/ski"
-              ]
-            },
-            {
-              "title": "bench presses 14min",
-              "lines": [
-                "4 Sets",
-                "3 (paused) bench presses @77-82%"
-              ]
-            },
-            {
-              "title": "conditioning 18min",
-              "lines": [
-                "amrap 3:00 x 6",
-                "8/6 ring dips",
-                "10 hand release push ups",
-                "max cal bike/ski",
-                "score: total cals",
-                "muscular endurance & aerobic power",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-09-09/"
         }
       ]
     },
@@ -640,6 +642,39 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-09-23",
+          "sections": [
+            {
+              "title": "On a 15-minute clock, complete:",
+              "lines": [
+                "100 burpees*",
+                "Max shuttle box jump-overs in the remaining time",
+                "*Every minute, starting at 0:00, complete 4 shuttle box jump-overs.",
+                "For the shuttle box jump-overs, mark two lines 10 feet apart and place the box in the middle. To complete 1 rep, start standing behind the first marked line, run to the box, jump over the box, run past the second marked line, and make a two-hand and two-foot touch behind the line before starting the next rep.",
+                "If you have a weight vest (14/20 lb), use it.",
+                "â 20-inch box",
+                "â 24-inch box",
+                "Post reps to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260923"
+        },
+        {
+          "date": "2026-09-22",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Tuesday",
+                "260922",
+                "See Course Photos â"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260922"
+        },
         {
           "date": "2026-09-21",
           "sections": [
@@ -680,6 +715,34 @@
           "url": "https://www.crossfit.com/260920"
         },
         {
+          "date": "2026-09-19",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Service Cup Workout 4"
+              ]
+            },
+            {
+              "title": "For time:",
+              "lines": [
+                "100 double-unders",
+                "50 alternating dumbbell snatches",
+                "100 double-unders"
+              ]
+            },
+            {
+              "title": "Time cap: 5 minutes",
+              "lines": [
+                "â 35-lb dumbbell",
+                "â 50-lb dumbbell",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260919"
+        },
+        {
           "date": "2026-09-18",
           "sections": [
             {
@@ -709,6 +772,76 @@
             }
           ],
           "url": "https://www.crossfit.com/260918"
+        },
+        {
+          "date": "2026-09-16",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Wednesday",
+                "260916",
+                "Learn the Movement â"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260916"
+        },
+        {
+          "date": "2026-09-15",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Tuesday",
+                "260915",
+                "See Course Photos â"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260915"
+        },
+        {
+          "date": "2026-09-14",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Monday",
+                "260914",
+                "Learn the Movement â"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260914"
+        },
+        {
+          "date": "2026-09-12",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Saturday",
+                "260912",
+                "Learn the Movement â"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260912"
+        },
+        {
+          "date": "2026-09-11",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Friday",
+                "260911",
+                "Learn the Movement â"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260911"
         }
       ]
     }
