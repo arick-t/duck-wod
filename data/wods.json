@@ -1,11 +1,55 @@
 {
-  "last_updated": "2026-09-23T08:54:03.972853",
+  "last_updated": "2026-09-24T08:49:33.225214",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-09-24",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "calf stretch",
+                "90/90 hip rotatios",
+                "lying hip cross over",
+                "hand walk"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 cossack squats",
+                "10/8cal row",
+                "20 single unders"
+              ]
+            },
+            {
+              "title": "sumo deadlifts 15min",
+              "lines": [
+                "4 Sets",
+                "2 sumo deadlifts @ 85-90%"
+              ]
+            },
+            {
+              "title": "conditioning 18min",
+              "lines": [
+                "on every 3:30 x 5 rounds",
+                "50 double unders",
+                "7 double db devil presses 2x15/10kg",
+                "9/7cal row",
+                "score: slowest round",
+                "anaerobic capacity",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-09-24/"
+        },
         {
           "date": "2026-09-23",
           "sections": [
@@ -584,56 +628,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-09-11/"
-        },
-        {
-          "date": "2026-09-10",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "lat stretch",
-                "calf stretch",
-                "seated pike stretch",
-                "lying hip cross over"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 straight leg sit ups",
-                "10 db deadlifts",
-                "20 single unders"
-              ]
-            },
-            {
-              "title": "conditioning 20min",
-              "lines": [
-                "3 rounds",
-                "50 double unders",
-                "30 toes to bar",
-                "into",
-                "3 rounds",
-                "50 double unders",
-                "30 alternating db hang snatches 22,5/15kg",
-                "muscular endurance & aerobic power",
-                "rx+: 25/17,5kg"
-              ]
-            },
-            {
-              "title": "core & carry 12min",
-              "lines": [
-                "for quality",
-                "30sec on/ 30sec of x 12 rounds",
-                "1. db pull throughs",
-                "2. db single arm overhead carry (r/l)",
-                "3. db suitcase carry (l/r)",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-09-10/"
         }
       ]
     },
@@ -642,6 +636,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-09-24",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Ring Training Part 2: The Ring Positions Every Athlete Should Own",
+                "Six positions form the entire foundation for ring work: the support hold, ring rows, ring pull-ups, ring push-ups, ring dips, and the false grip. Skip any one of them and the rings will find the gap. Part 2 of our series breaks down each piece so your first muscle-up attempt isn't your first real test of them.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260924"
+        },
         {
           "date": "2026-09-23",
           "sections": [
@@ -665,11 +674,14 @@
           "date": "2026-09-22",
           "sections": [
             {
-              "title": "Workout",
+              "title": "3 rounds for time of:",
               "lines": [
-                "Tuesday",
-                "260922",
-                "See Course Photos â"
+                "15 thrusters",
+                "15 pull-ups",
+                "400-meter run",
+                "â 65-lb barbell",
+                "â 95-lb barbell",
+                "Post time to comments."
               ]
             }
           ],
@@ -772,6 +784,21 @@
             }
           ],
           "url": "https://www.crossfit.com/260918"
+        },
+        {
+          "date": "2026-09-17",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Optimal Nutrition: The Goalpost Doesnât Move",
+                "Everyone's got an opinion on food. Ours hasn't changed in 25 years, because it works. Food quality and quantity. Activity levels. Strategies that hold up for everyday athletes, elite competitors, and anyone managing chronic disease. This episode digs into all of it. No trends. No gimmicks. Just what the science and hundreds of thousands of CrossFit athletes have proven. And if you want to learn even more about how to dial in your nutrition or help others do the same, check out our Applied Nutrition courses near you.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260917"
         },
         {
           "date": "2026-09-16",
