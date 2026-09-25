@@ -1,11 +1,56 @@
 {
-  "last_updated": "2026-09-24T08:49:33.225214",
+  "last_updated": "2026-09-25T09:10:18.692272",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-09-25",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "instep rotations",
+                "hand walk",
+                "lat stretch",
+                "crab stretch"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "2-4-6-8…",
+                "straight leg sit ups",
+                "plank push ups",
+                "box step ups"
+              ]
+            },
+            {
+              "title": "ring dips 12min",
+              "lines": [
+                "on every 2:00 x 6 sets",
+                "3-5 (weighted) ring dips"
+              ]
+            },
+            {
+              "title": "conditioning 16min",
+              "lines": [
+                "for time",
+                "4 rounds",
+                "20 toes to bar",
+                "20 db push ups",
+                "20 single db box step ups 60/50cm",
+                "dumbbells: 22,5/15kg",
+                "muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-09-25/"
+        },
         {
           "date": "2026-09-24",
           "sections": [
@@ -583,51 +628,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-09-12/"
-        },
-        {
-          "date": "2026-09-11",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "lat stretch",
-                "sumo squat stretch",
-                "instep rotation"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 prone snow angels",
-                "10 air squats",
-                "10 ring rows",
-                "*remaining time row"
-              ]
-            },
-            {
-              "title": "back squats 15min",
-              "lines": [
-                "4 Sets",
-                "3 (paused) back squats",
-                "@ 77-82%"
-              ]
-            },
-            {
-              "title": "conditioning 16min",
-              "lines": [
-                "for time",
-                "5 rounds",
-                "21 wall balls 20/14lbs",
-                "15/12cal row",
-                "9 strict pull ups",
-                "lactate threshold & muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-09-11/"
         }
       ]
     },
@@ -636,6 +636,20 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-09-25",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Friday",
+                "260925",
+                "Learn the Movement â"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260925"
+        },
         {
           "date": "2026-09-24",
           "sections": [
@@ -693,19 +707,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Grace"
-              ]
-            },
-            {
-              "title": "For time:",
-              "lines": [
-                "30 clean and jerks",
-                "â 95-lb barbell",
-                "â 135-lb barbell",
-                "Compare to",
-                "260113",
-                ".",
-                "Post time to comments."
+                "Monday",
+                "260921",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -732,23 +736,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Service Cup Workout 4"
-              ]
-            },
-            {
-              "title": "For time:",
-              "lines": [
-                "100 double-unders",
-                "50 alternating dumbbell snatches",
-                "100 double-unders"
-              ]
-            },
-            {
-              "title": "Time cap: 5 minutes",
-              "lines": [
-                "â 35-lb dumbbell",
-                "â 50-lb dumbbell",
-                "Post time to comments."
+                "Saturday",
+                "260919",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -760,45 +750,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Service Cup Workout 1"
-              ]
-            },
-            {
-              "title": "For time:",
-              "lines": [
-                "50 wall-ball shots",
-                "50 box jump-overs",
-                "50 wall-ball shots",
-                "50 medicine-ball box step-overs",
-                "50 wall-ball shots",
-                "50 lateral burpee box jump-overs"
-              ]
-            },
-            {
-              "title": "Time cap: 25 minutes",
-              "lines": [
-                "â 14-lb medicine ball to a 10-foot target and a 20-inch box",
-                "â 20-lb medicine ball to a 10-foot target and a 24-inch box",
-                "Post time to comments."
+                "Friday",
+                "260918",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260918"
-        },
-        {
-          "date": "2026-09-17",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Optimal Nutrition: The Goalpost Doesnât Move",
-                "Everyone's got an opinion on food. Ours hasn't changed in 25 years, because it works. Food quality and quantity. Activity levels. Strategies that hold up for everyday athletes, elite competitors, and anyone managing chronic disease. This episode digs into all of it. No trends. No gimmicks. Just what the science and hundreds of thousands of CrossFit athletes have proven. And if you want to learn even more about how to dial in your nutrition or help others do the same, check out our Applied Nutrition courses near you.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260917"
         },
         {
           "date": "2026-09-16",
@@ -855,20 +813,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260912"
-        },
-        {
-          "date": "2026-09-11",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Friday",
-                "260911",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260911"
         }
       ]
     }
