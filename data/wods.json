@@ -1,11 +1,63 @@
 {
-  "last_updated": "2026-09-27T09:37:48.924780",
+  "last_updated": "2026-09-28T10:15:40.670704",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-09-28",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "90/90 hip rotations",
+                "lying hip cross over",
+                "hand walk"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 cossack squats",
+                "10 good mornings",
+                "30sec plank hold",
+                "*remaining time bike/row"
+              ]
+            },
+            {
+              "title": "sumo deadlifts 15min",
+              "lines": [
+                "3-4 Sets",
+                "2 sumo deadlifts @87-92%"
+              ]
+            },
+            {
+              "title": "conditioning 8min",
+              "lines": [
+                "amrap 30sec x 6 rounds",
+                "max cal bike/row",
+                "1min rest between amraps",
+                "score: total cals",
+                "anaerobic capacity"
+              ]
+            },
+            {
+              "title": "pulling capacity 8min",
+              "lines": [
+                "for quality",
+                "30sec on / 30sec of x 8 sets",
+                "1. max ring rows",
+                "2. max prone press",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-09-28/"
+        },
         {
           "date": "2026-09-27",
           "sections": [
@@ -575,58 +627,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-09-15/"
-        },
-        {
-          "date": "2026-09-14",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "lat stretch",
-                "seated pike stretch",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 straight leg sit ups",
-                "10 push ups",
-                "100m run"
-              ]
-            },
-            {
-              "title": "bench presses 14min",
-              "lines": [
-                "4 Sets",
-                "3 (paused) bench presses @82-85%"
-              ]
-            },
-            {
-              "title": "conditioning 12min",
-              "lines": [
-                "on every 3:00 x 4 rounds",
-                "10 toes to bar",
-                "200m run",
-                "10 toes to bar",
-                "score: slowest round",
-                "skill capacity & aerobic power"
-              ]
-            },
-            {
-              "title": "pulling capacity 8min",
-              "lines": [
-                "for quality",
-                "30sec on / 30sec of x 8 sets",
-                "1. max chin over bar hold",
-                "2. max ring rows",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-09-14/"
         }
       ]
     },
@@ -635,6 +635,23 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-09-28",
+          "sections": [
+            {
+              "title": "Every 6 minutes for 6 rounds:",
+              "lines": [
+                "800-meter run",
+                "Your score is the total time for all six runs added together.",
+                "Compare to",
+                "260324",
+                ".",
+                "Post total time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260928"
+        },
         {
           "date": "2026-09-27",
           "sections": [
@@ -654,24 +671,11 @@
           "date": "2026-09-26",
           "sections": [
             {
-              "title": "7 sets for load of:",
+              "title": "Workout",
               "lines": [
-                "1 hang power snatch",
-                "1 overhead squat",
-                "1 hang squat snatch",
-                "Increase load each set.",
-                "Post-Workout Challenge"
-              ]
-            },
-            {
-              "title": "3 sets:",
-              "lines": [
-                "1 hang power snatch",
-                "1 overhead squat",
-                "1 hang squat snatch",
-                "Choose your own load, and make one attempt.",
-                "Hands must stay on the bar; no breaking between sets.",
-                "Post load for each part to comments."
+                "Saturday",
+                "260926",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -683,13 +687,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Complete as many rounds and reps as possible in 20 minutes of:",
-                "30-foot handstand walk",
-                "250-meter row",
-                "3 L-sit muscle-ups",
-                "250-meter row",
-                "The L-sit muscle-up starts with straight legs out in front of the body at 90 degrees with the heels on the floor and arms at full extension overhead. The rep finishes when the arms are fully locked out with extension of the elbow.",
-                "Post rounds and reps to comments."
+                "Friday",
+                "260925",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -714,16 +714,11 @@
           "date": "2026-09-23",
           "sections": [
             {
-              "title": "On a 15-minute clock, complete:",
+              "title": "Workout",
               "lines": [
-                "100 burpees*",
-                "Max shuttle box jump-overs in the remaining time",
-                "*Every minute, starting at 0:00, complete 4 shuttle box jump-overs.",
-                "For the shuttle box jump-overs, mark two lines 10 feet apart and place the box in the middle. To complete 1 rep, start standing behind the first marked line, run to the box, jump over the box, run past the second marked line, and make a two-hand and two-foot touch behind the line before starting the next rep.",
-                "If you have a weight vest (14/20 lb), use it.",
-                "â 20-inch box",
-                "â 24-inch box",
-                "Post reps to comments."
+                "Wednesday",
+                "260923",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -771,43 +766,14 @@
           "url": "https://www.crossfit.com/260921"
         },
         {
-          "date": "2026-09-20",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Ring Training Part 1: CrossFit And Gymnastics Rings â A Perfect Marriage",
-                "Two circles and a set of straps look simple, but rings expose weaknesses that a fixed bar can hide, no matter how strong you are on it. This four-part series traces rings from gymnastics' men's-only apparatus to a core piece of CrossFit's movement library, then walks the full path from support hold to muscle-up to long-term shoulder health.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260920"
-        },
-        {
           "date": "2026-09-19",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Service Cup Workout 4"
-              ]
-            },
-            {
-              "title": "For time:",
-              "lines": [
-                "100 double-unders",
-                "50 alternating dumbbell snatches",
-                "100 double-unders"
-              ]
-            },
-            {
-              "title": "Time cap: 5 minutes",
-              "lines": [
-                "â 35-lb dumbbell",
-                "â 50-lb dumbbell",
-                "Post time to comments."
+                "Saturday",
+                "260919",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -826,21 +792,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260918"
-        },
-        {
-          "date": "2026-09-17",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Optimal Nutrition: The Goalpost Doesnât Move",
-                "Everyone's got an opinion on food. Ours hasn't changed in 25 years, because it works. Food quality and quantity. Activity levels. Strategies that hold up for everyday athletes, elite competitors, and anyone managing chronic disease. This episode digs into all of it. No trends. No gimmicks. Just what the science and hundreds of thousands of CrossFit athletes have proven. And if you want to learn even more about how to dial in your nutrition or help others do the same, check out our Applied Nutrition courses near you.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260917"
         },
         {
           "date": "2026-09-16",
@@ -862,27 +813,21 @@
             {
               "title": "Workout",
               "lines": [
-                "Tuesday",
-                "260915",
-                "See Course Photos â"
+                "Service Cup Workout 2",
+                "Complete as many reps as possible in 8 minutes of:",
+                "50-foot back rack lunges",
+                "25 pull-ups",
+                "50-foot front rack lunges",
+                "25 chest-to-bar pull-ups",
+                "50-foot overhead lunges",
+                "Max bar muscle-ups",
+                "â 80-lb barbell",
+                "â 115-lb barbell",
+                "Post reps to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260915"
-        },
-        {
-          "date": "2026-09-14",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Monday",
-                "260914",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260914"
         }
       ]
     }
