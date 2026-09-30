@@ -1,11 +1,56 @@
 {
-  "last_updated": "2026-09-29T10:12:31.108597",
+  "last_updated": "2026-09-30T10:04:06.001859",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-09-30",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "calf stretch",
+                "lat stretch",
+                "instep rotations"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 scap. pull ups",
+                "10 ring rows",
+                "20 single unders",
+                "*remaining time row"
+              ]
+            },
+            {
+              "title": "chin ups 12min",
+              "lines": [
+                "find a heavy set of 3",
+                "chin ups"
+              ]
+            },
+            {
+              "title": "conditioning 18min",
+              "lines": [
+                "for time",
+                "4 rounds",
+                "500/450m row",
+                "18 pull ups*",
+                "75 double unders",
+                "*rx+: chest to bar pull ups",
+                "aerobic power & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-09-30/"
+        },
         {
           "date": "2026-09-29",
           "sections": [
@@ -577,54 +622,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-09-17/"
-        },
-        {
-          "date": "2026-09-16",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "lat stretch",
-                "instep rotations"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 deadlifts",
-                "10 elbow rotations",
-                "10 squat jumps",
-                "*remaining time bike/ski"
-              ]
-            },
-            {
-              "title": "power cleans 9min",
-              "lines": [
-                "on every 1:30 x 6 sets",
-                "1 power clean",
-                "1 hang power clean",
-                "(built in weight)",
-                "explosive power"
-              ]
-            },
-            {
-              "title": "conditioning 19min",
-              "lines": [
-                "for time",
-                "8 rounds",
-                "10/8cal bike/ski",
-                "8 power cleans 50/35kg",
-                "10 box jumps 60/50cm *",
-                "*rx+: 75/60cm",
-                "aerobic power",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-09-16/"
         }
       ]
     },
@@ -633,6 +630,26 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-09-30",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Olympic Total",
+                "Snatch 1-1-1-1-1 reps",
+                "Clean and jerk 1-1-1-1-1 reps",
+                "Compare to",
+                "260105",
+                "(snatch) and",
+                "240205",
+                "(clean and jerk).",
+                "Post loads to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260930"
+        },
         {
           "date": "2026-09-29",
           "sections": [
@@ -728,6 +745,21 @@
           "url": "https://www.crossfit.com/260925"
         },
         {
+          "date": "2026-09-24",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Ring Training Part 2: The Ring Positions Every Athlete Should Own",
+                "Six positions form the entire foundation for ring work: the support hold, ring rows, ring pull-ups, ring push-ups, ring dips, and the false grip. Skip any one of them and the rings will find the gap. Part 2 of our series breaks down each piece so your first muscle-up attempt isn't your first real test of them.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260924"
+        },
+        {
           "date": "2026-09-23",
           "sections": [
             {
@@ -769,38 +801,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Grace"
-              ]
-            },
-            {
-              "title": "For time:",
-              "lines": [
-                "30 clean and jerks",
-                "â 95-lb barbell",
-                "â 135-lb barbell",
-                "Compare to",
-                "260113",
-                ".",
-                "Post time to comments."
+                "Monday",
+                "260921",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260921"
-        },
-        {
-          "date": "2026-09-20",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Ring Training Part 1: CrossFit And Gymnastics Rings â A Perfect Marriage",
-                "Two circles and a set of straps look simple, but rings expose weaknesses that a fixed bar can hide, no matter how strong you are on it. This four-part series traces rings from gymnastics' men's-only apparatus to a core piece of CrossFit's movement library, then walks the full path from support hold to muscle-up to long-term shoulder health.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260920"
         },
         {
           "date": "2026-09-19",
@@ -808,23 +815,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Service Cup Workout 4"
-              ]
-            },
-            {
-              "title": "For time:",
-              "lines": [
-                "100 double-unders",
-                "50 alternating dumbbell snatches",
-                "100 double-unders"
-              ]
-            },
-            {
-              "title": "Time cap: 5 minutes",
-              "lines": [
-                "â 35-lb dumbbell",
-                "â 50-lb dumbbell",
-                "Post time to comments."
+                "Saturday",
+                "260919",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -836,82 +829,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Service Cup Workout 1"
-              ]
-            },
-            {
-              "title": "For time:",
-              "lines": [
-                "50 wall-ball shots",
-                "50 box jump-overs",
-                "50 wall-ball shots",
-                "50 medicine-ball box step-overs",
-                "50 wall-ball shots",
-                "50 lateral burpee box jump-overs"
-              ]
-            },
-            {
-              "title": "Time cap: 25 minutes",
-              "lines": [
-                "â 14-lb medicine ball to a 10-foot target and a 20-inch box",
-                "â 20-lb medicine ball to a 10-foot target and a 24-inch box",
-                "Post time to comments."
+                "Friday",
+                "260918",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260918"
-        },
-        {
-          "date": "2026-09-17",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Optimal Nutrition: The Goalpost Doesnât Move",
-                "Everyone's got an opinion on food. Ours hasn't changed in 25 years, because it works. Food quality and quantity. Activity levels. Strategies that hold up for everyday athletes, elite competitors, and anyone managing chronic disease. This episode digs into all of it. No trends. No gimmicks. Just what the science and hundreds of thousands of CrossFit athletes have proven. And if you want to learn even more about how to dial in your nutrition or help others do the same, check out our Applied Nutrition courses near you.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260917"
-        },
-        {
-          "date": "2026-09-16",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Service Cup Workout 3",
-                "Part A"
-              ]
-            },
-            {
-              "title": "On a 15-minute clock, for time:",
-              "lines": [
-                "10 shuttle runs",
-                "15 clean and jerks",
-                "10 shuttle runs",
-                "12 clean and jerks",
-                "10 shuttle runs",
-                "9 clean and jerks",
-                "10 shuttle runs",
-                "9 clean and jerks",
-                "One shuttle run is 25 feet down and 25 feet back.",
-                "â 95-lb barbell",
-                "â 135-lb barbell",
-                "Part B"
-              ]
-            },
-            {
-              "title": "At 15 minutes, on a 3-minute clock:",
-              "lines": [
-                "Build to a 1-rep-max clean and jerk",
-                "Post time and heaviest lift to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260916"
         }
       ]
     }
