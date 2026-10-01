@@ -1,11 +1,62 @@
 {
-  "last_updated": "2026-09-30T10:04:06.001859",
+  "last_updated": "2026-10-01T10:32:21.153676",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-10-01",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "calf stretch",
+                "sumo squat stretch",
+                "scorpions",
+                "samson stretch"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "100m run",
+                "10 air squats",
+                "10 prone snow angels"
+              ]
+            },
+            {
+              "title": "back squats 16min",
+              "lines": [
+                "3-4 Sets",
+                "2 back squats",
+                "@87-92%"
+              ]
+            },
+            {
+              "title": "conditioning 12min",
+              "lines": [
+                "on every 3:00 x 4 rounds",
+                "200m run",
+                "10 push press",
+                "10 front squats",
+                "score: slowest round",
+                "barbell: 40/30kg",
+                "rx+: 50/35kg"
+              ]
+            },
+            {
+              "title": "anaerobic conditioning",
+              "lines": [
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-10-01/"
+        },
         {
           "date": "2026-09-30",
           "sections": [
@@ -580,48 +631,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-09-18/"
-        },
-        {
-          "date": "2026-09-17",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "lat stretch",
-                "scorpions",
-                "crab stretch"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 scap. push ups",
-                "10 ring rows",
-                "30sec plank hold"
-              ]
-            },
-            {
-              "title": "chin ups 12min",
-              "lines": [
-                "find a heavy set of",
-                "3 paused chin ups"
-              ]
-            },
-            {
-              "title": "conditioning 20min",
-              "lines": [
-                "amrap 20min",
-                "20 pull ups",
-                "30 hand release push ups",
-                "40 sit ups",
-                "muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-09-17/"
         }
       ]
     },
@@ -630,6 +639,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-10-01",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Ring Training Part 4: Why Ring Work Matters More as You Age",
+                "Rings aren't just for chasing muscle-ups. They're one of the few tools that build the joint stability your shoulders need to hold up decades into your training. In the final part of this four-part series, learn why ring work becomes more valuable, not less, as you age, and why the fundamentals are worth returning to indefinitely. Discover how to train for a shoulder that lasts.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261001"
+        },
         {
           "date": "2026-09-30",
           "sections": [
@@ -654,14 +678,11 @@
           "date": "2026-09-29",
           "sections": [
             {
-              "title": "7 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "7 thrusters",
-                "7 sumo deadlift high pulls",
-                "7 handstand push-ups",
-                "â 65-lb barbell",
-                "â 95-lb barbell",
-                "Post time to comments."
+                "Tuesday",
+                "260929",
+                "See Course Photos â"
               ]
             }
           ],
@@ -671,56 +692,25 @@
           "date": "2026-09-28",
           "sections": [
             {
-              "title": "Every 6 minutes for 6 rounds:",
+              "title": "Workout",
               "lines": [
-                "800-meter run",
-                "Your score is the total time for all six runs added together.",
-                "Compare to",
-                "260324",
-                ".",
-                "Post total time to comments."
+                "Monday",
+                "260928",
+                "Drill the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260928"
         },
         {
-          "date": "2026-09-27",
+          "date": "2026-09-26",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "Ring Training Part 3: Building Toward the Muscle-Up",
-                "The muscle-up requires four things at once: pulling strength, pressing strength, false-grip control, and timing. Miss one, and the rep falls apart. Part 3 of our ring series breaks down the progression that gets you there, plus the faults that stall most athletes before they ever get over the rings.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260927"
-        },
-        {
-          "date": "2026-09-26",
-          "sections": [
-            {
-              "title": "7 sets for load of:",
-              "lines": [
-                "1 hang power snatch",
-                "1 overhead squat",
-                "1 hang squat snatch",
-                "Increase load each set.",
-                "Post-Workout Challenge"
-              ]
-            },
-            {
-              "title": "3 sets:",
-              "lines": [
-                "1 hang power snatch",
-                "1 overhead squat",
-                "1 hang squat snatch",
-                "Choose your own load, and make one attempt.",
-                "Hands must stay on the bar; no breaking between sets.",
-                "Post load for each part to comments."
+                "Saturday",
+                "260926",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -732,32 +722,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Complete as many rounds and reps as possible in 20 minutes of:",
-                "30-foot handstand walk",
-                "250-meter row",
-                "3 L-sit muscle-ups",
-                "250-meter row",
-                "The L-sit muscle-up starts with straight legs out in front of the body at 90 degrees with the heels on the floor and arms at full extension overhead. The rep finishes when the arms are fully locked out with extension of the elbow.",
-                "Post rounds and reps to comments."
+                "Friday",
+                "260925",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260925"
-        },
-        {
-          "date": "2026-09-24",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Ring Training Part 2: The Ring Positions Every Athlete Should Own",
-                "Six positions form the entire foundation for ring work: the support hold, ring rows, ring pull-ups, ring push-ups, ring dips, and the false grip. Skip any one of them and the rings will find the gap. Part 2 of our series breaks down each piece so your first muscle-up attempt isn't your first real test of them.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260924"
         },
         {
           "date": "2026-09-23",
@@ -829,9 +800,26 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260918",
-                "Learn the Movement â"
+                "Service Cup Workout 1"
+              ]
+            },
+            {
+              "title": "For time:",
+              "lines": [
+                "50 wall-ball shots",
+                "50 box jump-overs",
+                "50 wall-ball shots",
+                "50 medicine-ball box step-overs",
+                "50 wall-ball shots",
+                "50 lateral burpee box jump-overs"
+              ]
+            },
+            {
+              "title": "Time cap: 25 minutes",
+              "lines": [
+                "â 14-lb medicine ball to a 10-foot target and a 20-inch box",
+                "â 20-lb medicine ball to a 10-foot target and a 24-inch box",
+                "Post time to comments."
               ]
             }
           ],
