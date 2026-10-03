@@ -1,11 +1,25 @@
 {
-  "last_updated": "2026-10-02T10:07:20.396660",
+  "last_updated": "2026-10-03T09:29:44.156798",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-10-03",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Einheizchallenge 2026",
+                "10:00-14:00 Uhr",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-10-03/"
+        },
         {
           "date": "2026-10-02",
           "sections": [
@@ -592,46 +606,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-09-20/"
-        },
-        {
-          "date": "2026-09-19",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "sumo squat stretch",
-                "instep rotations",
-                "lat stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "amrap 5min",
-                "8 db deadlifts",
-                "8 air squats",
-                "8 prone snow angels",
-                "*partner is skiing"
-              ]
-            },
-            {
-              "title": "conditioning 30min",
-              "lines": [
-                "in teams of 2",
-                "for time",
-                "80 burpees over db",
-                "80 synchro db goblet squats",
-                "80 synchro db hang snatches",
-                "80 synchro db push press",
-                "160/145/130cal ski",
-                "*partition however",
-                "dumbbell: 25/17,5kg",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-09-19/"
         }
       ]
     },
@@ -641,16 +615,38 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
+          "date": "2026-10-03",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "250-foot sandbag bear hug carry",
+                "50-second L-sit hold",
+                "200-foot sandbag bear hug carry",
+                "40-second L-sit hold",
+                "150-foot sandbag bear hug carry",
+                "30-second L-sit hold",
+                "100-foot sandbag bear hug carry",
+                "20-second L-sit hold",
+                "50-foot sandbag bear hug carry",
+                "10-second L-sit hold",
+                "â 100-lb sandbag",
+                "â 150-lb sandbag",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261003"
+        },
+        {
           "date": "2026-10-02",
           "sections": [
             {
-              "title": "21-15-9 reps for time of:",
+              "title": "Workout",
               "lines": [
-                "Strict pull-ups",
-                "Overhead squats",
-                "â 95-lb barbell",
-                "â 135-lb barbell",
-                "Post time to comments."
+                "Friday",
+                "261002",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -677,9 +673,15 @@
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "260930",
-                "Learn the Movement â"
+                "Olympic Total",
+                "Snatch 1-1-1-1-1 reps",
+                "Clean and jerk 1-1-1-1-1 reps",
+                "Compare to",
+                "260105",
+                "(snatch) and",
+                "240205",
+                "(clean and jerk).",
+                "Post loads to comments."
               ]
             }
           ],
@@ -689,11 +691,14 @@
           "date": "2026-09-29",
           "sections": [
             {
-              "title": "Workout",
+              "title": "7 rounds for time of:",
               "lines": [
-                "Tuesday",
-                "260929",
-                "See Course Photos â"
+                "7 thrusters",
+                "7 sumo deadlift high pulls",
+                "7 handstand push-ups",
+                "â 65-lb barbell",
+                "â 95-lb barbell",
+                "Post time to comments."
               ]
             }
           ],
@@ -703,15 +708,33 @@
           "date": "2026-09-28",
           "sections": [
             {
-              "title": "Workout",
+              "title": "Every 6 minutes for 6 rounds:",
               "lines": [
-                "Monday",
-                "260928",
-                "Drill the Movement â"
+                "800-meter run",
+                "Your score is the total time for all six runs added together.",
+                "Compare to",
+                "260324",
+                ".",
+                "Post total time to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260928"
+        },
+        {
+          "date": "2026-09-27",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Ring Training Part 3: Building Toward the Muscle-Up",
+                "The muscle-up requires four things at once: pulling strength, pressing strength, false-grip control, and timing. Miss one, and the rep falls apart. Part 3 of our ring series breaks down the progression that gets you there, plus the faults that stall most athletes before they ever get over the rings.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260927"
         },
         {
           "date": "2026-09-26",
@@ -733,28 +756,42 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260925",
-                "Learn the Movement â"
+                "Complete as many rounds and reps as possible in 20 minutes of:",
+                "30-foot handstand walk",
+                "250-meter row",
+                "3 L-sit muscle-ups",
+                "250-meter row",
+                "The L-sit muscle-up starts with straight legs out in front of the body at 90 degrees with the heels on the floor and arms at full extension overhead. The rep finishes when the arms are fully locked out with extension of the elbow.",
+                "Post rounds and reps to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/260925"
         },
         {
+          "date": "2026-09-24",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Ring Training Part 2: The Ring Positions Every Athlete Should Own",
+                "Six positions form the entire foundation for ring work: the support hold, ring rows, ring pull-ups, ring push-ups, ring dips, and the false grip. Skip any one of them and the rings will find the gap. Part 2 of our series breaks down each piece so your first muscle-up attempt isn't your first real test of them.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260924"
+        },
+        {
           "date": "2026-09-23",
           "sections": [
             {
-              "title": "On a 15-minute clock, complete:",
+              "title": "Workout",
               "lines": [
-                "100 burpees*",
-                "Max shuttle box jump-overs in the remaining time",
-                "*Every minute, starting at 0:00, complete 4 shuttle box jump-overs.",
-                "For the shuttle box jump-overs, mark two lines 10 feet apart and place the box in the middle. To complete 1 rep, start standing behind the first marked line, run to the box, jump over the box, run past the second marked line, and make a two-hand and two-foot touch behind the line before starting the next rep.",
-                "If you have a weight vest (14/20 lb), use it.",
-                "â 20-inch box",
-                "â 24-inch box",
-                "Post reps to comments."
+                "Wednesday",
+                "260923",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -787,20 +824,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260921"
-        },
-        {
-          "date": "2026-09-19",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Saturday",
-                "260919",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260919"
         }
       ]
     }
