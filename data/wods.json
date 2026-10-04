@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-10-03T09:29:44.156798",
+  "last_updated": "2026-10-04T10:17:09.952698",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-10-04",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "sumo squat stretch",
+                "samson stretch",
+                "lat stretch"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "30sec on / 15sec off x2 rounds",
+                "1. medball thrusters",
+                "2. ski",
+                "3. ring rows",
+                "4. side plank"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "emom 35min (7 rounds)",
+                "1. 15-20 wall balls",
+                "2. 12-15cal ski",
+                "3. 6-10 strict pull ups",
+                "4. 20-30 russian twists",
+                "5. rest",
+                "Sunday Endurance for Open Gym",
+                "on the 8:00 x 5-10 rounds",
+                "800m run or ski",
+                "bike in remaining time [rpe 2-3]",
+                "aerobic endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-10-04/"
+        },
         {
           "date": "2026-10-03",
           "sections": [
@@ -555,57 +597,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-09-21/"
-        },
-        {
-          "date": "2026-09-20",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "crab stretch",
-                "hand walk",
-                "calf stretch"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "30sec on / 15sec off x2 rounds",
-                "1. scap. push ups",
-                "2. row",
-                "3. straight leg sit ups",
-                "4. squat jumps"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "emom 35min (7 rounds)",
-                "1. 10-15 bench dips",
-                "2. 10-15cal row",
-                "3. 6-8 stricht toes to bar",
-                "4. 12-20 box jumps",
-                "5. rest",
-                "Sunday Endurance for Open Gym",
-                "[wave 1]",
-                "2:00 at rpe 5, 1:00 easy",
-                "1:30 at rpe 6, 1:00 easy",
-                "1:00 at rpe 7, 1:00 easy",
-                "0:30 at rpe 8",
-                "5:00 easy between waves",
-                "[wave 2]",
-                "2:00 at rpe 6, 1:00 easy",
-                "1:30 at rpe 7, 1:00 easy",
-                "1:00 at rpe 8, 1:00 easy",
-                "0:30 at rpe 9",
-                "choose: run, bike, row, or ski",
-                "aerobic power [lactate threshold]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-09-20/"
         }
       ]
     },
@@ -614,6 +605,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-10-04",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Oiling the Machine: Warm-Ups, Flexibility, and the Olympic Lifter",
+                "Tight shoulders will cap your snatch before your strength ever does. Bill Starr breaks down the difference between warming up and stretching, why cold shoulders make cleans and back squats an injury waiting to happen, and the stick, band, and PVC drills he's used for decades to build the mobility Olympic lifting demands.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261004"
+        },
         {
           "date": "2026-10-03",
           "sections": [
@@ -642,11 +648,13 @@
           "date": "2026-10-02",
           "sections": [
             {
-              "title": "Workout",
+              "title": "21-15-9 reps for time of:",
               "lines": [
-                "Friday",
-                "261002",
-                "Learn the Movement â"
+                "Strict pull-ups",
+                "Overhead squats",
+                "â 95-lb barbell",
+                "â 135-lb barbell",
+                "Post time to comments."
               ]
             }
           ],
@@ -722,21 +730,6 @@
           "url": "https://www.crossfit.com/260928"
         },
         {
-          "date": "2026-09-27",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Ring Training Part 3: Building Toward the Muscle-Up",
-                "The muscle-up requires four things at once: pulling strength, pressing strength, false-grip control, and timing. Miss one, and the rep falls apart. Part 3 of our ring series breaks down the progression that gets you there, plus the faults that stall most athletes before they ever get over the rings.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260927"
-        },
-        {
           "date": "2026-09-26",
           "sections": [
             {
@@ -756,13 +749,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Complete as many rounds and reps as possible in 20 minutes of:",
-                "30-foot handstand walk",
-                "250-meter row",
-                "3 L-sit muscle-ups",
-                "250-meter row",
-                "The L-sit muscle-up starts with straight legs out in front of the body at 90 degrees with the heels on the floor and arms at full extension overhead. The rep finishes when the arms are fully locked out with extension of the elbow.",
-                "Post rounds and reps to comments."
+                "Friday",
+                "260925",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -787,11 +776,16 @@
           "date": "2026-09-23",
           "sections": [
             {
-              "title": "Workout",
+              "title": "On a 15-minute clock, complete:",
               "lines": [
-                "Wednesday",
-                "260923",
-                "Learn the Movement â"
+                "100 burpees*",
+                "Max shuttle box jump-overs in the remaining time",
+                "*Every minute, starting at 0:00, complete 4 shuttle box jump-overs.",
+                "For the shuttle box jump-overs, mark two lines 10 feet apart and place the box in the middle. To complete 1 rep, start standing behind the first marked line, run to the box, jump over the box, run past the second marked line, and make a two-hand and two-foot touch behind the line before starting the next rep.",
+                "If you have a weight vest (14/20 lb), use it.",
+                "â 20-inch box",
+                "â 24-inch box",
+                "Post reps to comments."
               ]
             }
           ],
@@ -801,11 +795,14 @@
           "date": "2026-09-22",
           "sections": [
             {
-              "title": "Workout",
+              "title": "3 rounds for time of:",
               "lines": [
-                "Tuesday",
-                "260922",
-                "See Course Photos â"
+                "15 thrusters",
+                "15 pull-ups",
+                "400-meter run",
+                "â 65-lb barbell",
+                "â 95-lb barbell",
+                "Post time to comments."
               ]
             }
           ],
@@ -817,9 +814,19 @@
             {
               "title": "Workout",
               "lines": [
-                "Monday",
-                "260921",
-                "Learn the Movement â"
+                "Grace"
+              ]
+            },
+            {
+              "title": "For time:",
+              "lines": [
+                "30 clean and jerks",
+                "â 95-lb barbell",
+                "â 135-lb barbell",
+                "Compare to",
+                "260113",
+                ".",
+                "Post time to comments."
               ]
             }
           ],
