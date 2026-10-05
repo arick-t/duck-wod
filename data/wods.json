@@ -1,11 +1,54 @@
 {
-  "last_updated": "2026-10-04T10:17:09.952698",
+  "last_updated": "2026-10-05T10:56:44.676179",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-10-05",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "90/90 hip rotations",
+                "lying hip cross over",
+                "hand walk"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "40sec on / 20sec off x 6rounds",
+                "1. cossack squats",
+                "2. good mornings",
+                "3. row"
+              ]
+            },
+            {
+              "title": "sumo deadlift 16min",
+              "lines": [
+                "find a heavy set of 2",
+                "sumo deadlifts"
+              ]
+            },
+            {
+              "title": "conditioning 16min",
+              "lines": [
+                "3 rounds",
+                "40/32cal row",
+                "30 db hang snatches",
+                "20 single arm db shoulder to overhead",
+                "dumbbell: 22,5/15kg",
+                "aerobic power & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-10-05/"
+        },
         {
           "date": "2026-10-04",
           "sections": [
@@ -559,44 +602,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-09-22/"
-        },
-        {
-          "date": "2026-09-21",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "samson stretch",
-                "hand walk",
-                "instep rotations",
-                "lying hip cross over"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10/8cal row",
-                "100m run",
-                "10 elbow rotations"
-              ]
-            },
-            {
-              "title": "conditioning 30min",
-              "lines": [
-                "amrap 30min",
-                "14 power cleans",
-                "15/12cal row",
-                "16 front rack lunges",
-                "on every 5:00 (starting at 00:00) 400m run",
-                "*pick up where you left off",
-                "barbell: 40/30kg",
-                "aerobic capacity",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-09-21/"
         }
       ]
     },
@@ -605,6 +610,31 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-10-05",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Fran"
+              ]
+            },
+            {
+              "title": "21-15-9 reps for time of:",
+              "lines": [
+                "Thrusters",
+                "Pull-ups",
+                "â 65-lb barbell",
+                "â 95-lb barbell",
+                "Compare to",
+                "250730",
+                ".",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261005"
+        },
         {
           "date": "2026-10-04",
           "sections": [
@@ -730,14 +760,42 @@
           "url": "https://www.crossfit.com/260928"
         },
         {
-          "date": "2026-09-26",
+          "date": "2026-09-27",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "260926",
-                "Learn the Movement â"
+                "Rest Day",
+                "Ring Training Part 3: Building Toward the Muscle-Up",
+                "The muscle-up requires four things at once: pulling strength, pressing strength, false-grip control, and timing. Miss one, and the rep falls apart. Part 3 of our ring series breaks down the progression that gets you there, plus the faults that stall most athletes before they ever get over the rings.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/260927"
+        },
+        {
+          "date": "2026-09-26",
+          "sections": [
+            {
+              "title": "7 sets for load of:",
+              "lines": [
+                "1 hang power snatch",
+                "1 overhead squat",
+                "1 hang squat snatch",
+                "Increase load each set.",
+                "Post-Workout Challenge"
+              ]
+            },
+            {
+              "title": "3 sets:",
+              "lines": [
+                "1 hang power snatch",
+                "1 overhead squat",
+                "1 hang squat snatch",
+                "Choose your own load, and make one attempt.",
+                "Hands must stay on the bar; no breaking between sets.",
+                "Post load for each part to comments."
               ]
             }
           ],
@@ -749,9 +807,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "260925",
-                "Learn the Movement â"
+                "Complete as many rounds and reps as possible in 20 minutes of:",
+                "30-foot handstand walk",
+                "250-meter row",
+                "3 L-sit muscle-ups",
+                "250-meter row",
+                "The L-sit muscle-up starts with straight legs out in front of the body at 90 degrees with the heels on the floor and arms at full extension overhead. The rep finishes when the arms are fully locked out with extension of the elbow.",
+                "Post rounds and reps to comments."
               ]
             }
           ],
@@ -807,30 +869,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260922"
-        },
-        {
-          "date": "2026-09-21",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Grace"
-              ]
-            },
-            {
-              "title": "For time:",
-              "lines": [
-                "30 clean and jerks",
-                "â 95-lb barbell",
-                "â 135-lb barbell",
-                "Compare to",
-                "260113",
-                ".",
-                "Post time to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260921"
         }
       ]
     }
