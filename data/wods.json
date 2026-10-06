@@ -1,11 +1,59 @@
 {
-  "last_updated": "2026-10-05T10:56:44.676179",
+  "last_updated": "2026-10-06T10:52:24.103973",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-10-06",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "calf stretch",
+                "lat stretch",
+                "instep rotation"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "100m run",
+                "10 scap. pull ups",
+                "10 ring rows",
+                "*remaining time burpees"
+              ]
+            },
+            {
+              "title": "upper back / pull 8min",
+              "lines": [
+                "on every 2:00 x 4 sets",
+                "6 barbell bent over rows",
+                "10 banded lat pull downs"
+              ]
+            },
+            {
+              "title": "conditioning 20min",
+              "lines": [
+                "amrap 20min",
+                "buy in: 1km run",
+                "into",
+                "amrap",
+                "2/1 rope climbs",
+                "12 double db front squats",
+                "16 burpees over db",
+                "dumbbells: 2x 22,5/15kg",
+                "aerobic capacity & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-10-06/"
+        },
         {
           "date": "2026-10-05",
           "sections": [
@@ -557,51 +605,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-09-23/"
-        },
-        {
-          "date": "2026-09-22",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "calf stretch",
-                "seated pike stretch",
-                "scorpions",
-                "thoracic rotations"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 straight leg sit ups",
-                "10 scap. push ups",
-                "10 squat jumps"
-              ]
-            },
-            {
-              "title": "bench presses 15min",
-              "lines": [
-                "4 Sets",
-                "2 bench presses @85-90%"
-              ]
-            },
-            {
-              "title": "conditioning 17min",
-              "lines": [
-                "for time",
-                "21-15-9-15-21",
-                "v-ups",
-                "high box jumps 75/60cm",
-                "5 wall walks* after each round",
-                "*rx+: 5 strict handstand push ups",
-                "muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-09-22/"
         }
       ]
     },
@@ -610,6 +613,23 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-10-06",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "1,600-meter run",
+                "100 GHD sit-ups",
+                "100 back extensions",
+                "1,600-meter run",
+                "Partition the sit-ups and back extensions any way.",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261006"
+        },
         {
           "date": "2026-10-05",
           "sections": [
@@ -634,21 +654,6 @@
             }
           ],
           "url": "https://www.crossfit.com/261005"
-        },
-        {
-          "date": "2026-10-04",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Oiling the Machine: Warm-Ups, Flexibility, and the Olympic Lifter",
-                "Tight shoulders will cap your snatch before your strength ever does. Bill Starr breaks down the difference between warming up and stretching, why cold shoulders make cleans and back squats an injury waiting to happen, and the stick, band, and PVC drills he's used for decades to build the mobility Olympic lifting demands.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261004"
         },
         {
           "date": "2026-10-03",
@@ -691,35 +696,14 @@
           "url": "https://www.crossfit.com/261002"
         },
         {
-          "date": "2026-10-01",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Ring Training Part 4: Why Ring Work Matters More as You Age",
-                "Rings aren't just for chasing muscle-ups. They're one of the few tools that build the joint stability your shoulders need to hold up decades into your training. In the final part of this four-part series, learn why ring work becomes more valuable, not less, as you age, and why the fundamentals are worth returning to indefinitely. Discover how to train for a shoulder that lasts.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261001"
-        },
-        {
           "date": "2026-09-30",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Olympic Total",
-                "Snatch 1-1-1-1-1 reps",
-                "Clean and jerk 1-1-1-1-1 reps",
-                "Compare to",
-                "260105",
-                "(snatch) and",
-                "240205",
-                "(clean and jerk).",
-                "Post loads to comments."
+                "Wednesday",
+                "260930",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -729,14 +713,11 @@
           "date": "2026-09-29",
           "sections": [
             {
-              "title": "7 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "7 thrusters",
-                "7 sumo deadlift high pulls",
-                "7 handstand push-ups",
-                "â 65-lb barbell",
-                "â 95-lb barbell",
-                "Post time to comments."
+                "Tuesday",
+                "260929",
+                "See Course Photos â"
               ]
             }
           ],
@@ -746,56 +727,25 @@
           "date": "2026-09-28",
           "sections": [
             {
-              "title": "Every 6 minutes for 6 rounds:",
+              "title": "Workout",
               "lines": [
-                "800-meter run",
-                "Your score is the total time for all six runs added together.",
-                "Compare to",
-                "260324",
-                ".",
-                "Post total time to comments."
+                "Monday",
+                "260928",
+                "Drill the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/260928"
         },
         {
-          "date": "2026-09-27",
+          "date": "2026-09-26",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "Ring Training Part 3: Building Toward the Muscle-Up",
-                "The muscle-up requires four things at once: pulling strength, pressing strength, false-grip control, and timing. Miss one, and the rep falls apart. Part 3 of our ring series breaks down the progression that gets you there, plus the faults that stall most athletes before they ever get over the rings.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260927"
-        },
-        {
-          "date": "2026-09-26",
-          "sections": [
-            {
-              "title": "7 sets for load of:",
-              "lines": [
-                "1 hang power snatch",
-                "1 overhead squat",
-                "1 hang squat snatch",
-                "Increase load each set.",
-                "Post-Workout Challenge"
-              ]
-            },
-            {
-              "title": "3 sets:",
-              "lines": [
-                "1 hang power snatch",
-                "1 overhead squat",
-                "1 hang squat snatch",
-                "Choose your own load, and make one attempt.",
-                "Hands must stay on the bar; no breaking between sets.",
-                "Post load for each part to comments."
+                "Saturday",
+                "260926",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -807,13 +757,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Complete as many rounds and reps as possible in 20 minutes of:",
-                "30-foot handstand walk",
-                "250-meter row",
-                "3 L-sit muscle-ups",
-                "250-meter row",
-                "The L-sit muscle-up starts with straight legs out in front of the body at 90 degrees with the heels on the floor and arms at full extension overhead. The rep finishes when the arms are fully locked out with extension of the elbow.",
-                "Post rounds and reps to comments."
+                "Friday",
+                "260925",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -852,23 +798,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260923"
-        },
-        {
-          "date": "2026-09-22",
-          "sections": [
-            {
-              "title": "3 rounds for time of:",
-              "lines": [
-                "15 thrusters",
-                "15 pull-ups",
-                "400-meter run",
-                "â 65-lb barbell",
-                "â 95-lb barbell",
-                "Post time to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260922"
         }
       ]
     }
