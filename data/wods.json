@@ -1,11 +1,55 @@
 {
-  "last_updated": "2026-10-06T10:52:24.103973",
+  "last_updated": "2026-10-07T10:39:22.528247",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-10-07",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "calf stretch",
+                "scorpions",
+                "crab stretch",
+                "thoracic rotations"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 scap. push ups",
+                "30sec plank hold",
+                "20 single unders"
+              ]
+            },
+            {
+              "title": "bench press 15min",
+              "lines": [
+                "find a heavy set of 2",
+                "bench presses"
+              ]
+            },
+            {
+              "title": "conditioning 17min",
+              "lines": [
+                "for time",
+                "10 rounds",
+                "30 double unders",
+                "15 sit ups",
+                "5 ring dips",
+                "aerobic power & skill capacity",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-10-07/"
+        },
         {
           "date": "2026-10-06",
           "sections": [
@@ -560,51 +604,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-09-24/"
-        },
-        {
-          "date": "2026-09-23",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "sumo squat stretch",
-                "lat stretch",
-                "instep rotations"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 scap. pull ups",
-                "10 reverse lunges",
-                "20sec deep squat hold",
-                "*remaining time bike/ski"
-              ]
-            },
-            {
-              "title": "back squats 16min",
-              "lines": [
-                "4 Sets",
-                "2 back squats",
-                "@ 85-90%"
-              ]
-            },
-            {
-              "title": "conditioning 17min",
-              "lines": [
-                "amrap 2min x 6 rounds",
-                "18/14cal bike/ski",
-                "max strict pull ups",
-                "1min rest between amraps",
-                "score: total pull ups",
-                "aerobic power & muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-09-23/"
         }
       ]
     },
@@ -614,17 +613,30 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
+          "date": "2026-10-07",
+          "sections": [
+            {
+              "title": "3 rounds for time of:",
+              "lines": [
+                "50 lunges",
+                "200-meter dumbbell farmers carry",
+                "â 50-lb dumbbells",
+                "â 70-lb dumbbells",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261007"
+        },
+        {
           "date": "2026-10-06",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "1,600-meter run",
-                "100 GHD sit-ups",
-                "100 back extensions",
-                "1,600-meter run",
-                "Partition the sit-ups and back extensions any way.",
-                "Post time to comments."
+                "Tuesday",
+                "261006",
+                "See Course Photos â"
               ]
             }
           ],
@@ -654,6 +666,21 @@
             }
           ],
           "url": "https://www.crossfit.com/261005"
+        },
+        {
+          "date": "2026-10-04",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Oiling the Machine: Warm-Ups, Flexibility, and the Olympic Lifter",
+                "Tight shoulders will cap your snatch before your strength ever does. Bill Starr breaks down the difference between warming up and stretching, why cold shoulders make cleans and back squats an injury waiting to happen, and the stick, band, and PVC drills he's used for decades to build the mobility Olympic lifting demands.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261004"
         },
         {
           "date": "2026-10-03",
@@ -727,11 +754,14 @@
           "date": "2026-09-28",
           "sections": [
             {
-              "title": "Workout",
+              "title": "Every 6 minutes for 6 rounds:",
               "lines": [
-                "Monday",
-                "260928",
-                "Drill the Movement â"
+                "800-meter run",
+                "Your score is the total time for all six runs added together.",
+                "Compare to",
+                "260324",
+                ".",
+                "Post total time to comments."
               ]
             }
           ],
@@ -764,40 +794,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260925"
-        },
-        {
-          "date": "2026-09-24",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Ring Training Part 2: The Ring Positions Every Athlete Should Own",
-                "Six positions form the entire foundation for ring work: the support hold, ring rows, ring pull-ups, ring push-ups, ring dips, and the false grip. Skip any one of them and the rings will find the gap. Part 2 of our series breaks down each piece so your first muscle-up attempt isn't your first real test of them.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260924"
-        },
-        {
-          "date": "2026-09-23",
-          "sections": [
-            {
-              "title": "On a 15-minute clock, complete:",
-              "lines": [
-                "100 burpees*",
-                "Max shuttle box jump-overs in the remaining time",
-                "*Every minute, starting at 0:00, complete 4 shuttle box jump-overs.",
-                "For the shuttle box jump-overs, mark two lines 10 feet apart and place the box in the middle. To complete 1 rep, start standing behind the first marked line, run to the box, jump over the box, run past the second marked line, and make a two-hand and two-foot touch behind the line before starting the next rep.",
-                "If you have a weight vest (14/20 lb), use it.",
-                "â 20-inch box",
-                "â 24-inch box",
-                "Post reps to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260923"
         }
       ]
     }
