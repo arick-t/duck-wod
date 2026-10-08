@@ -1,11 +1,57 @@
 {
-  "last_updated": "2026-10-07T10:39:22.528247",
+  "last_updated": "2026-10-08T11:00:24.625659",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-10-08",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "instep rotation",
+                "thoracic rotation",
+                "lat stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 deadlifts",
+                "10 elbow rotations",
+                "10 squat jumps",
+                "*remaining time bike/ski"
+              ]
+            },
+            {
+              "title": "power clean 12min",
+              "lines": [
+                "find a heavy set of 4",
+                "touch and go power cleans",
+                "explosive power"
+              ]
+            },
+            {
+              "title": "conditioning 15min",
+              "lines": [
+                "amrap 3min x 4 rounds",
+                "30/24cal bike/ski",
+                "max power cleans",
+                "1min rest between amraps",
+                "score: total moved load (reps x load)",
+                "anaerobic capacity",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-10-08/"
+        },
         {
           "date": "2026-10-07",
           "sections": [
@@ -560,50 +606,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-09-25/"
-        },
-        {
-          "date": "2026-09-24",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "calf stretch",
-                "90/90 hip rotatios",
-                "lying hip cross over",
-                "hand walk"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 cossack squats",
-                "10/8cal row",
-                "20 single unders"
-              ]
-            },
-            {
-              "title": "sumo deadlifts 15min",
-              "lines": [
-                "4 Sets",
-                "2 sumo deadlifts @ 85-90%"
-              ]
-            },
-            {
-              "title": "conditioning 18min",
-              "lines": [
-                "on every 3:30 x 5 rounds",
-                "50 double unders",
-                "7 double db devil presses 2x15/10kg",
-                "9/7cal row",
-                "score: slowest round",
-                "anaerobic capacity",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-09-24/"
         }
       ]
     },
@@ -632,11 +634,14 @@
           "date": "2026-10-06",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Tuesday",
-                "261006",
-                "See Course Photos â"
+                "1,600-meter run",
+                "100 GHD sit-ups",
+                "100 back extensions",
+                "1,600-meter run",
+                "Partition the sit-ups and back extensions any way.",
+                "Post time to comments."
               ]
             }
           ],
@@ -648,39 +653,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Fran"
-              ]
-            },
-            {
-              "title": "21-15-9 reps for time of:",
-              "lines": [
-                "Thrusters",
-                "Pull-ups",
-                "â 65-lb barbell",
-                "â 95-lb barbell",
-                "Compare to",
-                "250730",
-                ".",
-                "Post time to comments."
+                "Monday",
+                "261005",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/261005"
-        },
-        {
-          "date": "2026-10-04",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Oiling the Machine: Warm-Ups, Flexibility, and the Olympic Lifter",
-                "Tight shoulders will cap your snatch before your strength ever does. Bill Starr breaks down the difference between warming up and stretching, why cold shoulders make cleans and back squats an injury waiting to happen, and the stick, band, and PVC drills he's used for decades to build the mobility Olympic lifting demands.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261004"
         },
         {
           "date": "2026-10-03",
@@ -754,14 +733,11 @@
           "date": "2026-09-28",
           "sections": [
             {
-              "title": "Every 6 minutes for 6 rounds:",
+              "title": "Workout",
               "lines": [
-                "800-meter run",
-                "Your score is the total time for all six runs added together.",
-                "Compare to",
-                "260324",
-                ".",
-                "Post total time to comments."
+                "Monday",
+                "260928",
+                "Drill the Movement â"
               ]
             }
           ],
