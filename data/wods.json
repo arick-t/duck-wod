@@ -1,11 +1,47 @@
 {
-  "last_updated": "2026-10-09T10:59:28.790975",
+  "last_updated": "2026-10-10T10:11:49.956233",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-10-10",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "thoracic rotation",
+                "handwalk",
+                "scorpion"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "amrap 5min",
+                "10 straight leg sit ups",
+                "10 push ups to downdog",
+                "*partner is biking"
+              ]
+            },
+            {
+              "title": "conditioning 29min",
+              "lines": [
+                "in teams of 2",
+                "amrap 1:30 x 12 rounds",
+                "12/11/10 cal bike",
+                "max toes to bar / push presses 40/30kg",
+                "1min rest between amraps",
+                "anaerobic capacity & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-10-10/"
+        },
         {
           "date": "2026-10-09",
           "sections": [
@@ -574,44 +610,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-09-27/"
-        },
-        {
-          "date": "2026-09-26",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "sumo squat stretch",
-                "lying hip cross over",
-                "lat stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "amrap 5min",
-                "8 good mornings",
-                "8 medball squats",
-                "8 medball presses",
-                "*partner is rowing"
-              ]
-            },
-            {
-              "title": "conditioning 31min",
-              "lines": [
-                "in teams of",
-                "amrap 9min x 3 rounds",
-                "40 wall balls",
-                "20 deadlifts 80/60kg",
-                "40/36/32cal row",
-                "2min rest between amraps",
-                "*pick up where you left off",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-09-26/"
         }
       ]
     },
@@ -620,6 +618,22 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-10-10",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Back squat 7-7-7-7-7 reps",
+                "Compare to similar",
+                "260619",
+                ".",
+                "Post loads to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261010"
+        },
         {
           "date": "2026-10-09",
           "sections": [
@@ -642,35 +656,14 @@
           "url": "https://www.crossfit.com/261009"
         },
         {
-          "date": "2026-10-08",
+          "date": "2026-10-07",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day"
-              ]
-            },
-            {
-              "title": "Stamina: A Lifelong Asset",
-              "lines": [
-                "Stamina isn't just grit. It's a measurable marker of how efficiently your cells make and use energy, and the data behind it is staggering: one study found every 1 mL/kg/min bump in VO2 max bought an extra 45 days of life. In this article from the CrossFit Medical Society, the authors break down the cellular science â mitochondria, AMPK, PGC-1a â behind why CrossFit's high-intensity, constantly varied approach may be one of the most effective ways to build the metabolic resilience tied to a longer, more independent life.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261008"
-        },
-        {
-          "date": "2026-10-07",
-          "sections": [
-            {
-              "title": "3 rounds for time of:",
-              "lines": [
-                "50 lunges",
-                "200-meter dumbbell farmers carry",
-                "â 50-lb dumbbells",
-                "â 70-lb dumbbells",
-                "Post time to comments."
+                "Wednesday",
+                "261007",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -708,21 +701,11 @@
           "date": "2026-10-03",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "250-foot sandbag bear hug carry",
-                "50-second L-sit hold",
-                "200-foot sandbag bear hug carry",
-                "40-second L-sit hold",
-                "150-foot sandbag bear hug carry",
-                "30-second L-sit hold",
-                "100-foot sandbag bear hug carry",
-                "20-second L-sit hold",
-                "50-foot sandbag bear hug carry",
-                "10-second L-sit hold",
-                "â 100-lb sandbag",
-                "â 150-lb sandbag",
-                "Post time to comments."
+                "Saturday",
+                "261003",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -732,11 +715,13 @@
           "date": "2026-10-02",
           "sections": [
             {
-              "title": "Workout",
+              "title": "21-15-9 reps for time of:",
               "lines": [
-                "Friday",
-                "261002",
-                "Learn the Movement â"
+                "Strict pull-ups",
+                "Overhead squats",
+                "â 95-lb barbell",
+                "â 135-lb barbell",
+                "Post time to comments."
               ]
             }
           ],
@@ -748,15 +733,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Olympic Total",
-                "Snatch 1-1-1-1-1 reps",
-                "Clean and jerk 1-1-1-1-1 reps",
-                "Compare to",
-                "260105",
-                "(snatch) and",
-                "240205",
-                "(clean and jerk).",
-                "Post loads to comments."
+                "Wednesday",
+                "260930",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -766,11 +745,14 @@
           "date": "2026-09-29",
           "sections": [
             {
-              "title": "Workout",
+              "title": "7 rounds for time of:",
               "lines": [
-                "Tuesday",
-                "260929",
-                "See Course Photos â"
+                "7 thrusters",
+                "7 sumo deadlift high pulls",
+                "7 handstand push-ups",
+                "â 65-lb barbell",
+                "â 95-lb barbell",
+                "Post time to comments."
               ]
             }
           ],
@@ -789,35 +771,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260928"
-        },
-        {
-          "date": "2026-09-27",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Ring Training Part 3: Building Toward the Muscle-Up",
-                "The muscle-up requires four things at once: pulling strength, pressing strength, false-grip control, and timing. Miss one, and the rep falls apart. Part 3 of our ring series breaks down the progression that gets you there, plus the faults that stall most athletes before they ever get over the rings.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260927"
-        },
-        {
-          "date": "2026-09-26",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Saturday",
-                "260926",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260926"
         }
       ]
     }
