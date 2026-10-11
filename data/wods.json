@@ -1,11 +1,54 @@
 {
-  "last_updated": "2026-10-10T10:11:49.956233",
+  "last_updated": "2026-10-11T10:24:00.243016",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-10-11",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "crab stretch",
+                "instep rotation",
+                "lat stretch"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "30sec on / 15sec off x2 rounds",
+                "1. step ups",
+                "2. row",
+                "3. scap. push usp",
+                "4. ring rows"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "emom 35min (7 rounds)",
+                "1. 12-16 db box step ups (50cm)",
+                "2. 12-15cal row",
+                "3. 4-8 ring dips",
+                "4. 12-16 kb gorilla rows",
+                "5. rest",
+                "Sunday Endurance for Open Gym",
+                "10 sets",
+                ":30 bike at 60 RPMs",
+                ":20 bike at 70 RPMs",
+                ":10 bike at 80+ RPMs",
+                "1:00 bike sub-60 RPMs\"",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-10-11/"
+        },
         {
           "date": "2026-10-10",
           "sections": [
@@ -568,48 +611,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-09-28/"
-        },
-        {
-          "date": "2026-09-27",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "90/90 hip rotations",
-                "hand walk",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "30sec on / 15sec off x2 rounds",
-                "1. air squats",
-                "2. row",
-                "3. push ups to downdog",
-                "4. cossack squats"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "emom 35min (7 rounds)",
-                "1. 40-50sec wall sit",
-                "2. 12-15 cal row",
-                "3. 6/6 single arm z-press",
-                "4. 12-16 goblet cossack squats",
-                "5. rest",
-                "Sunday Endurance for Open Gym",
-                "4 rounds",
-                "4:00 row/bike or ski [rpe 7]",
-                "1:00 rest",
-                "aerobic power [lactate threshold]",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-09-27/"
         }
       ]
     },
@@ -618,6 +619,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-10-11",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Strong Through Every Stage: How CrossFit Shaped Sarah Atkinâs Pregnancy, Postpartum Recovery, and Practice",
+                "She's a physician assistant who spends her days treating chronic pain. She's also a longtime CrossFit athlete who leaned on the gym to get through pregnancy and postpartum recovery. Here's what Sarah Atkin, PA-C, DMSc, wants every patient who feels \"too old\" or \"too out of shape\" to know about movement, fear, and getting stronger at any stage of life.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261011"
+        },
         {
           "date": "2026-10-10",
           "sections": [
@@ -656,14 +672,35 @@
           "url": "https://www.crossfit.com/261009"
         },
         {
-          "date": "2026-10-07",
+          "date": "2026-10-08",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "261007",
-                "Learn the Movement â"
+                "Rest Day"
+              ]
+            },
+            {
+              "title": "Stamina: A Lifelong Asset",
+              "lines": [
+                "Stamina isn't just grit. It's a measurable marker of how efficiently your cells make and use energy, and the data behind it is staggering: one study found every 1 mL/kg/min bump in VO2 max bought an extra 45 days of life. In this article from the CrossFit Medical Society, the authors break down the cellular science â mitochondria, AMPK, PGC-1a â behind why CrossFit's high-intensity, constantly varied approach may be one of the most effective ways to build the metabolic resilience tied to a longer, more independent life.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261008"
+        },
+        {
+          "date": "2026-10-07",
+          "sections": [
+            {
+              "title": "3 rounds for time of:",
+              "lines": [
+                "50 lunges",
+                "200-meter dumbbell farmers carry",
+                "â 50-lb dumbbells",
+                "â 70-lb dumbbells",
+                "Post time to comments."
               ]
             }
           ],
@@ -689,9 +726,20 @@
             {
               "title": "Workout",
               "lines": [
-                "Monday",
-                "261005",
-                "Learn the Movement â"
+                "Fran"
+              ]
+            },
+            {
+              "title": "21-15-9 reps for time of:",
+              "lines": [
+                "Thrusters",
+                "Pull-ups",
+                "â 65-lb barbell",
+                "â 95-lb barbell",
+                "Compare to",
+                "250730",
+                ".",
+                "Post time to comments."
               ]
             }
           ],
@@ -701,11 +749,21 @@
           "date": "2026-10-03",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Saturday",
-                "261003",
-                "Learn the Movement â"
+                "250-foot sandbag bear hug carry",
+                "50-second L-sit hold",
+                "200-foot sandbag bear hug carry",
+                "40-second L-sit hold",
+                "150-foot sandbag bear hug carry",
+                "30-second L-sit hold",
+                "100-foot sandbag bear hug carry",
+                "20-second L-sit hold",
+                "50-foot sandbag bear hug carry",
+                "10-second L-sit hold",
+                "â 100-lb sandbag",
+                "â 150-lb sandbag",
+                "Post time to comments."
               ]
             }
           ],
@@ -715,13 +773,11 @@
           "date": "2026-10-02",
           "sections": [
             {
-              "title": "21-15-9 reps for time of:",
+              "title": "Workout",
               "lines": [
-                "Strict pull-ups",
-                "Overhead squats",
-                "â 95-lb barbell",
-                "â 135-lb barbell",
-                "Post time to comments."
+                "Friday",
+                "261002",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -745,14 +801,11 @@
           "date": "2026-09-29",
           "sections": [
             {
-              "title": "7 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "7 thrusters",
-                "7 sumo deadlift high pulls",
-                "7 handstand push-ups",
-                "â 65-lb barbell",
-                "â 95-lb barbell",
-                "Post time to comments."
+                "Tuesday",
+                "260929",
+                "See Course Photos â"
               ]
             }
           ],
