@@ -1,11 +1,66 @@
 {
-  "last_updated": "2026-10-11T10:24:00.243016",
+  "last_updated": "2026-10-12T11:25:07.474446",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-10-12",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "calf stretch",
+                "lat stretch",
+                "thoracic rotations",
+                "samson stretch"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 prone snow angels",
+                "10 snatch grip deadlifts",
+                "20 single unders"
+              ]
+            },
+            {
+              "title": "muscle snatch 10min",
+              "lines": [
+                "find a heavy set of",
+                "1 muscle snatch",
+                "@rpe 8",
+                "explosive power"
+              ]
+            },
+            {
+              "title": "conditioning 11min",
+              "lines": [
+                "for time",
+                "10 rounds",
+                "3 power snatches 50/35kg",
+                "30 double unders",
+                "rx+: 60/40kg",
+                "anaerobic power"
+              ]
+            },
+            {
+              "title": "accessory 6min",
+              "lines": [
+                "for quality",
+                "emom 6min",
+                "1. max. snatch grip bent over row",
+                "2. max. ring dip support hold",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-10-12/"
+        },
         {
           "date": "2026-10-11",
           "sections": [
@@ -559,58 +614,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-09-29/"
-        },
-        {
-          "date": "2026-09-28",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "90/90 hip rotations",
-                "lying hip cross over",
-                "hand walk"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 cossack squats",
-                "10 good mornings",
-                "30sec plank hold",
-                "*remaining time bike/row"
-              ]
-            },
-            {
-              "title": "sumo deadlifts 15min",
-              "lines": [
-                "3-4 Sets",
-                "2 sumo deadlifts @87-92%"
-              ]
-            },
-            {
-              "title": "conditioning 8min",
-              "lines": [
-                "amrap 30sec x 6 rounds",
-                "max cal bike/row",
-                "1min rest between amraps",
-                "score: total cals",
-                "anaerobic capacity"
-              ]
-            },
-            {
-              "title": "pulling capacity 8min",
-              "lines": [
-                "for quality",
-                "30sec on / 30sec of x 8 sets",
-                "1. max ring rows",
-                "2. max prone press",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-09-28/"
         }
       ]
     },
@@ -619,6 +622,22 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-10-12",
+          "sections": [
+            {
+              "title": "Every 5 minutes for 5 rounds, complete:",
+              "lines": [
+                "5 push jerks",
+                "30-second rest",
+                "100-meter run",
+                "Your score is the heaviest load lifted and slowest run effort.",
+                "Post loads lifted and each run time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261012"
+        },
         {
           "date": "2026-10-11",
           "sections": [
@@ -694,13 +713,11 @@
           "date": "2026-10-07",
           "sections": [
             {
-              "title": "3 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "50 lunges",
-                "200-meter dumbbell farmers carry",
-                "â 50-lb dumbbells",
-                "â 70-lb dumbbells",
-                "Post time to comments."
+                "Wednesday",
+                "261007",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -710,11 +727,14 @@
           "date": "2026-10-06",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Tuesday",
-                "261006",
-                "See Course Photos â"
+                "1,600-meter run",
+                "100 GHD sit-ups",
+                "100 back extensions",
+                "1,600-meter run",
+                "Partition the sit-ups and back extensions any way.",
+                "Post time to comments."
               ]
             }
           ],
@@ -746,6 +766,21 @@
           "url": "https://www.crossfit.com/261005"
         },
         {
+          "date": "2026-10-04",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Oiling the Machine: Warm-Ups, Flexibility, and the Olympic Lifter",
+                "Tight shoulders will cap your snatch before your strength ever does. Bill Starr breaks down the difference between warming up and stretching, why cold shoulders make cleans and back squats an injury waiting to happen, and the stick, band, and PVC drills he's used for decades to build the mobility Olympic lifting demands.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261004"
+        },
+        {
           "date": "2026-10-03",
           "sections": [
             {
@@ -773,11 +808,13 @@
           "date": "2026-10-02",
           "sections": [
             {
-              "title": "Workout",
+              "title": "21-15-9 reps for time of:",
               "lines": [
-                "Friday",
-                "261002",
-                "Learn the Movement â"
+                "Strict pull-ups",
+                "Overhead squats",
+                "â 95-lb barbell",
+                "â 135-lb barbell",
+                "Post time to comments."
               ]
             }
           ],
@@ -810,20 +847,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260929"
-        },
-        {
-          "date": "2026-09-28",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Monday",
-                "260928",
-                "Drill the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260928"
         }
       ]
     }
