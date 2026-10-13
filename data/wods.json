@@ -1,11 +1,57 @@
 {
-  "last_updated": "2026-10-12T11:25:07.474446",
+  "last_updated": "2026-10-13T11:15:15.299510",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-10-13",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "lat stretch",
+                "sumo squat stretch",
+                "instep rotations"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 reverse lunges",
+                "10 scap. push ups",
+                "30sec plank hold",
+                "*remaining time row"
+              ]
+            },
+            {
+              "title": "lunges 15min",
+              "lines": [
+                "3-4 sets",
+                "10 back rack reverse lunges @rpe 7-8"
+              ]
+            },
+            {
+              "title": "conditioning 15min",
+              "lines": [
+                "for max reps/cals",
+                "4 rounds",
+                "1:00 medball sit ups 20/14lbs",
+                "1:00 wall balls 20/14lbs",
+                "1:00 row",
+                "1:00 rest",
+                "score: total reps/cals",
+                "muscular endurance & aerobic power",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-10-13/"
+        },
         {
           "date": "2026-10-12",
           "sections": [
@@ -570,50 +616,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-09-30/"
-        },
-        {
-          "date": "2026-09-29",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "samson stretch",
-                "hand walk",
-                "scorpions",
-                "thoracic rotations"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 double db deadlifts",
-                "10 scap. push ups",
-                "10 reverse lunges"
-              ]
-            },
-            {
-              "title": "bench presses 16min",
-              "lines": [
-                "3-4 Sets",
-                "2 bench presses @87-92%"
-              ]
-            },
-            {
-              "title": "conditioning 16min",
-              "lines": [
-                "amrap 16min",
-                "2 lanes walking lunges",
-                "14 double db hang cleans",
-                "28 sit ups",
-                "dumbbells: 2x22x5/15kg",
-                "muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-09-29/"
         }
       ]
     },
@@ -622,6 +624,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-10-13",
+          "sections": [
+            {
+              "title": "20 rounds for time of:",
+              "lines": [
+                "21 double-unders",
+                "7 burpees",
+                "At 0:00 and 10:00, complete a 500-meter row.",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261013"
+        },
         {
           "date": "2026-10-12",
           "sections": [
@@ -727,14 +744,11 @@
           "date": "2026-10-06",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "1,600-meter run",
-                "100 GHD sit-ups",
-                "100 back extensions",
-                "1,600-meter run",
-                "Partition the sit-ups and back extensions any way.",
-                "Post time to comments."
+                "Tuesday",
+                "261006",
+                "See Course Photos â"
               ]
             }
           ],
@@ -746,39 +760,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Fran"
-              ]
-            },
-            {
-              "title": "21-15-9 reps for time of:",
-              "lines": [
-                "Thrusters",
-                "Pull-ups",
-                "â 65-lb barbell",
-                "â 95-lb barbell",
-                "Compare to",
-                "250730",
-                ".",
-                "Post time to comments."
+                "Monday",
+                "261005",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/261005"
-        },
-        {
-          "date": "2026-10-04",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Oiling the Machine: Warm-Ups, Flexibility, and the Olympic Lifter",
-                "Tight shoulders will cap your snatch before your strength ever does. Bill Starr breaks down the difference between warming up and stretching, why cold shoulders make cleans and back squats an injury waiting to happen, and the stick, band, and PVC drills he's used for decades to build the mobility Olympic lifting demands.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261004"
         },
         {
           "date": "2026-10-03",
@@ -808,13 +796,11 @@
           "date": "2026-10-02",
           "sections": [
             {
-              "title": "21-15-9 reps for time of:",
+              "title": "Workout",
               "lines": [
-                "Strict pull-ups",
-                "Overhead squats",
-                "â 95-lb barbell",
-                "â 135-lb barbell",
-                "Post time to comments."
+                "Friday",
+                "261002",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -833,20 +819,6 @@
             }
           ],
           "url": "https://www.crossfit.com/260930"
-        },
-        {
-          "date": "2026-09-29",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Tuesday",
-                "260929",
-                "See Course Photos â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/260929"
         }
       ]
     }
