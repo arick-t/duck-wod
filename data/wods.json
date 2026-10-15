@@ -1,11 +1,53 @@
 {
-  "last_updated": "2026-10-14T09:06:06.772349",
+  "last_updated": "2026-10-15T08:39:47.206342",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-10-15",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "instep rotations",
+                "hand walk",
+                "lying hip cross over"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 good mornings",
+                "10 box step ups",
+                "10/8cal row"
+              ]
+            },
+            {
+              "title": "romanian deadlift 15min",
+              "lines": [
+                "3-4 sets",
+                "10 romanian deadlifts @rpe 7-8"
+              ]
+            },
+            {
+              "title": "conditioning 16min",
+              "lines": [
+                "amrap 16min",
+                "16 dball box step ups 60/50cm",
+                "32/26cal row",
+                "16 dball over shoulder 20/15kg",
+                "aerobic power",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-10-15/"
+        },
         {
           "date": "2026-10-14",
           "sections": [
@@ -562,57 +604,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-10-02/"
-        },
-        {
-          "date": "2026-10-01",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "calf stretch",
-                "sumo squat stretch",
-                "scorpions",
-                "samson stretch"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "100m run",
-                "10 air squats",
-                "10 prone snow angels"
-              ]
-            },
-            {
-              "title": "back squats 16min",
-              "lines": [
-                "3-4 Sets",
-                "2 back squats",
-                "@87-92%"
-              ]
-            },
-            {
-              "title": "conditioning 12min",
-              "lines": [
-                "on every 3:00 x 4 rounds",
-                "200m run",
-                "10 push press",
-                "10 front squats",
-                "score: slowest round",
-                "barbell: 40/30kg",
-                "rx+: 50/35kg"
-              ]
-            },
-            {
-              "title": "anaerobic conditioning",
-              "lines": [
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-10-01/"
         }
       ]
     },
@@ -621,6 +612,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-10-15",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Training Through Menopause: What Does the Evidence Tell Us?",
+                "For years, women approaching menopause heard the same advice: walk, stretch, and pick up light weights. The research tells a different story. Declining estrogen accelerates the loss of muscle, strength, and bone while raising cardiovascular and metabolic risk, and the best response is not gentler training.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261015"
+        },
         {
           "date": "2026-10-14",
           "sections": [
@@ -703,18 +709,11 @@
           "date": "2026-10-09",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "400/500-meter row",
-                "30 power cleans",
-                "5 rope climbs to 15 feet",
-                "800/1,000-meter row",
-                "5 rope climbs to 15 feet",
-                "30 power cleans",
-                "400/500-meter row",
-                "â 95-lb barbell",
-                "â 135-lb barbell",
-                "Post time to comments."
+                "Friday",
+                "261009",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -778,39 +777,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Fran"
-              ]
-            },
-            {
-              "title": "21-15-9 reps for time of:",
-              "lines": [
-                "Thrusters",
-                "Pull-ups",
-                "â 65-lb barbell",
-                "â 95-lb barbell",
-                "Compare to",
-                "250730",
-                ".",
-                "Post time to comments."
+                "Monday",
+                "261005",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/261005"
-        },
-        {
-          "date": "2026-10-04",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Oiling the Machine: Warm-Ups, Flexibility, and the Olympic Lifter",
-                "Tight shoulders will cap your snatch before your strength ever does. Bill Starr breaks down the difference between warming up and stretching, why cold shoulders make cleans and back squats an injury waiting to happen, and the stick, band, and PVC drills he's used for decades to build the mobility Olympic lifting demands.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261004"
         },
         {
           "date": "2026-10-03",
@@ -840,32 +813,15 @@
           "date": "2026-10-02",
           "sections": [
             {
-              "title": "21-15-9 reps for time of:",
+              "title": "Workout",
               "lines": [
-                "Strict pull-ups",
-                "Overhead squats",
-                "â 95-lb barbell",
-                "â 135-lb barbell",
-                "Post time to comments."
+                "Friday",
+                "261002",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/261002"
-        },
-        {
-          "date": "2026-10-01",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Ring Training Part 4: Why Ring Work Matters More as You Age",
-                "Rings aren't just for chasing muscle-ups. They're one of the few tools that build the joint stability your shoulders need to hold up decades into your training. In the final part of this four-part series, learn why ring work becomes more valuable, not less, as you age, and why the fundamentals are worth returning to indefinitely. Discover how to train for a shoulder that lasts.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261001"
         }
       ]
     }
