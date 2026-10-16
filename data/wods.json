@@ -1,11 +1,57 @@
 {
-  "last_updated": "2026-10-15T08:39:47.206342",
+  "last_updated": "2026-10-16T08:34:20.700300",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-10-16",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "instep rotation",
+                "thoracic rotation",
+                "lat stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 straight leg sit ups",
+                "10 front squats",
+                "10 strict presses",
+                "*remaining time bike/ski"
+              ]
+            },
+            {
+              "title": "thruster 8min",
+              "lines": [
+                "on every 1:00 x 8 sets",
+                "6 thrusters",
+                "(max sustainable weight)"
+              ]
+            },
+            {
+              "title": "conditioning 17min",
+              "lines": [
+                "for time",
+                "4 rounds",
+                "20/16cal bike/ski",
+                "20 toes to bar",
+                "20 burpees to target",
+                "muscular endurance & aerobic power",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-10-16/"
+        },
         {
           "date": "2026-10-15",
           "sections": [
@@ -557,53 +603,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-10-03/"
-        },
-        {
-          "date": "2026-10-02",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "instep rotation",
-                "scorpions",
-                "lat stretch"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "2-4-6…",
-                "straight leg sit ups",
-                "deadlifts",
-                "elbow rotations"
-              ]
-            },
-            {
-              "title": "power cleans 12min",
-              "lines": [
-                "on every 1:00 x 12 sets",
-                "1 power clean @80-85%",
-                "explosive power"
-              ]
-            },
-            {
-              "title": "conditioning 13min",
-              "lines": [
-                "amrap 2:30 x 4 rounds",
-                "20 toes to bar",
-                "10 power cleans 60kg/40kg",
-                "max burpees over the bar",
-                "1min rest between amraps",
-                "score: total burpees",
-                "aerobic power & muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-10-02/"
         }
       ]
     },
@@ -613,19 +612,18 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
-          "date": "2026-10-15",
+          "date": "2026-10-16",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "Training Through Menopause: What Does the Evidence Tell Us?",
-                "For years, women approaching menopause heard the same advice: walk, stretch, and pick up light weights. The research tells a different story. Declining estrogen accelerates the loss of muscle, strength, and bone while raising cardiovascular and metabolic risk, and the best response is not gentler training.",
-                "View the CrossFit map"
+                "Friday",
+                "261016",
+                "Learn the Movement â"
               ]
             }
           ],
-          "url": "https://www.crossfit.com/261015"
+          "url": "https://www.crossfit.com/261016"
         },
         {
           "date": "2026-10-14",
@@ -662,13 +660,11 @@
           "date": "2026-10-12",
           "sections": [
             {
-              "title": "Every 5 minutes for 5 rounds, complete:",
+              "title": "Workout",
               "lines": [
-                "5 push jerks",
-                "30-second rest",
-                "100-meter run",
-                "Your score is the heaviest load lifted and slowest run effort.",
-                "Post loads lifted and each run time to comments."
+                "Monday",
+                "261012",
+                "Drill the Movement â"
               ]
             }
           ],
@@ -709,11 +705,18 @@
           "date": "2026-10-09",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Friday",
-                "261009",
-                "Learn the Movement â"
+                "400/500-meter row",
+                "30 power cleans",
+                "5 rope climbs to 15 feet",
+                "800/1,000-meter row",
+                "5 rope climbs to 15 feet",
+                "30 power cleans",
+                "400/500-meter row",
+                "â 95-lb barbell",
+                "â 135-lb barbell",
+                "Post time to comments."
               ]
             }
           ],
@@ -758,14 +761,11 @@
           "date": "2026-10-06",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "1,600-meter run",
-                "100 GHD sit-ups",
-                "100 back extensions",
-                "1,600-meter run",
-                "Partition the sit-ups and back extensions any way.",
-                "Post time to comments."
+                "Tuesday",
+                "261006",
+                "See Course Photos â"
               ]
             }
           ],
@@ -789,39 +789,15 @@
           "date": "2026-10-03",
           "sections": [
             {
-              "title": "For time:",
-              "lines": [
-                "250-foot sandbag bear hug carry",
-                "50-second L-sit hold",
-                "200-foot sandbag bear hug carry",
-                "40-second L-sit hold",
-                "150-foot sandbag bear hug carry",
-                "30-second L-sit hold",
-                "100-foot sandbag bear hug carry",
-                "20-second L-sit hold",
-                "50-foot sandbag bear hug carry",
-                "10-second L-sit hold",
-                "â 100-lb sandbag",
-                "â 150-lb sandbag",
-                "Post time to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261003"
-        },
-        {
-          "date": "2026-10-02",
-          "sections": [
-            {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "261002",
+                "Saturday",
+                "261003",
                 "Learn the Movement â"
               ]
             }
           ],
-          "url": "https://www.crossfit.com/261002"
+          "url": "https://www.crossfit.com/261003"
         }
       ]
     }
