@@ -1,11 +1,56 @@
 {
-  "last_updated": "2026-10-17T08:07:05.258394",
+  "last_updated": "2026-10-18T08:23:26.514448",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-10-18",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "lat stretch",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "30sec on / 15sec off x2 rounds",
+                "1. air squats",
+                "2. bike/ski",
+                "3. ring rows",
+                "4. burpees"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "emom 35min (7 rounds)",
+                "1. 30-50sec wall sit",
+                "2. 10-15cal bike/ski",
+                "3. 8-12 ring rows",
+                "4. 8-12 double db burpee deadlifts",
+                "5. rest",
+                "Sunday Endurance for Open Gym",
+                "6 rounds for max cals",
+                "30sec bike",
+                "30sec rest",
+                "2:00 rest",
+                "6 rounds for max cals",
+                "20sec bike",
+                "40sec rest",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-10-18/"
+        },
         {
           "date": "2026-10-17",
           "sections": [
@@ -585,48 +630,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-10-05/"
-        },
-        {
-          "date": "2026-10-04",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "sumo squat stretch",
-                "samson stretch",
-                "lat stretch"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "30sec on / 15sec off x2 rounds",
-                "1. medball thrusters",
-                "2. ski",
-                "3. ring rows",
-                "4. side plank"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "emom 35min (7 rounds)",
-                "1. 15-20 wall balls",
-                "2. 12-15cal ski",
-                "3. 6-10 strict pull ups",
-                "4. 20-30 russian twists",
-                "5. rest",
-                "Sunday Endurance for Open Gym",
-                "on the 8:00 x 5-10 rounds",
-                "800m run or ski",
-                "bike in remaining time [rpe 2-3]",
-                "aerobic endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-10-04/"
         }
       ]
     },
@@ -639,13 +642,11 @@
           "date": "2026-10-17",
           "sections": [
             {
-              "title": "4 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "25 deadlifts",
-                "25 push-ups",
-                "â 125-lb barbell",
-                "â 185-lb barbell",
-                "Post your time to the comments."
+                "Saturday",
+                "261017",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -669,13 +670,11 @@
           "date": "2026-10-14",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "50 strict pull-ups",
-                "Every time you break, complete 10 barbell front rack walking lunges.",
-                "â 125-lb barbell",
-                "â 185-lb barbell",
-                "Post time to comments."
+                "Wednesday",
+                "261014",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -685,12 +684,11 @@
           "date": "2026-10-13",
           "sections": [
             {
-              "title": "20 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "21 double-unders",
-                "7 burpees",
-                "At 0:00 and 10:00, complete a 500-meter row.",
-                "Post time to comments."
+                "Tuesday",
+                "261013",
+                "See Course Photos â"
               ]
             }
           ],
@@ -700,32 +698,15 @@
           "date": "2026-10-12",
           "sections": [
             {
-              "title": "Every 5 minutes for 5 rounds, complete:",
+              "title": "Workout",
               "lines": [
-                "5 push jerks",
-                "30-second rest",
-                "100-meter run",
-                "Your score is the heaviest load lifted and slowest run effort.",
-                "Post loads lifted and each run time to comments."
+                "Monday",
+                "261012",
+                "Drill the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/261012"
-        },
-        {
-          "date": "2026-10-11",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Strong Through Every Stage: How CrossFit Shaped Sarah Atkinâs Pregnancy, Postpartum Recovery, and Practice",
-                "She's a physician assistant who spends her days treating chronic pain. She's also a longtime CrossFit athlete who leaned on the gym to get through pregnancy and postpartum recovery. Here's what Sarah Atkin, PA-C, DMSc, wants every patient who feels \"too old\" or \"too out of shape\" to know about movement, fear, and getting stronger at any stage of life.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261011"
         },
         {
           "date": "2026-10-10",
@@ -733,11 +714,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Back squat 7-7-7-7-7 reps",
-                "Compare to similar",
-                "260619",
-                ".",
-                "Post loads to comments."
+                "Saturday",
+                "261010",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -747,53 +726,25 @@
           "date": "2026-10-09",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "400/500-meter row",
-                "30 power cleans",
-                "5 rope climbs to 15 feet",
-                "800/1,000-meter row",
-                "5 rope climbs to 15 feet",
-                "30 power cleans",
-                "400/500-meter row",
-                "â 95-lb barbell",
-                "â 135-lb barbell",
-                "Post time to comments."
+                "Friday",
+                "261009",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/261009"
         },
         {
-          "date": "2026-10-08",
+          "date": "2026-10-07",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day"
-              ]
-            },
-            {
-              "title": "Stamina: A Lifelong Asset",
-              "lines": [
-                "Stamina isn't just grit. It's a measurable marker of how efficiently your cells make and use energy, and the data behind it is staggering: one study found every 1 mL/kg/min bump in VO2 max bought an extra 45 days of life. In this article from the CrossFit Medical Society, the authors break down the cellular science â mitochondria, AMPK, PGC-1a â behind why CrossFit's high-intensity, constantly varied approach may be one of the most effective ways to build the metabolic resilience tied to a longer, more independent life.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261008"
-        },
-        {
-          "date": "2026-10-07",
-          "sections": [
-            {
-              "title": "3 rounds for time of:",
-              "lines": [
-                "50 lunges",
-                "200-meter dumbbell farmers carry",
-                "â 50-lb dumbbells",
-                "â 70-lb dumbbells",
-                "Post time to comments."
+                "Wednesday",
+                "261007",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -803,14 +754,11 @@
           "date": "2026-10-06",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "1,600-meter run",
-                "100 GHD sit-ups",
-                "100 back extensions",
-                "1,600-meter run",
-                "Partition the sit-ups and back extensions any way.",
-                "Post time to comments."
+                "Tuesday",
+                "261006",
+                "See Course Photos â"
               ]
             }
           ],
@@ -822,39 +770,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Fran"
-              ]
-            },
-            {
-              "title": "21-15-9 reps for time of:",
-              "lines": [
-                "Thrusters",
-                "Pull-ups",
-                "â 65-lb barbell",
-                "â 95-lb barbell",
-                "Compare to",
-                "250730",
-                ".",
-                "Post time to comments."
+                "Monday",
+                "261005",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/261005"
-        },
-        {
-          "date": "2026-10-04",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Oiling the Machine: Warm-Ups, Flexibility, and the Olympic Lifter",
-                "Tight shoulders will cap your snatch before your strength ever does. Bill Starr breaks down the difference between warming up and stretching, why cold shoulders make cleans and back squats an injury waiting to happen, and the stick, band, and PVC drills he's used for decades to build the mobility Olympic lifting demands.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261004"
         }
       ]
     }
