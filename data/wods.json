@@ -1,11 +1,58 @@
 {
-  "last_updated": "2026-10-20T08:58:20.388528",
+  "last_updated": "2026-10-21T08:57:16.649479",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-10-21",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "90/90 hip rotations",
+                "lying hip cross over"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "8 good mornings",
+                "8 burpees",
+                "30sec plank hold",
+                "*remaining time bike/ski"
+              ]
+            },
+            {
+              "title": "deadlift 14min",
+              "lines": [
+                "3 sets",
+                "12-10-8 reps @rpe 7-8",
+                "hypertrophy"
+              ]
+            },
+            {
+              "title": "conditioning 18min",
+              "lines": [
+                "for time",
+                "30sec on/ 30sec off",
+                "until completed",
+                "40/32cal bike/ski",
+                "40 sumo deadlift high pulls 40/30kg",
+                "40 burpees over the bar",
+                "40/32cal ski/bike",
+                "anaerobic capacity",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-10-21/"
+        },
         {
           "date": "2026-10-20",
           "sections": [
@@ -586,50 +633,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-10-08/"
-        },
-        {
-          "date": "2026-10-07",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "calf stretch",
-                "scorpions",
-                "crab stretch",
-                "thoracic rotations"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 scap. push ups",
-                "30sec plank hold",
-                "20 single unders"
-              ]
-            },
-            {
-              "title": "bench press 15min",
-              "lines": [
-                "find a heavy set of 2",
-                "bench presses"
-              ]
-            },
-            {
-              "title": "conditioning 17min",
-              "lines": [
-                "for time",
-                "10 rounds",
-                "30 double unders",
-                "15 sit ups",
-                "5 ring dips",
-                "aerobic power & skill capacity",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-10-07/"
         }
       ]
     },
@@ -638,6 +641,22 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-10-21",
+          "sections": [
+            {
+              "title": "On a 20-minute clock:",
+              "lines": [
+                "Build to a 3-rep-max front squat",
+                "Compare to",
+                "260707",
+                ".",
+                "Post heaviest load to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261021"
+        },
         {
           "date": "2026-10-20",
           "sections": [
@@ -707,13 +726,39 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "261016",
-                "Learn the Movement â"
+                "Nancy"
+              ]
+            },
+            {
+              "title": "5 rounds for time of:",
+              "lines": [
+                "400-meter run",
+                "15 overhead squats",
+                "â 65-lb barbell",
+                "â 95-lb barbell",
+                "Compare to",
+                "230918",
+                ".",
+                "Post time to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/261016"
+        },
+        {
+          "date": "2026-10-15",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Training Through Menopause: What Does the Evidence Tell Us?",
+                "For years, women approaching menopause heard the same advice: walk, stretch, and pick up light weights. The research tells a different story. Declining estrogen accelerates the loss of muscle, strength, and bone while raising cardiovascular and metabolic risk, and the best response is not gentler training.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261015"
         },
         {
           "date": "2026-10-14",
@@ -778,29 +823,41 @@
           "date": "2026-10-09",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Friday",
-                "261009",
-                "Learn the Movement â"
+                "400/500-meter row",
+                "30 power cleans",
+                "5 rope climbs to 15 feet",
+                "800/1,000-meter row",
+                "5 rope climbs to 15 feet",
+                "30 power cleans",
+                "400/500-meter row",
+                "â 95-lb barbell",
+                "â 135-lb barbell",
+                "Post time to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/261009"
         },
         {
-          "date": "2026-10-07",
+          "date": "2026-10-08",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "261007",
-                "Learn the Movement â"
+                "Rest Day"
+              ]
+            },
+            {
+              "title": "Stamina: A Lifelong Asset",
+              "lines": [
+                "Stamina isn't just grit. It's a measurable marker of how efficiently your cells make and use energy, and the data behind it is staggering: one study found every 1 mL/kg/min bump in VO2 max bought an extra 45 days of life. In this article from the CrossFit Medical Society, the authors break down the cellular science â mitochondria, AMPK, PGC-1a â behind why CrossFit's high-intensity, constantly varied approach may be one of the most effective ways to build the metabolic resilience tied to a longer, more independent life.",
+                "View the CrossFit map"
               ]
             }
           ],
-          "url": "https://www.crossfit.com/261007"
+          "url": "https://www.crossfit.com/261008"
         }
       ]
     }
