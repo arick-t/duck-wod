@@ -1,11 +1,57 @@
 {
-  "last_updated": "2026-10-21T08:57:16.649479",
+  "last_updated": "2026-10-22T08:59:49.891389",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-10-22",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "calf stretch",
+                "crab stretch",
+                "lat stretch",
+                "thoracic rotations"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10/8 cal row",
+                "10 prone snow angels",
+                "20 single unders"
+              ]
+            },
+            {
+              "title": "pull up / handstand push up 12min",
+              "lines": [
+                "emom 12min",
+                "1. 4-6 strict pull ups",
+                "2. 4-6 handstand push ups"
+              ]
+            },
+            {
+              "title": "conditioning 16min",
+              "lines": [
+                "for time",
+                "5 rounds",
+                "60 double unders",
+                "15/12cal row",
+                "5 wall walks*",
+                "rx+: 6 strict handstand push ups",
+                "aerobic power & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-10-22/"
+        },
         {
           "date": "2026-10-21",
           "sections": [
@@ -587,52 +633,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-10-09/"
-        },
-        {
-          "date": "2026-10-08",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "instep rotation",
-                "thoracic rotation",
-                "lat stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 deadlifts",
-                "10 elbow rotations",
-                "10 squat jumps",
-                "*remaining time bike/ski"
-              ]
-            },
-            {
-              "title": "power clean 12min",
-              "lines": [
-                "find a heavy set of 4",
-                "touch and go power cleans",
-                "explosive power"
-              ]
-            },
-            {
-              "title": "conditioning 15min",
-              "lines": [
-                "amrap 3min x 4 rounds",
-                "30/24cal bike/ski",
-                "max power cleans",
-                "1min rest between amraps",
-                "score: total moved load (reps x load)",
-                "anaerobic capacity",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-10-08/"
         }
       ]
     },
@@ -641,6 +641,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-10-22",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "How Women's Nutritional Needs Really Change With Age (Part 3 of 3)",
+                "Nutrition advice for women gets more complicated by the year, with a different set of rules for every phase of the menstrual cycle and a fresh wave of warnings once perimenopause hits. But female physiology isn't as fragile or as complicated as the internet would have you believe. Here's what actually changes with age, and how to eat and train to protect muscle, bone, and metabolic health at every stage.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261022"
+        },
         {
           "date": "2026-10-21",
           "sections": [
@@ -676,45 +691,25 @@
           "date": "2026-10-19",
           "sections": [
             {
-              "title": "Every 2 minutes for 5 rounds:",
+              "title": "Workout",
               "lines": [
-                "16/20-calorie row",
-                "Max hang power cleans",
-                "Rest 2 minutes between rounds.",
-                "â 75-lb barbell",
-                "â 115-lb barbell",
-                "Post total reps to comments."
+                "Monday",
+                "261019",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/261019"
         },
         {
-          "date": "2026-10-18",
+          "date": "2026-10-17",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "CrossFit and Menopause: The Case for Training for Life",
-                "A physician specializing in menopause health and an 11-year CrossFit athlete makes the case that CrossFit delivers exactly what the evidence says menopausal women need: strength, conditioning, power, and meaningful loading. Learn how scalability, relative intensity, skilled coaching, and community help women train hard safely and build the capacity to stay independent for decades.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261018"
-        },
-        {
-          "date": "2026-10-17",
-          "sections": [
-            {
-              "title": "4 rounds for time of:",
-              "lines": [
-                "25 deadlifts",
-                "25 push-ups",
-                "â 125-lb barbell",
-                "â 185-lb barbell",
-                "Post your time to the comments."
+                "Saturday",
+                "261017",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -726,20 +721,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Nancy"
-              ]
-            },
-            {
-              "title": "5 rounds for time of:",
-              "lines": [
-                "400-meter run",
-                "15 overhead squats",
-                "â 65-lb barbell",
-                "â 95-lb barbell",
-                "Compare to",
-                "230918",
-                ".",
-                "Post time to comments."
+                "Friday",
+                "261016",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -764,13 +748,11 @@
           "date": "2026-10-14",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "50 strict pull-ups",
-                "Every time you break, complete 10 barbell front rack walking lunges.",
-                "â 125-lb barbell",
-                "â 185-lb barbell",
-                "Post time to comments."
+                "Wednesday",
+                "261014",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -780,12 +762,11 @@
           "date": "2026-10-13",
           "sections": [
             {
-              "title": "20 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "21 double-unders",
-                "7 burpees",
-                "At 0:00 and 10:00, complete a 500-meter row.",
-                "Post time to comments."
+                "Tuesday",
+                "261013",
+                "See Course Photos â"
               ]
             }
           ],
@@ -823,41 +804,15 @@
           "date": "2026-10-09",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "400/500-meter row",
-                "30 power cleans",
-                "5 rope climbs to 15 feet",
-                "800/1,000-meter row",
-                "5 rope climbs to 15 feet",
-                "30 power cleans",
-                "400/500-meter row",
-                "â 95-lb barbell",
-                "â 135-lb barbell",
-                "Post time to comments."
+                "Friday",
+                "261009",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/261009"
-        },
-        {
-          "date": "2026-10-08",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day"
-              ]
-            },
-            {
-              "title": "Stamina: A Lifelong Asset",
-              "lines": [
-                "Stamina isn't just grit. It's a measurable marker of how efficiently your cells make and use energy, and the data behind it is staggering: one study found every 1 mL/kg/min bump in VO2 max bought an extra 45 days of life. In this article from the CrossFit Medical Society, the authors break down the cellular science â mitochondria, AMPK, PGC-1a â behind why CrossFit's high-intensity, constantly varied approach may be one of the most effective ways to build the metabolic resilience tied to a longer, more independent life.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261008"
         }
       ]
     }
