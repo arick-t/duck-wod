@@ -1,11 +1,54 @@
 {
-  "last_updated": "2026-10-22T08:59:49.891389",
+  "last_updated": "2026-10-23T08:54:33.000724",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-10-23",
+          "sections": [
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "line drills"
+              ]
+            },
+            {
+              "title": "front squat 14min",
+              "lines": [
+                "3 sets",
+                "12-10-8 reps @rpe 7-8",
+                "hypertrophy"
+              ]
+            },
+            {
+              "title": "conditioning 15min",
+              "lines": [
+                "for time",
+                "600m run",
+                "into",
+                "4 rounds",
+                "18 toes to bar",
+                "12 double db thruster 2x22,5/15kg",
+                "into",
+                "600m run",
+                "aerobic power (lactate threshold)"
+              ]
+            },
+            {
+              "title": "upper back & triceps 6min",
+              "lines": [
+                "30sec /30sec off x 6 rounds",
+                "1. max double db bent over rows",
+                "2. max db overhead triceps extensions",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-10-23/"
+        },
         {
           "date": "2026-10-22",
           "sections": [
@@ -582,57 +625,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-10-10/"
-        },
-        {
-          "date": "2026-10-09",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "lat stretch",
-                "sumo squat stretch",
-                "instep rotations"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 air squats",
-                "10 prone snow angels",
-                "10 ring rows",
-                "*remaining time row"
-              ]
-            },
-            {
-              "title": "back squat 15min",
-              "lines": [
-                "find a heavy set of 2",
-                "back squats"
-              ]
-            },
-            {
-              "title": "benchmark conditioning 10min",
-              "lines": [
-                "\"Jackie\"",
-                "for time",
-                "1000m row",
-                "50 thrusters 20/15kg",
-                "30 pull ups"
-              ]
-            },
-            {
-              "title": "accessory 4min",
-              "lines": [
-                "tabata (20sec on / 10sec off x 8 rounds)",
-                "1. back rack jumping lunges",
-                "2. barbell curls",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-10-09/"
         }
       ]
     },
@@ -641,6 +633,31 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-10-23",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Diane"
+              ]
+            },
+            {
+              "title": "21-15-9 reps for time of:",
+              "lines": [
+                "Deadlifts",
+                "Handstand push-ups",
+                "â 155-lb barbell",
+                "â 225-lb barbell",
+                "Compare to",
+                "240326",
+                ".",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261023"
+        },
         {
           "date": "2026-10-22",
           "sections": [
@@ -691,25 +708,45 @@
           "date": "2026-10-19",
           "sections": [
             {
-              "title": "Workout",
+              "title": "Every 2 minutes for 5 rounds:",
               "lines": [
-                "Monday",
-                "261019",
-                "Learn the Movement â"
+                "16/20-calorie row",
+                "Max hang power cleans",
+                "Rest 2 minutes between rounds.",
+                "â 75-lb barbell",
+                "â 115-lb barbell",
+                "Post total reps to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/261019"
         },
         {
-          "date": "2026-10-17",
+          "date": "2026-10-18",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "261017",
-                "Learn the Movement â"
+                "Rest Day",
+                "CrossFit and Menopause: The Case for Training for Life",
+                "A physician specializing in menopause health and an 11-year CrossFit athlete makes the case that CrossFit delivers exactly what the evidence says menopausal women need: strength, conditioning, power, and meaningful loading. Learn how scalability, relative intensity, skilled coaching, and community help women train hard safely and build the capacity to stay independent for decades.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261018"
+        },
+        {
+          "date": "2026-10-17",
+          "sections": [
+            {
+              "title": "4 rounds for time of:",
+              "lines": [
+                "25 deadlifts",
+                "25 push-ups",
+                "â 125-lb barbell",
+                "â 185-lb barbell",
+                "Post your time to the comments."
               ]
             }
           ],
@@ -721,9 +758,20 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "261016",
-                "Learn the Movement â"
+                "Nancy"
+              ]
+            },
+            {
+              "title": "5 rounds for time of:",
+              "lines": [
+                "400-meter run",
+                "15 overhead squats",
+                "â 65-lb barbell",
+                "â 95-lb barbell",
+                "Compare to",
+                "230918",
+                ".",
+                "Post time to comments."
               ]
             }
           ],
@@ -748,11 +796,13 @@
           "date": "2026-10-14",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Wednesday",
-                "261014",
-                "Learn the Movement â"
+                "50 strict pull-ups",
+                "Every time you break, complete 10 barbell front rack walking lunges.",
+                "â 125-lb barbell",
+                "â 185-lb barbell",
+                "Post time to comments."
               ]
             }
           ],
@@ -776,11 +826,13 @@
           "date": "2026-10-12",
           "sections": [
             {
-              "title": "Workout",
+              "title": "Every 5 minutes for 5 rounds, complete:",
               "lines": [
-                "Monday",
-                "261012",
-                "Drill the Movement â"
+                "5 push jerks",
+                "30-second rest",
+                "100-meter run",
+                "Your score is the heaviest load lifted and slowest run effort.",
+                "Post loads lifted and each run time to comments."
               ]
             }
           ],
@@ -799,20 +851,6 @@
             }
           ],
           "url": "https://www.crossfit.com/261010"
-        },
-        {
-          "date": "2026-10-09",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Friday",
-                "261009",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261009"
         }
       ]
     }
