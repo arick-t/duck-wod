@@ -1,11 +1,46 @@
 {
-  "last_updated": "2026-10-23T08:54:33.000724",
+  "last_updated": "2026-10-24T08:28:35.097361",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-10-24",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "instep rotation",
+                "lat stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "10 box step ups",
+                "10 burpees",
+                "*partner is skiing"
+              ]
+            },
+            {
+              "title": "conditioning 32min",
+              "lines": [
+                "in teams of 2",
+                "amrap 32min",
+                "8 synchro db devil presses",
+                "24 db box step overs 50cm",
+                "32/29/26cal ski",
+                "dumbell: 1x 22,5/15kg",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-10-24/"
+        },
         {
           "date": "2026-10-23",
           "sections": [
@@ -589,42 +624,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-10-11/"
-        },
-        {
-          "date": "2026-10-10",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "thoracic rotation",
-                "handwalk",
-                "scorpion"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "amrap 5min",
-                "10 straight leg sit ups",
-                "10 push ups to downdog",
-                "*partner is biking"
-              ]
-            },
-            {
-              "title": "conditioning 29min",
-              "lines": [
-                "in teams of 2",
-                "amrap 1:30 x 12 rounds",
-                "12/11/10 cal bike",
-                "max toes to bar / push presses 40/30kg",
-                "1min rest between amraps",
-                "anaerobic capacity & muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-10-10/"
         }
       ]
     },
@@ -633,6 +632,26 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-10-24",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "30-calorie air bike",
+                "30 wall-ball shots",
+                "20-calorie air bike",
+                "20 wall-ball shots",
+                "10-calorie air bike",
+                "10 wall-ball shots",
+                "â 20-lb medicine ball to a 9-foot target",
+                "â 30-lb medicine ball to a 10-foot target",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261024"
+        },
         {
           "date": "2026-10-23",
           "sections": [
@@ -677,13 +696,11 @@
           "date": "2026-10-21",
           "sections": [
             {
-              "title": "On a 20-minute clock:",
+              "title": "Workout",
               "lines": [
-                "Build to a 3-rep-max front squat",
-                "Compare to",
-                "260707",
-                ".",
-                "Post heaviest load to comments."
+                "Wednesday",
+                "261021",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -722,31 +739,14 @@
           "url": "https://www.crossfit.com/261019"
         },
         {
-          "date": "2026-10-18",
+          "date": "2026-10-17",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "CrossFit and Menopause: The Case for Training for Life",
-                "A physician specializing in menopause health and an 11-year CrossFit athlete makes the case that CrossFit delivers exactly what the evidence says menopausal women need: strength, conditioning, power, and meaningful loading. Learn how scalability, relative intensity, skilled coaching, and community help women train hard safely and build the capacity to stay independent for decades.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261018"
-        },
-        {
-          "date": "2026-10-17",
-          "sections": [
-            {
-              "title": "4 rounds for time of:",
-              "lines": [
-                "25 deadlifts",
-                "25 push-ups",
-                "â 125-lb barbell",
-                "â 185-lb barbell",
-                "Post your time to the comments."
+                "Saturday",
+                "261017",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -758,51 +758,23 @@
             {
               "title": "Workout",
               "lines": [
-                "Nancy"
-              ]
-            },
-            {
-              "title": "5 rounds for time of:",
-              "lines": [
-                "400-meter run",
-                "15 overhead squats",
-                "â 65-lb barbell",
-                "â 95-lb barbell",
-                "Compare to",
-                "230918",
-                ".",
-                "Post time to comments."
+                "Friday",
+                "261016",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/261016"
         },
         {
-          "date": "2026-10-15",
+          "date": "2026-10-14",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "Training Through Menopause: What Does the Evidence Tell Us?",
-                "For years, women approaching menopause heard the same advice: walk, stretch, and pick up light weights. The research tells a different story. Declining estrogen accelerates the loss of muscle, strength, and bone while raising cardiovascular and metabolic risk, and the best response is not gentler training.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261015"
-        },
-        {
-          "date": "2026-10-14",
-          "sections": [
-            {
-              "title": "For time:",
-              "lines": [
-                "50 strict pull-ups",
-                "Every time you break, complete 10 barbell front rack walking lunges.",
-                "â 125-lb barbell",
-                "â 185-lb barbell",
-                "Post time to comments."
+                "Wednesday",
+                "261014",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -826,31 +798,15 @@
           "date": "2026-10-12",
           "sections": [
             {
-              "title": "Every 5 minutes for 5 rounds, complete:",
+              "title": "Workout",
               "lines": [
-                "5 push jerks",
-                "30-second rest",
-                "100-meter run",
-                "Your score is the heaviest load lifted and slowest run effort.",
-                "Post loads lifted and each run time to comments."
+                "Monday",
+                "261012",
+                "Drill the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/261012"
-        },
-        {
-          "date": "2026-10-10",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Saturday",
-                "261010",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261010"
         }
       ]
     }
