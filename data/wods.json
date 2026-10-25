@@ -1,11 +1,52 @@
 {
-  "last_updated": "2026-10-24T08:28:35.097361",
+  "last_updated": "2026-10-25T08:47:24.718149",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-10-25",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "lat stretch",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "30sec on / 15sec off x2 rounds",
+                "1. prone snow angels",
+                "2. row",
+                "3. plank hold",
+                "4. 90/90 hip rotations"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "emom 35min (7 rounds)",
+                "1. 20 handstand shoulder taps",
+                "2. 10-15cal row",
+                "3. 6-8 strict toes to bar",
+                "4. 10-14 goblet cossack squats",
+                "5. rest",
+                "Sunday Endurance for Open Gym",
+                "10 sets for time",
+                "500/450m row",
+                "– rest 00:30 between sets",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-10-25/"
+        },
         {
           "date": "2026-10-24",
           "sections": [
@@ -581,49 +622,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-10-12/"
-        },
-        {
-          "date": "2026-10-11",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "crab stretch",
-                "instep rotation",
-                "lat stretch"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "30sec on / 15sec off x2 rounds",
-                "1. step ups",
-                "2. row",
-                "3. scap. push usp",
-                "4. ring rows"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "emom 35min (7 rounds)",
-                "1. 12-16 db box step ups (50cm)",
-                "2. 12-15cal row",
-                "3. 4-8 ring dips",
-                "4. 12-16 kb gorilla rows",
-                "5. rest",
-                "Sunday Endurance for Open Gym",
-                "10 sets",
-                ":30 bike at 60 RPMs",
-                ":20 bike at 70 RPMs",
-                ":10 bike at 80+ RPMs",
-                "1:00 bike sub-60 RPMs\"",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-10-11/"
         }
       ]
     },
@@ -632,6 +630,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-10-25",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "How to Win Halloween",
+                "Halloween should be about costumes, pumpkin guts, and running around the neighborhood after dark, not a pillowcase full of candy. With 1 in 5 kids now overweight or obese, a longtime affiliate owner and mom of two shares how to keep the fun and lose the sugar. Trade candy for Lego sets, hand out Hot Wheels, and become the coolest house on the block.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261025"
+        },
         {
           "date": "2026-10-24",
           "sections": [
@@ -658,39 +671,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Diane"
-              ]
-            },
-            {
-              "title": "21-15-9 reps for time of:",
-              "lines": [
-                "Deadlifts",
-                "Handstand push-ups",
-                "â 155-lb barbell",
-                "â 225-lb barbell",
-                "Compare to",
-                "240326",
-                ".",
-                "Post time to comments."
+                "Friday",
+                "261023",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/261023"
-        },
-        {
-          "date": "2026-10-22",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "How Women's Nutritional Needs Really Change With Age (Part 3 of 3)",
-                "Nutrition advice for women gets more complicated by the year, with a different set of rules for every phase of the menstrual cycle and a fresh wave of warnings once perimenopause hits. But female physiology isn't as fragile or as complicated as the internet would have you believe. Here's what actually changes with age, and how to eat and train to protect muscle, bone, and metabolic health at every stage.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261022"
         },
         {
           "date": "2026-10-21",
@@ -710,12 +697,11 @@
           "date": "2026-10-20",
           "sections": [
             {
-              "title": "10 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "10 toes-to-bars",
-                "10 burpees to a target",
-                "Burpee target is 6 inches above the fingertips with arms overhead.",
-                "Post time to comments."
+                "Tuesday",
+                "261020",
+                "See Course Photos â"
               ]
             }
           ],
@@ -725,14 +711,11 @@
           "date": "2026-10-19",
           "sections": [
             {
-              "title": "Every 2 minutes for 5 rounds:",
+              "title": "Workout",
               "lines": [
-                "16/20-calorie row",
-                "Max hang power cleans",
-                "Rest 2 minutes between rounds.",
-                "â 75-lb barbell",
-                "â 115-lb barbell",
-                "Post total reps to comments."
+                "Monday",
+                "261019",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -798,11 +781,13 @@
           "date": "2026-10-12",
           "sections": [
             {
-              "title": "Workout",
+              "title": "Every 5 minutes for 5 rounds, complete:",
               "lines": [
-                "Monday",
-                "261012",
-                "Drill the Movement â"
+                "5 push jerks",
+                "30-second rest",
+                "100-meter run",
+                "Your score is the heaviest load lifted and slowest run effort.",
+                "Post loads lifted and each run time to comments."
               ]
             }
           ],
