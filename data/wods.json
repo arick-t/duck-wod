@@ -1,11 +1,57 @@
 {
-  "last_updated": "2026-10-25T08:47:24.718149",
+  "last_updated": "2026-10-26T09:27:13.852646",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-10-26",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "crab stretch",
+                "lying hip cross over"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 scap. push ups",
+                "10 kb deadlifts",
+                "30sec plank hold",
+                "*remaining time bike/ski"
+              ]
+            },
+            {
+              "title": "conditioning 20min",
+              "lines": [
+                "for time",
+                "6 rounds",
+                "16 kb swings 24/16kg",
+                "12/10 bike/ski",
+                "8 ring dips",
+                "1:00 rest after each round",
+                "muscular endurance & aerobic power"
+              ]
+            },
+            {
+              "title": "core & shoulder 10min",
+              "lines": [
+                "emom 10min",
+                "1. 10/10 kb side bends",
+                "2. 12-15 prone presses",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-10-26/"
+        },
         {
           "date": "2026-10-25",
           "sections": [
@@ -567,61 +613,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-10-13/"
-        },
-        {
-          "date": "2026-10-12",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "calf stretch",
-                "lat stretch",
-                "thoracic rotations",
-                "samson stretch"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 prone snow angels",
-                "10 snatch grip deadlifts",
-                "20 single unders"
-              ]
-            },
-            {
-              "title": "muscle snatch 10min",
-              "lines": [
-                "find a heavy set of",
-                "1 muscle snatch",
-                "@rpe 8",
-                "explosive power"
-              ]
-            },
-            {
-              "title": "conditioning 11min",
-              "lines": [
-                "for time",
-                "10 rounds",
-                "3 power snatches 50/35kg",
-                "30 double unders",
-                "rx+: 60/40kg",
-                "anaerobic power"
-              ]
-            },
-            {
-              "title": "accessory 6min",
-              "lines": [
-                "for quality",
-                "emom 6min",
-                "1. max. snatch grip bent over row",
-                "2. max. ring dip support hold",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-10-12/"
         }
       ]
     },
@@ -630,6 +621,23 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-10-26",
+          "sections": [
+            {
+              "title": "6 rounds, each for time, of:",
+              "lines": [
+                "300-meter run",
+                "100-meter recovery walk",
+                "Compare to similar",
+                "260610",
+                ".",
+                "Post times for each round to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261026"
+        },
         {
           "date": "2026-10-25",
           "sections": [
@@ -671,23 +679,51 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "261023",
-                "Learn the Movement â"
+                "Diane"
+              ]
+            },
+            {
+              "title": "21-15-9 reps for time of:",
+              "lines": [
+                "Deadlifts",
+                "Handstand push-ups",
+                "â 155-lb barbell",
+                "â 225-lb barbell",
+                "Compare to",
+                "240326",
+                ".",
+                "Post time to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/261023"
         },
         {
-          "date": "2026-10-21",
+          "date": "2026-10-22",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "261021",
-                "Learn the Movement â"
+                "Rest Day",
+                "How Women's Nutritional Needs Really Change With Age (Part 3 of 3)",
+                "Nutrition advice for women gets more complicated by the year, with a different set of rules for every phase of the menstrual cycle and a fresh wave of warnings once perimenopause hits. But female physiology isn't as fragile or as complicated as the internet would have you believe. Here's what actually changes with age, and how to eat and train to protect muscle, bone, and metabolic health at every stage.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261022"
+        },
+        {
+          "date": "2026-10-21",
+          "sections": [
+            {
+              "title": "On a 20-minute clock:",
+              "lines": [
+                "Build to a 3-rep-max front squat",
+                "Compare to",
+                "260707",
+                ".",
+                "Post heaviest load to comments."
               ]
             }
           ],
@@ -697,29 +733,16 @@
           "date": "2026-10-20",
           "sections": [
             {
-              "title": "Workout",
+              "title": "10 rounds for time of:",
               "lines": [
-                "Tuesday",
-                "261020",
-                "See Course Photos â"
+                "10 toes-to-bars",
+                "10 burpees to a target",
+                "Burpee target is 6 inches above the fingertips with arms overhead.",
+                "Post time to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/261020"
-        },
-        {
-          "date": "2026-10-19",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Monday",
-                "261019",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261019"
         },
         {
           "date": "2026-10-17",
@@ -767,31 +790,16 @@
           "date": "2026-10-13",
           "sections": [
             {
-              "title": "Workout",
+              "title": "20 rounds for time of:",
               "lines": [
-                "Tuesday",
-                "261013",
-                "See Course Photos â"
+                "21 double-unders",
+                "7 burpees",
+                "At 0:00 and 10:00, complete a 500-meter row.",
+                "Post time to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/261013"
-        },
-        {
-          "date": "2026-10-12",
-          "sections": [
-            {
-              "title": "Every 5 minutes for 5 rounds, complete:",
-              "lines": [
-                "5 push jerks",
-                "30-second rest",
-                "100-meter run",
-                "Your score is the heaviest load lifted and slowest run effort.",
-                "Post loads lifted and each run time to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261012"
         }
       ]
     }
