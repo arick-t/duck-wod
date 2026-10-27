@@ -1,11 +1,55 @@
 {
-  "last_updated": "2026-10-26T09:27:13.852646",
+  "last_updated": "2026-10-27T09:24:59.085567",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-10-27",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "calf stretch",
+                "inverted hamstring stretch",
+                "instep rotation",
+                "lying hip cross over"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10/8 cal row",
+                "10 reverse lunges",
+                "20 single unders"
+              ]
+            },
+            {
+              "title": "deadlift 14min",
+              "lines": [
+                "3 sets",
+                "12-10-8 reps @rpe 7-8",
+                "hypertrophy"
+              ]
+            },
+            {
+              "title": "conditioning 18min",
+              "lines": [
+                "amrap 18min",
+                "10 front rack reverse lunges 50/35kg",
+                "20/15cal row",
+                "40 double unders",
+                "aerobic power",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-10-27/"
+        },
         {
           "date": "2026-10-26",
           "sections": [
@@ -567,52 +611,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-10-14/"
-        },
-        {
-          "date": "2026-10-13",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "lat stretch",
-                "sumo squat stretch",
-                "instep rotations"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 reverse lunges",
-                "10 scap. push ups",
-                "30sec plank hold",
-                "*remaining time row"
-              ]
-            },
-            {
-              "title": "lunges 15min",
-              "lines": [
-                "3-4 sets",
-                "10 back rack reverse lunges @rpe 7-8"
-              ]
-            },
-            {
-              "title": "conditioning 15min",
-              "lines": [
-                "for max reps/cals",
-                "4 rounds",
-                "1:00 medball sit ups 20/14lbs",
-                "1:00 wall balls 20/14lbs",
-                "1:00 row",
-                "1:00 rest",
-                "score: total reps/cals",
-                "muscular endurance & aerobic power",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-10-13/"
         }
       ]
     },
@@ -621,6 +619,30 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-10-27",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Linda"
+              ]
+            },
+            {
+              "title": "10-9-8-7-6-5-4-3-2-1 reps for time of:",
+              "lines": [
+                "1 Â½-bodyweight deadlift",
+                "Bodyweight bench press",
+                "Â¾-bodyweight squat clean",
+                "Compare to",
+                "260728",
+                ".",
+                "Post loads and time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261027"
+        },
         {
           "date": "2026-10-26",
           "sections": [
@@ -679,51 +701,23 @@
             {
               "title": "Workout",
               "lines": [
-                "Diane"
-              ]
-            },
-            {
-              "title": "21-15-9 reps for time of:",
-              "lines": [
-                "Deadlifts",
-                "Handstand push-ups",
-                "â 155-lb barbell",
-                "â 225-lb barbell",
-                "Compare to",
-                "240326",
-                ".",
-                "Post time to comments."
+                "Friday",
+                "261023",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/261023"
         },
         {
-          "date": "2026-10-22",
+          "date": "2026-10-21",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "How Women's Nutritional Needs Really Change With Age (Part 3 of 3)",
-                "Nutrition advice for women gets more complicated by the year, with a different set of rules for every phase of the menstrual cycle and a fresh wave of warnings once perimenopause hits. But female physiology isn't as fragile or as complicated as the internet would have you believe. Here's what actually changes with age, and how to eat and train to protect muscle, bone, and metabolic health at every stage.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261022"
-        },
-        {
-          "date": "2026-10-21",
-          "sections": [
-            {
-              "title": "On a 20-minute clock:",
-              "lines": [
-                "Build to a 3-rep-max front squat",
-                "Compare to",
-                "260707",
-                ".",
-                "Post heaviest load to comments."
+                "Wednesday",
+                "261021",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -733,16 +727,29 @@
           "date": "2026-10-20",
           "sections": [
             {
-              "title": "10 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "10 toes-to-bars",
-                "10 burpees to a target",
-                "Burpee target is 6 inches above the fingertips with arms overhead.",
-                "Post time to comments."
+                "Tuesday",
+                "261020",
+                "See Course Photos â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/261020"
+        },
+        {
+          "date": "2026-10-19",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Monday",
+                "261019",
+                "Learn the Movement â"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261019"
         },
         {
           "date": "2026-10-17",
@@ -785,21 +792,6 @@
             }
           ],
           "url": "https://www.crossfit.com/261014"
-        },
-        {
-          "date": "2026-10-13",
-          "sections": [
-            {
-              "title": "20 rounds for time of:",
-              "lines": [
-                "21 double-unders",
-                "7 burpees",
-                "At 0:00 and 10:00, complete a 500-meter row.",
-                "Post time to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261013"
         }
       ]
     }
