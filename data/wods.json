@@ -1,11 +1,55 @@
 {
-  "last_updated": "2026-10-27T09:24:59.085567",
+  "last_updated": "2026-10-28T10:06:38.495281",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-10-28",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "instep rotation",
+                "lat stretch",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "40sec on / 20sec off x 6",
+                "1. hanging hollow hold",
+                "2. plank push ups",
+                "3. shuttle runs"
+              ]
+            },
+            {
+              "title": "strict press 14min",
+              "lines": [
+                "3 sets",
+                "12-10-8 reps @rpe 7-8",
+                "hypertrophy"
+              ]
+            },
+            {
+              "title": "conditioning 15min",
+              "lines": [
+                "on every 3:00 x 5",
+                "10 chest to bar pull ups",
+                "15 push ups",
+                "10 lanes shuttle runs",
+                "score: slowest round",
+                "muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-10-28/"
+        },
         {
           "date": "2026-10-27",
           "sections": [
@@ -569,48 +613,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-10-15/"
-        },
-        {
-          "date": "2026-10-14",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "calf stretch",
-                "lat stretch",
-                "scorpions",
-                "thoracic rotations"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 scap. push ups",
-                "100m run",
-                "10 ring rows"
-              ]
-            },
-            {
-              "title": "conditioning 32min",
-              "lines": [
-                "on every 4:00 x 8 rounds",
-                "10 double db bench presses 2x22,5/15kg",
-                "200m run",
-                "7 strict pull ups",
-                "200m run",
-                "score: slowest round"
-              ]
-            },
-            {
-              "title": "strength & aerobic capacity",
-              "lines": [
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-10-14/"
         }
       ]
     },
@@ -619,6 +621,22 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-10-28",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Complete as many rounds and reps as possible in 9 minutes of:",
+                "3 handstand walk squares",
+                "9 toes-to-bars",
+                "One handstand walk square rep is a 5x5 distance: Walk 5 feet up, 5 feet right, 5 feet back, and 5 feet left.",
+                "Post rounds and reps to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261028"
+        },
         {
           "date": "2026-10-27",
           "sections": [
@@ -701,13 +719,39 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "261023",
-                "Learn the Movement â"
+                "Diane"
+              ]
+            },
+            {
+              "title": "21-15-9 reps for time of:",
+              "lines": [
+                "Deadlifts",
+                "Handstand push-ups",
+                "â 155-lb barbell",
+                "â 225-lb barbell",
+                "Compare to",
+                "240326",
+                ".",
+                "Post time to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/261023"
+        },
+        {
+          "date": "2026-10-22",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "How Women's Nutritional Needs Really Change With Age (Part 3 of 3)",
+                "Nutrition advice for women gets more complicated by the year, with a different set of rules for every phase of the menstrual cycle and a fresh wave of warnings once perimenopause hits. But female physiology isn't as fragile or as complicated as the internet would have you believe. Here's what actually changes with age, and how to eat and train to protect muscle, bone, and metabolic health at every stage.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261022"
         },
         {
           "date": "2026-10-21",
@@ -727,11 +771,12 @@
           "date": "2026-10-20",
           "sections": [
             {
-              "title": "Workout",
+              "title": "10 rounds for time of:",
               "lines": [
-                "Tuesday",
-                "261020",
-                "See Course Photos â"
+                "10 toes-to-bars",
+                "10 burpees to a target",
+                "Burpee target is 6 inches above the fingertips with arms overhead.",
+                "Post time to comments."
               ]
             }
           ],
@@ -780,18 +825,19 @@
           "url": "https://www.crossfit.com/261016"
         },
         {
-          "date": "2026-10-14",
+          "date": "2026-10-15",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "261014",
-                "Learn the Movement â"
+                "Rest Day",
+                "Training Through Menopause: What Does the Evidence Tell Us?",
+                "For years, women approaching menopause heard the same advice: walk, stretch, and pick up light weights. The research tells a different story. Declining estrogen accelerates the loss of muscle, strength, and bone while raising cardiovascular and metabolic risk, and the best response is not gentler training.",
+                "View the CrossFit map"
               ]
             }
           ],
-          "url": "https://www.crossfit.com/261014"
+          "url": "https://www.crossfit.com/261015"
         }
       ]
     }
