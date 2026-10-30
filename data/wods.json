@@ -1,11 +1,56 @@
 {
-  "last_updated": "2026-10-29T10:31:09.651091",
+  "last_updated": "2026-10-30T10:31:30.293454",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-10-30",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "sumo squat stretch",
+                "lat stretch",
+                "seated pike stretch",
+                "thoracic rotations"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10/8cal row",
+                "10 straight leg sit ups",
+                "20sec deep squat hold"
+              ]
+            },
+            {
+              "title": "front squat 14min",
+              "lines": [
+                "3 sets",
+                "12-10-8 reps @rpe 7-8",
+                "hypertrophy"
+              ]
+            },
+            {
+              "title": "conditioning 15min",
+              "lines": [
+                "5 rounds",
+                "30 air squats",
+                "15 toes to bar",
+                "10/8cal row",
+                "5 shoulder to overhead 60/40kg",
+                "aerobic power",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-10-30/"
+        },
         {
           "date": "2026-10-29",
           "sections": [
@@ -577,52 +622,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-10-17/"
-        },
-        {
-          "date": "2026-10-16",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "instep rotation",
-                "thoracic rotation",
-                "lat stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 straight leg sit ups",
-                "10 front squats",
-                "10 strict presses",
-                "*remaining time bike/ski"
-              ]
-            },
-            {
-              "title": "thruster 8min",
-              "lines": [
-                "on every 1:00 x 8 sets",
-                "6 thrusters",
-                "(max sustainable weight)"
-              ]
-            },
-            {
-              "title": "conditioning 17min",
-              "lines": [
-                "for time",
-                "4 rounds",
-                "20/16cal bike/ski",
-                "20 toes to bar",
-                "20 burpees to target",
-                "muscular endurance & aerobic power",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-10-16/"
         }
       ]
     },
@@ -631,6 +630,30 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-10-30",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "15 power snatches",
+                "15 dumbbell thrusters",
+                "12 power snatches",
+                "15 dumbbell thrusters",
+                "9 power snatches",
+                "15 dumbbell thrusters",
+                "6 power snatches",
+                "15 dumbbell thrusters",
+                "3 power snatches",
+                "15 dumbbell thrusters",
+                "â 105-lb barbell and 20-lb dumbbells",
+                "â 155-lb barbell and 35-lb dumbbells",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261030"
+        },
         {
           "date": "2026-10-29",
           "sections": [
@@ -710,17 +733,10 @@
           "date": "2026-10-24",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "30-calorie air bike",
-                "30 wall-ball shots",
-                "20-calorie air bike",
-                "20 wall-ball shots",
-                "10-calorie air bike",
-                "10 wall-ball shots",
-                "â 20-lb medicine ball to a 9-foot target",
-                "â 30-lb medicine ball to a 10-foot target",
-                "Post time to comments."
+                "Saturday",
+                "261024"
               ]
             }
           ],
@@ -732,9 +748,20 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "261023",
-                "Learn the Movement â"
+                "Diane"
+              ]
+            },
+            {
+              "title": "21-15-9 reps for time of:",
+              "lines": [
+                "Deadlifts",
+                "Handstand push-ups",
+                "â 155-lb barbell",
+                "â 225-lb barbell",
+                "Compare to",
+                "240326",
+                ".",
+                "Post time to comments."
               ]
             }
           ],
@@ -773,14 +800,11 @@
           "date": "2026-10-19",
           "sections": [
             {
-              "title": "Every 2 minutes for 5 rounds:",
+              "title": "Workout",
               "lines": [
-                "16/20-calorie row",
-                "Max hang power cleans",
-                "Rest 2 minutes between rounds.",
-                "â 75-lb barbell",
-                "â 115-lb barbell",
-                "Post total reps to comments."
+                "Monday",
+                "261019",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -805,31 +829,15 @@
           "date": "2026-10-17",
           "sections": [
             {
-              "title": "4 rounds for time of:",
-              "lines": [
-                "25 deadlifts",
-                "25 push-ups",
-                "â 125-lb barbell",
-                "â 185-lb barbell",
-                "Post your time to the comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261017"
-        },
-        {
-          "date": "2026-10-16",
-          "sections": [
-            {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "261016",
+                "Saturday",
+                "261017",
                 "Learn the Movement â"
               ]
             }
           ],
-          "url": "https://www.crossfit.com/261016"
+          "url": "https://www.crossfit.com/261017"
         }
       ]
     }
