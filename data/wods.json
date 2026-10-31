@@ -1,11 +1,47 @@
 {
-  "last_updated": "2026-10-30T10:31:30.293454",
+  "last_updated": "2026-10-31T10:00:44.607084",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-10-31",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "instep rotation",
+                "lat stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "8 good mornings",
+                "8 burpees",
+                "*partner is biking"
+              ]
+            },
+            {
+              "title": "conditioning 30min",
+              "lines": [
+                "in teams of 2",
+                "on every 10:00 x 3 rounds",
+                "40 deadlifts 80/60kg*",
+                "50/47/45cal bike",
+                "60 burpees over the bar (partner holds plank)",
+                "score: slowest rounds",
+                "rx+: 100/70kg",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-10-31/"
+        },
         {
           "date": "2026-10-30",
           "sections": [
@@ -584,44 +620,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-10-18/"
-        },
-        {
-          "date": "2026-10-17",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "instep rotation",
-                "calf stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "10 prone snow angels",
-                "10 db deadlifts",
-                "*partner is rowing"
-              ]
-            },
-            {
-              "title": "conditioning 34min",
-              "lines": [
-                "in teams of 2",
-                "for time",
-                "1000/950/900m row",
-                "100 fat rope single unders",
-                "20 wall walks",
-                "120 db hang clean & jerks 22,5/15kg",
-                "20 wall walks",
-                "100 fat rope single unders",
-                "1000/950/900m row",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-10-17/"
         }
       ]
     },
@@ -630,6 +628,33 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-10-31",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Small"
+              ]
+            },
+            {
+              "title": "3 rounds for time of:",
+              "lines": [
+                "1,000-meter row",
+                "50 burpees",
+                "50 box jumps",
+                "800-meter run",
+                "â 20-inch box",
+                "â 24-inch box",
+                "Compare to",
+                "110612",
+                ".",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261031"
+        },
         {
           "date": "2026-10-30",
           "sections": [
@@ -675,9 +700,11 @@
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "261028",
-                "Learn the Movement â"
+                "Complete as many rounds and reps as possible in 9 minutes of:",
+                "3 handstand walk squares",
+                "9 toes-to-bars",
+                "One handstand walk square rep is a 5x5 distance: Walk 5 feet up, 5 feet right, 5 feet back, and 5 feet left.",
+                "Post rounds and reps to comments."
               ]
             }
           ],
@@ -689,9 +716,19 @@
             {
               "title": "Workout",
               "lines": [
-                "Tuesday",
-                "261027",
-                "See Course Photos â"
+                "Linda"
+              ]
+            },
+            {
+              "title": "10-9-8-7-6-5-4-3-2-1 reps for time of:",
+              "lines": [
+                "1 Â½-bodyweight deadlift",
+                "Bodyweight bench press",
+                "Â¾-bodyweight squat clean",
+                "Compare to",
+                "260728",
+                ".",
+                "Post loads and time to comments."
               ]
             }
           ],
@@ -733,10 +770,17 @@
           "date": "2026-10-24",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Saturday",
-                "261024"
+                "30-calorie air bike",
+                "30 wall-ball shots",
+                "20-calorie air bike",
+                "20 wall-ball shots",
+                "10-calorie air bike",
+                "10 wall-ball shots",
+                "â 20-lb medicine ball to a 9-foot target",
+                "â 30-lb medicine ball to a 10-foot target",
+                "Post time to comments."
               ]
             }
           ],
@@ -768,14 +812,31 @@
           "url": "https://www.crossfit.com/261023"
         },
         {
-          "date": "2026-10-21",
+          "date": "2026-10-22",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "261021",
-                "Learn the Movement â"
+                "Rest Day",
+                "How Women's Nutritional Needs Really Change With Age (Part 3 of 3)",
+                "Nutrition advice for women gets more complicated by the year, with a different set of rules for every phase of the menstrual cycle and a fresh wave of warnings once perimenopause hits. But female physiology isn't as fragile or as complicated as the internet would have you believe. Here's what actually changes with age, and how to eat and train to protect muscle, bone, and metabolic health at every stage.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261022"
+        },
+        {
+          "date": "2026-10-21",
+          "sections": [
+            {
+              "title": "On a 20-minute clock:",
+              "lines": [
+                "Build to a 3-rep-max front squat",
+                "Compare to",
+                "260707",
+                ".",
+                "Post heaviest load to comments."
               ]
             }
           ],
@@ -785,12 +846,11 @@
           "date": "2026-10-20",
           "sections": [
             {
-              "title": "10 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "10 toes-to-bars",
-                "10 burpees to a target",
-                "Burpee target is 6 inches above the fingertips with arms overhead.",
-                "Post time to comments."
+                "Tuesday",
+                "261020",
+                "See Course Photos â"
               ]
             }
           ],
@@ -809,35 +869,6 @@
             }
           ],
           "url": "https://www.crossfit.com/261019"
-        },
-        {
-          "date": "2026-10-18",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "CrossFit and Menopause: The Case for Training for Life",
-                "A physician specializing in menopause health and an 11-year CrossFit athlete makes the case that CrossFit delivers exactly what the evidence says menopausal women need: strength, conditioning, power, and meaningful loading. Learn how scalability, relative intensity, skilled coaching, and community help women train hard safely and build the capacity to stay independent for decades.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261018"
-        },
-        {
-          "date": "2026-10-17",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Saturday",
-                "261017",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261017"
         }
       ]
     }
