@@ -1,11 +1,59 @@
 {
-  "last_updated": "2026-10-31T10:00:44.607084",
+  "last_updated": "2026-11-01T10:52:41.261124",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-11-01",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "lat stretch",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "30sec on / 15sec off x2 rounds",
+                "1. air squats",
+                "2. bike/ski",
+                "3. kb deadlifts",
+                "4. scap. push ups"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "emom 35min (7 rounds)",
+                "1. 30-50sec (weighted) wall sit",
+                "2. 10-15cal bike/ski",
+                "3. 15-20 russian kb swings",
+                "4. 8-12 db push ups",
+                "5. rest",
+                "Sunday Endurance for Open Gym",
+                "row or ski",
+                "5 rounds for time",
+                "200m",
+                "– Rest :30 between rounds",
+                "4 rounds for time",
+                "400m",
+                "– Rest 1:00 between rounds",
+                "3 rounds for time",
+                "600m",
+                "– Rest 1:30 between rounds",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-11-01/"
+        },
         {
           "date": "2026-10-31",
           "sections": [
@@ -575,51 +623,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-10-19/"
-        },
-        {
-          "date": "2026-10-18",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "lat stretch",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "30sec on / 15sec off x2 rounds",
-                "1. air squats",
-                "2. bike/ski",
-                "3. ring rows",
-                "4. burpees"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "emom 35min (7 rounds)",
-                "1. 30-50sec wall sit",
-                "2. 10-15cal bike/ski",
-                "3. 8-12 ring rows",
-                "4. 8-12 double db burpee deadlifts",
-                "5. rest",
-                "Sunday Endurance for Open Gym",
-                "6 rounds for max cals",
-                "30sec bike",
-                "30sec rest",
-                "2:00 rest",
-                "6 rounds for max cals",
-                "20sec bike",
-                "40sec rest",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-10-18/"
         }
       ]
     },
@@ -628,6 +631,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-11-01",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "The Hidden Costs of Eating Added Sugar (Part 2 of 3)",
+                "Added sugar costs more than calories. Explore its emerging links to early-onset cancer, the rise of fatty liver disease in children, what your A1C reveals about long-term glucose exposure, and how glycation stiffens the collagen in your tendons.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261101"
+        },
         {
           "date": "2026-10-31",
           "sections": [
@@ -680,31 +698,14 @@
           "url": "https://www.crossfit.com/261030"
         },
         {
-          "date": "2026-10-29",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "No Sugar: The Two Words That Matter Most (Part 1 of 3)",
-                "In 2002, CrossFit condensed its nutrition prescription into 14 words, ending with âno sugar.â Learn why your body has no requirement for added sugar, how modern food processing changed how much of it we eat and how fast, and where it goes once itâs absorbed.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261029"
-        },
-        {
           "date": "2026-10-28",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Complete as many rounds and reps as possible in 9 minutes of:",
-                "3 handstand walk squares",
-                "9 toes-to-bars",
-                "One handstand walk square rep is a 5x5 distance: Walk 5 feet up, 5 feet right, 5 feet back, and 5 feet left.",
-                "Post rounds and reps to comments."
+                "Wednesday",
+                "261028",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -716,19 +717,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Linda"
-              ]
-            },
-            {
-              "title": "10-9-8-7-6-5-4-3-2-1 reps for time of:",
-              "lines": [
-                "1 Â½-bodyweight deadlift",
-                "Bodyweight bench press",
-                "Â¾-bodyweight squat clean",
-                "Compare to",
-                "260728",
-                ".",
-                "Post loads and time to comments."
+                "Tuesday",
+                "261027",
+                "See Course Photos â"
               ]
             }
           ],
@@ -738,49 +729,24 @@
           "date": "2026-10-26",
           "sections": [
             {
-              "title": "6 rounds, each for time, of:",
+              "title": "Workout",
               "lines": [
-                "300-meter run",
-                "100-meter recovery walk",
-                "Compare to similar",
-                "260610",
-                ".",
-                "Post times for each round to comments."
+                "Monday",
+                "261026",
+                "Drill the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/261026"
         },
         {
-          "date": "2026-10-25",
+          "date": "2026-10-24",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "How to Win Halloween",
-                "Halloween should be about costumes, pumpkin guts, and running around the neighborhood after dark, not a pillowcase full of candy. With 1 in 5 kids now overweight or obese, a longtime affiliate owner and mom of two shares how to keep the fun and lose the sugar. Trade candy for Lego sets, hand out Hot Wheels, and become the coolest house on the block.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261025"
-        },
-        {
-          "date": "2026-10-24",
-          "sections": [
-            {
-              "title": "For time:",
-              "lines": [
-                "30-calorie air bike",
-                "30 wall-ball shots",
-                "20-calorie air bike",
-                "20 wall-ball shots",
-                "10-calorie air bike",
-                "10 wall-ball shots",
-                "â 20-lb medicine ball to a 9-foot target",
-                "â 30-lb medicine ball to a 10-foot target",
-                "Post time to comments."
+                "Saturday",
+                "261024"
               ]
             }
           ],
@@ -792,51 +758,23 @@
             {
               "title": "Workout",
               "lines": [
-                "Diane"
-              ]
-            },
-            {
-              "title": "21-15-9 reps for time of:",
-              "lines": [
-                "Deadlifts",
-                "Handstand push-ups",
-                "â 155-lb barbell",
-                "â 225-lb barbell",
-                "Compare to",
-                "240326",
-                ".",
-                "Post time to comments."
+                "Friday",
+                "261023",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/261023"
         },
         {
-          "date": "2026-10-22",
+          "date": "2026-10-21",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "How Women's Nutritional Needs Really Change With Age (Part 3 of 3)",
-                "Nutrition advice for women gets more complicated by the year, with a different set of rules for every phase of the menstrual cycle and a fresh wave of warnings once perimenopause hits. But female physiology isn't as fragile or as complicated as the internet would have you believe. Here's what actually changes with age, and how to eat and train to protect muscle, bone, and metabolic health at every stage.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261022"
-        },
-        {
-          "date": "2026-10-21",
-          "sections": [
-            {
-              "title": "On a 20-minute clock:",
-              "lines": [
-                "Build to a 3-rep-max front squat",
-                "Compare to",
-                "260707",
-                ".",
-                "Post heaviest load to comments."
+                "Wednesday",
+                "261021",
+                "Learn the Movement â"
               ]
             }
           ],
