@@ -1,11 +1,55 @@
 {
-  "last_updated": "2026-11-01T10:52:41.261124",
+  "last_updated": "2026-11-02T11:46:09.052282",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-11-02",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "lat stretch",
+                "scorpions",
+                "thoracic rotations"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10/8cal row",
+                "10 prone snow angels",
+                "10 ring rows"
+              ]
+            },
+            {
+              "title": "strict press 14min",
+              "lines": [
+                "3 sets",
+                "12-10-8 reps @rpe 7,5-8,5",
+                "hypertrophy"
+              ]
+            },
+            {
+              "title": "conditioning 16min",
+              "lines": [
+                "amrap 16min",
+                "4 wall walks",
+                "8 strict pull ups",
+                "16/12cal row",
+                "aerobic power & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-11-02/"
+        },
         {
           "date": "2026-11-01",
           "sections": [
@@ -578,51 +622,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-10-20/"
-        },
-        {
-          "date": "2026-10-19",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "calf stretch",
-                "lat stretch on box",
-                "lying hip cross over",
-                "thoracic rotations"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 elbow rotations",
-                "10 squat jumps",
-                "10 ring rows"
-              ]
-            },
-            {
-              "title": "power clean 14min",
-              "lines": [
-                "find a heavy set of 10",
-                "touch and go power cleans",
-                "power capacity"
-              ]
-            },
-            {
-              "title": "conditioning 15min",
-              "lines": [
-                "for time",
-                "50 power cleans 60/40kg",
-                "70 pull ups",
-                "90 box jumps 60/50cm",
-                "*partition however",
-                "aerobic power",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-10-19/"
         }
       ]
     },
@@ -631,6 +630,32 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-11-02",
+          "sections": [
+            {
+              "title": "For max calories:",
+              "lines": [
+                "15-second air bike",
+                "Rest 45 seconds",
+                "30-second air bike",
+                "Rest 1 minute 30 seconds",
+                "45-second air bike",
+                "Rest 2 minutes 15 seconds",
+                "60-second air bike",
+                "Rest 3 minutes",
+                "45-second air bike",
+                "Rest 2 minutes 15 seconds",
+                "30-second air bike",
+                "Rest 1 minute 30 seconds",
+                "15-second air bike",
+                "Your score is total calories. Log each set.",
+                "Post total calories to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261102"
+        },
         {
           "date": "2026-11-01",
           "sections": [
@@ -677,25 +702,30 @@
           "date": "2026-10-30",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "15 power snatches",
-                "15 dumbbell thrusters",
-                "12 power snatches",
-                "15 dumbbell thrusters",
-                "9 power snatches",
-                "15 dumbbell thrusters",
-                "6 power snatches",
-                "15 dumbbell thrusters",
-                "3 power snatches",
-                "15 dumbbell thrusters",
-                "â 105-lb barbell and 20-lb dumbbells",
-                "â 155-lb barbell and 35-lb dumbbells",
-                "Post time to comments."
+                "Friday",
+                "261030",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/261030"
+        },
+        {
+          "date": "2026-10-29",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "No Sugar: The Two Words That Matter Most (Part 1 of 3)",
+                "In 2002, CrossFit condensed its nutrition prescription into 14 words, ending with âno sugar.â Learn why your body has no requirement for added sugar, how modern food processing changed how much of it we eat and how fast, and where it goes once itâs absorbed.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261029"
         },
         {
           "date": "2026-10-28",
@@ -703,9 +733,11 @@
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "261028",
-                "Learn the Movement â"
+                "Complete as many rounds and reps as possible in 9 minutes of:",
+                "3 handstand walk squares",
+                "9 toes-to-bars",
+                "One handstand walk square rep is a 5x5 distance: Walk 5 feet up, 5 feet right, 5 feet back, and 5 feet left.",
+                "Post rounds and reps to comments."
               ]
             }
           ],
@@ -717,9 +749,19 @@
             {
               "title": "Workout",
               "lines": [
-                "Tuesday",
-                "261027",
-                "See Course Photos â"
+                "Linda"
+              ]
+            },
+            {
+              "title": "10-9-8-7-6-5-4-3-2-1 reps for time of:",
+              "lines": [
+                "1 Â½-bodyweight deadlift",
+                "Bodyweight bench press",
+                "Â¾-bodyweight squat clean",
+                "Compare to",
+                "260728",
+                ".",
+                "Post loads and time to comments."
               ]
             }
           ],
@@ -758,23 +800,51 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "261023",
-                "Learn the Movement â"
+                "Diane"
+              ]
+            },
+            {
+              "title": "21-15-9 reps for time of:",
+              "lines": [
+                "Deadlifts",
+                "Handstand push-ups",
+                "â 155-lb barbell",
+                "â 225-lb barbell",
+                "Compare to",
+                "240326",
+                ".",
+                "Post time to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/261023"
         },
         {
-          "date": "2026-10-21",
+          "date": "2026-10-22",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "261021",
-                "Learn the Movement â"
+                "Rest Day",
+                "How Women's Nutritional Needs Really Change With Age (Part 3 of 3)",
+                "Nutrition advice for women gets more complicated by the year, with a different set of rules for every phase of the menstrual cycle and a fresh wave of warnings once perimenopause hits. But female physiology isn't as fragile or as complicated as the internet would have you believe. Here's what actually changes with age, and how to eat and train to protect muscle, bone, and metabolic health at every stage.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261022"
+        },
+        {
+          "date": "2026-10-21",
+          "sections": [
+            {
+              "title": "On a 20-minute clock:",
+              "lines": [
+                "Build to a 3-rep-max front squat",
+                "Compare to",
+                "260707",
+                ".",
+                "Post heaviest load to comments."
               ]
             }
           ],
@@ -793,20 +863,6 @@
             }
           ],
           "url": "https://www.crossfit.com/261020"
-        },
-        {
-          "date": "2026-10-19",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Monday",
-                "261019",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261019"
         }
       ]
     }
