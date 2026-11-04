@@ -1,11 +1,46 @@
 {
-  "last_updated": "2026-11-03T11:27:13.016916",
+  "last_updated": "2026-11-04T11:41:37.691859",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-11-04",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "instep rotation",
+                "scorpions",
+                "lat stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "12 scap. push ups",
+                "12 box step ups",
+                "*remaining time bike/ski"
+              ]
+            },
+            {
+              "title": "conditioning 30min",
+              "lines": [
+                "amrap 3min x 10 rounds",
+                "1. 24/19cal bike into max db bench presses 2x22,5/15kg",
+                "2. 24/19cal ski into max dball box step ups (50cm) 20/15kg",
+                "score: total reps (bench press + step ups)",
+                "aerobic capacity & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-11-04/"
+        },
         {
           "date": "2026-11-03",
           "sections": [
@@ -574,53 +609,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-10-22/"
-        },
-        {
-          "date": "2026-10-21",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "90/90 hip rotations",
-                "lying hip cross over"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "8 good mornings",
-                "8 burpees",
-                "30sec plank hold",
-                "*remaining time bike/ski"
-              ]
-            },
-            {
-              "title": "deadlift 14min",
-              "lines": [
-                "3 sets",
-                "12-10-8 reps @rpe 7-8",
-                "hypertrophy"
-              ]
-            },
-            {
-              "title": "conditioning 18min",
-              "lines": [
-                "for time",
-                "30sec on/ 30sec off",
-                "until completed",
-                "40/32cal bike/ski",
-                "40 sumo deadlift high pulls 40/30kg",
-                "40 burpees over the bar",
-                "40/32cal ski/bike",
-                "anaerobic capacity",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-10-21/"
         }
       ]
     },
@@ -629,6 +617,23 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-11-04",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Complete as many rounds and reps as possible in 12 minutes of:",
+                "15 pull-ups",
+                "3 squat cleans",
+                "â 165 lb",
+                "â 245 lb",
+                "Post reps to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261104"
+        },
         {
           "date": "2026-11-03",
           "sections": [
@@ -669,21 +674,6 @@
             }
           ],
           "url": "https://www.crossfit.com/261102"
-        },
-        {
-          "date": "2026-11-01",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "The Hidden Costs of Eating Added Sugar (Part 2 of 3)",
-                "Added sugar costs more than calories. Explore its emerging links to early-onset cancer, the rise of fatty liver disease in children, what your A1C reveals about long-term glucose exposure, and how glycation stiffens the collagen in your tendons.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261101"
         },
         {
           "date": "2026-10-31",
@@ -737,6 +727,21 @@
           "url": "https://www.crossfit.com/261030"
         },
         {
+          "date": "2026-10-29",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "No Sugar: The Two Words That Matter Most (Part 1 of 3)",
+                "In 2002, CrossFit condensed its nutrition prescription into 14 words, ending with âno sugar.â Learn why your body has no requirement for added sugar, how modern food processing changed how much of it we eat and how fast, and where it goes once itâs absorbed.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261029"
+        },
+        {
           "date": "2026-10-28",
           "sections": [
             {
@@ -780,11 +785,14 @@
           "date": "2026-10-26",
           "sections": [
             {
-              "title": "Workout",
+              "title": "6 rounds, each for time, of:",
               "lines": [
-                "Monday",
-                "261026",
-                "Drill the Movement â"
+                "300-meter run",
+                "100-meter recovery walk",
+                "Compare to similar",
+                "260610",
+                ".",
+                "Post times for each round to comments."
               ]
             }
           ],
@@ -816,20 +824,6 @@
             }
           ],
           "url": "https://www.crossfit.com/261023"
-        },
-        {
-          "date": "2026-10-21",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Wednesday",
-                "261021",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261021"
         }
       ]
     }
