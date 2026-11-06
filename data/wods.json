@@ -1,11 +1,65 @@
 {
-  "last_updated": "2026-11-05T11:42:00.165651",
+  "last_updated": "2026-11-06T11:40:35.796395",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-11-06",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "sumo squat stretch",
+                "lat stretch",
+                "calf stretch",
+                "thoracic rotations"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "2-4-6-8…",
+                "squat jumps",
+                "push press",
+                "burpees"
+              ]
+            },
+            {
+              "title": "front squat 14min",
+              "lines": [
+                "3 sets",
+                "12-10-8 reps @rpe 7,5-8,5",
+                "hypertrophy"
+              ]
+            },
+            {
+              "title": "benchmark conditioning 12min",
+              "lines": [
+                "\"Rahoi\"",
+                "amrap 12min",
+                "12 box jumps 60/50cm",
+                "6 thrusters 40/30kg",
+                "6 bar facing burpees"
+              ]
+            },
+            {
+              "title": "shoulder & core 5min",
+              "lines": [
+                "20sec on / 10sec off x 9 rounds",
+                "1. barbell z-press",
+                "2. side plank left",
+                "3. side plank right",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-11-06/"
+        },
         {
           "date": "2026-11-05",
           "sections": [
@@ -565,49 +619,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-10-24/"
-        },
-        {
-          "date": "2026-10-23",
-          "sections": [
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "line drills"
-              ]
-            },
-            {
-              "title": "front squat 14min",
-              "lines": [
-                "3 sets",
-                "12-10-8 reps @rpe 7-8",
-                "hypertrophy"
-              ]
-            },
-            {
-              "title": "conditioning 15min",
-              "lines": [
-                "for time",
-                "600m run",
-                "into",
-                "4 rounds",
-                "18 toes to bar",
-                "12 double db thruster 2x22,5/15kg",
-                "into",
-                "600m run",
-                "aerobic power (lactate threshold)"
-              ]
-            },
-            {
-              "title": "upper back & triceps 6min",
-              "lines": [
-                "30sec /30sec off x 6 rounds",
-                "1. max double db bent over rows",
-                "2. max db overhead triceps extensions",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-10-23/"
         }
       ]
     },
@@ -616,6 +627,35 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-11-06",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Fight Gone Bad"
+              ]
+            },
+            {
+              "title": "3 rounds for max reps of:",
+              "lines": [
+                "1 minute of wall-ball shots",
+                "1 minute of sumo deadlift high pulls",
+                "1 minute of box jumps",
+                "1 minute of push presses",
+                "1 minute of rowing calories",
+                "Rest 1 minute",
+                "â 14-lb medicine ball to 9 feet, 55-lb barbell, 20-inch box",
+                "â 20-lb medicine ball to 10 feet, 75-lb barbell, 20-inch box",
+                "Post total reps to comments and log your score in the CrossFit app (CrossFit Benchmarks are located in the \"Progress\" tab).",
+                "Compare to",
+                "260831",
+                "."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261106"
+        },
         {
           "date": "2026-11-05",
           "sections": [
@@ -710,9 +750,22 @@
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "261031",
-                "Learn the Movement â"
+                "Small"
+              ]
+            },
+            {
+              "title": "3 rounds for time of:",
+              "lines": [
+                "1,000-meter row",
+                "50 burpees",
+                "50 box jumps",
+                "800-meter run",
+                "â 20-inch box",
+                "â 24-inch box",
+                "Compare to",
+                "110612",
+                ".",
+                "Post time to comments."
               ]
             }
           ],
@@ -722,11 +775,21 @@
           "date": "2026-10-30",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Friday",
-                "261030",
-                "Learn the Movement â"
+                "15 power snatches",
+                "15 dumbbell thrusters",
+                "12 power snatches",
+                "15 dumbbell thrusters",
+                "9 power snatches",
+                "15 dumbbell thrusters",
+                "6 power snatches",
+                "15 dumbbell thrusters",
+                "3 power snatches",
+                "15 dumbbell thrusters",
+                "â 105-lb barbell and 20-lb dumbbells",
+                "â 155-lb barbell and 35-lb dumbbells",
+                "Post time to comments."
               ]
             }
           ],
@@ -778,28 +841,21 @@
           "date": "2026-10-24",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Saturday",
-                "261024"
+                "30-calorie air bike",
+                "30 wall-ball shots",
+                "20-calorie air bike",
+                "20 wall-ball shots",
+                "10-calorie air bike",
+                "10 wall-ball shots",
+                "â 20-lb medicine ball to a 9-foot target",
+                "â 30-lb medicine ball to a 10-foot target",
+                "Post time to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/261024"
-        },
-        {
-          "date": "2026-10-23",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Friday",
-                "261023",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261023"
         }
       ]
     }
