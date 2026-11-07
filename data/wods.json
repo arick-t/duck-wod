@@ -1,11 +1,48 @@
 {
-  "last_updated": "2026-11-06T11:40:35.796395",
+  "last_updated": "2026-11-07T10:45:53.803216",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-11-07",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "scorpions",
+                "lat stretch"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "amrap 6min",
+                "10 good mornings",
+                "10 elbow rotations",
+                "10 scap. push ups",
+                "*partner is rowing"
+              ]
+            },
+            {
+              "title": "conditioning 34min",
+              "lines": [
+                "in teams of 2",
+                "for time",
+                "4 rounds",
+                "50 push ups",
+                "40 hang power cleans 40/30kg",
+                "50/45/40cal row",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-11-07/"
+        },
         {
           "date": "2026-11-06",
           "sections": [
@@ -584,41 +621,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-10-25/"
-        },
-        {
-          "date": "2026-10-24",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "instep rotation",
-                "lat stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "10 box step ups",
-                "10 burpees",
-                "*partner is skiing"
-              ]
-            },
-            {
-              "title": "conditioning 32min",
-              "lines": [
-                "in teams of 2",
-                "amrap 32min",
-                "8 synchro db devil presses",
-                "24 db box step overs 50cm",
-                "32/29/26cal ski",
-                "dumbell: 1x 22,5/15kg",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-10-24/"
         }
       ]
     },
@@ -627,6 +629,22 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-11-07",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Overhead squat 3-3-3-3-3 reps",
+                "Compare to",
+                "230302",
+                ".",
+                "Post heaviest set to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261107"
+        },
         {
           "date": "2026-11-06",
           "sections": [
@@ -657,32 +675,14 @@
           "url": "https://www.crossfit.com/261106"
         },
         {
-          "date": "2026-11-05",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "How To Break Up With Added Sugar (Part 3 of 3)",
-                "Much of the damage sugar does to your body can be reversed, and the first step is finding out where you stand. In Part 3 of our series on sugar, learn the signs you may be eating too much, from afternoon crashes and constant cravings to cavities, acne, and skin changes. Find out what happens when you cut added sugar, how to improve blood sugar naturally, and whether artificial sweeteners deserve a spot in your pantry. Then stop asking how much sugar you can get away with and start asking what your body needs to thrive.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261105"
-        },
-        {
           "date": "2026-11-04",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Complete as many rounds and reps as possible in 12 minutes of:",
-                "15 pull-ups",
-                "3 squat cleans",
-                "â 165 lb",
-                "â 245 lb",
-                "Post reps to comments."
+                "Wednesday",
+                "261104",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -692,12 +692,11 @@
           "date": "2026-11-03",
           "sections": [
             {
-              "title": "5 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "4 wall walks",
-                "8 chest-to-wall handstand push-ups",
-                "48 double-unders",
-                "Post time to comments."
+                "Tuesday",
+                "261103",
+                "See Course Photos â"
               ]
             }
           ],
@@ -775,21 +774,11 @@
           "date": "2026-10-30",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "15 power snatches",
-                "15 dumbbell thrusters",
-                "12 power snatches",
-                "15 dumbbell thrusters",
-                "9 power snatches",
-                "15 dumbbell thrusters",
-                "6 power snatches",
-                "15 dumbbell thrusters",
-                "3 power snatches",
-                "15 dumbbell thrusters",
-                "â 105-lb barbell and 20-lb dumbbells",
-                "â 155-lb barbell and 35-lb dumbbells",
-                "Post time to comments."
+                "Friday",
+                "261030",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -836,26 +825,6 @@
             }
           ],
           "url": "https://www.crossfit.com/261026"
-        },
-        {
-          "date": "2026-10-24",
-          "sections": [
-            {
-              "title": "For time:",
-              "lines": [
-                "30-calorie air bike",
-                "30 wall-ball shots",
-                "20-calorie air bike",
-                "20 wall-ball shots",
-                "10-calorie air bike",
-                "10 wall-ball shots",
-                "â 20-lb medicine ball to a 9-foot target",
-                "â 30-lb medicine ball to a 10-foot target",
-                "Post time to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261024"
         }
       ]
     }
