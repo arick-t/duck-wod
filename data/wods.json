@@ -1,11 +1,57 @@
 {
-  "last_updated": "2026-11-07T10:45:53.803216",
+  "last_updated": "2026-11-08T10:50:26.171576",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-11-08",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "lat stretch",
+                "instep rotation"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "30sec on / 15sec off x2 rounds",
+                "1. prone snow angels",
+                "2. row",
+                "3. plank hold",
+                "4. burpees"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "emom 35min (7 rounds)",
+                "1. 4-6 wall walks",
+                "2. 10-15cal row",
+                "3. 8-10 single leg deadlifts",
+                "4. 8-12 burpee box jumps",
+                "5. rest",
+                "Sunday Endurance for Open Gym",
+                "for time",
+                "1000/800m row",
+                "rest 1:00",
+                "2000/1600m row",
+                "rest 2:00",
+                "3000/2400m row",
+                "rest 3:00",
+                "4000/3200m row",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-11-08/"
+        },
         {
           "date": "2026-11-07",
           "sections": [
@@ -580,47 +626,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-10-26/"
-        },
-        {
-          "date": "2026-10-25",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "lat stretch",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "30sec on / 15sec off x2 rounds",
-                "1. prone snow angels",
-                "2. row",
-                "3. plank hold",
-                "4. 90/90 hip rotations"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "emom 35min (7 rounds)",
-                "1. 20 handstand shoulder taps",
-                "2. 10-15cal row",
-                "3. 6-8 strict toes to bar",
-                "4. 10-14 goblet cossack squats",
-                "5. rest",
-                "Sunday Endurance for Open Gym",
-                "10 sets for time",
-                "500/450m row",
-                "– rest 00:30 between sets",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-10-25/"
         }
       ]
     },
@@ -629,6 +634,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-11-08",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Did You Know the 2027 CrossFit Open Begins in 103 Days?",
+                "Thatâs nearly four months to close the gap on the movements that frequently show up in Open workouts year after year, including pull-ups, chest-to-bar pull-ups, toes-to-bars, muscle-ups, double-unders, box jumps, and handstand push-ups. Start by testing yourself to find your weaknesses, then pick one movement and practice it consistently, even for just 10 minutes a day. Every step in a progression builds strength and skill, so youâll be better prepared whether or not that particular movement shows up.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261108"
+        },
         {
           "date": "2026-11-07",
           "sections": [
@@ -706,23 +726,11 @@
           "date": "2026-11-02",
           "sections": [
             {
-              "title": "For max calories:",
+              "title": "Workout",
               "lines": [
-                "15-second air bike",
-                "Rest 45 seconds",
-                "30-second air bike",
-                "Rest 1 minute 30 seconds",
-                "45-second air bike",
-                "Rest 2 minutes 15 seconds",
-                "60-second air bike",
-                "Rest 3 minutes",
-                "45-second air bike",
-                "Rest 2 minutes 15 seconds",
-                "30-second air bike",
-                "Rest 1 minute 30 seconds",
-                "15-second air bike",
-                "Your score is total calories. Log each set.",
-                "Post total calories to comments."
+                "Monday",
+                "261102",
+                "Air Bike Setup â"
               ]
             }
           ],
@@ -749,22 +757,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Small"
-              ]
-            },
-            {
-              "title": "3 rounds for time of:",
-              "lines": [
-                "1,000-meter row",
-                "50 burpees",
-                "50 box jumps",
-                "800-meter run",
-                "â 20-inch box",
-                "â 24-inch box",
-                "Compare to",
-                "110612",
-                ".",
-                "Post time to comments."
+                "Saturday",
+                "261031",
+                "Learn the Movement â"
               ]
             }
           ],
