@@ -1,11 +1,57 @@
 {
-  "last_updated": "2026-11-10T11:55:17.079765",
+  "last_updated": "2026-11-11T11:31:43.337413",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-11-11",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "hamstring stretch on box",
+                "calf stretch",
+                "instep rotations",
+                "lying hip cross over"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10/8cal row",
+                "10 squat jumps",
+                "10 good mornings"
+              ]
+            },
+            {
+              "title": "deadlift 14min",
+              "lines": [
+                "3 sets",
+                "12-10-8 reps @rpe 7,5-8,5",
+                "hypertrophy"
+              ]
+            },
+            {
+              "title": "conditioning 15min",
+              "lines": [
+                "amrap 3min x 5 rounds",
+                "15 box jumps 60/50cm",
+                "10 deadlifts 100/70kg*",
+                "max cal row in remaining time",
+                "score: total cals",
+                "*rx+: 110/80kg",
+                "aerobic power & explosive power capacity",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-11-11/"
+        },
         {
           "date": "2026-11-10",
           "sections": [
@@ -578,50 +624,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-10-29/"
-        },
-        {
-          "date": "2026-10-28",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "instep rotation",
-                "lat stretch",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "40sec on / 20sec off x 6",
-                "1. hanging hollow hold",
-                "2. plank push ups",
-                "3. shuttle runs"
-              ]
-            },
-            {
-              "title": "strict press 14min",
-              "lines": [
-                "3 sets",
-                "12-10-8 reps @rpe 7-8",
-                "hypertrophy"
-              ]
-            },
-            {
-              "title": "conditioning 15min",
-              "lines": [
-                "on every 3:00 x 5",
-                "10 chest to bar pull ups",
-                "15 push ups",
-                "10 lanes shuttle runs",
-                "score: slowest round",
-                "muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-10-28/"
         }
       ]
     },
@@ -630,6 +632,31 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-11-11",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "CHAD1000X"
+              ]
+            },
+            {
+              "title": "For time:",
+              "lines": [
+                "1,000 weighted step-ups",
+                "â 35-lb ruck, 20-inch box",
+                "â 45-lb ruck, 20-inch box",
+                "Post time to comments.",
+                "Compare to",
+                "251111",
+                ".",
+                "Sara Wilkinson, CrossFit, and Rogue Fitness present the Hero workout CHAD1000X in honor of Navy SEAL Chad Wilkinson, who died by suicide on Oct. 29, 2018, due to the effects of numerous deployments, several TBIs, blast-wave injuries, and PTSD. Our goal is to honor Chadâs life and legacy, and to raise awareness for suicide prevention."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261111"
+        },
         {
           "date": "2026-11-10",
           "sections": [
@@ -652,21 +679,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Helen"
-              ]
-            },
-            {
-              "title": "3 rounds for time of:",
-              "lines": [
-                "400-meter run",
-                "21 kettlebell swings",
-                "12 pull-ups",
-                "â 35-lb kettlebell",
-                "â 53-lb kettlebell",
-                "Compare to",
-                "250625",
-                ".",
-                "Post time to comments."
+                "Monday",
+                "261109",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -709,24 +724,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Fight Gone Bad"
-              ]
-            },
-            {
-              "title": "3 rounds for max reps of:",
-              "lines": [
-                "1 minute of wall-ball shots",
-                "1 minute of sumo deadlift high pulls",
-                "1 minute of box jumps",
-                "1 minute of push presses",
-                "1 minute of rowing calories",
-                "Rest 1 minute",
-                "â 14-lb medicine ball to 9 feet, 55-lb barbell, 20-inch box",
-                "â 20-lb medicine ball to 10 feet, 75-lb barbell, 20-inch box",
-                "Post total reps to comments and log your score in the CrossFit app (CrossFit Benchmarks are located in the \"Progress\" tab).",
-                "Compare to",
-                "260831",
-                "."
+                "Friday",
+                "261106",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -826,22 +826,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Small"
-              ]
-            },
-            {
-              "title": "3 rounds for time of:",
-              "lines": [
-                "1,000-meter row",
-                "50 burpees",
-                "50 box jumps",
-                "800-meter run",
-                "â 20-inch box",
-                "â 24-inch box",
-                "Compare to",
-                "110612",
-                ".",
-                "Post time to comments."
+                "Saturday",
+                "261031",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -851,56 +838,15 @@
           "date": "2026-10-30",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "15 power snatches",
-                "15 dumbbell thrusters",
-                "12 power snatches",
-                "15 dumbbell thrusters",
-                "9 power snatches",
-                "15 dumbbell thrusters",
-                "6 power snatches",
-                "15 dumbbell thrusters",
-                "3 power snatches",
-                "15 dumbbell thrusters",
-                "â 105-lb barbell and 20-lb dumbbells",
-                "â 155-lb barbell and 35-lb dumbbells",
-                "Post time to comments."
+                "Friday",
+                "261030",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/261030"
-        },
-        {
-          "date": "2026-10-29",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "No Sugar: The Two Words That Matter Most (Part 1 of 3)",
-                "In 2002, CrossFit condensed its nutrition prescription into 14 words, ending with âno sugar.â Learn why your body has no requirement for added sugar, how modern food processing changed how much of it we eat and how fast, and where it goes once itâs absorbed.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261029"
-        },
-        {
-          "date": "2026-10-28",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Complete as many rounds and reps as possible in 9 minutes of:",
-                "3 handstand walk squares",
-                "9 toes-to-bars",
-                "One handstand walk square rep is a 5x5 distance: Walk 5 feet up, 5 feet right, 5 feet back, and 5 feet left.",
-                "Post rounds and reps to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261028"
         }
       ]
     }
