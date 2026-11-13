@@ -1,11 +1,61 @@
 {
-  "last_updated": "2026-11-12T11:57:53.484486",
+  "last_updated": "2026-11-13T11:41:00.509773",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-11-13",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "lat stretch",
+                "sumo squat stretch",
+                "instep rotations"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 prone snow angels",
+                "10 straight leg sit ups",
+                "10 medball thrusters",
+                "*remaining time row"
+              ]
+            },
+            {
+              "title": "conditioning 25min",
+              "lines": [
+                "for time",
+                "40 wall balls 20/14lbs",
+                "15 toes to bar",
+                "60/48cal row",
+                "15 toes to bar",
+                "60 wall balls",
+                "15 toes to bar",
+                "60/48cal row",
+                "15 toes to bar",
+                "40 wall balls",
+                "aerobic capacity & lactate threshold"
+              ]
+            },
+            {
+              "title": "core & shoulders 6min",
+              "lines": [
+                "30sec on / 15sec off x 8 rounds",
+                "1. banded pull aparts",
+                "2. medball russian twists",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-11-13/"
+        },
         {
           "date": "2026-11-12",
           "sections": [
@@ -573,51 +623,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-10-31/"
-        },
-        {
-          "date": "2026-10-30",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "sumo squat stretch",
-                "lat stretch",
-                "seated pike stretch",
-                "thoracic rotations"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10/8cal row",
-                "10 straight leg sit ups",
-                "20sec deep squat hold"
-              ]
-            },
-            {
-              "title": "front squat 14min",
-              "lines": [
-                "3 sets",
-                "12-10-8 reps @rpe 7-8",
-                "hypertrophy"
-              ]
-            },
-            {
-              "title": "conditioning 15min",
-              "lines": [
-                "5 rounds",
-                "30 air squats",
-                "15 toes to bar",
-                "10/8cal row",
-                "5 shoulder to overhead 60/40kg",
-                "aerobic power",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-10-30/"
         }
       ]
     },
@@ -627,14 +632,38 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
+          "date": "2026-11-13",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Friday",
+                "261113",
+                "Learn the Movement â"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261113"
+        },
+        {
           "date": "2026-11-12",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Thursday",
-                "261112",
-                "Learn More â"
+                "Rest Day",
+                "CrossFitâs Hero workouts are more than a test of fitness. They're a tribute to fallen service members and first responders who made the ultimate sacrifice. Named in their honor, Hero workouts have become a powerful tradition, bringing people around the world together through shared effort, remembrance, and respect.",
+                "Visit our Hero and Tribute page to view all Hero workouts, including the most recent honorees,",
+                "Gavin",
+                ",",
+                "Owen",
+                ",",
+                "Swift 1-1",
+                ", and",
+                "Tommy G3x",
+                ".",
+                "See All Heroes and Tributes",
+                "View the CrossFit map"
               ]
             }
           ],
@@ -744,24 +773,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Fight Gone Bad"
-              ]
-            },
-            {
-              "title": "3 rounds for max reps of:",
-              "lines": [
-                "1 minute of wall-ball shots",
-                "1 minute of sumo deadlift high pulls",
-                "1 minute of box jumps",
-                "1 minute of push presses",
-                "1 minute of rowing calories",
-                "Rest 1 minute",
-                "â 14-lb medicine ball to 9 feet, 55-lb barbell, 20-inch box",
-                "â 20-lb medicine ball to 10 feet, 75-lb barbell, 20-inch box",
-                "Post total reps to comments and log your score in the CrossFit app (CrossFit Benchmarks are located in the \"Progress\" tab).",
-                "Compare to",
-                "260831",
-                "."
+                "Friday",
+                "261106",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -881,30 +895,6 @@
             }
           ],
           "url": "https://www.crossfit.com/261031"
-        },
-        {
-          "date": "2026-10-30",
-          "sections": [
-            {
-              "title": "For time:",
-              "lines": [
-                "15 power snatches",
-                "15 dumbbell thrusters",
-                "12 power snatches",
-                "15 dumbbell thrusters",
-                "9 power snatches",
-                "15 dumbbell thrusters",
-                "6 power snatches",
-                "15 dumbbell thrusters",
-                "3 power snatches",
-                "15 dumbbell thrusters",
-                "â 105-lb barbell and 20-lb dumbbells",
-                "â 155-lb barbell and 35-lb dumbbells",
-                "Post time to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261030"
         }
       ]
     }
