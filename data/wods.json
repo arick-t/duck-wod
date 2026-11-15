@@ -1,11 +1,56 @@
 {
-  "last_updated": "2026-11-14T11:03:11.643546",
+  "last_updated": "2026-11-15T11:37:00.696518",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-11-15",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "90/90 hip rotation",
+                "lat stretch",
+                "scorpions"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "30sec on / 15sec off x2 rounds",
+                "1. scap. push ups",
+                "2. bike/ski",
+                "3. ring rows",
+                "4. reverse lunges"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "emom 35min (7 rounds)",
+                "1. 10-15 hand release push ups",
+                "2. 10-15cal bike/ski",
+                "3. 6-8 strict pull ups",
+                "4. 12-16 cossack squats",
+                "5. rest",
+                "Sunday Endurance for Open Gym",
+                "3 rounds (rpe 8-9)",
+                "18/14cal bike",
+                "0:30 rest",
+                "12/9cal bike",
+                "1:00 rest",
+                "6/5cal bike",
+                "1:30 rest",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-11-15/"
+        },
         {
           "date": "2026-11-14",
           "sections": [
@@ -580,54 +625,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-11-02/"
-        },
-        {
-          "date": "2026-11-01",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "lat stretch",
-                "scorpions"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "30sec on / 15sec off x2 rounds",
-                "1. air squats",
-                "2. bike/ski",
-                "3. kb deadlifts",
-                "4. scap. push ups"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "emom 35min (7 rounds)",
-                "1. 30-50sec (weighted) wall sit",
-                "2. 10-15cal bike/ski",
-                "3. 15-20 russian kb swings",
-                "4. 8-12 db push ups",
-                "5. rest",
-                "Sunday Endurance for Open Gym",
-                "row or ski",
-                "5 rounds for time",
-                "200m",
-                "– Rest :30 between rounds",
-                "4 rounds for time",
-                "400m",
-                "– Rest 1:00 between rounds",
-                "3 rounds for time",
-                "600m",
-                "– Rest 1:30 between rounds",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-11-01/"
         }
       ]
     },
@@ -636,6 +633,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-11-15",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Beyond âEat Right and Exerciseâ: Bringing the CrossFit Methodology Into Medical Education",
+                "Most physicians spend at least 11 years learning to treat disease, but get less than a day of training in nutrition, behavior change, and movement. Drs. Shveta and Dinesh Raju set out to close that gap. At CrossFit GC Healthy Living, medical and nurse practitioner students learn the CrossFit methodology, join classes inside the clinic, and see how to turn âeat right and exerciseâ into habits that last.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261115"
+        },
         {
           "date": "2026-11-14",
           "sections": [
@@ -657,13 +669,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Deadlift 5-3-1-5-3-1-5-3-1 reps",
-                "Compare to similar",
-                "260722",
-                "and",
-                "260814",
-                ".",
-                "Post loads to comments."
+                "Friday",
+                "261113",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -675,19 +683,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "CrossFitâs Hero workouts are more than a test of fitness. They're a tribute to fallen service members and first responders who made the ultimate sacrifice. Named in their honor, Hero workouts have become a powerful tradition, bringing people around the world together through shared effort, remembrance, and respect.",
-                "Visit our Hero and Tribute page to view all Hero workouts, including the most recent honorees,",
-                "Gavin",
-                ",",
-                "Owen",
-                ",",
-                "Swift 1-1",
-                ", and",
-                "Tommy G3x",
-                ".",
-                "See All Heroes and Tributes",
-                "View the CrossFit map"
+                "Thursday",
+                "261112",
+                "Learn More â"
               ]
             }
           ],
@@ -761,14 +759,31 @@
           "url": "https://www.crossfit.com/261109"
         },
         {
+          "date": "2026-11-08",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Did You Know the 2027 CrossFit Open Begins in 103 Days?",
+                "Thatâs nearly four months to close the gap on the movements that frequently show up in Open workouts year after year, including pull-ups, chest-to-bar pull-ups, toes-to-bars, muscle-ups, double-unders, box jumps, and handstand push-ups. Start by testing yourself to find your weaknesses, then pick one movement and practice it consistently, even for just 10 minutes a day. Every step in a progression builds strength and skill, so youâll be better prepared whether or not that particular movement shows up.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261108"
+        },
+        {
           "date": "2026-11-07",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "261107",
-                "Learn the Movement â"
+                "Overhead squat 3-3-3-3-3 reps",
+                "Compare to",
+                "230302",
+                ".",
+                "Post heaviest set to comments."
               ]
             }
           ],
@@ -780,13 +795,43 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "261106",
-                "Learn the Movement â"
+                "Fight Gone Bad"
+              ]
+            },
+            {
+              "title": "3 rounds for max reps of:",
+              "lines": [
+                "1 minute of wall-ball shots",
+                "1 minute of sumo deadlift high pulls",
+                "1 minute of box jumps",
+                "1 minute of push presses",
+                "1 minute of rowing calories",
+                "Rest 1 minute",
+                "â 14-lb medicine ball to 9 feet, 55-lb barbell, 20-inch box",
+                "â 20-lb medicine ball to 10 feet, 75-lb barbell, 20-inch box",
+                "Post total reps to comments and log your score in the CrossFit app (CrossFit Benchmarks are located in the \"Progress\" tab).",
+                "Compare to",
+                "260831",
+                "."
               ]
             }
           ],
           "url": "https://www.crossfit.com/261106"
+        },
+        {
+          "date": "2026-11-05",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "How To Break Up With Added Sugar (Part 3 of 3)",
+                "Much of the damage sugar does to your body can be reversed, and the first step is finding out where you stand. In Part 3 of our series on sugar, learn the signs you may be eating too much, from afternoon crashes and constant cravings to cavities, acne, and skin changes. Find out what happens when you cut added sugar, how to improve blood sugar naturally, and whether artificial sweeteners deserve a spot in your pantry. Then stop asking how much sugar you can get away with and start asking what your body needs to thrive.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261105"
         },
         {
           "date": "2026-11-04",
@@ -820,11 +865,23 @@
           "date": "2026-11-02",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For max calories:",
               "lines": [
-                "Monday",
-                "261102",
-                "Air Bike Setup â"
+                "15-second air bike",
+                "Rest 45 seconds",
+                "30-second air bike",
+                "Rest 1 minute 30 seconds",
+                "45-second air bike",
+                "Rest 2 minutes 15 seconds",
+                "60-second air bike",
+                "Rest 3 minutes",
+                "45-second air bike",
+                "Rest 2 minutes 15 seconds",
+                "30-second air bike",
+                "Rest 1 minute 30 seconds",
+                "15-second air bike",
+                "Your score is total calories. Log each set.",
+                "Post total calories to comments."
               ]
             }
           ],
