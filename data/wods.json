@@ -1,11 +1,58 @@
 {
-  "last_updated": "2026-11-15T11:37:00.696518",
+  "last_updated": "2026-11-16T12:10:51.713511",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-11-16",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "myleo",
+                "BRING A FRIEND DAY",
+                "TOGETHER IS BETTER!"
+              ]
+            },
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "lat stretch",
+                "calf stretch",
+                "instep rotation"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "40sec on / 20sec off x 4",
+                "1. shoulder taps (push up position)",
+                "2. box step ups",
+                "3. prisoner good mornings",
+                "4. bike"
+              ]
+            },
+            {
+              "title": "conditioning 20min",
+              "lines": [
+                "4 rounds for total reps",
+                "1:00 wall walks",
+                "1:00 box jumps 60/50cm",
+                "1:00 kb swings 24/16kg",
+                "1:00 cal bike",
+                "1:00 rest",
+                "aerobic power",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-11-16/"
+        },
         {
           "date": "2026-11-15",
           "sections": [
@@ -581,50 +628,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-11-03/"
-        },
-        {
-          "date": "2026-11-02",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "lat stretch",
-                "scorpions",
-                "thoracic rotations"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10/8cal row",
-                "10 prone snow angels",
-                "10 ring rows"
-              ]
-            },
-            {
-              "title": "strict press 14min",
-              "lines": [
-                "3 sets",
-                "12-10-8 reps @rpe 7,5-8,5",
-                "hypertrophy"
-              ]
-            },
-            {
-              "title": "conditioning 16min",
-              "lines": [
-                "amrap 16min",
-                "4 wall walks",
-                "8 strict pull ups",
-                "16/12cal row",
-                "aerobic power & muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-11-02/"
         }
       ]
     },
@@ -633,6 +636,23 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-11-16",
+          "sections": [
+            {
+              "title": "5 rounds for time and reps of:",
+              "lines": [
+                "3 rope climbs to 15 feet",
+                "Max set of bench presses",
+                "Rest 3 minutes between rounds.",
+                "â Bodyweight bench press",
+                "â Bodyweight bench press",
+                "Post time and reps completed to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261116"
+        },
         {
           "date": "2026-11-15",
           "sections": [
@@ -669,9 +689,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "261113",
-                "Learn the Movement â"
+                "Deadlift 5-3-1-5-3-1-5-3-1 reps",
+                "Compare to similar",
+                "260722",
+                "and",
+                "260814",
+                ".",
+                "Post loads to comments."
               ]
             }
           ],
@@ -683,9 +707,19 @@
             {
               "title": "Workout",
               "lines": [
-                "Thursday",
-                "261112",
-                "Learn More â"
+                "Rest Day",
+                "CrossFitâs Hero workouts are more than a test of fitness. They're a tribute to fallen service members and first responders who made the ultimate sacrifice. Named in their honor, Hero workouts have become a powerful tradition, bringing people around the world together through shared effort, remembrance, and respect.",
+                "Visit our Hero and Tribute page to view all Hero workouts, including the most recent honorees,",
+                "Gavin",
+                ",",
+                "Owen",
+                ",",
+                "Swift 1-1",
+                ", and",
+                "Tommy G3x",
+                ".",
+                "See All Heroes and Tributes",
+                "View the CrossFit map"
               ]
             }
           ],
@@ -759,31 +793,14 @@
           "url": "https://www.crossfit.com/261109"
         },
         {
-          "date": "2026-11-08",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Did You Know the 2027 CrossFit Open Begins in 103 Days?",
-                "Thatâs nearly four months to close the gap on the movements that frequently show up in Open workouts year after year, including pull-ups, chest-to-bar pull-ups, toes-to-bars, muscle-ups, double-unders, box jumps, and handstand push-ups. Start by testing yourself to find your weaknesses, then pick one movement and practice it consistently, even for just 10 minutes a day. Every step in a progression builds strength and skill, so youâll be better prepared whether or not that particular movement shows up.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261108"
-        },
-        {
           "date": "2026-11-07",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Overhead squat 3-3-3-3-3 reps",
-                "Compare to",
-                "230302",
-                ".",
-                "Post heaviest set to comments."
+                "Saturday",
+                "261107",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -795,43 +812,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Fight Gone Bad"
-              ]
-            },
-            {
-              "title": "3 rounds for max reps of:",
-              "lines": [
-                "1 minute of wall-ball shots",
-                "1 minute of sumo deadlift high pulls",
-                "1 minute of box jumps",
-                "1 minute of push presses",
-                "1 minute of rowing calories",
-                "Rest 1 minute",
-                "â 14-lb medicine ball to 9 feet, 55-lb barbell, 20-inch box",
-                "â 20-lb medicine ball to 10 feet, 75-lb barbell, 20-inch box",
-                "Post total reps to comments and log your score in the CrossFit app (CrossFit Benchmarks are located in the \"Progress\" tab).",
-                "Compare to",
-                "260831",
-                "."
+                "Friday",
+                "261106",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/261106"
-        },
-        {
-          "date": "2026-11-05",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "How To Break Up With Added Sugar (Part 3 of 3)",
-                "Much of the damage sugar does to your body can be reversed, and the first step is finding out where you stand. In Part 3 of our series on sugar, learn the signs you may be eating too much, from afternoon crashes and constant cravings to cavities, acne, and skin changes. Find out what happens when you cut added sugar, how to improve blood sugar naturally, and whether artificial sweeteners deserve a spot in your pantry. Then stop asking how much sugar you can get away with and start asking what your body needs to thrive.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261105"
         },
         {
           "date": "2026-11-04",
@@ -851,41 +838,16 @@
           "date": "2026-11-03",
           "sections": [
             {
-              "title": "Workout",
+              "title": "5 rounds for time of:",
               "lines": [
-                "Tuesday",
-                "261103",
-                "See Course Photos â"
+                "4 wall walks",
+                "8 chest-to-wall handstand push-ups",
+                "48 double-unders",
+                "Post time to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/261103"
-        },
-        {
-          "date": "2026-11-02",
-          "sections": [
-            {
-              "title": "For max calories:",
-              "lines": [
-                "15-second air bike",
-                "Rest 45 seconds",
-                "30-second air bike",
-                "Rest 1 minute 30 seconds",
-                "45-second air bike",
-                "Rest 2 minutes 15 seconds",
-                "60-second air bike",
-                "Rest 3 minutes",
-                "45-second air bike",
-                "Rest 2 minutes 15 seconds",
-                "30-second air bike",
-                "Rest 1 minute 30 seconds",
-                "15-second air bike",
-                "Your score is total calories. Log each set.",
-                "Post total calories to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261102"
         }
       ]
     }
