@@ -1,11 +1,56 @@
 {
-  "last_updated": "2026-11-16T12:10:51.713511",
+  "last_updated": "2026-11-17T12:35:27.429038",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-11-17",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "sumo squat stretch",
+                "lat stretch",
+                "seated pike stretch",
+                "thoracic rotations"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 prone snow angels",
+                "10 straight leg sit ups",
+                "20sec deep squat hold"
+              ]
+            },
+            {
+              "title": "front squat 14min",
+              "lines": [
+                "3 sets",
+                "12-10-8 reps @rpe 8-9",
+                "hypertrophy"
+              ]
+            },
+            {
+              "title": "conditioning 17min",
+              "lines": [
+                "for time",
+                "21-18-15-12-9",
+                "toes to bar",
+                "thrusters 35/25kg",
+                "*15/12cal row after each round",
+                "lactate threshold & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-11-17/"
+        },
         {
           "date": "2026-11-16",
           "sections": [
@@ -583,51 +628,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-11-04/"
-        },
-        {
-          "date": "2026-11-03",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "calf stretch",
-                "inverted hamstring stretch",
-                "instep rotation",
-                "lying hip cross over"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10 good mornings",
-                "30sec plank hold",
-                "20 single unders"
-              ]
-            },
-            {
-              "title": "deadlift 14min",
-              "lines": [
-                "3 sets",
-                "12-10-8 reps @rpe 7,5-8,5",
-                "hypertrophy"
-              ]
-            },
-            {
-              "title": "conditioning 17min",
-              "lines": [
-                "for time",
-                "5 rounds",
-                "15 sumo deadlift high pulls 40/30kg",
-                "30 sit ups",
-                "60 double unders",
-                "aerobic power (vo2max)",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-11-03/"
         }
       ]
     },
@@ -636,6 +636,22 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-11-17",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Front squat 3-3-3-3-3 reps",
+                "Compare to",
+                "260408",
+                ".",
+                "Post loads to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261117"
+        },
         {
           "date": "2026-11-16",
           "sections": [
@@ -731,20 +747,9 @@
             {
               "title": "Workout",
               "lines": [
-                "CHAD1000X"
-              ]
-            },
-            {
-              "title": "For time:",
-              "lines": [
-                "1,000 weighted step-ups",
-                "â 35-lb ruck, 20-inch box",
-                "â 45-lb ruck, 20-inch box",
-                "Post time to comments.",
-                "Compare to",
-                "251111",
-                ".",
-                "Sara Wilkinson, CrossFit, and Rogue Fitness present the Hero workout CHAD1000X in honor of Navy SEAL Chad Wilkinson, who died by suicide on Oct. 29, 2018, due to the effects of numerous deployments, several TBIs, blast-wave injuries, and PTSD. Our goal is to honor Chadâs life and legacy, and to raise awareness for suicide prevention."
+                "Wednesday",
+                "261111",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -772,25 +777,28 @@
             {
               "title": "Workout",
               "lines": [
-                "Helen"
-              ]
-            },
-            {
-              "title": "3 rounds for time of:",
-              "lines": [
-                "400-meter run",
-                "21 kettlebell swings",
-                "12 pull-ups",
-                "â 35-lb kettlebell",
-                "â 53-lb kettlebell",
-                "Compare to",
-                "250625",
-                ".",
-                "Post time to comments."
+                "Monday",
+                "261109",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/261109"
+        },
+        {
+          "date": "2026-11-08",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Did You Know the 2027 CrossFit Open Begins in 103 Days?",
+                "Thatâs nearly four months to close the gap on the movements that frequently show up in Open workouts year after year, including pull-ups, chest-to-bar pull-ups, toes-to-bars, muscle-ups, double-unders, box jumps, and handstand push-ups. Start by testing yourself to find your weaknesses, then pick one movement and practice it consistently, even for just 10 minutes a day. Every step in a progression builds strength and skill, so youâll be better prepared whether or not that particular movement shows up.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261108"
         },
         {
           "date": "2026-11-07",
@@ -798,9 +806,11 @@
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "261107",
-                "Learn the Movement â"
+                "Overhead squat 3-3-3-3-3 reps",
+                "Compare to",
+                "230302",
+                ".",
+                "Post heaviest set to comments."
               ]
             }
           ],
@@ -812,13 +822,43 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "261106",
-                "Learn the Movement â"
+                "Fight Gone Bad"
+              ]
+            },
+            {
+              "title": "3 rounds for max reps of:",
+              "lines": [
+                "1 minute of wall-ball shots",
+                "1 minute of sumo deadlift high pulls",
+                "1 minute of box jumps",
+                "1 minute of push presses",
+                "1 minute of rowing calories",
+                "Rest 1 minute",
+                "â 14-lb medicine ball to 9 feet, 55-lb barbell, 20-inch box",
+                "â 20-lb medicine ball to 10 feet, 75-lb barbell, 20-inch box",
+                "Post total reps to comments and log your score in the CrossFit app (CrossFit Benchmarks are located in the \"Progress\" tab).",
+                "Compare to",
+                "260831",
+                "."
               ]
             }
           ],
           "url": "https://www.crossfit.com/261106"
+        },
+        {
+          "date": "2026-11-05",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "How To Break Up With Added Sugar (Part 3 of 3)",
+                "Much of the damage sugar does to your body can be reversed, and the first step is finding out where you stand. In Part 3 of our series on sugar, learn the signs you may be eating too much, from afternoon crashes and constant cravings to cavities, acne, and skin changes. Find out what happens when you cut added sugar, how to improve blood sugar naturally, and whether artificial sweeteners deserve a spot in your pantry. Then stop asking how much sugar you can get away with and start asking what your body needs to thrive.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261105"
         },
         {
           "date": "2026-11-04",
@@ -826,28 +866,16 @@
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "261104",
-                "Learn the Movement â"
+                "Complete as many rounds and reps as possible in 12 minutes of:",
+                "15 pull-ups",
+                "3 squat cleans",
+                "â 165 lb",
+                "â 245 lb",
+                "Post reps to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/261104"
-        },
-        {
-          "date": "2026-11-03",
-          "sections": [
-            {
-              "title": "5 rounds for time of:",
-              "lines": [
-                "4 wall walks",
-                "8 chest-to-wall handstand push-ups",
-                "48 double-unders",
-                "Post time to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261103"
         }
       ]
     }
