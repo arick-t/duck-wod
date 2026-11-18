@@ -1,11 +1,61 @@
 {
-  "last_updated": "2026-11-17T12:35:27.429038",
+  "last_updated": "2026-11-18T12:24:09.209370",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-11-18",
+          "sections": [
+            {
+              "title": "mobility 4min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "instep rotation",
+                "calf stretch",
+                "lat stretch"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "20 single unders",
+                "10 upright rows",
+                "10 elbow rotations"
+              ]
+            },
+            {
+              "title": "hang power clean 14min",
+              "lines": [
+                "on every 1:30 x 9 sets (3 waves)",
+                "1. 3 hang power cleans",
+                "2. 2 hang power cleans",
+                "3. 1 hang power clean",
+                "(finish every wave slightly heavier than the previous)",
+                "explosive power"
+              ]
+            },
+            {
+              "title": "conditioning 15min",
+              "lines": [
+                "for time",
+                "6 rounds",
+                "9 deadlifts",
+                "7 hang power cleans",
+                "50 double unders",
+                "barbell: 60/40kg",
+                "rx+: 70/50kg",
+                "power capacity",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-11-18/"
+        },
         {
           "date": "2026-11-17",
           "sections": [
@@ -593,41 +643,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-11-05/"
-        },
-        {
-          "date": "2026-11-04",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "instep rotation",
-                "scorpions",
-                "lat stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "12 scap. push ups",
-                "12 box step ups",
-                "*remaining time bike/ski"
-              ]
-            },
-            {
-              "title": "conditioning 30min",
-              "lines": [
-                "amrap 3min x 10 rounds",
-                "1. 24/19cal bike into max db bench presses 2x22,5/15kg",
-                "2. 24/19cal ski into max dball box step ups (50cm) 20/15kg",
-                "score: total reps (bench press + step ups)",
-                "aerobic capacity & muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-11-04/"
         }
       ]
     },
@@ -636,6 +651,29 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-11-18",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "21 box jumps",
+                "800-meter run",
+                "21 hang power cleans, weight 1",
+                "15 box jumps",
+                "800-meter run",
+                "15 hang power cleans, weight 2",
+                "9 box jumps",
+                "800-meter run",
+                "9 hang power cleans, weight 3",
+                "â 95/105/125 lb and a 24-inch box",
+                "â 135/155/185 lb and a 30-inch box",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261118"
+        },
         {
           "date": "2026-11-17",
           "sections": [
@@ -656,33 +694,15 @@
           "date": "2026-11-16",
           "sections": [
             {
-              "title": "5 rounds for time and reps of:",
+              "title": "Workout",
               "lines": [
-                "3 rope climbs to 15 feet",
-                "Max set of bench presses",
-                "Rest 3 minutes between rounds.",
-                "â Bodyweight bench press",
-                "â Bodyweight bench press",
-                "Post time and reps completed to comments."
+                "Monday",
+                "261116",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/261116"
-        },
-        {
-          "date": "2026-11-15",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Beyond âEat Right and Exerciseâ: Bringing the CrossFit Methodology Into Medical Education",
-                "Most physicians spend at least 11 years learning to treat disease, but get less than a day of training in nutrition, behavior change, and movement. Drs. Shveta and Dinesh Raju set out to close that gap. At CrossFit GC Healthy Living, medical and nurse practitioner students learn the CrossFit methodology, join classes inside the clinic, and see how to turn âeat right and exerciseâ into habits that last.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261115"
         },
         {
           "date": "2026-11-14",
@@ -690,10 +710,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Complete as many rounds and reps as possible in 12 minutes of:",
-                "15/20-calorie Echo bike",
-                "5 muscle-ups",
-                "Post reps to comments."
+                "Saturday",
+                "261114",
+                "Check Out Rogue Echo Bikes â"
               ]
             }
           ],
@@ -747,9 +766,20 @@
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "261111",
-                "Learn the Movement â"
+                "CHAD1000X"
+              ]
+            },
+            {
+              "title": "For time:",
+              "lines": [
+                "1,000 weighted step-ups",
+                "â 35-lb ruck, 20-inch box",
+                "â 45-lb ruck, 20-inch box",
+                "Post time to comments.",
+                "Compare to",
+                "251111",
+                ".",
+                "Sara Wilkinson, CrossFit, and Rogue Fitness present the Hero workout CHAD1000X in honor of Navy SEAL Chad Wilkinson, who died by suicide on Oct. 29, 2018, due to the effects of numerous deployments, several TBIs, blast-wave injuries, and PTSD. Our goal is to honor Chadâs life and legacy, and to raise awareness for suicide prevention."
               ]
             }
           ],
@@ -806,11 +836,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Overhead squat 3-3-3-3-3 reps",
-                "Compare to",
-                "230302",
-                ".",
-                "Post heaviest set to comments."
+                "Saturday",
+                "261107",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -822,60 +850,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Fight Gone Bad"
-              ]
-            },
-            {
-              "title": "3 rounds for max reps of:",
-              "lines": [
-                "1 minute of wall-ball shots",
-                "1 minute of sumo deadlift high pulls",
-                "1 minute of box jumps",
-                "1 minute of push presses",
-                "1 minute of rowing calories",
-                "Rest 1 minute",
-                "â 14-lb medicine ball to 9 feet, 55-lb barbell, 20-inch box",
-                "â 20-lb medicine ball to 10 feet, 75-lb barbell, 20-inch box",
-                "Post total reps to comments and log your score in the CrossFit app (CrossFit Benchmarks are located in the \"Progress\" tab).",
-                "Compare to",
-                "260831",
-                "."
+                "Friday",
+                "261106",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/261106"
-        },
-        {
-          "date": "2026-11-05",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "How To Break Up With Added Sugar (Part 3 of 3)",
-                "Much of the damage sugar does to your body can be reversed, and the first step is finding out where you stand. In Part 3 of our series on sugar, learn the signs you may be eating too much, from afternoon crashes and constant cravings to cavities, acne, and skin changes. Find out what happens when you cut added sugar, how to improve blood sugar naturally, and whether artificial sweeteners deserve a spot in your pantry. Then stop asking how much sugar you can get away with and start asking what your body needs to thrive.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261105"
-        },
-        {
-          "date": "2026-11-04",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Complete as many rounds and reps as possible in 12 minutes of:",
-                "15 pull-ups",
-                "3 squat cleans",
-                "â 165 lb",
-                "â 245 lb",
-                "Post reps to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261104"
         }
       ]
     }
