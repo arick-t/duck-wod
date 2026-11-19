@@ -1,11 +1,56 @@
 {
-  "last_updated": "2026-11-18T12:24:09.209370",
+  "last_updated": "2026-11-19T12:18:26.723803",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-11-19",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "instep rotation",
+                "scorpions",
+                "lat stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "20sec hollow hold",
+                "10 prone snow angels",
+                "10 ring rows",
+                "*remaining time bike/ski"
+              ]
+            },
+            {
+              "title": "strict press 14min",
+              "lines": [
+                "3 sets",
+                "12-10-8 reps @rpe 7,5-8,5",
+                "hypertrophy"
+              ]
+            },
+            {
+              "title": "conditioning 13min",
+              "lines": [
+                "amrap 2:30min x 4 rounds",
+                "18 pull ups",
+                "6/6 single db push presses 25/17,5kg",
+                "max cal bike/ski",
+                "1min rest between rounds",
+                "aerobic power & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-11-19/"
+        },
         {
           "date": "2026-11-18",
           "sections": [
@@ -598,51 +643,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-11-06/"
-        },
-        {
-          "date": "2026-11-05",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "lat stretch",
-                "calf stretch"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "40sec on / 20sec off x 6",
-                "1. hollow hold",
-                "2. db deadlifts",
-                "3. shuttle runs"
-              ]
-            },
-            {
-              "title": "bent over row 12min",
-              "lines": [
-                "3-4 sets",
-                "12 barbell bent over row",
-                "hypertrophy"
-              ]
-            },
-            {
-              "title": "conditioning 16min",
-              "lines": [
-                "for time",
-                "2 rounds",
-                "35 toes to bar",
-                "45 db snatches 22,5/15kg",
-                "on every 2:00 (starting at 00:00)",
-                "8 lanes shuttle runs",
-                "aerobic power",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-11-05/"
         }
       ]
     },
@@ -651,6 +651,21 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-11-19",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Lean for Life, Part 1: How To Control Your Appetite and Maintain a Healthy Body Weight Forever",
+                "âEat less and move moreâ has been the advice for decades, yet global obesity has more than doubled since 1990. The problem isnât your willpower but an ancient appetite system operating in a world of endless food. Learn the four faces of hunger, from your bodyâs built-in meal schedule to brain-driven cravings, and why understanding them is the first step to staying lean for life.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261119"
+        },
         {
           "date": "2026-11-18",
           "sections": [
@@ -705,14 +720,30 @@
           "url": "https://www.crossfit.com/261116"
         },
         {
+          "date": "2026-11-15",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Beyond âEat Right and Exerciseâ: Bringing the CrossFit Methodology Into Medical Education",
+                "Most physicians spend at least 11 years learning to treat disease, but get less than a day of training in nutrition, behavior change, and movement. Drs. Shveta and Dinesh Raju set out to close that gap. At CrossFit GC Healthy Living, medical and nurse practitioner students learn the CrossFit methodology, join classes inside the clinic, and see how to turn âeat right and exerciseâ into habits that last.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261115"
+        },
+        {
           "date": "2026-11-14",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "261114",
-                "Check Out Rogue Echo Bikes â"
+                "Complete as many rounds and reps as possible in 12 minutes of:",
+                "15/20-calorie Echo bike",
+                "5 muscle-ups",
+                "Post reps to comments."
               ]
             }
           ],
@@ -807,9 +838,21 @@
             {
               "title": "Workout",
               "lines": [
-                "Monday",
-                "261109",
-                "Learn the Movement â"
+                "Helen"
+              ]
+            },
+            {
+              "title": "3 rounds for time of:",
+              "lines": [
+                "400-meter run",
+                "21 kettlebell swings",
+                "12 pull-ups",
+                "â 35-lb kettlebell",
+                "â 53-lb kettlebell",
+                "Compare to",
+                "250625",
+                ".",
+                "Post time to comments."
               ]
             }
           ],
@@ -836,9 +879,11 @@
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "261107",
-                "Learn the Movement â"
+                "Overhead squat 3-3-3-3-3 reps",
+                "Compare to",
+                "230302",
+                ".",
+                "Post heaviest set to comments."
               ]
             }
           ],
