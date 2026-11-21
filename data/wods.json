@@ -1,11 +1,52 @@
 {
-  "last_updated": "2026-11-20T12:18:16.183401",
+  "last_updated": "2026-11-21T11:53:40.027560",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-11-21",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "90/90 hip rotations",
+                "lat stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "amrap 5min",
+                "8 burpees",
+                "8 prone snow angels",
+                "*partner is holding plank position"
+              ]
+            },
+            {
+              "title": "conditioning 30min",
+              "lines": [
+                "in teams of 2",
+                "amrap 30min",
+                "(I go, you go)",
+                "24 sit ups",
+                "16 alternating db hang snatches 22,5/15kg",
+                "8 burpees to target",
+                "Endurance for Open Gym",
+                "for time",
+                "10 sets",
+                "600/500m ski",
+                "– rest :30 between sets",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-11-21/"
+        },
         {
           "date": "2026-11-20",
           "sections": [
@@ -597,43 +638,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-11-08/"
-        },
-        {
-          "date": "2026-11-07",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "scorpions",
-                "lat stretch"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "amrap 6min",
-                "10 good mornings",
-                "10 elbow rotations",
-                "10 scap. push ups",
-                "*partner is rowing"
-              ]
-            },
-            {
-              "title": "conditioning 34min",
-              "lines": [
-                "in teams of 2",
-                "for time",
-                "4 rounds",
-                "50 push ups",
-                "40 hang power cleans 40/30kg",
-                "50/45/40cal row",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-11-07/"
         }
       ]
     },
@@ -642,6 +646,23 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-11-21",
+          "sections": [
+            {
+              "title": "3 rounds for time of:",
+              "lines": [
+                "500-meter row",
+                "200-meter suitcase carry",
+                "15 GHD sit-ups",
+                "â 35-lb dumbbell",
+                "â 50-lb dumbbell",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261121"
+        },
         {
           "date": "2026-11-20",
           "sections": [
@@ -662,11 +683,20 @@
           "date": "2026-11-18",
           "sections": [
             {
-              "title": "Workout",
+              "title": "For time:",
               "lines": [
-                "Wednesday",
-                "261118",
-                "Drill the Movement â"
+                "21 box jumps",
+                "800-meter run",
+                "21 hang power cleans, weight 1",
+                "15 box jumps",
+                "800-meter run",
+                "15 hang power cleans, weight 2",
+                "9 box jumps",
+                "800-meter run",
+                "9 hang power cleans, weight 3",
+                "â 95/105/125 lb and a 24-inch box",
+                "â 135/155/185 lb and a 30-inch box",
+                "Post time to comments."
               ]
             }
           ],
@@ -678,11 +708,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Front squat 3-3-3-3-3 reps",
-                "Compare to",
-                "260408",
-                ".",
-                "Post loads to comments."
+                "Tuesday",
+                "261117",
+                "See Course Photos â"
               ]
             }
           ],
@@ -711,10 +739,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Complete as many rounds and reps as possible in 12 minutes of:",
-                "15/20-calorie Echo bike",
-                "5 muscle-ups",
-                "Post reps to comments."
+                "Saturday",
+                "261114",
+                "Check Out Rogue Echo Bikes â"
               ]
             }
           ],
@@ -740,19 +767,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Rest Day",
-                "CrossFitâs Hero workouts are more than a test of fitness. They're a tribute to fallen service members and first responders who made the ultimate sacrifice. Named in their honor, Hero workouts have become a powerful tradition, bringing people around the world together through shared effort, remembrance, and respect.",
-                "Visit our Hero and Tribute page to view all Hero workouts, including the most recent honorees,",
-                "Gavin",
-                ",",
-                "Owen",
-                ",",
-                "Swift 1-1",
-                ", and",
-                "Tommy G3x",
-                ".",
-                "See All Heroes and Tributes",
-                "View the CrossFit map"
+                "Thursday",
+                "261112",
+                "Learn More â"
               ]
             }
           ],
@@ -799,20 +816,6 @@
             }
           ],
           "url": "https://www.crossfit.com/261109"
-        },
-        {
-          "date": "2026-11-07",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Saturday",
-                "261107",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261107"
         }
       ]
     }
