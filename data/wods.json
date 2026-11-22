@@ -1,11 +1,48 @@
 {
-  "last_updated": "2026-11-21T11:53:40.027560",
+  "last_updated": "2026-11-22T12:06:14.898509",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-11-22",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "instep rotation",
+                "lat stretch",
+                "hand walk"
+              ]
+            },
+            {
+              "title": "warm up 6min",
+              "lines": [
+                "30sec on / 15sec off x2 rounds",
+                "1. prone snow angels",
+                "2. bike/ski",
+                "3. ring rows",
+                "4. box step ups"
+              ]
+            },
+            {
+              "title": "conditioning 35min",
+              "lines": [
+                "emom 35min (7 rounds)",
+                "1. 30-50sec hand stand hold",
+                "2. 10-15cal bike/ski",
+                "3. 6-8 strict chin ups",
+                "4. 12-16 db box step ups (50cm)",
+                "5. rest",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-11-22/"
+        },
         {
           "date": "2026-11-21",
           "sections": [
@@ -592,52 +629,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-11-09/"
-        },
-        {
-          "date": "2026-11-08",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "hand walk",
-                "lat stretch",
-                "instep rotation"
-              ]
-            },
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "30sec on / 15sec off x2 rounds",
-                "1. prone snow angels",
-                "2. row",
-                "3. plank hold",
-                "4. burpees"
-              ]
-            },
-            {
-              "title": "conditioning 35min",
-              "lines": [
-                "emom 35min (7 rounds)",
-                "1. 4-6 wall walks",
-                "2. 10-15cal row",
-                "3. 8-10 single leg deadlifts",
-                "4. 8-12 burpee box jumps",
-                "5. rest",
-                "Sunday Endurance for Open Gym",
-                "for time",
-                "1000/800m row",
-                "rest 1:00",
-                "2000/1600m row",
-                "rest 2:00",
-                "3000/2400m row",
-                "rest 3:00",
-                "4000/3200m row",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-11-08/"
         }
       ]
     },
@@ -647,17 +638,29 @@
       "url": "https://www.crossfit.com/",
       "wods": [
         {
+          "date": "2026-11-22",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Lean For Life, Part 2: Your Brain Has an Elephant Problem",
+                "Your rational brain wants to lose 20 pounds, but your instincts want the cinnamon bun, and willpower alone rarely wins that fight. Learn how food companies hijack your appetite and how protein, whole foods, sleep, meal timing, and the right environment can make healthy eating the path of least resistance.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261122"
+        },
+        {
           "date": "2026-11-21",
           "sections": [
             {
-              "title": "3 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "500-meter row",
-                "200-meter suitcase carry",
-                "15 GHD sit-ups",
-                "â 35-lb dumbbell",
-                "â 50-lb dumbbell",
-                "Post time to comments."
+                "Saturday",
+                "261121",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -683,20 +686,11 @@
           "date": "2026-11-18",
           "sections": [
             {
-              "title": "For time:",
+              "title": "Workout",
               "lines": [
-                "21 box jumps",
-                "800-meter run",
-                "21 hang power cleans, weight 1",
-                "15 box jumps",
-                "800-meter run",
-                "15 hang power cleans, weight 2",
-                "9 box jumps",
-                "800-meter run",
-                "9 hang power cleans, weight 3",
-                "â 95/105/125 lb and a 24-inch box",
-                "â 135/155/185 lb and a 30-inch box",
-                "Post time to comments."
+                "Wednesday",
+                "261118",
+                "Drill the Movement â"
               ]
             }
           ],
@@ -720,14 +714,11 @@
           "date": "2026-11-16",
           "sections": [
             {
-              "title": "5 rounds for time and reps of:",
+              "title": "Workout",
               "lines": [
-                "3 rope climbs to 15 feet",
-                "Max set of bench presses",
-                "Rest 3 minutes between rounds.",
-                "â Bodyweight bench press",
-                "â Bodyweight bench press",
-                "Post time and reps completed to comments."
+                "Monday",
+                "261116",
+                "Learn the Movement â"
               ]
             }
           ],
