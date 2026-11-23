@@ -1,11 +1,57 @@
 {
-  "last_updated": "2026-11-22T12:06:14.898509",
+  "last_updated": "2026-11-23T13:47:22.803294",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-11-23",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "instep rotation",
+                "sumo squat stretch",
+                "lat stretch"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 scap. push ups",
+                "10 elbow rotations",
+                "20sec squat hold",
+                "*remaining time bike/ski"
+              ]
+            },
+            {
+              "title": "front squat 14min",
+              "lines": [
+                "3 sets",
+                "12-10-8 reps @rpe 8-9",
+                "hypertrophy"
+              ]
+            },
+            {
+              "title": "conditioning 16min",
+              "lines": [
+                "for time",
+                "30-40-40-30",
+                "wall balls 20/14lbs",
+                "15/12-20/16-20/16-15/12",
+                "cal bike/ski",
+                "rx+: 20/16-30/24-30/24-20/16cals",
+                "lactate threshold & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-11-23/"
+        },
         {
           "date": "2026-11-22",
           "sections": [
@@ -583,52 +629,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-11-10/"
-        },
-        {
-          "date": "2026-11-09",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "instep rotation",
-                "scorpions",
-                "lat stretch"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "20sec hollow hold",
-                "10 prone snow angels",
-                "10 ring rows",
-                "*remaining time bike/ski"
-              ]
-            },
-            {
-              "title": "skill/practice 8min",
-              "lines": [
-                "20sec on / 20sec off x 12 rounds",
-                "1. scap. pull up hold",
-                "2. hollow hold",
-                "3. kip swings"
-              ]
-            },
-            {
-              "title": "conditioning 22min",
-              "lines": [
-                "for time",
-                "8 rounds",
-                "10 pull ups",
-                "15/12cal bike/ski",
-                "20 sit ups",
-                "aerobic power & muscular endurance",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-11-09/"
         }
       ]
     },
@@ -637,6 +637,24 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-11-23",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Power snatch 3-3-3-3-3-3-3 reps",
+                "Compare to",
+                "240312",
+                "and similar",
+                "260930",
+                ".",
+                "Post loads to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261123"
+        },
         {
           "date": "2026-11-22",
           "sections": [
@@ -656,11 +674,14 @@
           "date": "2026-11-21",
           "sections": [
             {
-              "title": "Workout",
+              "title": "3 rounds for time of:",
               "lines": [
-                "Saturday",
-                "261121",
-                "Learn the Movement â"
+                "500-meter row",
+                "200-meter suitcase carry",
+                "15 GHD sit-ups",
+                "â 35-lb dumbbell",
+                "â 50-lb dumbbell",
+                "Post time to comments."
               ]
             }
           ],
@@ -672,11 +693,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Complete as many rounds and reps as possible in 5 minutes of:",
-                "5 split jerks",
-                "5 overhead squats",
-                "Use 75% of your 1-rep-max split jerk for both movements.",
-                "Post load and reps to comments."
+                "Friday",
+                "261120",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -702,9 +721,11 @@
             {
               "title": "Workout",
               "lines": [
-                "Tuesday",
-                "261117",
-                "See Course Photos â"
+                "Front squat 3-3-3-3-3 reps",
+                "Compare to",
+                "260408",
+                ".",
+                "Post loads to comments."
               ]
             }
           ],
@@ -714,15 +735,33 @@
           "date": "2026-11-16",
           "sections": [
             {
-              "title": "Workout",
+              "title": "5 rounds for time and reps of:",
               "lines": [
-                "Monday",
-                "261116",
-                "Learn the Movement â"
+                "3 rope climbs to 15 feet",
+                "Max set of bench presses",
+                "Rest 3 minutes between rounds.",
+                "â Bodyweight bench press",
+                "â Bodyweight bench press",
+                "Post time and reps completed to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/261116"
+        },
+        {
+          "date": "2026-11-15",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Beyond âEat Right and Exerciseâ: Bringing the CrossFit Methodology Into Medical Education",
+                "Most physicians spend at least 11 years learning to treat disease, but get less than a day of training in nutrition, behavior change, and movement. Drs. Shveta and Dinesh Raju set out to close that gap. At CrossFit GC Healthy Living, medical and nurse practitioner students learn the CrossFit methodology, join classes inside the clinic, and see how to turn âeat right and exerciseâ into habits that last.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261115"
         },
         {
           "date": "2026-11-14",
@@ -730,9 +769,10 @@
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "261114",
-                "Check Out Rogue Echo Bikes â"
+                "Complete as many rounds and reps as possible in 12 minutes of:",
+                "15/20-calorie Echo bike",
+                "5 muscle-ups",
+                "Post reps to comments."
               ]
             }
           ],
@@ -744,9 +784,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "261113",
-                "Learn the Movement â"
+                "Deadlift 5-3-1-5-3-1-5-3-1 reps",
+                "Compare to similar",
+                "260722",
+                "and",
+                "260814",
+                ".",
+                "Post loads to comments."
               ]
             }
           ],
@@ -758,9 +802,19 @@
             {
               "title": "Workout",
               "lines": [
-                "Thursday",
-                "261112",
-                "Learn More â"
+                "Rest Day",
+                "CrossFitâs Hero workouts are more than a test of fitness. They're a tribute to fallen service members and first responders who made the ultimate sacrifice. Named in their honor, Hero workouts have become a powerful tradition, bringing people around the world together through shared effort, remembrance, and respect.",
+                "Visit our Hero and Tribute page to view all Hero workouts, including the most recent honorees,",
+                "Gavin",
+                ",",
+                "Owen",
+                ",",
+                "Swift 1-1",
+                ", and",
+                "Tommy G3x",
+                ".",
+                "See All Heroes and Tributes",
+                "View the CrossFit map"
               ]
             }
           ],
@@ -772,9 +826,20 @@
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "261111",
-                "Learn the Movement â"
+                "CHAD1000X"
+              ]
+            },
+            {
+              "title": "For time:",
+              "lines": [
+                "1,000 weighted step-ups",
+                "â 35-lb ruck, 20-inch box",
+                "â 45-lb ruck, 20-inch box",
+                "Post time to comments.",
+                "Compare to",
+                "251111",
+                ".",
+                "Sara Wilkinson, CrossFit, and Rogue Fitness present the Hero workout CHAD1000X in honor of Navy SEAL Chad Wilkinson, who died by suicide on Oct. 29, 2018, due to the effects of numerous deployments, several TBIs, blast-wave injuries, and PTSD. Our goal is to honor Chadâs life and legacy, and to raise awareness for suicide prevention."
               ]
             }
           ],
@@ -784,29 +849,17 @@
           "date": "2026-11-10",
           "sections": [
             {
-              "title": "Workout",
+              "title": "5-4-3-2-1 reps for time of:",
               "lines": [
-                "Tuesday",
-                "261110",
-                "See Course Photos â"
+                "Snatches",
+                "Complete a 30-foot handstand walk after each round.",
+                "â 125 lb",
+                "â 185 lb",
+                "Post time to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/261110"
-        },
-        {
-          "date": "2026-11-09",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Monday",
-                "261109",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261109"
         }
       ]
     }
