@@ -1,11 +1,55 @@
 {
-  "last_updated": "2026-11-23T13:47:22.803294",
+  "last_updated": "2026-11-24T14:22:42.232071",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-11-24",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "hand walk",
+                "lat stretch",
+                "lying hip cross over"
+              ]
+            },
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "amrap 4min",
+                "10 good mornings",
+                "10 straight leg sit ups",
+                "10 burpees"
+              ]
+            },
+            {
+              "title": "deadlift 14min",
+              "lines": [
+                "3 sets",
+                "12-10-8 reps @rpe 8-9",
+                "hypertrophy"
+              ]
+            },
+            {
+              "title": "conditioning 15min",
+              "lines": [
+                "on every 3:00 x 5 rounds",
+                "15 toes to bar",
+                "12 deadlifts 80/60kg",
+                "9 burpees over the bar",
+                "score: slowest round",
+                "aerobic power",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-11-24/"
+        },
         {
           "date": "2026-11-23",
           "sections": [
@@ -589,46 +633,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-11-11/"
-        },
-        {
-          "date": "2026-11-10",
-          "sections": [
-            {
-              "title": "warm up 6min",
-              "lines": [
-                "line drills"
-              ]
-            },
-            {
-              "title": "front squat 14min",
-              "lines": [
-                "3 sets",
-                "12-10-8 reps @rpe 7,5-8,5",
-                "hypertrophy"
-              ]
-            },
-            {
-              "title": "conditioning 14min",
-              "lines": [
-                "amrap 14min",
-                "2-4-6-8…",
-                "db devil clusters",
-                "2 lanes db walking lunges",
-                "dumbbells: 2x15/10kg",
-                "muscular endurance & lactate threshold"
-              ]
-            },
-            {
-              "title": "arms & core 4min",
-              "lines": [
-                "20sec on /10sec off x8 round",
-                "1. db overhead triceps extension",
-                "2. db pull through",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-11-10/"
         }
       ]
     },
@@ -637,6 +641,28 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-11-24",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Owen"
+              ]
+            },
+            {
+              "title": "5 rounds for time of:",
+              "lines": [
+                "24 back squats",
+                "800-meter run",
+                "â Bodyweight",
+                "â Bodyweight",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261124"
+        },
         {
           "date": "2026-11-23",
           "sections": [
@@ -674,14 +700,11 @@
           "date": "2026-11-21",
           "sections": [
             {
-              "title": "3 rounds for time of:",
+              "title": "Workout",
               "lines": [
-                "500-meter row",
-                "200-meter suitcase carry",
-                "15 GHD sit-ups",
-                "â 35-lb dumbbell",
-                "â 50-lb dumbbell",
-                "Post time to comments."
+                "Saturday",
+                "261121",
+                "Learn the Movement â"
               ]
             }
           ],
@@ -721,11 +744,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Front squat 3-3-3-3-3 reps",
-                "Compare to",
-                "260408",
-                ".",
-                "Post loads to comments."
+                "Tuesday",
+                "261117",
+                "See Course Photos â"
               ]
             }
           ],
@@ -735,33 +756,15 @@
           "date": "2026-11-16",
           "sections": [
             {
-              "title": "5 rounds for time and reps of:",
+              "title": "Workout",
               "lines": [
-                "3 rope climbs to 15 feet",
-                "Max set of bench presses",
-                "Rest 3 minutes between rounds.",
-                "â Bodyweight bench press",
-                "â Bodyweight bench press",
-                "Post time and reps completed to comments."
+                "Monday",
+                "261116",
+                "Learn the Movement â"
               ]
             }
           ],
           "url": "https://www.crossfit.com/261116"
-        },
-        {
-          "date": "2026-11-15",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Rest Day",
-                "Beyond âEat Right and Exerciseâ: Bringing the CrossFit Methodology Into Medical Education",
-                "Most physicians spend at least 11 years learning to treat disease, but get less than a day of training in nutrition, behavior change, and movement. Drs. Shveta and Dinesh Raju set out to close that gap. At CrossFit GC Healthy Living, medical and nurse practitioner students learn the CrossFit methodology, join classes inside the clinic, and see how to turn âeat right and exerciseâ into habits that last.",
-                "View the CrossFit map"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261115"
         },
         {
           "date": "2026-11-14",
@@ -769,10 +772,9 @@
             {
               "title": "Workout",
               "lines": [
-                "Complete as many rounds and reps as possible in 12 minutes of:",
-                "15/20-calorie Echo bike",
-                "5 muscle-ups",
-                "Post reps to comments."
+                "Saturday",
+                "261114",
+                "Check Out Rogue Echo Bikes â"
               ]
             }
           ],
@@ -844,22 +846,6 @@
             }
           ],
           "url": "https://www.crossfit.com/261111"
-        },
-        {
-          "date": "2026-11-10",
-          "sections": [
-            {
-              "title": "5-4-3-2-1 reps for time of:",
-              "lines": [
-                "Snatches",
-                "Complete a 30-foot handstand walk after each round.",
-                "â 125 lb",
-                "â 185 lb",
-                "Post time to comments."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261110"
         }
       ]
     }
