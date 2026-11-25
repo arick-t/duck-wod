@@ -1,11 +1,56 @@
 {
-  "last_updated": "2026-11-24T14:22:42.232071",
+  "last_updated": "2026-11-25T13:41:35.912213",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-11-25",
+          "sections": [
+            {
+              "title": "mobility 3min",
+              "lines": [
+                "1:00 each",
+                "calf stretch",
+                "instep rotation",
+                "lat stretch on box"
+              ]
+            },
+            {
+              "title": "warm up 5min",
+              "lines": [
+                "on every 2:30 x 2 rounds",
+                "10 prone snow angels",
+                "10 squat jumps",
+                "10 ring rows",
+                "*remaining time row"
+              ]
+            },
+            {
+              "title": "strict press 14min",
+              "lines": [
+                "3 sets",
+                "12-10-8 reps @rpe 8-9",
+                "hypertrophy"
+              ]
+            },
+            {
+              "title": "conditioning 15min",
+              "lines": [
+                "for time",
+                "50/40cal row",
+                "70 pull ups",
+                "90 box jumps 60/50cm",
+                "* partition however you’d like",
+                "aerobic power & muscular endurance",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-11-25/"
+        },
         {
           "date": "2026-11-24",
           "sections": [
@@ -587,52 +632,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-11-12/"
-        },
-        {
-          "date": "2026-11-11",
-          "sections": [
-            {
-              "title": "mobility 4min",
-              "lines": [
-                "1:00 each",
-                "hamstring stretch on box",
-                "calf stretch",
-                "instep rotations",
-                "lying hip cross over"
-              ]
-            },
-            {
-              "title": "warm up 4min",
-              "lines": [
-                "amrap 4min",
-                "10/8cal row",
-                "10 squat jumps",
-                "10 good mornings"
-              ]
-            },
-            {
-              "title": "deadlift 14min",
-              "lines": [
-                "3 sets",
-                "12-10-8 reps @rpe 7,5-8,5",
-                "hypertrophy"
-              ]
-            },
-            {
-              "title": "conditioning 15min",
-              "lines": [
-                "amrap 3min x 5 rounds",
-                "15 box jumps 60/50cm",
-                "10 deadlifts 100/70kg*",
-                "max cal row in remaining time",
-                "score: total cals",
-                "*rx+: 110/80kg",
-                "aerobic power & explosive power capacity",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-11-11/"
         }
       ]
     },
@@ -641,6 +640,77 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-11-25",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Wednesday",
+                "261125",
+                "See Course Photos â",
+                "Sort",
+                "Newest",
+                "Oldest",
+                "Damia Rodriguez"
+              ]
+            },
+            {
+              "title": "Commented on: 261125",
+              "lines": [
+                "No se carga la pÃ¡gina",
+                "Reply",
+                "Share",
+                "Comment URL copied!",
+                "Comment URL copied!",
+                "Print",
+                "Damia Rodriguez"
+              ]
+            },
+            {
+              "title": "Commented on: 261125",
+              "lines": [
+                "No se carga la pÃ¡gina",
+                "Reply",
+                "Share",
+                "Comment URL copied!",
+                "Comment URL copied!",
+                "Print",
+                "Dan Leach"
+              ]
+            },
+            {
+              "title": "For time:",
+              "lines": [
+                "15 bar muscle-ups",
+                "45 burpees",
+                "12 bar muscle-ups",
+                "36 burpees",
+                "9 bar muscle-ups",
+                "27 burpees",
+                "M/205/41: subbed pull-ups for muscle ups: 15:28",
+                "Reply",
+                "Share",
+                "Comment URL copied!",
+                "Comment URL copied!",
+                "Print",
+                "YooSik Kim"
+              ]
+            },
+            {
+              "title": "Commented on: 261125",
+              "lines": [
+                "For time",
+                "15 bar muscle-ups",
+                "45 burpees",
+                "12 bar muscle-ups",
+                "36 burpees",
+                "9 bar muscle-ups"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261125"
+        },
         {
           "date": "2026-11-24",
           "sections": [
@@ -700,11 +770,14 @@
           "date": "2026-11-21",
           "sections": [
             {
-              "title": "Workout",
+              "title": "3 rounds for time of:",
               "lines": [
-                "Saturday",
-                "261121",
-                "Learn the Movement â"
+                "500-meter row",
+                "200-meter suitcase carry",
+                "15 GHD sit-ups",
+                "â 35-lb dumbbell",
+                "â 50-lb dumbbell",
+                "Post time to comments."
               ]
             }
           ],
@@ -716,23 +789,49 @@
             {
               "title": "Workout",
               "lines": [
-                "Friday",
-                "261120",
-                "Learn the Movement â"
+                "Complete as many rounds and reps as possible in 5 minutes of:",
+                "5 split jerks",
+                "5 overhead squats",
+                "Use 75% of your 1-rep-max split jerk for both movements.",
+                "Post load and reps to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/261120"
         },
         {
-          "date": "2026-11-18",
+          "date": "2026-11-19",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "261118",
-                "Drill the Movement â"
+                "Rest Day",
+                "Lean for Life, Part 1: How To Control Your Appetite and Maintain a Healthy Body Weight Forever",
+                "âEat less and move moreâ has been the advice for decades, yet global obesity has more than doubled since 1990. The problem isnât your willpower but an ancient appetite system operating in a world of endless food. Learn the four faces of hunger, from your bodyâs built-in meal schedule to brain-driven cravings, and why understanding them is the first step to staying lean for life.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261119"
+        },
+        {
+          "date": "2026-11-18",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "21 box jumps",
+                "800-meter run",
+                "21 hang power cleans, weight 1",
+                "15 box jumps",
+                "800-meter run",
+                "15 hang power cleans, weight 2",
+                "9 box jumps",
+                "800-meter run",
+                "9 hang power cleans, weight 3",
+                "â 95/105/125 lb and a 24-inch box",
+                "â 135/155/185 lb and a 30-inch box",
+                "Post time to comments."
               ]
             }
           ],
@@ -744,9 +843,11 @@
             {
               "title": "Workout",
               "lines": [
-                "Tuesday",
-                "261117",
-                "See Course Photos â"
+                "Front squat 3-3-3-3-3 reps",
+                "Compare to",
+                "260408",
+                ".",
+                "Post loads to comments."
               ]
             }
           ],
@@ -756,15 +857,33 @@
           "date": "2026-11-16",
           "sections": [
             {
-              "title": "Workout",
+              "title": "5 rounds for time and reps of:",
               "lines": [
-                "Monday",
-                "261116",
-                "Learn the Movement â"
+                "3 rope climbs to 15 feet",
+                "Max set of bench presses",
+                "Rest 3 minutes between rounds.",
+                "â Bodyweight bench press",
+                "â Bodyweight bench press",
+                "Post time and reps completed to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/261116"
+        },
+        {
+          "date": "2026-11-15",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Beyond âEat Right and Exerciseâ: Bringing the CrossFit Methodology Into Medical Education",
+                "Most physicians spend at least 11 years learning to treat disease, but get less than a day of training in nutrition, behavior change, and movement. Drs. Shveta and Dinesh Raju set out to close that gap. At CrossFit GC Healthy Living, medical and nurse practitioner students learn the CrossFit methodology, join classes inside the clinic, and see how to turn âeat right and exerciseâ into habits that last.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261115"
         },
         {
           "date": "2026-11-14",
@@ -772,9 +891,10 @@
             {
               "title": "Workout",
               "lines": [
-                "Saturday",
-                "261114",
-                "Check Out Rogue Echo Bikes â"
+                "Complete as many rounds and reps as possible in 12 minutes of:",
+                "15/20-calorie Echo bike",
+                "5 muscle-ups",
+                "Post reps to comments."
               ]
             }
           ],
@@ -821,31 +941,6 @@
             }
           ],
           "url": "https://www.crossfit.com/261112"
-        },
-        {
-          "date": "2026-11-11",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "CHAD1000X"
-              ]
-            },
-            {
-              "title": "For time:",
-              "lines": [
-                "1,000 weighted step-ups",
-                "â 35-lb ruck, 20-inch box",
-                "â 45-lb ruck, 20-inch box",
-                "Post time to comments.",
-                "Compare to",
-                "251111",
-                ".",
-                "Sara Wilkinson, CrossFit, and Rogue Fitness present the Hero workout CHAD1000X in honor of Navy SEAL Chad Wilkinson, who died by suicide on Oct. 29, 2018, due to the effects of numerous deployments, several TBIs, blast-wave injuries, and PTSD. Our goal is to honor Chadâs life and legacy, and to raise awareness for suicide prevention."
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261111"
         }
       ]
     }
