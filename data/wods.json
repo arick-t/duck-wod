@@ -1,11 +1,52 @@
 {
-  "last_updated": "2026-11-26T13:20:00.903138",
+  "last_updated": "2026-11-27T13:16:05.155982",
   "sources": [
     {
       "id": "myleo",
       "name": "myleo CrossFit",
       "url": "https://myleo.de/en/wods/",
       "wods": [
+        {
+          "date": "2026-11-27",
+          "sections": [
+            {
+              "title": "warm up 4min",
+              "lines": [
+                "emom 4min",
+                "1. bike/ski",
+                "2. calf stretch/scorpions"
+              ]
+            },
+            {
+              "title": "skill/prep 8min",
+              "lines": [
+                "push jerk / double under"
+              ]
+            },
+            {
+              "title": "push jerk 10min",
+              "lines": [
+                "find a heavy complex of",
+                "2 push press",
+                "1 push jerk",
+                "explosive power"
+              ]
+            },
+            {
+              "title": "conditioning 15min",
+              "lines": [
+                "amrap 2:30 x 6 rounds",
+                "50 double unders",
+                "8 push jerks 60/40kg",
+                "max cal bike/ski",
+                "score: total cals",
+                "explosive capacity & aerobic power",
+                "Bisher hat noch niemand einen Score veröffentlicht."
+              ]
+            }
+          ],
+          "url": "https://myleo.de/en/wods/2026-11-27/"
+        },
         {
           "date": "2026-11-26",
           "sections": [
@@ -568,56 +609,6 @@
             }
           ],
           "url": "https://myleo.de/en/wods/2026-11-14/"
-        },
-        {
-          "date": "2026-11-13",
-          "sections": [
-            {
-              "title": "mobility 3min",
-              "lines": [
-                "1:00 each",
-                "lat stretch",
-                "sumo squat stretch",
-                "instep rotations"
-              ]
-            },
-            {
-              "title": "warm up 5min",
-              "lines": [
-                "on every 2:30 x 2 rounds",
-                "10 prone snow angels",
-                "10 straight leg sit ups",
-                "10 medball thrusters",
-                "*remaining time row"
-              ]
-            },
-            {
-              "title": "conditioning 25min",
-              "lines": [
-                "for time",
-                "40 wall balls 20/14lbs",
-                "15 toes to bar",
-                "60/48cal row",
-                "15 toes to bar",
-                "60 wall balls",
-                "15 toes to bar",
-                "60/48cal row",
-                "15 toes to bar",
-                "40 wall balls",
-                "aerobic capacity & lactate threshold"
-              ]
-            },
-            {
-              "title": "core & shoulders 6min",
-              "lines": [
-                "30sec on / 15sec off x 8 rounds",
-                "1. banded pull aparts",
-                "2. medball russian twists",
-                "Bisher hat noch niemand einen Score veröffentlicht."
-              ]
-            }
-          ],
-          "url": "https://myleo.de/en/wods/2026-11-13/"
         }
       ]
     },
@@ -626,6 +617,29 @@
       "name": "CrossFit.com",
       "url": "https://www.crossfit.com/",
       "wods": [
+        {
+          "date": "2026-11-27",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "100 double-unders",
+                "7 barbell complexes",
+                "25 toes-to-bars",
+                "7 barbell complexes",
+                "25 toes-to-bars",
+                "7 barbell complexes",
+                "100 double-unders",
+                "The barbell complex is 1 power clean + 1 front squat + 1 push press + 1 thruster.",
+                "All complex sets must be unbroken.",
+                "â 75-lb barbell",
+                "â 115-lb barbell",
+                "Post time to comments."
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261127"
+        },
         {
           "date": "2026-11-26",
           "sections": [
@@ -665,9 +679,17 @@
             {
               "title": "Workout",
               "lines": [
-                "Tuesday",
-                "261124",
-                "CrossFit Hero and Tribute Workouts â"
+                "Owen"
+              ]
+            },
+            {
+              "title": "5 rounds for time of:",
+              "lines": [
+                "24 back squats",
+                "800-meter run",
+                "â Bodyweight",
+                "â Bodyweight",
+                "Post time to comments."
               ]
             }
           ],
@@ -679,9 +701,13 @@
             {
               "title": "Workout",
               "lines": [
-                "Monday",
-                "261123",
-                "Learn the Movement â"
+                "Power snatch 3-3-3-3-3-3-3 reps",
+                "Compare to",
+                "240312",
+                "and similar",
+                "260930",
+                ".",
+                "Post loads to comments."
               ]
             }
           ],
@@ -736,14 +762,38 @@
           "url": "https://www.crossfit.com/261120"
         },
         {
-          "date": "2026-11-18",
+          "date": "2026-11-19",
           "sections": [
             {
               "title": "Workout",
               "lines": [
-                "Wednesday",
-                "261118",
-                "Drill the Movement â"
+                "Rest Day",
+                "Lean for Life, Part 1: How To Control Your Appetite and Maintain a Healthy Body Weight Forever",
+                "âEat less and move moreâ has been the advice for decades, yet global obesity has more than doubled since 1990. The problem isnât your willpower but an ancient appetite system operating in a world of endless food. Learn the four faces of hunger, from your bodyâs built-in meal schedule to brain-driven cravings, and why understanding them is the first step to staying lean for life.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261119"
+        },
+        {
+          "date": "2026-11-18",
+          "sections": [
+            {
+              "title": "For time:",
+              "lines": [
+                "21 box jumps",
+                "800-meter run",
+                "21 hang power cleans, weight 1",
+                "15 box jumps",
+                "800-meter run",
+                "15 hang power cleans, weight 2",
+                "9 box jumps",
+                "800-meter run",
+                "9 hang power cleans, weight 3",
+                "â 95/105/125 lb and a 24-inch box",
+                "â 135/155/185 lb and a 30-inch box",
+                "Post time to comments."
               ]
             }
           ],
@@ -755,9 +805,11 @@
             {
               "title": "Workout",
               "lines": [
-                "Tuesday",
-                "261117",
-                "See Course Photos â"
+                "Front squat 3-3-3-3-3 reps",
+                "Compare to",
+                "260408",
+                ".",
+                "Post loads to comments."
               ]
             }
           ],
@@ -767,15 +819,33 @@
           "date": "2026-11-16",
           "sections": [
             {
-              "title": "Workout",
+              "title": "5 rounds for time and reps of:",
               "lines": [
-                "Monday",
-                "261116",
-                "Learn the Movement â"
+                "3 rope climbs to 15 feet",
+                "Max set of bench presses",
+                "Rest 3 minutes between rounds.",
+                "â Bodyweight bench press",
+                "â Bodyweight bench press",
+                "Post time and reps completed to comments."
               ]
             }
           ],
           "url": "https://www.crossfit.com/261116"
+        },
+        {
+          "date": "2026-11-15",
+          "sections": [
+            {
+              "title": "Workout",
+              "lines": [
+                "Rest Day",
+                "Beyond âEat Right and Exerciseâ: Bringing the CrossFit Methodology Into Medical Education",
+                "Most physicians spend at least 11 years learning to treat disease, but get less than a day of training in nutrition, behavior change, and movement. Drs. Shveta and Dinesh Raju set out to close that gap. At CrossFit GC Healthy Living, medical and nurse practitioner students learn the CrossFit methodology, join classes inside the clinic, and see how to turn âeat right and exerciseâ into habits that last.",
+                "View the CrossFit map"
+              ]
+            }
+          ],
+          "url": "https://www.crossfit.com/261115"
         },
         {
           "date": "2026-11-14",
@@ -790,20 +860,6 @@
             }
           ],
           "url": "https://www.crossfit.com/261114"
-        },
-        {
-          "date": "2026-11-13",
-          "sections": [
-            {
-              "title": "Workout",
-              "lines": [
-                "Friday",
-                "261113",
-                "Learn the Movement â"
-              ]
-            }
-          ],
-          "url": "https://www.crossfit.com/261113"
         }
       ]
     }
